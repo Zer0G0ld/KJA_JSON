@@ -210,7 +210,28 @@
                 ]
             }
         },
-        
+
+        "documento": {
+            "titulo_secao": "APRESENTAÇÃO",
+            "obra_referenciada": "Bíblia King James Atualizada (KJA)",
+            "autor": {
+                "nome": "Carlos Alberto de Quadros Bezerra",
+                "cargo": "Pastor-Presidente da Comunidade da Gaça / Brasil",
+                "qualificacoes": [
+                    "Escritor",
+                    "Coferencista internacional"
+                ]
+            },
+            "apresentacao": [
+                "Posso diizer que, durante todos os meus anos de vida e ministério, conheci a graça de Deus manifestada de várias maneiras. Uma delas, sobre a qual afirmo com toda humildade, e também com orgulho saudável é a de ter nascido no Brasil, um país que amo não apenas por ser meu berço e de toda a minha família, mas pela riqueza de recursos que aprouve ao Senhor colocar à disposição de seus filhos nesta terra tão abençoada. Um desses recusos é esta obra que você tem em mãos neste momento: o povo de língua portuguesa passa a contar com o texto integral da Bíblia ing James, privilégio antes restrito praticamente aos cristãos de países e regiões de língua inglesa desde 1611.",
+                "Trata-se de um momento singular. Afinal, não estamos falando apenas do mais importante Livro de todos, mas da própria Palavra de Deus, o testemunho escrito e divinamente inspirado da vida e da obra salvífica de osso Senhor e Salvador Jesus Cristo, bem como da continuidade da era da Graça na operação do Deus Espírito Santo em sua Igreja.",
+                "Esta muito bem cuidada Edição Popular da primeira publicado da Bíblia King James nos chega numa de suas traduções mais acuradas e notáveis, que prima por um texto tão claro quanto elegante; ao mesmo tempo, requintado, e acessível, rigoroso na precisão exegética e hermenêutica, mas transposto para o nosso idioma com extremaeruditação e sensibilidade.",
+                "Isso faz do Brasil membro de um seletíssimo clube. A tradução da Bíblia King James, que já foi instrumento de evangelização e ensino nas mãos de grandes teólogos nos últimos quatro séculos, é reconhecida também pela nobreza de sua linguagem, em grande parte creditada ao ambiente histórico em que foi concebida. Com isso, os ministros eclesiásticos, os líderes leigos e todo fiel estudioso da Palavra de Deus ganham um recurso poderoso - além da edição do Novo Testamento da Bíblia King James já recebido com enorme aceitação em todas as igrejas no Brasil e no exterior - na elaboração de mensagens e profundas análises, como igualmente na pesquisa e na fundamentação de uma teoologia saudável, contextualiada, abrangente e, principalmente, bíblica.",
+                "Ante, porém, de começar a desfrutar deste texto magnífico, dedique alguns minutos de oração e agradeça ao Senhor pelo trabalho sério e dedicado, ao longo de mais de dez anos, das pessoas envolvidas no projeto de tradução da Bíblia Sagrada - 'Authorized Version' (Versão Autorizada) - e que seguirão pesquisando e buscando melhorar ainda mais a traução desta obra para a língua portuguesa.",
+                "Ore também para que a Bíblia King James Atualizada (KJA) seja veículo de bênçãos para todos aqueles que desejam conhecer e crescer no conhecimento do nosso poderoso e amoroso Deus."   
+            ]
+        },
+                
         "antigo_testamento": {
             "livros": []
         },
