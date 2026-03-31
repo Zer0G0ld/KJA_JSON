@@ -211,7 +211,7 @@
             }
         },
 
-        "documento": {
+        "apresentacao": {
             "titulo_secao": "APRESENTAÇÃO",
             "obra_referenciada": "Bíblia King James Atualizada (KJA)",
             "autor": {
@@ -222,13 +222,36 @@
                     "Coferencista internacional"
                 ]
             },
-            "apresentacao": [
+            "conteudo": [
                 "Posso diizer que, durante todos os meus anos de vida e ministério, conheci a graça de Deus manifestada de várias maneiras. Uma delas, sobre a qual afirmo com toda humildade, e também com orgulho saudável é a de ter nascido no Brasil, um país que amo não apenas por ser meu berço e de toda a minha família, mas pela riqueza de recursos que aprouve ao Senhor colocar à disposição de seus filhos nesta terra tão abençoada. Um desses recusos é esta obra que você tem em mãos neste momento: o povo de língua portuguesa passa a contar com o texto integral da Bíblia ing James, privilégio antes restrito praticamente aos cristãos de países e regiões de língua inglesa desde 1611.",
                 "Trata-se de um momento singular. Afinal, não estamos falando apenas do mais importante Livro de todos, mas da própria Palavra de Deus, o testemunho escrito e divinamente inspirado da vida e da obra salvífica de osso Senhor e Salvador Jesus Cristo, bem como da continuidade da era da Graça na operação do Deus Espírito Santo em sua Igreja.",
                 "Esta muito bem cuidada Edição Popular da primeira publicado da Bíblia King James nos chega numa de suas traduções mais acuradas e notáveis, que prima por um texto tão claro quanto elegante; ao mesmo tempo, requintado, e acessível, rigoroso na precisão exegética e hermenêutica, mas transposto para o nosso idioma com extremaeruditação e sensibilidade.",
                 "Isso faz do Brasil membro de um seletíssimo clube. A tradução da Bíblia King James, que já foi instrumento de evangelização e ensino nas mãos de grandes teólogos nos últimos quatro séculos, é reconhecida também pela nobreza de sua linguagem, em grande parte creditada ao ambiente histórico em que foi concebida. Com isso, os ministros eclesiásticos, os líderes leigos e todo fiel estudioso da Palavra de Deus ganham um recurso poderoso - além da edição do Novo Testamento da Bíblia King James já recebido com enorme aceitação em todas as igrejas no Brasil e no exterior - na elaboração de mensagens e profundas análises, como igualmente na pesquisa e na fundamentação de uma teoologia saudável, contextualiada, abrangente e, principalmente, bíblica.",
                 "Ante, porém, de começar a desfrutar deste texto magnífico, dedique alguns minutos de oração e agradeça ao Senhor pelo trabalho sério e dedicado, ao longo de mais de dez anos, das pessoas envolvidas no projeto de tradução da Bíblia Sagrada - 'Authorized Version' (Versão Autorizada) - e que seguirão pesquisando e buscando melhorar ainda mais a traução desta obra para a língua portuguesa.",
                 "Ore também para que a Bíblia King James Atualizada (KJA) seja veículo de bênçãos para todos aqueles que desejam conhecer e crescer no conhecimento do nosso poderoso e amoroso Deus."   
+            ]
+        },
+
+        "prefacio": {
+            "titulo_secao": "PREFÁCIO",
+            "obra_referenciada": "Bíblia King James Atualizada (KJA)",
+            "autor": {
+                "nome": "Lisânias Moura",
+                "cargo": "Pastor sênior da Igreja Batista do Morumbi",
+                "qualificacoes": [
+                    "Mestre em teologia pelo Dallas Theological Seminary (DTS) / EUA"
+                ]
+            },
+            "conteudo": [
+                "Lidar com versões bíblicas diferentes sempre traz enriquecimento para todo estudioso da Palavra de Deus, tanto para a própria vida como para o ensino público das Escrituras. É por isso que tanto me alegro ao ver em língua portuguesa esta tradução da Bíblia King James Atualizada (KJA), a partir dos manuscritos nas línguas originais hebraicco, aramaico e grago, preservando o estilo da famosa edição do comitê de eruditos britânicos, liderados pelo próprio rei Tiiaho, em 1611.",
+                "Quando lemos as Escrituras, podeos inicialmente nos prender ao texto e daquele texto ouvir a voz de Deus. Ao mesmo tempo, podemos estudar todo o contexto daquilo que estamos lendo e, neste caso, é de extrema valia consultarmos outras traduções, versões, comentários e demais recursos.",
+                "É por isso que fico entusiasmado com este trabalho para nossa língua, produzido com todo esmero pelo Comitê Internacional de Tradução da Sociedade Bíblica Ibero-Americana e Abba Press no Brasil. A tradução da Bíblia King James Atualizada para o português abençoará ricamente os púpilos e leitores sérios da Palavra de Deus.",
+                "É especial lembrar que nossa antiga versão de João Ferreira de Almeida foi tremendamente influenciada e ajudada pela tradução anterior, publicada pelos 50 mais notáveis exegetas e biblistas britânicos, súditos do rei evangélico James I (Tiago Primeiro), há mais de 400 anos. Assim sendo, de certa forma, quando usamos umadas versões de Almeida, estamos lendo algo que foi orientado pelo próprio estudo das páginas da Bíblia King James, obra que contiua a inspirar uma série de novas traduções e adaptações no Brasil e no mundo.",
+                "Planejada inicialmente, a pedido do rei James, por volta de 1607, para ser um trabalho criterioso de revisão de alguns excessos doutrinários observados na conhecida versão da Bíblia de Genebra, a obra ganhou força e iluminação espiritual incontroláveis. e daquele trabalho apenas corretivo produzido pelos mais brilhantes estudiosos de todas as denominações cristãs britânicas reunidas na Universidade de Oxford, surgiu a mais lida e amada tradução das Escrituras Sagradas desde 1611 até nossos dias em todo o mundo.",
+                "Quando manuscritos originais mais antigos da Bíblia e, portanto, mais próximos dos eventos ocorridos (o que lhes confere mais alto grau de acuracidade, e assim, tendem a ser mais fiés aos autógrafos), foram encontrados na região montanhosa de Vadi Qunram, próxima ao mar Morto, constituindo-se na mais importante descoberta arqueológica do século XX, um precioso trabalho de revisão da própria Bíblia King James teve início, e uma nova, precisa e rica tradução surgiu.",
+                "Hoje, deposi de muitos anos de lutas, provações e lindas vitórias, a Bíblia King James Atualizada em português (KJA), comunica através de seu texto a majestade dinia e o estilo clássico da Bíblia King James de 1611, preservando sua beleza e fidelidade aos melhores e mais antigos originais, ao mesmo tempo, gerado contemporaneidade.",
+                "Estou convicto que ao estuda a Torá (Lei de Moisés - o Pentateuco) e o Antigo Testamento da Bíblia King James - a exemplo do que já faço com o Novo Testamento há alguns aos - na preparação demensagens e estudos, bem cono em minhas devocionais, serie muito enriquecido. Essa mesma convicção tenho em relação ao amigo leitor. Você também, guiado pelo Espírito Santo, beneficiará das consultas e leituras que fizer desta obra monumental.",
+                "Que Deus o abençoe em sua jornada espiritual, como filho de Deus, como leitor e anunciador das Sagradas Escrituras."
             ]
         },
                 
