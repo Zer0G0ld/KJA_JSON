@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "name": "King James Atualizada",
+        "abbreviation": "KJA",
+        "language": "Portuguese",
+        "versification": "KJA",
+        "format": "application/json",
+        "type": "Bible",
+        "version": "1.0.0",
+        "isbn": "978-65-6003-014-5",
+        "titulo": "Bíblia Sagrada",
+        "subtitulo": "Edição de Estudo King James Atualizada - 400 Anos",
+        "edicao": "Tradução King James Atualizada (KJA)",
+        
+        "copyright": {
+            "marca_registrada": 2001,
+            "direitos_autorais": [2002, 2012],
+            "detentor_direitos": "Abba Press Editora e Divulgadora Cultural Ltda.",
+            "observacao": "Todos os direitos reservados. Esta versão digital é para fins de estudo e integração em aplicações."
+        },
+        
+        "traducao_e_revisao": {
+            "base": "Manuscritos originais (hebraico, aramaico e grego)",
+            "estilo": "Authorized Version / King James de 1611",
+            "responsaveis": [
+                "Sociedade Bíblica Ibero-Americana",
+                "Abba Press Editora no Brasil"
+            ],
+            "revisao_teologica": "Equipe de teólogos e especialistas em hebraico e grego"
+        },
+        
+        "publicacao": {
+            "editora": "Casa Publicadora Paulista Editora e Gráfica Ltda.",
+            "ano": 2020,
+            "pais": "Brasil",
+            "cidade": "São Paulo"
+        },
+        
+        "entidades_parceiras": [
+            {
+                "nome": "SBIA - Sociedade Bíblica Ibero-Americana",
+                "site": "https://bibliakingjames.com.br",
+                "telefone": "(11) 5522-8403",
+                "papel": "Detentora dos direitos da tradução KJA"
+            },
+            {
+                "nome": "CPP - Casa Publicadora Paulista",
+                "site": "https://www.cppeditora.com.br",
+                "telefone": "(11) 2923-7600",
+                "papel": "Editora e distribuidora"
+            },
+            {
+                "nome": "Abba Press",
+                "site": "https://abbapress.com.br",
+                "telefone": "(11) 5686-5058",
+                "papel": "Parceira editorial e de conteúdo"
+            }
+        ],
+        
+        "classificacao_catalografica": {
+            "cdd": "220.5",
+            "cdd_completo": "220.5 - Bíblia em Português",
+            "assuntos": [
+                "Bíblia Sagrada: Antigo e Novo Testamento",
+                "Comentários exegéticos e teológicos",
+                "Estudos bíblicos",
+                "Teologia Sistemática"
+            ],
+            "palavras_chave": ["Bíblia", "KJA", "King James", "Estudo", "Teologia"]
+        },
+        
+        "estrutura_fisica": {
+            "paginas": "aproximadamente 2200",
+            "secoes": [
+                "Fac-símile KJV 1611",
+                "Apresentação",
+                "Prefácio",
+                "Ajudas ao Leitor",
+                "Antigo Testamento",
+                "Novo Testamento",
+                "Mapas",
+                "Concordância"
+            ]
+        },
+        
+        "digital_project": {
+            "criador": "Zer0G0ld",
+            "github": "https://github.com/Zer0G0ld",
+            "data_criacao": "2026-03-30",
+            "objetivo": "Disponibilizar a KJA em formato JSON estruturado para apps e ferramentas digitais",
+            "base_fisica": "Bíblia de Estudo King James Atualizada - Edição 400 Anos (física)",
+            "descricao": [
+                "Entusiasta de tecnologia e amante da Bíblia, dedicado a compartilhar conhecimento e promover a fé através de recursos digitais.",
+                "Projeto voltado para uso em apps que precisam de uma versão de estudo King James atualizada, com foco em acessibilidade e facilidade de integração.",
+                "Estou escrevendo este JSON com base na bíblia física que tenho. Tudo o que estiver aqui é baseado nela. Se houver algo errado, me avise para que eu possa corrigir."
+            ],
+            "licenca": "Uso para estudos e desenvolvimento - respeitar direitos autorais da edição impressa"
+        }
+    }
+}
