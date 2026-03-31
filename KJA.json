@@ -96,5 +96,142 @@
             ],
             "licenca": "Uso para estudos e desenvolvimento - respeitar direitos autorais da edição impressa"
         }
+    },
+    
+    "conteudo": {
+        "secoes_preliminares": [
+            {
+                "tipo": "fac_simile",
+                "titulo": "Reprodução da página original da Bíblia King James de 1611",
+                "local": "Londres, Inglaterra",
+                "ano": 1611,
+                "conteudo": {
+                    "descricao": "Fac-símile da página de rosto da primeira edição",
+                    "texto_transcrito": ""
+                }
+            },
+            {
+                "tipo": "apresentacao",
+                "titulo": "Apresentação",
+                "autor": "Pr. Carlos A. Q. Bezerra",
+                "conteudo": ""
+            },
+            {
+                "tipo": "prefacio",
+                "titulo": "Prefácio",
+                "autor": "Dr. Lisânias Moura",
+                "conteudo": ""
+            },
+            {
+                "tipo": "ajudas_ao_leitor",
+                "titulo": "Ajudas ao Leitor",
+                "conteudo": ""
+            }
+        ],
+        
+        "sumario": {
+            "antigo_testamento": {
+                "nome": "Antigo Testamento",
+                "total_livros": 39,
+                "livros": [
+                    {"ordem": 1, "nome": "Gênesis", "abreviacao": "Gn", "capitulos": 50},
+                    {"ordem": 2, "nome": "Êxodo", "abreviacao": "Ex", "capitulos": 40},
+                    {"ordem": 3, "nome": "Levítico", "abreviacao": "Lv", "capitulos": 27},
+                    {"ordem": 4, "nome": "Números", "abreviacao": "Nm", "capitulos": 36},
+                    {"ordem": 5, "nome": "Deuteronômio", "abreviacao": "Dt", "capitulos": 34},
+                    {"ordem": 6, "nome": "Josué", "abreviacao": "Js", "capitulos": 24},
+                    {"ordem": 7, "nome": "Juízes", "abreviacao": "Jz", "capitulos": 21},
+                    {"ordem": 8, "nome": "Rute", "abreviacao": "Rt", "capitulos": 4},
+                    {"ordem": 9, "nome": "1 Samuel", "abreviacao": "1Sm", "capitulos": 31},
+                    {"ordem": 10, "nome": "2 Samuel", "abreviacao": "2Sm", "capitulos": 24},
+                    {"ordem": 11, "nome": "1 Reis", "abreviacao": "1Rs", "capitulos": 22},
+                    {"ordem": 12, "nome": "2 Reis", "abreviacao": "2Rs", "capitulos": 25},
+                    {"ordem": 13, "nome": "1 Crônicas", "abreviacao": "1Cr", "capitulos": 29},
+                    {"ordem": 14, "nome": "2 Crônicas", "abreviacao": "2Cr", "capitulos": 36},
+                    {"ordem": 15, "nome": "Esdras", "abreviacao": "Ed", "capitulos": 10},
+                    {"ordem": 16, "nome": "Neemias", "abreviacao": "Ne", "capitulos": 13},
+                    {"ordem": 17, "nome": "Ester", "abreviacao": "Et", "capitulos": 10},
+                    {"ordem": 18, "nome": "Jó", "abreviacao": "Jó", "capitulos": 42},
+                    {"ordem": 19, "nome": "Salmos", "abreviacao": "Sl", "capitulos": 150},
+                    {"ordem": 20, "nome": "Provérbios", "abreviacao": "Pv", "capitulos": 31},
+                    {"ordem": 21, "nome": "Eclesiastes", "abreviacao": "Ec", "capitulos": 12},
+                    {"ordem": 22, "nome": "Cântico dos Cânticos", "abreviacao": "Ct", "capitulos": 8},
+                    {"ordem": 23, "nome": "Isaías", "abreviacao": "Is", "capitulos": 66},
+                    {"ordem": 24, "nome": "Jeremias", "abreviacao": "Jr", "capitulos": 52},
+                    {"ordem": 25, "nome": "Lamentações", "abreviacao": "Lm", "capitulos": 5},
+                    {"ordem": 26, "nome": "Ezequiel", "abreviacao": "Ez", "capitulos": 48},
+                    {"ordem": 27, "nome": "Daniel", "abreviacao": "Dn", "capitulos": 12},
+                    {"ordem": 28, "nome": "Oseias", "abreviacao": "Os", "capitulos": 14},
+                    {"ordem": 29, "nome": "Joel", "abreviacao": "Jl", "capitulos": 3},
+                    {"ordem": 30, "nome": "Amós", "abreviacao": "Am", "capitulos": 9},
+                    {"ordem": 31, "nome": "Obadias", "abreviacao": "Ob", "capitulos": 1},
+                    {"ordem": 32, "nome": "Jonas", "abreviacao": "Jn", "capitulos": 4},
+                    {"ordem": 33, "nome": "Miqueias", "abreviacao": "Mq", "capitulos": 7},
+                    {"ordem": 34, "nome": "Naum", "abreviacao": "Na", "capitulos": 3},
+                    {"ordem": 35, "nome": "Habacuque", "abreviacao": "Hc", "capitulos": 3},
+                    {"ordem": 36, "nome": "Sofonias", "abreviacao": "Sf", "capitulos": 3},
+                    {"ordem": 37, "nome": "Ageu", "abreviacao": "Ag", "capitulos": 2},
+                    {"ordem": 38, "nome": "Zacarias", "abreviacao": "Zc", "capitulos": 14},
+                    {"ordem": 39, "nome": "Malaquias", "abreviacao": "Ml", "capitulos": 4}
+                ]
+            },
+            
+            "novo_testamento": {
+                "nome": "Novo Testamento",
+                "total_livros": 27,
+                "livros": [
+                    {"ordem": 1, "nome": "Mateus", "abreviacao": "Mt", "capitulos": 28},
+                    {"ordem": 2, "nome": "Marcos", "abreviacao": "Mc", "capitulos": 16},
+                    {"ordem": 3, "nome": "Lucas", "abreviacao": "Lc", "capitulos": 24},
+                    {"ordem": 4, "nome": "João", "abreviacao": "Jo", "capitulos": 21},
+                    {"ordem": 5, "nome": "Atos dos Apóstolos", "abreviacao": "At", "capitulos": 28},
+                    {"ordem": 6, "nome": "Romanos", "abreviacao": "Rm", "capitulos": 16},
+                    {"ordem": 7, "nome": "1 Coríntios", "abreviacao": "1Co", "capitulos": 16},
+                    {"ordem": 8, "nome": "2 Coríntios", "abreviacao": "2Co", "capitulos": 13},
+                    {"ordem": 9, "nome": "Gálatas", "abreviacao": "Gl", "capitulos": 6},
+                    {"ordem": 10, "nome": "Efésios", "abreviacao": "Ef", "capitulos": 6},
+                    {"ordem": 11, "nome": "Filipenses", "abreviacao": "Fp", "capitulos": 4},
+                    {"ordem": 12, "nome": "Colossenses", "abreviacao": "Cl", "capitulos": 4},
+                    {"ordem": 13, "nome": "1 Tessalonicenses", "abreviacao": "1Ts", "capitulos": 5},
+                    {"ordem": 14, "nome": "2 Tessalonicenses", "abreviacao": "2Ts", "capitulos": 3},
+                    {"ordem": 15, "nome": "1 Timóteo", "abreviacao": "1Tm", "capitulos": 6},
+                    {"ordem": 16, "nome": "2 Timóteo", "abreviacao": "2Tm", "capitulos": 4},
+                    {"ordem": 17, "nome": "Tito", "abreviacao": "Tt", "capitulos": 3},
+                    {"ordem": 18, "nome": "Filemom", "abreviacao": "Fm", "capitulos": 1},
+                    {"ordem": 19, "nome": "Hebreus", "abreviacao": "Hb", "capitulos": 13},
+                    {"ordem": 20, "nome": "Tiago", "abreviacao": "Tg", "capitulos": 5},
+                    {"ordem": 21, "nome": "1 Pedro", "abreviacao": "1Pe", "capitulos": 5},
+                    {"ordem": 22, "nome": "2 Pedro", "abreviacao": "2Pe", "capitulos": 3},
+                    {"ordem": 23, "nome": "1 João", "abreviacao": "1Jo", "capitulos": 5},
+                    {"ordem": 24, "nome": "2 João", "abreviacao": "2Jo", "capitulos": 1},
+                    {"ordem": 25, "nome": "3 João", "abreviacao": "3Jo", "capitulos": 1},
+                    {"ordem": 26, "nome": "Judas", "abreviacao": "Jd", "capitulos": 1},
+                    {"ordem": 27, "nome": "Apocalipse", "abreviacao": "Ap", "capitulos": 22}
+                ]
+            }
+        },
+        
+        "antigo_testamento": {
+            "livros": []
+        },
+        
+        "novo_testamento": {
+            "livros": []
+        },
+        
+        "apendices": {
+            "mapas": {
+                "titulo": "Mapas Bíblicos",
+                "itens": []
+            },
+            "concordancia": {
+                "titulo": "Concordância Bíblica",
+                "itens": []
+            },
+            "tabelas": {
+                "titulo": "Tabelas de Pesos e Medidas",
+                "itens": []
+            }
+        }
     }
 }
