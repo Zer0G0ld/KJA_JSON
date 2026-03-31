@@ -244,7 +244,17 @@
         },
         
         "antigo_testamento": {
-            "livros": []
+            "livros": [
+                {
+                    "livro": "Gênesis",
+                    "introducao": {
+                        "autoria": [
+                            "A obra literária de Gênesis pode ser bem descrita como o livro dos 'inícios' ou dos 'começos': porquanto narra com clareza, precisão e sabedoria o 'princípio' de toda a criação de Deus. A primeira expressão que aparece nos manuscritos na língua original da obra é a expressão hebraica bereshit, que significa 'no princípio', em lingua portuguesa (Gn 1.1); sendo também o título hebraico do livro. Na Bíblia Hebraica os títulos dos livros costumam ser a primeira palavra, ou as duas primeiras expressões que aparecem no Texto Sagrado. Contudo, o título em português foi baseado no termo grego: geneseõs, como grafadi na mais antigo e importante tradução grega das Escrituras (Gn 2.4; 5.1), a Septuaginta (muitas vezes apenas referida como LXX, dada a sua fama e valor milenar). Portanto, quer na forma hebraica quanto na graga, o título de Gênesis desgna perfeitamente o conteúdo da obra, pois trata sobretudo das origens. O termo ainda pode ser compreendido em várias passagens bíblicas como 'genealogia' ou 'história dos nascimentos'.",
+                            "Ao longo de séculos e séculos de História até nossos dias, judeus e cristãos ortodoxos concordam que um home, filho de hebreus, da tribo de Levi, ao clã de Coate, e à Casa (ou família) de Anrão (Êx 2.1-10; 6.16; Nm 3.27; At 7.22), nascido no Egito, chamado Mõsheh, Moisés, foi o autor, narrador e compilador dos cinco primeiross livros da Bíblia Sagrada (ainda que tenha contado com a ajuda de escribas e amanuenses, conforme a tradição), que também formam a Torah, isto é, a Lei; o mais respeitado e sagrado livro dos judeus, também conhecido pelo nome grego Pentateuco, numa alusão aos 'cinco livro' que formam um todo em relação à mensagem principal de Deus para seu povo, madamento esse que foi vivido e enfatizado pelo próprio Messias, Jesus Cristo, o Filho de Deus: 'Amarás o Senhor, teu Deus, de todo o teu coração, de toda a tua alma e com toda a tua inteligência. Este é o primeiro e maior dos mandamentos. O segund, semelante a este, é: 'Amarás o teu próximo como a ti mesmo. A estes dois mandamentos estão sujeitos toda a Lei e os Profetas' (Mt 22.37-40; Dt 6.5); A própria Bíblia defende a autoria mosaica do livro de Gênesis, considerando que em Atos 15.1 refere-se à circuncisão como um 'costume ensinado por Moisés', uma indicação a Gênesis 17, ainda que isso possa também indicar certa medida de atualização escriba ou po parte de algum dos copistas a obra ao longo das eras (Gn 14.14; 36.31; 47.11)."
+                        ]
+                    }
+                }
+            ]
         },
         
         "novo_testamento": {
