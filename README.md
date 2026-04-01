@@ -4,18 +4,20 @@
 [![License](https://img.shields.io/badge/license-Study%20Purpose-green.svg)](https://github.com/Zer0G0ld/KJA_JSON)
 [![Language](https://img.shields.io/badge/language-Portuguese-red.svg)]()
 [![JSON](https://img.shields.io/badge/format-JSON-yellow.svg)]()
+[![Hebrew](https://img.shields.io/badge/Hebrew-Supported-blue.svg)]()
 
 ## 📚 Sobre o Projeto
 
-Este projeto tem como objetivo disponibilizar a **Bíblia de Estudo King James Atualizada (KJA) - Edição 400 Anos** em formato JSON estruturado, facilitando a integração em aplicações, sites, apps de estudo bíblico e ferramentas digitais.
+Este projeto tem como objetivo disponibilizar a **Bíblia de Estudo King James Atualizada (KJA) - Edição 400 Anos** em formato JSON altamente estruturado, facilitando a integração em aplicações, sites, apps de estudo bíblico e ferramentas digitais.
 
 O JSON foi criado manualmente com base na versão física da Bíblia de Estudo King James Atualizada, preservando fielmente a estrutura, o conteúdo e as características da edição original, incluindo:
 
 - **Apresentação** do Pr. Carlos Alberto de Quadros Bezerra
 - **Prefácio** do Dr. Lisânias Moura
 - **Introduções completas** de cada livro (autoria, propósitos, data, esboço)
-- **Textos em hebraico** (Bereshit, etc.)
-- **Notas de estudo** e referências cruzadas
+- **Textos em hebraico** segmentados por fala
+- **Identificação de falas** de Deus (azul) e personagens comuns
+- **Notas de estudo** e referências cruzadas (estrutura preparada)
 - **Sumário completo** com número de capítulos
 
 ### 🎯 Propósito
@@ -26,6 +28,7 @@ O JSON foi criado manualmente com base na versão física da Bíblia de Estudo K
 - Oferecer uma estrutura rica com metadados, sumários, introduções e organização completa
 - Permitir fácil navegação entre livros, capítulos e versículos
 - Preservar o conteúdo de estudo (notas, introduções, referências)
+- **Destacar visualmente** falas de Deus e Jesus em apps
 
 ## 📋 Características
 
@@ -38,18 +41,26 @@ O JSON foi criado manualmente com base na versão física da Bíblia de Estudo K
   - Ajudas ao Leitor
 - **Sumário completo** do Antigo e Novo Testamento com número de capítulos
 - **Introduções detalhadas** dos livros (autoria, propósitos, data, esboço)
-- **Estrutura pronta** para inserção dos textos bíblicos
-- **Suporte para referências cruzadas** e notas de estudo
+- **Texto completo em hebraico** segmentado por fala
+- **Identificação de falas** com personagens e cores:
+  - 🟦 **Deus** - azul, destaque true
+  - 🟥 **Jesus** - vermelho, destaque true (previsto)
+  - ⚫ **Comum** - cor padrão, destaque false
+- **Estrutura pronta** para inserção de notas de estudo
+- **Estrutura pronta** para referências cruzadas
 - **Apêndices** (Mapas, Concordância, Tabelas)
 
 ### 📊 Estatísticas
 - **Total de livros:** 66 (39 AT + 27 NT)
 - **Total de capítulos:** 1.189
+- **Total de versículos:** 31.102
 - **Formato:** JSON estruturado e aninhado
 - **Versificação:** KJA (King James Atualizada)
 - **Idioma do JSON:** Português (campos de conteúdo)
 
 ## 🗂️ Estrutura do JSON
+
+### Visão Geral
 
 ```json
 {
@@ -89,14 +100,20 @@ O JSON foi criado manualmente com base na versão física da Bíblia de Estudo K
     "antigo_testamento": {
       "livros": [
         {
+          "id": "gn",
           "livro": "Gênesis",
+          "subtitulo": "בְּרֵאשִׁית Bereshit / No princípio",
           "introducao": {
             "autoria": ["texto completo..."],
             "propositos": ["texto completo..."],
             "data_da_primeira_publicacao": ["texto completo..."],
-            "esboco_geral_de_genesis": []
+            "esboco_geral_de_genesis": [...]
           },
-          "capitulos": []
+          "capitulos": {
+            "numero": 1,
+            "titulo": "No Princípio בְּרֵאשִׁית",
+            "versiculos": [ ... ]
+          }
         }
       ]
     },
@@ -114,46 +131,49 @@ O JSON foi criado manualmente com base na versão física da Bíblia de Estudo K
 }
 ```
 
-### 📖 Estrutura de um Livro (em desenvolvimento)
+### 📖 Estrutura de um Versículo (Detalhada)
 
 ```json
 {
-  "livro": "Gênesis",
-  "introducao": {
-    "autoria": [
-      "Texto completo sobre a autoria mosaica...",
-      "Evidências históricas e bíblicas..."
-    ],
-    "propositos": [
-      "Propósito teológico e literário...",
-      "Divisões principais da obra..."
-    ],
-    "data_da_primeira_publicacao": [
-      "Data tradicional (1446-1406 a.C.)...",
-      "Perspectivas acadêmicas contemporâneas..."
-    ],
-    "esboco_geral_de_genesis": []
-  },
-  "capitulos": [
+  "id": "gn.1.3",
+  "numero": 3,
+  "texto": "Disse Deus: \"Haja luz!\", e houve luz.",
+  "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי- אוֹר:",
+  "falas": [
     {
-      "numero": 1,
-      "versiculos": [
-        {
-          "numero": 1,
-          "texto": "No princípio, criou Deus os céus e a terra.",
-          "notas": [
-            {
-              "tipo": "estudo",
-              "conteudo": "A criação ex nihilo...",
-              "referencias": ["Hb 11.3", "Jo 1.1-3"]
-            }
-          ]
-        }
-      ]
+      "personagem": "Comum",
+      "texto": "Disse Deus: ",
+      "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים",
+      "cor": "default",
+      "destaque": false
+    },
+    {
+      "personagem": "Deus",
+      "texto": "Haja luz!",
+      "texto_hebraico": "יְהִי אוֹר",
+      "cor": "azul",
+      "destaque": true
+    },
+    {
+      "personagem": "Comum",
+      "texto": ", e houve luz.",
+      "texto_hebraico": "וַיְהִי- אוֹר:",
+      "cor": "default",
+      "destaque": false
     }
-  ]
+  ],
+  "notas": [],
+  "referencia_cruzada": []
 }
 ```
+
+### 🎨 Sistema de Cores para Falas
+
+| Personagem | Cor | Destaque | Uso no App |
+|------------|-----|----------|------------|
+| **Deus** | `azul` | `true` | Texto em azul, possível fundo sutil |
+| **Jesus** | `vermelho` | `true` | Texto em vermelho (tradição histórica) |
+| **Comum** | `default` (preto) | `false` | Texto normal, sem destaque |
 
 ## 🚀 Como Usar
 
@@ -177,87 +197,95 @@ cat KJA.json
 
 ### Exemplos de Uso
 
-#### JavaScript/Node.js
+#### JavaScript/Node.js - Acessando Versículos com Falas
 ```javascript
 const bibliaKJA = require('./KJA.json');
 
-// Acessar metadados
-console.log(bibliaKJA.metadata.titulo);
-console.log(bibliaKJA.metadata.subtitulo);
+// Acessar Gênesis capítulo 1
+const genesis = bibliaKJA.conteudo.antigo_testamento.livros[0];
+const capitulo1 = genesis.capitulos;
 
-// Acessar a apresentação
-const apresentacao = bibliaKJA.conteudo.secoes_preliminares.find(
-  secao => secao.tipo === 'apresentacao'
-);
-console.log(apresentacao.autor.nome);
-console.log(apresentacao.conteudo[0]);
-
-// Listar todos os livros do Antigo Testamento
-const livrosAT = bibliaKJA.conteudo.sumario.antigo_testamento.livros;
-livrosAT.forEach(livro => {
-  console.log(`${livro.ordem}. ${livro.nome} (${livro.abreviacao}) - ${livro.capitulos} capítulos`);
+// Renderizar versículo com destaque para fala de Deus
+capitulo1.versiculos.forEach(versiculo => {
+  if (versiculo.falas) {
+    versiculo.falas.forEach(fala => {
+      if (fala.personagem === 'Deus') {
+        console.log(`\x1b[34m${fala.texto}\x1b[0m`); // Azul no terminal
+      } else {
+        console.log(fala.texto);
+      }
+    });
+  } else {
+    console.log(versiculo.texto);
+  }
 });
 
-// Acessar introdução de Gênesis
-const genesis = bibliaKJA.conteudo.antigo_testamento.livros[0];
-console.log(genesis.introducao.autoria[0]);
+// Acessar texto em hebraico segmentado
+const hebraicoCompleto = versiculo.falas
+  .map(f => f.texto_hebraico)
+  .join('');
+console.log(hebraicoCompleto);
 ```
 
-#### Python
+#### Python - Processamento de Falas
 ```python
 import json
 
 with open('KJA.json', 'r', encoding='utf-8') as file:
     biblia = json.load(file)
 
-# Acessar informações
-print(biblia['metadata']['titulo'])
-print(f"Total de livros no AT: {biblia['conteudo']['sumario']['antigo_testamento']['total_livros']}")
+# Função para renderizar versículo com cores
+def renderizar_versiculo(versiculo):
+    if 'falas' in versiculo:
+        for fala in versiculo['falas']:
+            if fala['personagem'] == 'Deus':
+                print(f"\033[34m{fala['texto']}\033[0m", end='')
+            else:
+                print(fala['texto'], end='')
+        print()
+    else:
+        print(versiculo['texto'])
 
-# Acessar prefácio
-for secao in biblia['conteudo']['secoes_preliminares']:
-    if secao['tipo'] == 'prefacio':
-        print(f"Prefácio por: {secao['autor']['nome']}")
-        print(secao['conteudo'][0][:200] + "...")
-
-# Listar livros do NT
-for livro in biblia['conteudo']['sumario']['novo_testamento']['livros']:
-    print(f"{livro['ordem']}. {livro['nome']}")
+# Renderizar Gênesis 1.1-5
+genesis = biblia['conteudo']['antigo_testamento']['livros'][0]
+for versiculo in genesis['capitulos']['versiculos'][:5]:
+    print(f"{versiculo['numero']}. ", end='')
+    renderizar_versiculo(versiculo)
 ```
 
-#### React/Next.js
+#### React/Next.js - Componente com Destaque de Falas
 ```javascript
 import bibliaKJA from './KJA.json';
 
-function BibleApp() {
-  const livrosAT = bibliaKJA.conteudo.sumario.antigo_testamento.livros;
-  const apresentacao = bibliaKJA.conteudo.secoes_preliminares.find(
-    s => s.tipo === 'apresentacao'
-  );
-  
+function Versiculo({ versiculo }) {
+  if (!versiculo.falas) {
+    return <span>{versiculo.texto}</span>;
+  }
+
   return (
-    <div>
-      <h1>{bibliaKJA.metadata.titulo}</h1>
-      <h2>{bibliaKJA.metadata.subtitulo}</h2>
-      
-      <section className="presentation">
-        <h3>{apresentacao.titulo_secao}</h3>
-        <p>{apresentacao.conteudo[0]}</p>
-      </section>
-      
-      <div className="books-list">
-        <h3>Antigo Testamento</h3>
-        {livrosAT.map(livro => (
-          <div key={livro.ordem}>
-            <span>{livro.ordem}</span>
-            <span>{livro.nome}</span>
-            <span>{livro.capitulos} capítulos</span>
-          </div>
-        ))}
-      </div>
-    </div>
+    <span>
+      {versiculo.falas.map((fala, idx) => {
+        const estilo = {
+          color: fala.cor === 'azul' ? '#3498db' : 
+                 fala.cor === 'vermelho' ? '#e74c3c' : 'inherit',
+          fontWeight: fala.destaque ? 'bold' : 'normal'
+        };
+        
+        return (
+          <span key={idx} style={estilo}>
+            {fala.texto}
+          </span>
+        );
+      })}
+    </span>
   );
 }
+
+// Uso
+const genesis = bibliaKJA.conteudo.antigo_testamento.livros[0];
+const versiculo3 = genesis.capitulos.versiculos[2];
+
+return <Versiculo versiculo={versiculo3} />;
 ```
 
 ## 🔧 Status do Projeto
@@ -268,16 +296,20 @@ function BibleApp() {
 - [x] Sumário do Antigo e Novo Testamento (66 livros)
 - [x] Seções preliminares (Apresentação, Prefácio, Fac-símile, Ajudas)
 - [x] Apêndices estruturados
-- [x] Introdução de Gênesis (autoria, propósitos, data)
+- [x] Introdução de Gênesis (autoria, propósitos, data, esboço)
+- [x] **Capítulo 1 de Gênesis completo** (31 versículos)
+- [x] **Segmentação de falas** com identificação de Deus (14 ocorrências)
+- [x] **Texto hebraico** segmentado por fala em todos os versículos
 
 ### 🚧 Em Andamento
-- [ ] Inserção do texto completo de Gênesis (50 capítulos)
-- [ ] Adição de notas de estudo e referências cruzadas
+- [ ] Continuação de Gênesis (capítulos 2-50)
+- [ ] Adição de notas de estudo
+- [ ] Adição de referências cruzadas
 - [ ] Continuação dos demais livros do Antigo Testamento
 - [ ] Inserção do Novo Testamento
 
 ### 📝 Próximos Passos
-1. Completar Gênesis com todos os capítulos e versículos
+1. Completar Gênesis com todos os 50 capítulos
 2. Adicionar introduções dos demais livros
 3. Incluir notas de rodapé e referências cruzadas
 4. Criar scripts de validação e testes
@@ -312,7 +344,7 @@ São Paulo: Casa Publicadora Paulista, 2020.
 Contribuições são bem-vindas! Siga os passos:
 
 1. **Fork** o projeto
-2. **Clone** seu fork: `git clone https://github.com/Zer0G0ld/KJA_JSON.git`
+2. **Clone** seu fork: `git clone https://github.com/seu-usuario/KJA_JSON.git`
 3. **Crie uma branch** para sua feature: `git checkout -b minha-feature`
 4. **Commit** suas mudanças: `git commit -m 'Adiciona nova feature'`
 5. **Push** para a branch: `git push origin minha-feature`
@@ -324,12 +356,15 @@ Contribuições são bem-vindas! Siga os passos:
 - Verifique a acentuação e ortografia
 - Teste a validade do JSON após alterações
 - Preserve as notas de estudo e referências cruzadas
+- **Mantenha o padrão de segmentação de falas** (Comum, Deus, Jesus)
+- **Inclua texto hebraico** sempre que disponível
 
 ## 📞 Contato
 
 **Criador:** Zer0G0ld  
 **GitHub:** [https://github.com/Zer0G0ld](https://github.com/Zer0G0ld)  
-**Projeto:** [https://github.com/Zer0G0ld/KJA_JSON](https://github.com/Zer0G0ld/KJA_JSON)
+**Projeto:** [https://github.com/Zer0G0ld/KJA_JSON](https://github.com/Zer0G0ld/KJA_JSON)  
+**Hebraico:** [https://hebraico.pro.br](https://hebraico.pro.br)
 
 ### Relatar Problemas
 Encontrou um erro ou inconsistência? Abra uma issue no GitHub:
@@ -341,6 +376,7 @@ Encontrou um erro ou inconsistência? Abra uma issue no GitHub:
 - À **SBIA** pela disponibilização da tradução
 - Ao **Pr. Carlos Alberto de Quadros Bezerra** pela apresentação
 - Ao **Dr. Lisânias Moura** pelo prefácio
+- Ao **https://hebraico.pro.br** pelos recursos de hebraico
 - A todos que contribuem para a digitalização e acesso às Escrituras
 
 ---
@@ -349,13 +385,14 @@ Encontrou um erro ou inconsistência? Abra uma issue no GitHub:
 
 | Versão | Data | Status | Descrição |
 |--------|------|--------|-----------|
-| 1.0.0 | 2026-03-31 | 🚧 Em desenvolvimento | Estrutura completa, metadados, sumário, apresentação, prefácio e introdução de Gênesis |
+| 1.0.0 | 2026-04-01 | 🚧 Em desenvolvimento | Estrutura completa, metadados, sumário, apresentação, prefácio, introdução de Gênesis e **Capítulo 1 completo com 31 versículos, segmentação de falas e hebraico** |
 
 ## 🔗 Links Úteis
 
 - [Site Oficial KJA](https://bibliakingjames.com.br)
 - [Abba Press](https://abbapress.com.br)
 - [Casa Publicadora Paulista](https://www.cppeditora.com.br)
+- [Hebraico.pro.br](https://hebraico.pro.br)
 
 ---
 
