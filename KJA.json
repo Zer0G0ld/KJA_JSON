@@ -86,6 +86,8 @@
         "digital_project": {
             "criador": "Zer0G0ld",
             "github": "https://github.com/Zer0G0ld",
+            "hebraico": "https://hebraico.pro.br",
+            "grego": "",
             "data_criacao": "2026-03-30",
             "objetivo": "Disponibilizar a KJA em formato JSON estruturado para apps e ferramentas digitais",
             "base_fisica": "Bíblia de Estudo King James Atualizada - Edição 400 Anos (física)",
@@ -246,7 +248,9 @@
         "antigo_testamento": {
             "livros": [
                 {
+                    "id": "gn",
                     "livro": "Gênesis",
+                    "subtitulo": "בְּרֵאשִׁית Bereshit / No princípio",
                     "introducao": {
                         "autoria": [
                             "A obra literária de Gênesis pode ser bem descrita como o livro dos 'inícios' ou dos 'começos': porquanto narra com clareza, precisão e sabedoria o 'princípio' de toda a criação de Deus. A primeira expressão que aparece nos manuscritos na língua original da obra é a expressão hebraica bereshit, que significa 'no princípio', em lingua portuguesa (Gn 1.1); sendo também o título hebraico do livro. Na Bíblia Hebraica os títulos dos livros costumam ser a primeira palavra, ou as duas primeiras expressões que aparecem no Texto Sagrado. Contudo, o título em português foi baseado no termo grego: geneseõs, como grafadi na mais antigo e importante tradução grega das Escrituras (Gn 2.4; 5.1), a Septuaginta (muitas vezes apenas referida como LXX, dada a sua fama e valor milenar). Portanto, quer na forma hebraica quanto na graga, o título de Gênesis desgna perfeitamente o conteúdo da obra, pois trata sobretudo das origens. O termo ainda pode ser compreendido em várias passagens bíblicas como 'genealogia' ou 'história dos nascimentos'.",
@@ -276,6 +280,133 @@
                             "3) Jacó: O Senhor Deus demonstra seu trabalho delicado, sistemático e preciso de transformar um ser humano egoísta, avarento e arrogante num servo generoso e pacífico; como grandesinal de transformação muda o seu próprio nome (identidade) para Israel (Vencer com Deus, em hebraico), e o faz pai das Doze Tribos que formam a nação de Israel.",
                             "4) José: O filho amado e favorito de Jacó sofre a perseguição, a traição e atentativa de assassinato nas mãos dos próprios imãos, tendo que ir para o Egito onde se tornaria escravo. Depois de sua dramática ascensão ao governo do Egito, José liberta sua própria família que se tornara necessitada, e a conduz de Canaã para Gósem. Uma impressionante figura do próprio Messias, o Senhor Jesus Cristo, Filho de Deus, no NT.",
                             "E o livro de Gênesis termina com uma nota de iminente escravição com a morte de josé. A grande e crescente necessidade de Redenção chega ao seu clímax e solução no livro de Moisés que se segue: Êxodo."
+                        ]
+                    },
+                    "capitulos": {
+                        "numero": 1,
+                        "titulo": "No Princípio בְּרֵאשִׁית",
+
+                        "versiculos": [
+                            {
+                                "id": "gn.1.1",
+                                "numero": 1,
+                                "texto": "No princípio, Deus criou os céus e a terra.",
+                                "texto_hebraico": "בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ: ",
+                                "notas": [],
+                                "referencia_cruzada": []
+                            },
+                            {
+                                "id": "gn.1.2",
+                                "numero": 2,
+                                "texto": "A terra, entretanto, era sem forma e vazia. A escuridão cobria o mar que envolvia toda a terra, e o Espírito de Deus se movia sobre a face das águas.",
+                                "texto_hebraico": "וְהָאָרֶץ הָיְתָה תֹהוּ וָבֹהוּ וְחֹשֶׁךְ עַל- פְּנֵי תְהוֹם וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל- פְּנֵי הַמָּיִם: ",
+                                "notas": [],
+                                "referencia_cruzada": []
+                            },
+                            {
+                                "id": "gn.1.3",
+                                "numero": 3,
+                                "texto": "Disse Deus: 'Haja luz!', e hoje luz.",
+                                "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי- אוֹר: ",
+                                "notas": [],
+                                "referencia_cruzada": []
+                            },
+                            {
+                                "id": "gn.1.4",
+                                "numero": 4,
+                                "texto": "Viu Deus que a luz era boa; e separou a luz das trevas.",
+                                "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי- אוֹר: ",
+                                "notas": [],
+                                "referencia_cruzada": []
+                            },
+                            {
+                                "id": "gn.1.5",
+                                "numero": 5,
+                                "texto": "Chamou  Deus à luz 'Dia', e às trevas chamou 'Noite'. Houve então, a tarde e a manhã: o primeiro dia.",
+                                "texto_hebraico": "וַיִּקְרָא אֱלֹהִים לָאוֹר יוֹם וְלַחֹשֶׁךְ קָרָא לָיְלָה וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם אֶחָד: ",
+                                "notas": [],
+                                "referencia_cruzada": []
+                            },
+                            {
+                                "id": "gn.1.6",
+                                "numero": 6,
+                                "texto": "Depois disse Deus: 'Haja entre as águas um limite para separá-las em duas partes!'",
+                                "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים יְהִי רָקִיעַ בְּתוֹךְ הַמָּיִם וִיהִי מַבְדִּיל בֵּין מַיִם לָמָיִם: ",
+                                "notas": [],
+                                "referencia_cruzada": []
+                            },
+                            {
+                                "id": "gn.1.7",
+                                "numero": 7,
+                                "texto": "Fez, portanto, Deus o firmamento e separou as águas estabelecidas abaixo desse limite, das que ficaram por cima. E assim aconteceu.",
+                                "texto_hebraico": "וַיַּעַשׂ אֱלֹהִים אֶת- הָרָקִיעַ וַיַּבְדֵּל בֵּין הַמַּיִם אֲשֶׁר מִתַּחַת לָרָקִיעַ וּבֵין הַמַּיִם אֲשֶׁר מֵעַל לָרָקִיעַ וַיְהִי- כֵן: ",
+                                "notas": [],
+                                "referencia_cruzada": []
+                            },
+                            {
+                                "id": "gn.1.8",
+                                "numero": 8,
+                                "texto": "E Deus ao firmamento deu o nome de 'Céu'. A tarde passou, e raiou a manhã: esse foi o segundo dia.",
+                                "texto_hebraico": "וַיִּקְרָא אֱלֹהִים לָרָקִיעַ שָׁמָיִם וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם שֵׁנִי: ",
+                                "notas": [],
+                                "referencia_cruzada": []
+                            },
+                            {
+                                "id": "gn.1.9",
+                                "numero": 9,
+                                "texto": "Então disse Deus: 'Que as águas que estão sob o céu se reúnam num só lugar, a fim de que apareça a parte seca!' E assim aconteceu.",
+                                "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים יִקָּווּ הַמַּיִם מִתַּחַת הַשָּׁמַיִם אֶל- מָקוֹם אֶחָד וְתֵרָאֶה הַיַּבָּשָׁה וַיְהִי- כֵן: ",
+                                "notas": [],
+                                "referencia_cruzada": []
+                            },
+                            {
+                                "id": "gn.1.10",
+                                "numero": 10,
+                                "texto": "Deus outorgou o nome de 'Terra' à parte seca, e a massa das águas que se haviam ajuntado Ele chamou de 'Mares'. E observou Deus que isso era bom.",
+                                "texto_hebraico": "וַיִּקְרָא אֱלֹהִים לַיַּבָּשָׁה אֶרֶץ וּלְמִקְוֵה הַמַּיִם קָרָא יַמִּים וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
+                                "notas": [],
+                                "referencia_cruzada": []
+                            },
+                            {
+                                "id": "gn.1.11",
+                                "numero": 11,
+                                "texto": "E determinou: 'Que a terra seja coberta com todo tipo de vegetação! Plantas que deem semente e árvores cujos frutos produzam sementes conforme suas próprias espécies'. E assim aconteceu.",
+                                "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים תַּדְשֵׁא הָאָרֶץ דֶּשֶׁא עֵשֶׂב מַזְרִיעַ זֶרַע עֵץ פְּרִי עֹשֶׂה פְּרִי לְמִינוֹ אֲשֶׁר זַרְעוֹ- בוֹ עַל- הָאָרֶץ וַיְהִי- כֵן: ",
+                                "notas": [],
+                                "referencia_cruzada": []
+                            },
+                            {
+                                "id": "gn.1.12",
+                                "numero": 12,
+                                "texto": "E, assim a terra fez brotar toda a vegetação: ervas que dão sementes segundo sua espécie, e arvores que produzem frutos, cujas sementes estejam neles, de acordo com suas espécies. E observou Deus que isso era bom.",
+                                "texto_hebraico": "וַתּוֹצֵא הָאָרֶץ דֶּשֶׁא עֵשֶׂב מַזְרִיעַ זֶרַע לְמִינֵהוּ וְעֵץ עֹשֶׂה- פְּרִי אֲשֶׁר זַרְעוֹ- בוֹ לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
+                                "notas": [],
+                                "referencia_cruzada": []
+                            },
+                            {
+                                "id": "gn.1.13",
+                                "numero": 13,
+                                "texto": "Passaram-se a tarde e a manhã: esse foi o terceiro dia.",
+                                "texto_hebraico": "וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם שְׁלִישִׁי: ",
+                                "notas": [],
+                                "referencia_cruzada": []
+                            },
+                            {
+                                "id": "gn.1.14",
+                                "numero": 14,
+                                "texto": "Declarou Deus: 'Haja luminares no firmamento do céu a fim de separar o dia da noite; e sirvam eles de sinais para definir as estações, dias e anos;",
+                                "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים יְהִי מְאֹרֹת בִּרְקִיעַ הַשָּׁמַיִם לְהַבְדִּיל בֵּין הַיּוֹם וּבֵין הַלָּיְלָה וְהָיוּ לְאֹתֹת וּלְמוֹעֲדִים וּלְיָמִים וְשָׁנִים: ",
+                                "notas": [],
+                                "referencia_cruzada": []
+                            },
+                            {
+                                "id": "gn.1.15",
+                                "numero": 15,
+                                "texto": "e que sejam também luzeiros nos céus, para iluminar toda a terra!' E assim aconteceu.",
+                                "texto_hebraico": "וְהָיוּ לִמְאוֹרֹת בִּרְקִיעַ הַשָּׁמַיִם לְהָאִיר עַל- הָאָרֶץ וַיְהִי- כֵן: ",
+                                "notas": [],
+                                "referencia_cruzada": []
+                            }
                         ]
                     }
                 }
