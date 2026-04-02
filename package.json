@@ -1,0 +1,32 @@
+{
+  "name": "kja-bible-json",
+  "version": "1.0.0",
+  "description": "Bíblia de Estudo King James Atualizada (KJA) em formato JSON estruturado",
+  "main": "src/js/bible-reader.js",
+  "scripts": {
+    "start": "node src/js/bible-reader.js",
+    "dev": "node --watch src/js/bible-reader.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zer0G0ld/KJA_JSON.git"
+  },
+  "keywords": [
+    "bible",
+    "kja",
+    "king-james",
+    "json",
+    "biblia",
+    "estudo"
+  ],
+  "author": "Zer0G0ld",
+  "license": "GNU3",
+  "bugs": {
+    "url": "https://github.com/Zer0G0ld/KJA_JSON/issues"
+  },
+  "homepage": "https://github.com/Zer0G0ld/KJA_JSON#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

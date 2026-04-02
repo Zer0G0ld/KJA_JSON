@@ -32,6 +32,25 @@ O JSON foi criado manualmente com base na versão física da Bíblia de Estudo K
 - Preservar o conteúdo de estudo (notas, introduções, referências)
 - **Destacar visualmente** falas de Deus e Jesus em apps
 
+## 📁 Estrutura do Projeto
+
+```
+KJA_JSON/
+├── data/
+│   └── KJA.json                # Arquivo principal da Bíblia em JSON
+├── src/
+│   ├── js/
+│   │   └── bible-reader.js     # Script em JavaScript/Node.js
+│   ├── python/
+│   │   └── bible_reader.py     # Script em Python
+│   └── web/
+│       └── bible_reader.html   # Interface web (HTML/JS)
+├── LICENSE
+├── README.md
+├── package.json                # Dependências Node.js
+└── requirements.txt            # Dependências Python
+```
+
 ## 📋 Características
 
 ### ✅ Inclui
@@ -128,110 +147,152 @@ O JSON foi criado manualmente com base na versão física da Bíblia de Estudo K
 ## 🚀 Como Usar
 
 ### Pré-requisitos
-- Node.js (para desenvolvimento JavaScript)
-- Python (opcional, para processamento)
-- Qualquer linguagem que suporte parsing de JSON
+
+#### Para JavaScript/Node.js:
+```bash
+# Instalar Node.js (versão 14+)
+# https://nodejs.org/
+
+# Instalar dependências
+npm install
+```
+
+#### Para Python:
+```bash
+# Instalar Python 3.8+
+# https://python.org
+
+# Instalar dependências
+pip install -r requirements.txt
+```
+
+#### Para Web:
+- Navegador moderno (Chrome, Firefox, Edge, Safari)
+- Servidor web local (opcional)
 
 ### Instalação
 
-1. Clone o repositório:
 ```bash
+# Clone o repositório
 git clone https://github.com/Zer0G0ld/KJA_JSON.git
 cd KJA_JSON
+
+# Instalar dependências Node.js
+npm install
+
+# Instalar dependências Python (opcional)
+pip install -r requirements.txt
 ```
 
-2. Acesse o arquivo principal:
+### Scripts Disponíveis
+
+#### JavaScript/Node.js
+
 ```bash
-cat KJA.json
+# Exibir ajuda
+npm start -- --help
+
+# Exibir metadados da Bíblia
+npm run info
+
+# Listar livros do Antigo Testamento
+npm run books:at
+
+# Listar livros do Novo Testamento
+npm run books:nt
+
+# Ler Gênesis capítulo 1
+npm run read:gn1
+
+# Ler versículo específico (Gênesis 1:1)
+npm run verse:gn1-1
+
+# Pesquisar por palavra
+node src/js/bible-reader.js --search amor
+
+# Executar manualmente
+node src/js/bible-reader.js --read gn 1
 ```
 
-### Exemplos de Uso
+#### Python
 
-#### JavaScript/Node.js - Acessando Notas de Estudo
+```bash
+# Exibir ajuda
+python src/python/bible_reader.py --help
+
+# Exibir metadados
+python src/python/bible_reader.py --info
+
+# Listar livros do Antigo Testamento
+python src/python/bible_reader.py --books at
+
+# Listar livros do Novo Testamento
+python src/python/bible_reader.py --books nt
+
+# Ler Gênesis capítulo 1
+python src/python/bible_reader.py --read gn 1
+
+# Ler versículo específico
+python src/python/bible_reader.py --verse gn 1 1
+
+# Pesquisar por palavra
+python src/python/bible_reader.py --search amor
+```
+
+#### Web
+
+```bash
+# Opção 1: Servir com Python
+cd src/web
+python -m http.server 8000
+# Abrir http://localhost:8000
+
+# Opção 2: Servir com Node.js
+npx http-server src/web -o
+
+# Opção 3: Abrir diretamente (pode ter restrições CORS)
+# Basta abrir o arquivo src/web/bible_reader.html no navegador
+```
+
+### Exemplos de Uso em Código
+
+#### JavaScript/Node.js
+
 ```javascript
-const bibliaKJA = require('./KJA.json');
+const bibleReader = require('./src/js/bible-reader');
 
-// Acessar Gênesis capítulo 1
-const genesis = bibliaKJA.content.old_testament.books[0];
-const chapter1 = genesis.chapters;
+// Exemplo de uso programático
+const BibleReader = require('./src/js/bible-reader');
+const bible = new BibleReader('./data/KJA.json');
 
-// Acessar nota do título do capítulo
-console.log(chapter1.note_title);
+// Acessar metadados
+console.log(bible.getMetadata().title);
 
-// Acessar nota do versículo 1
-const verse1 = chapter1.verses[0];
-console.log(verse1.notes);
+// Ler capítulo
+bible.displayChapter('gn', 1);
 
-// Renderizar versículo com destaque para fala de Deus
-chapter1.verses.forEach(verse => {
-  if (verse.speeches) {
-    verse.speeches.forEach(speech => {
-      if (speech.character === 'Deus') {
-        console.log(`\x1b[34m${speech.text}\x1b[0m`);
-      } else {
-        console.log(speech.text);
-      }
-    });
-  }
-});
+// Pesquisar
+const results = bible.search('criou');
+console.log(results);
 ```
 
-#### Python - Processamento de Notas
+#### Python
+
 ```python
-import json
+from src.python.bible_reader import BibleReader
 
-with open('KJA.json', 'r', encoding='utf-8') as file:
-    biblia = json.load(file)
+# Carregar Bíblia
+bible = BibleReader('data/KJA.json')
 
-# Acessar Gênesis
-genesis = biblia['content']['old_testament']['books'][0]
-chapter1 = genesis['chapters']
+# Acessar metadados
+print(bible.get_metadata()['title'])
 
-# Exibir nota do título
-print(f"Nota do título: {chapter1['note_title'][:200]}...")
+# Ler capítulo
+bible.display_chapter('gn', 1)
 
-# Exibir nota do versículo 1
-verse1 = chapter1['verses'][0]
-print(f"Nota de Gn 1.1: {verse1['notes'][:200]}...")
-```
-
-#### React/Next.js - Componente com Notas
-```javascript
-import bibliaKJA from './KJA.json';
-
-function ChapterDisplay({ bookId, chapterNumber }) {
-  const book = bibliaKJA.content.old_testament.books.find(b => b.id === bookId);
-  const chapter = book.chapters;
-  
-  return (
-    <div>
-      <h2>{chapter.title}</h2>
-      {chapter.note_title && (
-        <div className="chapter-note">
-          <small>{chapter.note_title}</small>
-        </div>
-      )}
-      
-      {chapter.verses.map(verse => (
-        <div key={verse.id} className="verse">
-          <span className="verse-number">{verse.number}</span>
-          <span className="verse-text">
-            {verse.speeches.map((speech, idx) => (
-              <span key={idx} style={{ color: speech.color === 'azul' ? 'blue' : 'inherit' }}>
-                {speech.text}
-              </span>
-            ))}
-          </span>
-          {verse.notes && (
-            <div className="verse-note">
-              <sup>†</sup> <small>{verse.notes}</small>
-            </div>
-          )}
-        </div>
-      ))}
-    </div>
-  );
-}
+# Pesquisar
+results = bible.search('criou')
+print(results)
 ```
 
 ## 🔧 Status do Projeto
@@ -249,6 +310,7 @@ function ChapterDisplay({ bookId, chapterNumber }) {
 - [x] **Nota do título do capítulo** com contexto histórico
 - [x] **Notas de estudo** para versículos selecionados (Gn 1.1)
 - [x] **Campos da estrutura em inglês** para padronização internacional
+- [x] **Scripts de consumo** (Node.js, Python, Web)
 
 ### 🚧 Em Andamento
 - [ ] Continuação de Gênesis (capítulos 2-50)
@@ -336,7 +398,7 @@ Encontrou um erro ou inconsistência? Abra uma issue no GitHub:
 
 | Versão | Data | Status | Descrição |
 |--------|------|--------|-----------|
-| 1.0.0 | 2026-04-02 | 🚧 Em desenvolvimento | Estrutura completa com campos em inglês, metadados, sumário, apresentação, prefácio, introdução de Gênesis, **Capítulo 1 completo com 31 versículos**, **nota do título**, **notas de estudo** (Gn 1.1), segmentação de falas e hebraico |
+| 1.0.0 | 2026-04-02 | 🚧 Em desenvolvimento | Estrutura completa com campos em inglês, metadados, sumário, apresentação, prefácio, introdução de Gênesis, **Capítulo 1 completo com 31 versículos**, **nota do título**, **notas de estudo** (Gn 1.1), segmentação de falas, hebraico e **scripts de consumo** (Node.js, Python, Web) |
 
 ## 🔗 Links Úteis
 

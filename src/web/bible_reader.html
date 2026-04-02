@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bíblia KJA - Leitor</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background: linear-gradient(135deg, #1a472a, #0d2818);
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .nav-buttons {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            background: #1a472a;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background 0.3s;
+        }
+
+        button:hover {
+            background: #0d2818;
+        }
+
+        .search-box {
+            margin-bottom: 20px;
+            display: flex;
+            gap: 10px;
+        }
+
+        .search-box input {
+            flex: 1;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        .books-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+
+        .book-card {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .book-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+
+        .book-card h3 {
+            color: #1a472a;
+            margin-bottom: 5px;
+        }
+
+        .book-card p {
+            color: #666;
+            font-size: 14px;
+        }
+
+        .verse-container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .verse {
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .verse-number {
+            color: #1a472a;
+            font-weight: bold;
+            margin-right: 10px;
+            font-size: 1.1em;
+        }
+
+        .god-speech {
+            color: #3498db;
+            font-weight: bold;
+        }
+
+        .normal-speech {
+            color: #333;
+        }
+
+        .verse-note {
+            margin-top: 5px;
+            padding: 10px;
+            background: #f9f9f9;
+            border-left: 3px solid #1a472a;
+            font-size: 0.9em;
+            color: #666;
+        }
+
+        .chapter-note {
+            background: #e8f5e9;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-size: 0.95em;
+            color: #2e7d32;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 50px;
+            color: #666;
+        }
+
+        .error {
+            color: #c62828;
+            text-align: center;
+            padding: 50px;
+        }
+
+        @media (max-width: 768px) {
+            .books-grid {
+                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            }
+            
+            header h1 {
+                font-size: 1.8em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📖 Bíblia King James Atualizada</h1>
+            <p>Edição de Estudo - 400 Anos</p>
+        </header>
+
+        <div class="nav-buttons">
+            <button onclick="showBooks('at')">📚 Antigo Testamento</button>
+            <button onclick="showBooks('nt')">📖 Novo Testamento</button>
+            <button onclick="showHome()">🏠 Início</button>
+        </div>
+
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="Pesquisar palavra... (ex: criou, Deus, amor)">
+            <button onclick="searchVerses()">🔍 Pesquisar</button>
+        </div>
+
+        <div id="content">
+            <div class="books-grid" id="booksGrid"></div>
+            <div id="verseView" style="display: none;"></div>
+            <div id="searchResults" style="display: none;"></div>
+        </div>
+    </div>
+
+    <script>
+        let bibleData = null;
+
+        // Carregar o JSON
+        async function loadBible() {
+            try {
+                const response = await fetch('KJA.json');
+                bibleData = await response.json();
+                showHome();
+            } catch (error) {
+                console.error('Erro ao carregar a Bíblia:', error);
+                document.getElementById('content').innerHTML = '<div class="error">❌ Erro ao carregar a Bíblia. Verifique se o arquivo KJA.json está no mesmo diretório.</div>';
+            }
+        }
+
+        // Mostrar tela inicial
+        function showHome() {
+            document.getElementById('booksGrid').style.display = 'grid';
+            document.getElementById('verseView').style.display = 'none';
+            document.getElementById('searchResults').style.display = 'none';
+            showBooks('at');
+        }
+
+        // Mostrar lista de livros
+        function showBooks(testament) {
+            const books = testament === 'at' 
+                ? bibleData.content.summary.old_testament.books 
+                : bibleData.content.summary.new_testament.books;
+            
+            const title = testament === 'at' ? 'Antigo Testamento' : 'Novo Testamento';
+            
+            const booksGrid = document.getElementById('booksGrid');
+            booksGrid.innerHTML = `<h2>${title} (${books.length} livros)</h2>` + 
+                books.map(book => `
+                    <div class="book-card" onclick="showChapter('${book.abbreviation.toLowerCase()}', 1, '${book.name}')">
+                        <h3>${book.name}</h3>
+                        <p>${book.abbreviation} • ${book.chapters} capítulos</p>
+                    </div>
+                `).join('');
+            
+            booksGrid.style.display = 'grid';
+            document.getElementById('verseView').style.display = 'none';
+            document.getElementById('searchResults').style.display = 'none';
+        }
+
+        // Mostrar capítulo
+        function showChapter(bookId, chapterNum, bookName) {
+            const book = bibleData.content.old_testament.books.find(b => b.id === bookId);
+            if (!book) return;
+
+            const chapter = book.chapters;
+            
+            let html = `
+                <div class="verse-container">
+                    <button onclick="showBooks('at')" style="margin-bottom: 20px;">← Voltar para livros</button>
+                    <h2>${bookName} - Capítulo ${chapterNum}</h2>
+            `;
+            
+            if (chapter.note_title) {
+                html += `<div class="chapter-note">📌 ${chapter.note_title}</div>`;
+            }
+            
+            chapter.verses.forEach(verse => {
+                html += `<div class="verse">`;
+                html += `<span class="verse-number">${verse.number}</span>`;
+                
+                if (verse.speeches) {
+                    verse.speeches.forEach(speech => {
+                        if (speech.character === 'Deus') {
+                            html += `<span class="god-speech">${speech.text}</span>`;
+                        } else {
+                            html += `<span class="normal-speech">${speech.text}</span>`;
+                        }
+                    });
+                } else {
+                    html += `<span class="normal-speech">${verse.text}</span>`;
+                }
+                
+                if (verse.notes && verse.notes.length > 0) {
+                    html += `<div class="verse-note">📝 ${verse.notes}</div>`;
+                }
+                
+                html += `</div>`;
+            });
+            
+            html += `</div>`;
+            
+            document.getElementById('booksGrid').style.display = 'none';
+            document.getElementById('searchResults').style.display = 'none';
+            const verseView = document.getElementById('verseView');
+            verseView.innerHTML = html;
+            verseView.style.display = 'block';
+        }
+
+        // Pesquisar versículos
+        function searchVerses() {
+            const keyword = document.getElementById('searchInput').value.toLowerCase();
+            if (!keyword) return;
+            
+            const results = [];
+            
+            for (const book of bibleData.content.old_testament.books) {
+                const chapter = book.chapters;
+                for (const verse of chapter.verses) {
+                    if (verse.text.toLowerCase().includes(keyword)) {
+                        results.push({
+                            book: book.book,
+                            bookId: book.id,
+                            chapter: chapter.number,
+                            verse: verse.number,
+                            text: verse.text
+                        });
+                    }
+                }
+            }
+            
+            const searchResults = document.getElementById('searchResults');
+            if (results.length === 0) {
+                searchResults.innerHTML = `<div class="verse-container"><p>🔍 Nenhum resultado encontrado para "${keyword}"</p><button onclick="showHome()">Voltar</button></div>`;
+            } else {
+                searchResults.innerHTML = `
+                    <div class="verse-container">
+                        <button onclick="showHome()">← Voltar</button>
+                        <h2>🔍 Resultados para "${keyword}"</h2>
+                        <p>Encontrados ${results.length} versículos</p>
+                        ${results.map(r => `
+                            <div class="verse">
+                                <span class="verse-number">${r.book} ${r.chapter}:${r.verse}</span>
+                                <span class="normal-speech">${r.text.substring(0, 200)}${r.text.length > 200 ? '...' : ''}</span>
+                            </div>
+                        `).join('')}
+                    </div>
+                `;
+            }
+            
+            document.getElementById('booksGrid').style.display = 'none';
+            document.getElementById('verseView').style.display = 'none';
+            searchResults.style.display = 'block';
+        }
+
+        // Iniciar
+        loadBible();
+    </script>
+</body>
+</html>
