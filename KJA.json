@@ -8,70 +8,70 @@
         "type": "Bible",
         "version": "1.0.0",
         "isbn": "978-65-6003-014-5",
-        "titulo": "Bíblia Sagrada",
-        "subtitulo": "Edição de Estudo King James Atualizada - 400 Anos",
-        "edicao": "Tradução King James Atualizada (KJA)",
+        "title": "Bíblia Sagrada",
+        "subtitle": "Edição de Estudo King James Atualizada - 400 Anos",
+        "edition": "Tradução King James Atualizada (KJA)",
         
         "copyright": {
-            "marca_registrada": 2001,
-            "direitos_autorais": [2002, 2012],
-            "detentor_direitos": "Abba Press Editora e Divulgadora Cultural Ltda.",
-            "observacao": "Todos os direitos reservados. Esta versão digital é para fins de estudo e integração em aplicações."
+            "trademark": 2001,
+            "copyrigth": [2002, 2012],
+            "holder_rights": "Abba Press Editora e Divulgadora Cultural Ltda.",
+            "observation": "Todos os direitos reservados. Esta versão digital é para fins de estudo e integração em aplicações."
         },
         
-        "traducao_e_revisao": {
+        "translation_and_review": {
             "base": "Manuscritos originais (hebraico, aramaico e grego)",
-            "estilo": "Authorized Version / King James de 1611",
-            "responsaveis": [
+            "style": "Authorized Version / King James de 1611",
+            "responsables": [
                 "Sociedade Bíblica Ibero-Americana",
                 "Abba Press Editora no Brasil"
             ],
-            "revisao_teologica": "Equipe de teólogos e especialistas em hebraico e grego"
+            "theological_review": "Equipe de teólogos e especialistas em hebraico e grego"
         },
         
-        "publicacao": {
-            "editora": "Casa Publicadora Paulista Editora e Gráfica Ltda.",
-            "ano": 2020,
-            "pais": "Brasil",
-            "cidade": "São Paulo"
+        "publication": {
+            "publisher": "Casa Publicadora Paulista Editora e Gráfica Ltda.",
+            "year": 2020,
+            "country": "Brasil",
+            "city": "São Paulo"
         },
         
-        "entidades_parceiras": [
+        "partiner_entities": [
             {
-                "nome": "SBIA - Sociedade Bíblica Ibero-Americana",
+                "name": "SBIA - Sociedade Bíblica Ibero-Americana",
                 "site": "https://bibliakingjames.com.br",
-                "telefone": "(11) 5522-8403",
-                "papel": "Detentora dos direitos da tradução KJA"
+                "phone": "(11) 5522-8403",
+                "paper": "Detentora dos direitos da tradução KJA"
             },
             {
-                "nome": "CPP - Casa Publicadora Paulista",
+                "name": "CPP - Casa Publicadora Paulista",
                 "site": "https://www.cppeditora.com.br",
-                "telefone": "(11) 2923-7600",
-                "papel": "Editora e distribuidora"
+                "phone": "(11) 2923-7600",
+                "paper": "Editora e distribuidora"
             },
             {
-                "nome": "Abba Press",
+                "name": "Abba Press",
                 "site": "https://abbapress.com.br",
-                "telefone": "(11) 5686-5058",
-                "papel": "Parceira editorial e de conteúdo"
+                "phone": "(11) 5686-5058",
+                "paper": "Parceira editorial e de conteúdo"
             }
         ],
         
-        "classificacao_catalografica": {
+        "catholograph_classification": {
             "cdd": "220.5",
-            "cdd_completo": "220.5 - Bíblia em Português",
-            "assuntos": [
+            "full_cdd": "220.5 - Bíblia em Português",
+            "matters": [
                 "Bíblia Sagrada: Antigo e Novo Testamento",
                 "Comentários exegéticos e teológicos",
                 "Estudos bíblicos",
                 "Teologia Sistemática"
             ],
-            "palavras_chave": ["Bíblia", "KJA", "King James", "Estudo", "Teologia"]
+            "key_words": ["Bíblia", "KJA", "King James", "Estudo", "Teologia"]
         },
         
-        "estrutura_fisica": {
-            "paginas": "aproximadamente 2200",
-            "secoes": [
+        "physical_structure": {
+            "pages": "aproximadamente 2200",
+            "sections": [
                 "Fac-símile KJV 1611",
                 "Apresentação",
                 "Prefácio",
@@ -79,199 +79,199 @@
                 "Antigo Testamento",
                 "Novo Testamento",
                 "Mapas",
-                "Concordância"
+                "Concolordância"
             ]
         },
         
         "digital_project": {
-            "criador": "Zer0G0ld",
+            "creator": "Zer0G0ld",
             "github": "https://github.com/Zer0G0ld",
-            "hebraico": "https://hebraico.pro.br",
-            "grego": "",
-            "data_criacao": "2026-03-30",
-            "objetivo": "Disponibilizar a KJA em formato JSON estruturado para apps e ferramentas digitais",
-            "base_fisica": "Bíblia de Estudo King James Atualizada - Edição 400 Anos (física)",
-            "descricao": [
+            "hebrew": "https://hebraico.pro.br",
+            "greek": "",
+            "datea_creation": "2026-03-30",
+            "objective": "Disponibilizar a KJA em formato JSON estruturado para apps e ferramentas digitais",
+            "physical_basis": "Bíblia de Estudo King James Atualizada - Edição 400 Anos (física)",
+            "description": [
                 "Entusiasta de tecnologia e amante da Bíblia, dedicado a compartilhar conhecimento e promover a fé através de recursos digitais.",
                 "Projeto voltado para uso em apps que precisam de uma versão de estudo King James atualizada, com foco em acessibilidade e facilidade de integração.",
-                "Estou escrevendo este JSON com base na bíblia física que tenho. Tudo o que estiver aqui é baseado nela. Se houver algo errado, me avise para que eu possa corrigir."
+                "Estou escrevendo este JSON com base na bíblia física que tenho. Tudo o que estiver aqui é baseado nela. Se houver algo errado, me avise para que eu possa colorrigir."
             ],
-            "licenca": "Uso para estudos e desenvolvimento - respeitar direitos autorais da edição impressa"
+            "license": "Uso para estudos e desenvolvimento - respeitar direitos autorais da edição impressa"
         }
     },
     
-    "conteudo": {
-        "secoes_preliminares": [
+    "content": {
+        "preliminary_sections": [
             {
-                "tipo": "apresentacao",
-                "titulo_secao": "APRESENTAÇÃO",
-                "obra_referenciada": "Bíblia King James Atualizada (KJA)",
-                "autor": {
-                    "nome": "Carlos Alberto de Quadros Bezerra",
-                    "cargo": "Pastor-Presidente da Comunidade da Graça / Brasil",
-                    "qualificacoes": [
+                "type": "apresentacao",
+                "section_title": "APRESENTAÇÃO",
+                "referenced_work": "Bíblia King James Atualizada (KJA)",
+                "author": {
+                    "name": "Carlos Alberto de Quadros Bezerra",
+                    "position": "Pastor-Presidente da Comunidade da Graça / Brasil",
+                    "qualifications": [
                         "Escritor",
                         "Conferencista internacional"
                     ]
                 },
-                "conteudo": [
-                    "Posso dizer que, durante todos os meus anos de vida e ministério, conheci a graça de Deus manifestada de várias maneiras. Uma delas, sobre a qual afirmo com toda humildade, e também com orgulho saudável é a de ter nascido no Brasil, um país que amo não apenas por ser meu berço e de toda a minha família, mas pela riqueza de recursos que aprouve ao Senhor colocar à disposição de seus filhos nesta terra tão abençoada. Um desses recursos é esta obra que você tem em mãos neste momento: o povo de língua portuguesa passa a contar com o texto integral da Bíblia King James, privilégio antes restrito praticamente aos cristãos de países e regiões de língua inglesa desde 1611.",
+                "content": [
+                    "Posso dizer que, durante todos os meus anos de vida e ministério, conheci a graça de Deus manifestada de várias maneiras. Uma delas, sobre a qual afirmo com toda humildade, e também com orgulho saudável é a de ter nascido no Brasil, um país que amo não apenas por ser meu berço e de toda a minha família, mas pela riqueza de recursos que aprouve ao Senhor colocar à disposição de seus filhos nesta terra tão abençoada. Um desses recursos é esta obra que você tem em mãos neste momento: o povo de língua portuguesa passa a contar com o text integral da Bíblia King James, privilégio antes restrito praticamente aos cristãos de países e regiões de língua inglesa desde 1611.",
                     "Trata-se de um momento singular. Afinal, não estamos falando apenas do mais importante Livro de todos, mas da própria Palavra de Deus, o testemunho escrito e divinamente inspirado da vida e da obra salvífica de nosso Senhor e Salvador Jesus Cristo, bem como da continuidade da era da Graça na operação do Deus Espírito Santo em sua Igreja.",
-                    "Esta muito bem cuidada Edição Popular da primeira publicação da Bíblia King James nos chega numa de suas traduções mais acuradas e notáveis, que prima por um texto tão claro quanto elegante; ao mesmo tempo, requintado, e acessível, rigoroso na precisão exegética e hermenêutica, mas transposto para o nosso idioma com extrema erudição e sensibilidade.",
+                    "Esta muito bem cuidada Edição Popular da primeira publicação da Bíblia King James nos chega numa de suas traduções mais acuradas e notáveis, que prima por um text tão claro quanto elegante; ao mesmo tempo, requintado, e acessível, rigoroso na precisão exegética e hermenêutica, mas transposto para o nosso idioma com extrema erudição e sensibilidade.",
                     "Isso faz do Brasil membro de um seletíssimo clube. A tradução da Bíblia King James, que já foi instrumento de evangelização e ensino nas mãos de grandes teólogos nos últimos quatro séculos, é reconhecida também pela nobreza de sua linguagem, em grande parte creditada ao ambiente histórico em que foi concebida. Com isso, os ministros eclesiásticos, os líderes leigos e todo fiel estudioso da Palavra de Deus ganham um recurso poderoso - além da edição do Novo Testamento da Bíblia King James já recebido com enorme aceitação em todas as igrejas no Brasil e no exterior - na elaboração de mensagens e profundas análises, como igualmente na pesquisa e na fundamentação de uma teologia saudável, contextualizada, abrangente e, principalmente, bíblica.",
-                    "Ante, porém, de começar a desfrutar deste texto magnífico, dedique alguns minutos de oração e agradeça ao Senhor pelo trabalho sério e dedicado, ao longo de mais de dez anos, das pessoas envolvidas no projeto de tradução da Bíblia Sagrada - 'Authorized Version' (Versão Autorizada) - e que seguirão pesquisando e buscando melhorar ainda mais a tradução desta obra para a língua portuguesa.",
+                    "Ante, porém, de começar a desfrutar deste text magnífico, dedique alguns minutos de oração e agradeça ao Senhor pelo trabalho sério e dedicado, ao longo de mais de dez anos, das pessoas envolvidas no projeto de tradução da Bíblia Sagrada - 'Authorized Version' (Versão Autorizada) - e que seguirão pesquisando e buscando melhorar ainda mais a tradução desta obra para a língua portuguesa.",
                     "Ore também para que a Bíblia King James Atualizada (KJA) seja veículo de bênçãos para todos aqueles que desejam conhecer e crescer no conhecimento do nosso poderoso e amoroso Deus."
                 ]
             },
             {
-                "tipo": "prefacio",
-                "titulo_secao": "PREFÁCIO",
-                "obra_referenciada": "Bíblia King James Atualizada (KJA)",
-                "autor": {
-                    "nome": "Lisânias Moura",
-                    "cargo": "Pastor sênior da Igreja Batista do Morumbi",
-                    "qualificacoes": [
+                "type": "prefacio",
+                "section_title": "PREFÁCIO",
+                "referenced_work": "Bíblia King James Atualizada (KJA)",
+                "author": {
+                    "name": "Lisânias Moura",
+                    "position": "Pastor sênior da Igreja Batista do Morumbi",
+                    "qualifications": [
                         "Mestre em teologia pelo Dallas Theological Seminary (DTS) / EUA"
                     ]
                 },
-                "conteudo": [
+                "content": [
                     "Lidar com versões bíblicas diferentes sempre traz enriquecimento para todo estudioso da Palavra de Deus, tanto para a própria vida como para o ensino público das Escrituras. É por isso que tanto me alegro ao ver em língua portuguesa esta tradução da Bíblia King James Atualizada (KJA), a partir dos manuscritos nas línguas originais hebraico, aramaico e grego, preservando o estilo da famosa edição do comitê de eruditos britânicos, liderados pelo próprio rei Tiago, em 1611.",
-                    "Quando lemos as Escrituras, podemos inicialmente nos prender ao texto e daquele texto ouvir a voz de Deus. Ao mesmo tempo, podemos estudar todo o contexto daquilo que estamos lendo e, neste caso, é de extrema valia consultarmos outras traduções, versões, comentários e demais recursos.",
+                    "Quando lemos as Escrituras, podemos inicialmente nos prender ao text e daquele text ouvir a voz de Deus. Ao mesmo tempo, podemos estudar todo o context daquilo que estamos lendo e, neste caso, é de extrema valia consultarmos outras traduções, versões, comentários e demais recursos.",
                     "É por isso que fico entusiasmado com este trabalho para nossa língua, produzido com todo esmero pelo Comitê Internacional de Tradução da Sociedade Bíblica Ibero-Americana e Abba Press no Brasil. A tradução da Bíblia King James Atualizada para o português abençoará ricamente os púlpitos e leitores sérios da Palavra de Deus.",
                     "É especial lembrar que nossa antiga versão de João Ferreira de Almeida foi tremendamente influenciada e ajudada pela tradução anterior, publicada pelos 50 mais notáveis exegetas e biblistas britânicos, súditos do rei evangélico James I (Tiago Primeiro), há mais de 400 anos. Assim sendo, de certa forma, quando usamos uma das versões de Almeida, estamos lendo algo que foi orientado pelo próprio estudo das páginas da Bíblia King James, obra que continua a inspirar uma série de novas traduções e adaptações no Brasil e no mundo.",
-                    "Planejada inicialmente, a pedido do rei James, por volta de 1607, para ser um trabalho criterioso de revisão de alguns excessos doutrinários observados na conhecida versão da Bíblia de Genebra, a obra ganhou força e iluminação espiritual incontroláveis. E daquele trabalho apenas corretivo produzido pelos mais brilhantes estudiosos de todas as denominações cristãs britânicas reunidas na Universidade de Oxford, surgiu a mais lida e amada tradução das Escrituras Sagradas desde 1611 até nossos dias em todo o mundo.",
-                    "Quando manuscritos originais mais antigos da Bíblia e, portanto, mais próximos dos eventos ocorridos (o que lhes confere mais alto grau de acuracidade, e assim, tendem a ser mais fiéis aos autógrafos), foram encontrados na região montanhosa de Vadi Qumran, próxima ao mar Morto, constituindo-se na mais importante descoberta arqueológica do século XX, um precioso trabalho de revisão da própria Bíblia King James teve início, e uma nova, precisa e rica tradução surgiu.",
-                    "Hoje, depois de muitos anos de lutas, provações e lindas vitórias, a Bíblia King James Atualizada em português (KJA), comunica através de seu texto a majestade divina e o estilo clássico da Bíblia King James de 1611, preservando sua beleza e fidelidade aos melhores e mais antigos originais, ao mesmo tempo, gerando contemporaneidade.",
+                    "Planejada inicialmente, a pedido do rei James, por volta de 1607, para ser um trabalho criterioso de revisão de alguns excessos doutrinários observados na conhecida versão da Bíblia de Genebra, a obra ganhou força e iluminação espiritual incontroláveis. E daquele trabalho apenas colorretivo produzido pelos mais brilhantes estudiosos de todas as denominações cristãs britânicas reunidas na Universidade de Oxford, surgiu a mais lida e amada tradução das Escrituras Sagradas desde 1611 até nossos dias em todo o mundo.",
+                    "Quando manuscritos originais mais antigos da Bíblia e, portanto, mais próximos dos eventos ocolorridos (o que lhes confere mais alto grau de acuracidade, e assim, tendem a ser mais fiéis aos autógrafos), foram encontrados na região montanhosa de Vadi Qumran, próxima ao mar Morto, constituindo-se na mais importante descoberta arqueológica do século XX, um precioso trabalho de revisão da própria Bíblia King James teve início, e uma nova, precisa e rica tradução surgiu.",
+                    "Hoje, depois de muitos anos de lutas, provações e lindas vitórias, a Bíblia King James Atualizada em português (KJA), comunica através de seu text a majestade divina e o estilo clássico da Bíblia King James de 1611, preservando sua beleza e fidelidade aos melhores e mais antigos originais, ao mesmo tempo, gerando contemporaneidade.",
                     "Estou convicto que ao estudar a Torá (Lei de Moisés - o Pentateuco) e o Antigo Testamento da Bíblia King James - a exemplo do que já faço com o Novo Testamento há alguns anos - na preparação de mensagens e estudos, bem como em minhas devocionais, serei muito enriquecido. Essa mesma convicção tenho em relação ao amigo leitor. Você também, guiado pelo Espírito Santo, beneficiará das consultas e leituras que fizer desta obra monumental.",
                     "Que Deus o abençoe em sua jornada espiritual, como filho de Deus, como leitor e anunciador das Sagradas Escrituras."
                 ]
             },
             {
-                "tipo": "fac_simile",
-                "titulo": "Reprodução da página original da Bíblia King James de 1611",
+                "type": "fac_simile",
+                "title": "Reprodução da página original da Bíblia King James de 1611",
                 "local": "Londres, Inglaterra",
-                "ano": 1611,
-                "conteudo": {
-                    "descricao": "Fac-símile da página de rosto da primeira edição",
-                    "texto_transcrito": ""
+                "year": 1611,
+                "content": {
+                    "description": "Fac-símile da página de rosto da primeira edição",
+                    "transcribed_text": ""
                 }
             },
             {
-                "tipo": "ajudas_ao_leitor",
-                "titulo": "Ajudas ao Leitor",
-                "conteudo": ""
+                "type": "ajudas_ao_leitor",
+                "title": "Ajudas ao Leitor",
+                "content": ""
             }
         ],
         
-        "sumario": {
-            "antigo_testamento": {
-                "nome": "Antigo Testamento",
-                "total_livros": 39,
-                "livros": [
-                    {"ordem": 1, "nome": "Gênesis", "abreviacao": "Gn", "capitulos": 50},
-                    {"ordem": 2, "nome": "Êxodo", "abreviacao": "Ex", "capitulos": 40},
-                    {"ordem": 3, "nome": "Levítico", "abreviacao": "Lv", "capitulos": 27},
-                    {"ordem": 4, "nome": "Números", "abreviacao": "Nm", "capitulos": 36},
-                    {"ordem": 5, "nome": "Deuteronômio", "abreviacao": "Dt", "capitulos": 34},
-                    {"ordem": 6, "nome": "Josué", "abreviacao": "Js", "capitulos": 24},
-                    {"ordem": 7, "nome": "Juízes", "abreviacao": "Jz", "capitulos": 21},
-                    {"ordem": 8, "nome": "Rute", "abreviacao": "Rt", "capitulos": 4},
-                    {"ordem": 9, "nome": "1 Samuel", "abreviacao": "1Sm", "capitulos": 31},
-                    {"ordem": 10, "nome": "2 Samuel", "abreviacao": "2Sm", "capitulos": 24},
-                    {"ordem": 11, "nome": "1 Reis", "abreviacao": "1Rs", "capitulos": 22},
-                    {"ordem": 12, "nome": "2 Reis", "abreviacao": "2Rs", "capitulos": 25},
-                    {"ordem": 13, "nome": "1 Crônicas", "abreviacao": "1Cr", "capitulos": 29},
-                    {"ordem": 14, "nome": "2 Crônicas", "abreviacao": "2Cr", "capitulos": 36},
-                    {"ordem": 15, "nome": "Esdras", "abreviacao": "Ed", "capitulos": 10},
-                    {"ordem": 16, "nome": "Neemias", "abreviacao": "Ne", "capitulos": 13},
-                    {"ordem": 17, "nome": "Ester", "abreviacao": "Et", "capitulos": 10},
-                    {"ordem": 18, "nome": "Jó", "abreviacao": "Jó", "capitulos": 42},
-                    {"ordem": 19, "nome": "Salmos", "abreviacao": "Sl", "capitulos": 150},
-                    {"ordem": 20, "nome": "Provérbios", "abreviacao": "Pv", "capitulos": 31},
-                    {"ordem": 21, "nome": "Eclesiastes", "abreviacao": "Ec", "capitulos": 12},
-                    {"ordem": 22, "nome": "Cântico dos Cânticos", "abreviacao": "Ct", "capitulos": 8},
-                    {"ordem": 23, "nome": "Isaías", "abreviacao": "Is", "capitulos": 66},
-                    {"ordem": 24, "nome": "Jeremias", "abreviacao": "Jr", "capitulos": 52},
-                    {"ordem": 25, "nome": "Lamentações", "abreviacao": "Lm", "capitulos": 5},
-                    {"ordem": 26, "nome": "Ezequiel", "abreviacao": "Ez", "capitulos": 48},
-                    {"ordem": 27, "nome": "Daniel", "abreviacao": "Dn", "capitulos": 12},
-                    {"ordem": 28, "nome": "Oseias", "abreviacao": "Os", "capitulos": 14},
-                    {"ordem": 29, "nome": "Joel", "abreviacao": "Jl", "capitulos": 3},
-                    {"ordem": 30, "nome": "Amós", "abreviacao": "Am", "capitulos": 9},
-                    {"ordem": 31, "nome": "Obadias", "abreviacao": "Ob", "capitulos": 1},
-                    {"ordem": 32, "nome": "Jonas", "abreviacao": "Jn", "capitulos": 4},
-                    {"ordem": 33, "nome": "Miqueias", "abreviacao": "Mq", "capitulos": 7},
-                    {"ordem": 34, "nome": "Naum", "abreviacao": "Na", "capitulos": 3},
-                    {"ordem": 35, "nome": "Habacuque", "abreviacao": "Hc", "capitulos": 3},
-                    {"ordem": 36, "nome": "Sofonias", "abreviacao": "Sf", "capitulos": 3},
-                    {"ordem": 37, "nome": "Ageu", "abreviacao": "Ag", "capitulos": 2},
-                    {"ordem": 38, "nome": "Zacarias", "abreviacao": "Zc", "capitulos": 14},
-                    {"ordem": 39, "nome": "Malaquias", "abreviacao": "Ml", "capitulos": 4}
+        "summary": {
+            "old_testament": {
+                "name": "Antigo Testamento",
+                "total_books": 39,
+                "books": [
+                    {"order": 1, "name": "Gênesis", "abbreviation": "Gn", "chapters": 50},
+                    {"order": 2, "name": "Êxodo", "abbreviation": "Ex", "chapters": 40},
+                    {"order": 3, "name": "Levítico", "abbreviation": "Lv", "chapters": 27},
+                    {"order": 4, "name": "Números", "abbreviation": "Nm", "chapters": 36},
+                    {"order": 5, "name": "Deuteronômio", "abbreviation": "Dt", "chapters": 34},
+                    {"order": 6, "name": "Josué", "abbreviation": "Js", "chapters": 24},
+                    {"order": 7, "name": "Juízes", "abbreviation": "Jz", "chapters": 21},
+                    {"order": 8, "name": "Rute", "abbreviation": "Rt", "chapters": 4},
+                    {"order": 9, "name": "1 Samuel", "abbreviation": "1Sm", "chapters": 31},
+                    {"order": 10,"name": "2 Samuel", "abbreviation": "2Sm", "chapters": 24},
+                    {"order": 11,"name": "1 Reis", "abbreviation": "1Rs", "chapters": 22},
+                    {"order": 12,"name": "2 Reis", "abbreviation": "2Rs", "chapters": 25},
+                    {"order": 13,"name": "1 Crônicas", "abbreviation": "1Cr", "chapters": 29},
+                    {"order": 14,"name": "2 Crônicas", "abbreviation": "2Cr", "chapters": 36},
+                    {"order": 15,"name": "Esdras", "abbreviation": "Ed", "chapters": 10},
+                    {"order": 16,"name": "Neemias", "abbreviation": "Ne", "chapters": 13},
+                    {"order": 17,"name": "Ester", "abbreviation": "Et", "chapters": 10},
+                    {"order": 18,"name": "Jó", "abbreviation": "Jó", "chapters": 42},
+                    {"order": 19,"name": "Salmos", "abbreviation": "Sl", "chapters": 150},
+                    {"order": 20,"name": "Provérbios", "abbreviation": "Pv", "chapters": 31},
+                    {"order": 21,"name": "Eclesiastes", "abbreviation": "Ec", "chapters": 12},
+                    {"order": 22,"name": "Cântico dos Cânticos", "abbreviation": "Ct", "chapters": 8},
+                    {"order": 23,"name": "Isaías", "abbreviation": "Is", "chapters": 66},
+                    {"order": 24,"name": "Jeremias", "abbreviation": "Jr", "chapters": 52},
+                    {"order": 25,"name": "Lamentações", "abbreviation": "Lm", "chapters": 5},
+                    {"order": 26,"name": "Ezequiel", "abbreviation": "Ez", "chapters": 48},
+                    {"order": 27,"name": "Daniel", "abbreviation": "Dn", "chapters": 12},
+                    {"order": 28,"name": "Oseias", "abbreviation": "Os", "chapters": 14},
+                    {"order": 29,"name": "Joel", "abbreviation": "Jl", "chapters": 3},
+                    {"order": 30,"name": "Amós", "abbreviation": "Am", "chapters": 9},
+                    {"order": 31,"name": "Obadias", "abbreviation": "Ob", "chapters": 1},
+                    {"order": 32,"name": "Jonas", "abbreviation": "Jn", "chapters": 4},
+                    {"order": 33,"name": "Miqueias", "abbreviation": "Mq", "chapters": 7},
+                    {"order": 34,"name": "Naum", "abbreviation": "Na", "chapters": 3},
+                    {"order": 35,"name": "Habacuque", "abbreviation": "Hc", "chapters": 3},
+                    {"order": 36,"name": "Sofonias", "abbreviation": "Sf", "chapters": 3},
+                    {"order": 37,"name": "Ageu", "abbreviation": "Ag", "chapters": 2},
+                    {"order": 38,"name": "Zacarias", "abbreviation": "Zc", "chapters": 14},
+                    {"order": 39,"name": "Malaquias", "abbreviation": "Ml", "chapters": 4}
                 ]
             },
             
-            "novo_testamento": {
-                "nome": "Novo Testamento",
-                "total_livros": 27,
-                "livros": [
-                    {"ordem": 1, "nome": "Mateus", "abreviacao": "Mt", "capitulos": 28},
-                    {"ordem": 2, "nome": "Marcos", "abreviacao": "Mc", "capitulos": 16},
-                    {"ordem": 3, "nome": "Lucas", "abreviacao": "Lc", "capitulos": 24},
-                    {"ordem": 4, "nome": "João", "abreviacao": "Jo", "capitulos": 21},
-                    {"ordem": 5, "nome": "Atos dos Apóstolos", "abreviacao": "At", "capitulos": 28},
-                    {"ordem": 6, "nome": "Romanos", "abreviacao": "Rm", "capitulos": 16},
-                    {"ordem": 7, "nome": "1 Coríntios", "abreviacao": "1Co", "capitulos": 16},
-                    {"ordem": 8, "nome": "2 Coríntios", "abreviacao": "2Co", "capitulos": 13},
-                    {"ordem": 9, "nome": "Gálatas", "abreviacao": "Gl", "capitulos": 6},
-                    {"ordem": 10, "nome": "Efésios", "abreviacao": "Ef", "capitulos": 6},
-                    {"ordem": 11, "nome": "Filipenses", "abreviacao": "Fp", "capitulos": 4},
-                    {"ordem": 12, "nome": "Colossenses", "abreviacao": "Cl", "capitulos": 4},
-                    {"ordem": 13, "nome": "1 Tessalonicenses", "abreviacao": "1Ts", "capitulos": 5},
-                    {"ordem": 14, "nome": "2 Tessalonicenses", "abreviacao": "2Ts", "capitulos": 3},
-                    {"ordem": 15, "nome": "1 Timóteo", "abreviacao": "1Tm", "capitulos": 6},
-                    {"ordem": 16, "nome": "2 Timóteo", "abreviacao": "2Tm", "capitulos": 4},
-                    {"ordem": 17, "nome": "Tito", "abreviacao": "Tt", "capitulos": 3},
-                    {"ordem": 18, "nome": "Filemom", "abreviacao": "Fm", "capitulos": 1},
-                    {"ordem": 19, "nome": "Hebreus", "abreviacao": "Hb", "capitulos": 13},
-                    {"ordem": 20, "nome": "Tiago", "abreviacao": "Tg", "capitulos": 5},
-                    {"ordem": 21, "nome": "1 Pedro", "abreviacao": "1Pe", "capitulos": 5},
-                    {"ordem": 22, "nome": "2 Pedro", "abreviacao": "2Pe", "capitulos": 3},
-                    {"ordem": 23, "nome": "1 João", "abreviacao": "1Jo", "capitulos": 5},
-                    {"ordem": 24, "nome": "2 João", "abreviacao": "2Jo", "capitulos": 1},
-                    {"ordem": 25, "nome": "3 João", "abreviacao": "3Jo", "capitulos": 1},
-                    {"ordem": 26, "nome": "Judas", "abreviacao": "Jd", "capitulos": 1},
-                    {"ordem": 27, "nome": "Apocalipse", "abreviacao": "Ap", "capitulos": 22}
+            "new_testament": {
+                "name": "Novo Testamento",
+                "total_books": 27,
+                "books": [
+                    {"order": 1, "name": "Mateus", "abbreviation": "Mt", "chapters": 28},
+                    {"order": 2, "name": "Marcos", "abbreviation": "Mc", "chapters": 16},
+                    {"order": 3, "name": "Lucas", "abbreviation": "Lc", "chapters": 24},
+                    {"order": 4, "name": "João", "abbreviation": "Jo", "chapters": 21},
+                    {"order": 5, "name": "Atos dos Apóstolos", "abbreviation": "At", "chapters": 28},
+                    {"order": 6, "name": "Romanos", "abbreviation": "Rm", "chapters": 16},
+                    {"order": 7, "name": "1 coloríntios", "abbreviation": "1Co", "chapters": 16},
+                    {"order": 8, "name": "2 coloríntios", "abbreviation": "2Co", "chapters": 13},
+                    {"order": 9, "name": "Gálatas", "abbreviation": "Gl", "chapters": 6},
+                    {"order": 10,"name": "Efésios", "abbreviation": "Ef", "chapters": 6},
+                    {"order": 11,"name": "Filipenses", "abbreviation": "Fp", "chapters": 4},
+                    {"order": 12,"name": "Colossenses", "abbreviation": "Cl", "chapters": 4},
+                    {"order": 13,"name": "1 Tessalonicenses", "abbreviation": "1Ts", "chapters": 5},
+                    {"order": 14,"name": "2 Tessalonicenses", "abbreviation": "2Ts", "chapters": 3},
+                    {"order": 15,"name": "1 Timóteo", "abbreviation": "1Tm", "chapters": 6},
+                    {"order": 16,"name": "2 Timóteo", "abbreviation": "2Tm", "chapters": 4},
+                    {"order": 17,"name": "Tito", "abbreviation": "Tt", "chapters": 3},
+                    {"order": 18,"name": "Filemom", "abbreviation": "Fm", "chapters": 1},
+                    {"order": 19,"name": "Hebreus", "abbreviation": "Hb", "chapters": 13},
+                    {"order": 20,"name": "Tiago", "abbreviation": "Tg", "chapters": 5},
+                    {"order": 21,"name": "1 Pedro", "abbreviation": "1Pe", "chapters": 5},
+                    {"order": 22,"name": "2 Pedro", "abbreviation": "2Pe", "chapters": 3},
+                    {"order": 23,"name": "1 João", "abbreviation": "1Jo", "chapters": 5},
+                    {"order": 24,"name": "2 João", "abbreviation": "2Jo", "chapters": 1},
+                    {"order": 25,"name": "3 João", "abbreviation": "3Jo", "chapters": 1},
+                    {"order": 26,"name": "Judas", "abbreviation": "Jd", "chapters": 1},
+                    {"order": 27,"name": "Apocalipse", "abbreviation": "Ap", "chapters": 22}
                 ]
             }
         },
         
-        "antigo_testamento": {
-            "livros": [
+        "old_testament": {
+            "books": [
                 {
                     "id": "gn",
-                    "livro": "Gênesis",
-                    "subtitulo": "בְּרֵאשִׁית Bereshit / No princípio",
-                    "introducao": {
-                        "autoria": [
-                            "A obra literária de Gênesis pode ser bem descrita como o livro dos 'inícios' ou dos 'começos': porquanto narra com clareza, precisão e sabedoria o 'princípio' de toda a criação de Deus. A primeira expressão que aparece nos manuscritos na língua original da obra é a expressão hebraica bereshit, que significa 'no princípio', em lingua portuguesa (Gn 1.1); sendo também o título hebraico do livro. Na Bíblia Hebraica os títulos dos livros costumam ser a primeira palavra, ou as duas primeiras expressões que aparecem no Texto Sagrado. Contudo, o título em português foi baseado no termo grego: geneseõs, como grafadi na mais antigo e importante tradução grega das Escrituras (Gn 2.4; 5.1), a Septuaginta (muitas vezes apenas referida como LXX, dada a sua fama e valor milenar). Portanto, quer na forma hebraica quanto na graga, o título de Gênesis desgna perfeitamente o conteúdo da obra, pois trata sobretudo das origens. O termo ainda pode ser compreendido em várias passagens bíblicas como 'genealogia' ou 'história dos nascimentos'.",
-                            "Ao longo de séculos e séculos de História até nossos dias, judeus e cristãos ortodoxos concordam que um home, filho de hebreus, da tribo de Levi, ao clã de Coate, e à Casa (ou família) de Anrão (Êx 2.1-10; 6.16; Nm 3.27; At 7.22), nascido no Egito, chamado Mõsheh, Moisés, foi o autor, narrador e compilador dos cinco primeiross livros da Bíblia Sagrada (ainda que tenha contado com a ajuda de escribas e amanuenses, conforme a tradição), que também formam a Torah, isto é, a Lei; o mais respeitado e sagrado livro dos judeus, também conhecido pelo nome grego Pentateuco, numa alusão aos 'cinco livro' que formam um todo em relação à mensagem principal de Deus para seu povo, madamento esse que foi vivido e enfatizado pelo próprio Messias, Jesus Cristo, o Filho de Deus: 'Amarás o Senhor, teu Deus, de todo o teu coração, de toda a tua alma e com toda a tua inteligência. Este é o primeiro e maior dos mandamentos. O segund, semelante a este, é: 'Amarás o teu próximo como a ti mesmo. A estes dois mandamentos estão sujeitos toda a Lei e os Profetas' (Mt 22.37-40; Dt 6.5); A própria Bíblia defende a autoria mosaica do livro de Gênesis, considerando que em Atos 15.1 refere-se à circuncisão como um 'costume ensinado por Moisés', uma indicação a Gênesis 17, ainda que isso possa também indicar certa medida de atualização escriba ou po parte de algum dos copistas a obra ao longo das eras (Gn 14.14; 36.31; 47.11)."
+                    "book": "Gênesis",
+                    "subtitle": "בְּרֵאשִׁית Bereshit / No princípio",
+                    "introduction": {
+                        "authorship": [
+                            "A obra literária de Gênesis pode ser bem descrita como o livro dos 'inícios' ou dos 'começos': porquanto narra com clareza, precisão e sabedoria o 'princípio' de toda a criação de Deus. A primeira expressão que aparece nos manuscritos na língua original da obra é a expressão hebraica bereshit, que significa 'no princípio', em lingua portuguesa (Gn 1.1); sendo também o título hebraico do livro. Na Bíblia Hebraica os títulos dos livros costumam ser a primeira palavra, ou as duas primeiras expressões que aparecem no text Sagrado. Contudo, o título em português foi baseado no termo grego: geneseõs, como grafadi na mais antigo e importante tradução grega das Escrituras (Gn 2.4; 5.1), a Septuaginta (muitas vezes apenas referida como LXX, dada a sua fama e valor milenar). Portanto, quer na forma hebraica quanto na graga, o título de Gênesis desgna perfeitamente o conteúdo da obra, pois trata sobretudo das origens. O termo ainda pode ser compreendido em várias passagens bíblicas como 'genealogia' ou 'história dos nascimentos'.",
+                            "Ao longo de séculos e séculos de História até nossos dias, judeus e cristãos ortodoxos concolordam que um home, filho de hebreus, da tribo de Levi, ao clã de Coate, e à Casa (ou família) de Anrão (Êx 2.1-10; 6.16; Nm 3.27; At 7.22), nascido no Egito, chamado Mõsheh, Moisés, foi o autor, narrador e compilador dos cinco primeiross livros da Bíblia Sagrada (ainda que tenha contado com a ajuda de escribas e amanuenses, conforme a tradição), que também formam a Torah, isto é, a Lei; o mais respeitado e sagrado livro dos judeus, também conhecido pelo nome grego Pentateuco, numa alusão aos 'cinco livro' que formam um todo em relação à mensagem principal de Deus para seu povo, madamento esse que foi vivido e enfatizado pelo próprio Messias, Jesus Cristo, o Filho de Deus: 'Amarás o Senhor, teu Deus, de todo o teu coloração, de toda a tua alma e com toda a tua inteligência. Este é o primeiro e maior dos mandamentos. O segund, semelante a este, é: 'Amarás o teu próximo como a ti mesmo. A estes dois mandamentos estão sujeitos toda a Lei e os Profetas' (Mt 22.37-40; Dt 6.5); A própria Bíblia defende a autoria mosaica do livro de Gênesis, considerando que em Atos 15.1 refere-se à circuncisão como um 'costume ensinado por Moisés', uma indicação a Gênesis 17, ainda que isso possa também indicar certa medida de atualização escriba ou po parte de algum dos copistas a obra ao longo das eras (Gn 14.14; 36.31; 47.11)."
                         ],
-                        "propositos": [
+                        "purposes": [
                             "O livro de Gênesis trata das principais 'origen' do Universo, dos mais importantes 'começos' em relação à História, à Humanidade, mas, sobretudo, ao povo de Deus na terra. A obra pode ser dividida em duas grandes sessões.: A primeira, que diz respeito à história da Humanidade primitiva (Caps. 1 a 11). A segunda parte apresenta a história do povo específico e escolhido por Deus a fim de se tornar a sua naão e gente de particular comunhão e zelo (Caps. 12 a 50). Moisés apresenta todo o conteúdo de sua obra de modo simples e prático; não tem a preocupação de provar coisa alguma, pois apenas escreve o que Deus lhe mandou dizer e essa é a maior e mais evidente demonstração da verdade que envolve os relatos bíblico. A bíbçia não é um manual técnico, filsófico, terapêutico ou moral; é a Palavra de Deus. E isso basta!",
                             "Dez histórias são contadas, que podem ser bem indentificadas no esboço geral da obra; sendo que algumas dessas histórias são sucintas ou condensadas; contudo, são decisivas para uma compreensão clara e acertada do conteúdo geral. Com certeza o autor usou fontes informativas, oraisa e escritas, pois seus relatos remontam aos tempos mais primitivos da origem da raça humana.",
-                            "Logo a partir de Gênesis e por toda a Torah, o Talmude e toda a Bíblia, a imensa Graça e Misericórdia de Deus ficam evidenciadas, muito acima da própria Lei. No magnífico evento da criação do mundo, a Graça é demonstrada mediante a maravilhosa provisão implementada por Deus para todas as suas criatuas. Na fenomenal criação do ser humano, a Graça do Senhor se manifesta no fato que ao homem foi outorgado o privilégio da semelhança com Deus. A Graça do Senhor evidenciada até mesmo no grande castigo do Dilúvio. E a Graça de Deus vai buscar um homem chamado Abraão, escolhido única e exclusivamente por causa da soberania misericordiosa do Senhor e não por qualquer qualidade ou merecimento por parte de Abraão. Em todos os seus relacionamentos com os chamados Patriarcas, o Senhor demonstra grande amor fraternal e compaixão; e, por isso, sempre receberam muito mais favor, paciência e afeto do que qualquer um deles jamais conseguiria fazer por merecer.",
+                            "Logo a partir de Gênesis e por toda a Torah, o Talmude e toda a Bíblia, a imensa Graça e Misericórdia de Deus ficam evidenciadas, muito acima da própria Lei. No magnífico evento da criação do mundo, a Graça é demonstrada mediante a maravilhosa provisão implementada por Deus para todas as suas criatuas. Na fenomenal criação do ser humano, a Graça do Senhor se manifesta no fato que ao homem foi outorgado o privilégio da semelhança com Deus. A Graça do Senhor evidenciada até mesmo no grande castigo do Dilúvio. E a Graça de Deus vai buscar um homem chamado Abraão, escolhido única e exclusivamente por causa da soberania misericolordiosa do Senhor e não por qualquer qualidade ou merecimento por parte de Abraão. Em todos os seus relacionamentos com os chamados Patriarcas, o Senhor demonstra grande amor fraternal e compaixão; e, por isso, sempre receberam muito mais favor, paciência e afeto do que qualquer um deles jamais conseguiria fazer por merecer.",
                             "O livro de Gênesis é absolutamente fundamental para que possamos compreender todo o restante da Palavra de Deus: a Bíblia. Gênesis é também uma obra que trata de relacionamentos, ressaltando a interação de Deus com a natureza e, sobretudo, com os seres humanos, e estes entre si. O livro é absolutamente monoteísta, tomando por certo e claro a existência de Um só, Eterno e Soberano Deus, digno, portanto desse nome: DEUS. A obra faz evidenteoposição a ideia de que existem muitos deuses espalhados pelo Universo (politeísmo); à fé da possibilidade da não existência nenhum deus ou divindade(ateísmo), e ao pensamento de que deus pode ser e estar em tudo o que existe (panteísmo), Deus nos ensina através da pessoa de Moisés que Deus existe, é real, soberano; é amor, rico em compaixão e generosidade para com todos estabelece - por iniciativa própria - 'alianças' com pessoas escolhidas e seu povo amado, comprometendo-se a dar-lhes amor e fidelidade; e exortando-os a agirem da mesmo forma amorosa e leal para com Ele. Estabelece o sacrifício de sangue como única substituição possível de uma vida pela outra (Gn 22). Proporciona-nos o primeiro indício de que Ele mesmo proveria, a seu tempo, a redenção da pessoa humana dos domínios das forças do mal (Gn 3.15 em relação a Rm 16.17-20), com a definição mais remota, profunda e abrangente do que é fé (Gn 15.6).Mais da metade do capítulo 11 do livro de Hebreus, a chamada galeria da fé do NT, aponta para personagens reais, narrados em Gênesis."
                         ],
-                        "data_da_primeira_publicacao": [
+                        "date_of_the_first_publication": [
                             "O primeiro livro dos Reis fala com exatidão sobre o período histórico em que Moisés viveu: 'o quarto ano do reinado de Salomão em Israel' era o mesmo ano 'quatrocentos e oitenta... depois que os filhos de Israel foram tirados da terra do Egito...' ('1 Rs 6.1). Como a primeira data citada era 966 a.C., a data do êxodo pode ser calculada como 1446 a.C. (considerando que o número 480 em 1 Rs 6.1 seja literal). O período de 40 anos da peregrinação deIsrael pelo deserto, que durou de 1446 a.C., até 1406, provavelmente foi a ocasião em que Moisés escreveu (e/ou ditou) a maior parte do que hoje chamamos Torah ou Pentateuco.",
                             "Contudo, especialmente desde o início do século passado, um número crescente de estudiosos vem afirmando em bases a novas e grandes descobertas arqueológicas, tecnologias e melhores métodos de pesquisa e exegese, a existência de quatro fontes documentárias à Torah, Lei. Os supostos documentos históricos, presumivelmente com datas entre o século 10 e 5 a.C., são denominados 'J' (de Jeová ou Iavé, o nome pessoal de Deus no AT), 'E' (de Elohim, o nome genérico plural em ênfase de Deus), 'D' (de deuteronômico) e 'P' (do inglês priestly, sacerdotal). Defende-se que cada um desses documentos revela características e teologia próprias, muitas vezes contradizendo as dos demais,. Sendo assim, a Torah seria retratada como tecido costurado mediante várias histórias, poesias e leis. Essa teoria, contudo, ainda não consegue apoiar-se em evidencias que possam der dadas como irrefutáveis e livres que qualquer engano. Pesquisas recentes e ainda mais apuradas nos mais variados ramos da filologia, exegese, crítica textual, linguística, história, arqueologia, ciências das línguas originais e da literatura antiga, tendem a desfazer muitos dos interessantes e desafiadores argumentos usados constantemente para atacar as bases bíblicas mais tradicionais, em especial, a autoria mosaica da Torah (Pentateuco)."
                         ],
-                        "esboco_geral_de_genesis": [
+                        "general_outline_of_genesis": [
                             "Moisés foi o homem que o Espírito de Deus inspirou para nos revelar o livro de Gênesis, bem como toda a Torah (Pentateuco). O primeiro livro da Bíblia fornece uma perspectiva histórica sólida e importante para o restante das Sagradas Escrituras, cobrindo mais tempo que todos os demais livros combiados. O extenso escopo do Éden a Ur a Harã a Canaã ao Egito, faz dessa obra absolutamente singular e fundamental não apenas a introdução à Torah (Pentateuco), mas às Escrituras Sagradas como umtodo. Gênesis proporciona aos seus leitores o fundamento para todas as grandes doutrinas da Bíblia. Ele revela como Deus supera o fracasso humano sob diferentes condições. Gênesis é especialmente crucial para uma compreensão da Revelação, porque o primeiro e o último capítulo da Bíblia se acham intimamente entrelaçados.",
                             "Há várias formas de se dividir didaticamente o livro de Gênesis, uma delas é compreendendo que o livro não é tanto uma história do homem (como cottentes humanistas apreciam considerar), mas o prieiro capítulo na História da Rendenção do ser humano. Como tal, é uma sublime interpretação espiritual seletiva da História. Gênesis pode ser subdividido em quatro grandes eventos (Caps. 1 a 11), e quatro grandes pessoas (Caps. 12 a 50).",
                             "Os quatro grandes eventos (Gn 1-11) lançam os alicerces sobre os quais toda a Bíblia está construída e se centram em quatro acontecimentos chaves:",
                             "1) Criação: Deus é soberano Criador da matéria, energia, espaço e tempo. O homem é o masterpiece, a maravilhosa obra prima da Criação.",
-                            "2) Queda: A Criação é seguida pela corrupção. No primeiro pecado, o homem é separado de Deus, o Criador, isto é, Adão é afastadode Deus; e, no segundo pecado, o homem é separado do seu semelhante e próximo, Caim se afasta de Abel. Apesar de horrível e devastadora maldição da Queda, é o Senhor Deus quem toma a iniciativa de prover a solução e promete esperança e Redenção, a qual se dará por meio da semente de um ser humano feminino (Gn3.15).",
+                            "2) Queda: A Criação é seguida pela colorrupção. No primeiro pecado, o homem é separado de Deus, o Criador, isto é, Adão é afastadode Deus; e, no segundo pecado, o homem é separado do seu semelhante e próximo, Caim se afasta de Abel. Apesar de horrível e devastadora maldição da Queda, é o Senhor Deus quem toma a iniciativa de prover a solução e promete esperança e Redenção, a qual se dará por meio da semente de um ser humano feminino (Gn3.15).",
                             "3) Dilúvio: Como o ser humano se multiplica muito e rápido, o pecado acompanha a evolução natural da espécie, e, infelizmente, também se multiplica; até que Deus sente que deve destruir a Humanidade com exceção de um homem e sa família: Noé.",
                             "4) Nações: Oprimeiro livro da Bíblia nos ensina que a Humanidade é uma raça unida por ligações de filiação e parentesco: somos todos filhos de Adão atravez de Noé; contudo, por causa da rebelião da Torre de Babel, o Senhor Deus decide fragmentar a única cultura e linguagem que havia sobre a terra no mundo pós-diluviano e dispersa o povo para várias partes do planeta.",
                             "À medida que as nações, culturas e línguasvão se dispersando mais e mais, Deus escolhe e separa um homem e sua família (decendência) mediante os quais ele abençoaria todos os demais povos daterra (Gn 12-50):",
@@ -282,705 +282,706 @@
                             "E o livro de Gênesis termina com uma nota de iminente escravição com a morte de josé. A grande e crescente necessidade de Redenção chega ao seu clímax e solução no livro de Moisés que se segue: Êxodo."
                         ]
                     },
-                    "capitulos": {
-                        "numero": 1,
-                        "titulo": "No Princípio בְּרֵאשִׁית",
-
-                        "versiculos": [
+                    "chapters": {
+                        "id": "gn.1.title",
+                        "number": 1,
+                        "title": "No Princípio בְּרֵאשִׁית",
+                        "note_title": "A Torah תורה Torah ou Hattôrá \"A Lei\" (os cinco primeiro livros das Sagradas Escrituras e da Bília Hebraica Sẽpher Hattôrâ \"O Livro da Lei\"), conhecida tabmém como Chumach ou Pentateuchos \"os cinco quintos da Lei\" ou \"o Livro em cinco volumes\" em grego, e seu estudo sabático remontam guidade judaica; ao Templo e, mais tarde, à restauração pós-exílica dos jusdeus na Babilônia promovida por Esdras e Neemias, quando sugiram as primeiras sinagogas. O título hebraico deste primeiro livro בראשית (escrito de forma original, sem a acentuação e os sinais que fazem parte do sistema vocálico criado pelosmassoretas por volta do séc. XVII), provém das primeiras palavras do próprio texto Sagrado, escrito por Moisés: Bereshit \"No princípio\". O título \"Gênesis\", (LXX, a mais antiga tradução do AT para o grego, feita por um colegiado de cerca de setenta eruditos de Alexandria em 285 a.C.), e provém da expressão grega  Geneseôs, que pode significar - dependendo do contexto - \"genealogia\", \"nascimento\" ou ainda \"história das origens\". Assim, tanto na forma hebraica quanto na grega, o título deste livro reflete perfeitamente seu conteúdo: \"os princípios\", \"os começos\", \"as origens\" (2.4; 5.1).",
+                        "verses": [
                             {
                                 "id": "gn.1.1",
-                                "numero": 1,
-                                "texto": "No princípio, Deus criou os céus e a terra.",
-                                "texto_hebraico": "בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ: ",
-                                "falas": [
+                                "number": 1,
+                                "text": "No princípio, Deus criou os céus e a terra.",
+                                "text_hebrew": "בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "No princípio, Deus criou os céus e a terra.",
-                                        "texto_hebraico": "בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ: ",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "No princípio, Deus criou os céus e a terra.",
+                                        "text_hebrew": "בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ: ",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": "A primeira frase nos manuscritos hebraicos das Sagradas Escrituras narrara de maneira clara, assertia e tranquila o momento da Criação: ואת הארץ בראשית ברא אלהים את השמים frase que pode ser transliterada da seguinte forma Bereshit bará Elohim et Hashamaim vê et Haaretz. Durante toda a História da humanidade, profetas e poetas de Deus têm afirmado com júbilo essa verdade incontestável (Sl 102.25; Is 40.21). Ainda que todas as coisas tenham sido criadas por Deus, Ele mesmo (o Espírito Santo) e sua Palavra (Cristo), sempre existiram (Sl 90.2; Jo 1.1-10). O substantivo hebraico Elohim está no plural, porém o verbo permanece no singular; uso gramatical comum nas frases do AT quando se faz referência à majestade sobretana do Senhor como Único e Verdadeiro Deus. Nesse sentido, o plural denota intensificação e nnão, exatamente, número, sendo chamado de plutal de potencialidade. No AT o verbo bará (acima) tem uso restrito à \"criação divina\", jamais a qualquer projeto, trabalho ou construção humana (Is 44.24; 45.18; Ec 11.5; Jr 10.16; Jo 1.3; Cl 1.16; Hb 1.2). Mesmo considerando os grandes avanços científicos atuais e as melhores análises exegéticas e teológicas não é possível precisar a idade do Universo nem quanto tempo levou o \"ato da criação\". E provável que milhões de anos (aiõnas \"eras\") tenham passado entre os vv.1 e 2; porquanto Deus é senhor do tempo, espaço, matéria e de toda a energia, e não se deixa circunscrever por nenhuma  dessas dimensões, por isso \"Ele É\" (יהוה YHWH ou Yahweh - \"Jeová ou Javé, o Senhor\" - Êx 3.13-25; 6.3), constante, absoluto e verdadeiramente criativo (Hb 11.3; 2Pe 3.8).",
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.2",
-                                "numero": 2,
-                                "texto": "A terra, entretanto, era sem forma e vazia. A escuridão cobria o mar que envolvia toda a terra, e o Espírito de Deus se movia sobre a face das águas.",
-                                "texto_hebraico": "וְהָאָרֶץ הָיְתָה תֹהוּ וָבֹהוּ וְחֹשֶׁךְ עַל- פְּנֵי תְהוֹם וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל- פְּנֵי הַמָּיִם: ",
-                                "falas": [
+                                "number": 2,
+                                "text": "A terra, entretanto, era sem forma e vazia. A escuridão cobria o mar que envolvia toda a terra, e o Espírito de Deus se movia sobre a face das águas.",
+                                "text_hebrew": "וְהָאָרֶץ הָיְתָה תֹהוּ וָבֹהוּ וְחֹשֶׁךְ עַל- פְּנֵי תְהוֹם וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל- פְּנֵי הַמָּיִם: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "A terra, entretanto, era sem forma e vazia. A escuridão cobria o mar que envolvia toda a terra, e o Espírito de Deus se movia sobre a face das águas.",
-                                        "texto_hebraico": "וְהָאָרֶץ הָיְתָה תֹהוּ וָבֹהוּ וְחֹשֶׁךְ עַל- פְּנֵי תְהוֹם וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל- פְּנֵי הַמָּיִם: ",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "A terra, entretanto, era sem forma e vazia. A escuridão cobria o mar que envolvia toda a terra, e o Espírito de Deus se movia sobre a face das águas.",
+                                        "text_hebrew": "וְהָאָרֶץ הָיְתָה תֹהוּ וָבֹהוּ וְחֹשֶׁךְ עַל- פְּנֵי תְהוֹם וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל- פְּנֵי הַמָּיִם: ",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.3",
-                                "numero": 3,
-                                "texto": "Disse Deus: \"Haja luz!\", e houve luz.",
-                                "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי- אוֹר: ",
-                                "falas": [
+                                "number": 3,
+                                "text": "Disse Deus: \"Haja luz!\", e houve luz.",
+                                "text_hebrew": "וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי- אוֹר: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Disse Deus: ",
-                                        "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Disse Deus: ",
+                                        "text_hebrew": "וַיֹּאמֶר אֱלֹהִים",
+                                        "color": "default",
+                                        "emphasis": false
                                     },
                                     {
-                                        "personagem": "Deus",
-                                        "texto": "Haja luz!",
-                                        "texto_hebraico": "יְהִי אוֹר",
-                                        "cor": "azul",
-                                        "destaque": true
+                                        "character": "Deus",
+                                        "text": "Haja luz!",
+                                        "text_hebrew": "יְהִי אוֹר",
+                                        "color": "azul",
+                                        "emphasis": true
                                     },
                                     {
-                                        "personagem": "Comum",
-                                        "texto": ", e houve luz.",
-                                        "texto_hebraico": "וַיְהִי- אוֹר:",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": ", e houve luz.",
+                                        "text_hebrew": "וַיְהִי- אוֹר:",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.4",
-                                "numero": 4,
-                                "texto": "Viu Deus que a luz era boa; e separou a luz das trevas.",
-                                "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי- אוֹר: ",
-                                "falas": [
+                                "number": 4,
+                                "text": "Viu Deus que a luz era boa; e separou a luz das trevas.",
+                                "text_hebrew": "וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי- אוֹר: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Viu Deus que a luz era boa; e separou a luz das trevas.",
-                                        "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי- אוֹר: ",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Viu Deus que a luz era boa; e separou a luz das trevas.",
+                                        "text_hebrew": "וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי- אוֹר: ",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.5",
-                                "numero": 5,
-                                "texto": "Chamou  Deus à luz \"Dia\", e às trevas chamou \"Noite\". Houve então, a tarde e a manhã: o primeiro dia.",
-                                "texto_hebraico": "וַיִּקְרָא אֱלֹהִים לָאוֹר יוֹם וְלַחֹשֶׁךְ קָרָא לָיְלָה וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם אֶחָד: ",
-                                "falas": [
+                                "number": 5,
+                                "text": "Chamou  Deus à luz \"Dia\", e às trevas chamou \"Noite\". Houve então, a tarde e a manhã: o primeiro dia.",
+                                "text_hebrew": "וַיִּקְרָא אֱלֹהִים לָאוֹר יוֹם וְלַחֹשֶׁךְ קָרָא לָיְלָה וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם אֶחָד: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Chamou  Deus à luz ",
-                                        "texto_hebraico": "וַיִּקְרָא אֱלֹהִים לָאוֹר",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Chamou  Deus à luz ",
+                                        "text_hebrew": "וַיִּקְרָא אֱלֹהִים לָאוֹר",
+                                        "color": "default",
+                                        "emphasis": false
                                     },
                                     {
-                                        "personagem": "Deus",
-                                        "texto": "Dia",
-                                        "texto_hebraico": "יוֹם",
-                                        "cor": "azul",
-                                        "destaque": true
+                                        "character": "Deus",
+                                        "text": "Dia",
+                                        "text_hebrew": "יוֹם",
+                                        "color": "azul",
+                                        "emphasis": true
                                     },
                                     {
-                                        "personagem": "Comum",
-                                        "texto": ", e às trevas chamou ",
-                                        "texto_hebraico": "וְלַחֹשֶׁךְ קָרָא",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": ", e às trevas chamou ",
+                                        "text_hebrew": "וְלַחֹשֶׁךְ קָרָא",
+                                        "color": "default",
+                                        "emphasis": false
                                     },
                                     {
-                                        "personagem": "Deus",
-                                        "texto": "Noite",
-                                        "texto_hebraico": "לָיְלָה",
-                                        "cor": "azul",
-                                        "destaque": true
+                                        "character": "Deus",
+                                        "text": "Noite",
+                                        "text_hebrew": "לָיְלָה",
+                                        "color": "azul",
+                                        "emphasis": true
                                     },
                                     {
-                                        "personagem": "Comum",
-                                        "texto": ". Houve então, a tarde e a manhã: o primeiro dia.",
-                                        "texto_hebraico": "וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם אֶחָד:",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": ". Houve então, a tarde e a manhã: o primeiro dia.",
+                                        "text_hebrew": "וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם אֶחָד:",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.6",
-                                "numero": 6,
-                                "texto": "Depois disse Deus: \"Haja entre as águas um limite para separá-las em duas partes!\"",
-                                "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים יְהִי רָקִיעַ בְּתוֹךְ הַמָּיִם וִיהִי מַבְדִּיל בֵּין מַיִם לָמָיִם: ",
-                                "falas": [
+                                "number": 6,
+                                "text": "Depois disse Deus: \"Haja entre as águas um limite para separá-las em duas partes!\"",
+                                "text_hebrew": "וַיֹּאמֶר אֱלֹהִים יְהִי רָקִיעַ בְּתוֹךְ הַמָּיִם וִיהִי מַבְדִּיל בֵּין מַיִם לָמָיִם: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Depois disse Deus: ",
-                                        "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Depois disse Deus: ",
+                                        "text_hebrew": "וַיֹּאמֶר אֱלֹהִים",
+                                        "color": "default",
+                                        "emphasis": false
                                     },
                                     {
-                                        "personagem": "Deus",
-                                        "texto": "Haja entre as águas um limite para separá-las em duas partes!",
-                                        "texto_hebraico": "",
-                                        "cor": "azul",
-                                        "destaque": true
+                                        "character": "Deus",
+                                        "text": "Haja entre as águas um limite para separá-las em duas partes!",
+                                        "text_hebrew": "",
+                                        "color": "azul",
+                                        "emphasis": true
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.7",
-                                "numero": 7,
-                                "texto": "Fez, portanto, Deus o firmamento e separou as águas estabelecidas abaixo desse limite, das que ficaram por cima. E assim aconteceu.",
-                                "texto_hebraico": "וַיַּעַשׂ אֱלֹהִים אֶת- הָרָקִיעַ וַיַּבְדֵּל בֵּין הַמַּיִם אֲשֶׁר מִתַּחַת לָרָקִיעַ וּבֵין הַמַּיִם אֲשֶׁר מֵעַל לָרָקִיעַ וַיְהִי- כֵן: ",
-                                "falas": [
+                                "number": 7,
+                                "text": "Fez, portanto, Deus o firmamento e separou as águas estabelecidas abaixo desse limite, das que ficaram por cima. E assim aconteceu.",
+                                "text_hebrew": "וַיַּעַשׂ אֱלֹהִים אֶת- הָרָקִיעַ וַיַּבְדֵּל בֵּין הַמַּיִם אֲשֶׁר מִתַּחַת לָרָקִיעַ וּבֵין הַמַּיִם אֲשֶׁר מֵעַל לָרָקִיעַ וַיְהִי- כֵן: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Fez, portanto, Deus o firmamento e separou as águas estabelecidas abaixo desse limite, das que ficaram por cima. E assim aconteceu.",
-                                        "texto_hebraico": "וַיַּעַשׂ אֱלֹהִים אֶת- הָרָקִיעַ וַיַּבְדֵּל בֵּין הַמַּיִם אֲשֶׁר מִתַּחַת לָרָקִיעַ וּבֵין הַמַּיִם אֲשֶׁר מֵעַל לָרָקִיעַ וַיְהִי- כֵן: ",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Fez, portanto, Deus o firmamento e separou as águas estabelecidas abaixo desse limite, das que ficaram por cima. E assim aconteceu.",
+                                        "text_hebrew": "וַיַּעַשׂ אֱלֹהִים אֶת- הָרָקִיעַ וַיַּבְדֵּל בֵּין הַמַּיִם אֲשֶׁר מִתַּחַת לָרָקִיעַ וּבֵין הַמַּיִם אֲשֶׁר מֵעַל לָרָקִיעַ וַיְהִי- כֵן: ",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.8",
-                                "numero": 8,
-                                "texto": "E Deus ao firmamento deu o nome de \"Céu\". A tarde passou, e raiou a manhã: esse foi o segundo dia.",
-                                "texto_hebraico": "וַיִּקְרָא אֱלֹהִים לָרָקִיעַ שָׁמָיִם וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם שֵׁנִי: ",
-                                "falas": [
+                                "number": 8,
+                                "text": "E Deus ao firmamento deu o nome de \"Céu\". A tarde passou, e raiou a manhã: esse foi o segundo dia.",
+                                "text_hebrew": "וַיִּקְרָא אֱלֹהִים לָרָקִיעַ שָׁמָיִם וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם שֵׁנִי: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "E Deus ao firmamento deu o nome de ",
-                                        "texto_hebraico": "וַיִּקְרָא אֱלֹהִים לָרָקִיעַ",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "E Deus ao firmamento deu o nome de ",
+                                        "text_hebrew": "וַיִּקְרָא אֱלֹהִים לָרָקִיעַ",
+                                        "color": "default",
+                                        "emphasis": false
                                     },
                                     {
-                                        "personagem": "Deus",
-                                        "texto": "Céu",
-                                        "texto_hebraico": "",
-                                        "cor": "azul",
-                                        "destaque": true
+                                        "character": "Deus",
+                                        "text": "Céu",
+                                        "text_hebrew": "",
+                                        "color": "azul",
+                                        "emphasis": true
                                     },
                                     {
-                                        "personagem": "Comum",
-                                        "texto": ". A tarde passou, e raiou a manhã: esse foi o segundo dia.",
-                                        "texto_hebraico": "וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם שֵׁנִי:",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": ". A tarde passou, e raiou a manhã: esse foi o segundo dia.",
+                                        "text_hebrew": "וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם שֵׁנִי:",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.9",
-                                "numero": 9,
-                                "texto": "Então disse Deus: \"Que as águas que estão sob o céu se reúnam num só lugar, a fim de que apareça a parte seca!\" E assim aconteceu.",
-                                "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים יִקָּווּ הַמַּיִם מִתַּחַת הַשָּׁמַיִם אֶל- מָקוֹם אֶחָד וְתֵרָאֶה הַיַּבָּשָׁה וַיְהִי- כֵן: ",
-                                "falas": [
+                                "number": 9,
+                                "text": "Então disse Deus: \"Que as águas que estão sob o céu se reúnam num só lugar, a fim de que apareça a parte seca!\" E assim aconteceu.",
+                                "text_hebrew": "וַיֹּאמֶר אֱלֹהִים יִקָּווּ הַמַּיִם מִתַּחַת הַשָּׁמַיִם אֶל- מָקוֹם אֶחָד וְתֵרָאֶה הַיַּבָּשָׁה וַיְהִי- כֵן: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Então disse Deus: ",
-                                        "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Então disse Deus: ",
+                                        "text_hebrew": "וַיֹּאמֶר אֱלֹהִים",
+                                        "color": "default",
+                                        "emphasis": false
                                     },
                                     {
-                                        "personagem": "Deus",
-                                        "texto": "Que as águas que estão sob o céu se reúnam num só lugar, a fim de que apareça a parte seca!",
-                                        "texto_hebraico": "",
-                                        "cor": "azul",
-                                        "destaque": true
+                                        "character": "Deus",
+                                        "text": "Que as águas que estão sob o céu se reúnam num só lugar, a fim de que apareça a parte seca!",
+                                        "text_hebrew": "",
+                                        "color": "azul",
+                                        "emphasis": true
                                     },
                                     {
-                                        "personagem": "Comum",
-                                        "texto": " E assim aconteceu.",
-                                        "texto_hebraico": "וַיְהִי- כֵן:",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": " E assim aconteceu.",
+                                        "text_hebrew": "וַיְהִי- כֵן:",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.10",
-                                "numero": 10,
-                                "texto": "Deus outorgou o nome de \"Terra\" à parte seca, e a massa das águas que se haviam ajuntado Ele chamou de 'Mares'. E observou Deus que isso era bom.",
-                                "texto_hebraico": "וַיִּקְרָא אֱלֹהִים לַיַּבָּשָׁה אֶרֶץ וּלְמִקְוֵה הַמַּיִם קָרָא יַמִּים וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
-                                "falas": [
+                                "number": 10,
+                                "text": "Deus outorgou o nome de \"Terra\" à parte seca, e a massa das águas que se haviam ajuntado Ele chamou de 'Mares'. E observou Deus que isso era bom.",
+                                "text_hebrew": "וַיִּקְרָא אֱלֹהִים לַיַּבָּשָׁה אֶרֶץ וּלְמִקְוֵה הַמַּיִם קָרָא יַמִּים וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Deus outorgou o nome de \"Terra\" à parte seca, e a massa das águas que se haviam ajuntado Ele chamou de 'Mares'. E observou Deus que isso era bom.",
-                                        "texto_hebraico": "וַיִּקְרָא אֱלֹהִים לַיַּבָּשָׁה אֶרֶץ וּלְמִקְוֵה הַמַּיִם קָרָא יַמִּים וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Deus outorgou o nome de \"Terra\" à parte seca, e a massa das águas que se haviam ajuntado Ele chamou de 'Mares'. E observou Deus que isso era bom.",
+                                        "text_hebrew": "וַיִּקְרָא אֱלֹהִים לַיַּבָּשָׁה אֶרֶץ וּלְמִקְוֵה הַמַּיִם קָרָא יַמִּים וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.11",
-                                "numero": 11,
-                                "texto": "E determinou: \"Que a terra seja coberta com todo tipo de vegetação! Plantas que deem semente e árvores cujos frutos produzam sementes conforme suas próprias espécies\". E assim aconteceu.",
-                                "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים תַּדְשֵׁא הָאָרֶץ דֶּשֶׁא עֵשֶׂב מַזְרִיעַ זֶרַע עֵץ פְּרִי עֹשֶׂה פְּרִי לְמִינוֹ אֲשֶׁר זַרְעוֹ- בוֹ עַל- הָאָרֶץ וַיְהִי- כֵן: ",
-                                "falas": [
+                                "number": 11,
+                                "text": "E determinou: \"Que a terra seja coberta com todo tipo de vegetação! Plantas que deem semente e árvores cujos frutos produzam sementes conforme suas próprias espécies\". E assim aconteceu.",
+                                "text_hebrew": "וַיֹּאמֶר אֱלֹהִים תַּדְשֵׁא הָאָרֶץ דֶּשֶׁא עֵשֶׂב מַזְרִיעַ זֶרַע עֵץ פְּרִי עֹשֶׂה פְּרִי לְמִינוֹ אֲשֶׁר זַרְעוֹ- בוֹ עַל- הָאָרֶץ וַיְהִי- כֵן: ",
+                                "speeches": [
                                     {
-                                        "personagem":"Comum",
-                                        "texto": "E determinou: ",
-                                        "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character":"Comum",
+                                        "text": "E determinou: ",
+                                        "text_hebrew": "וַיֹּאמֶר אֱלֹהִים",
+                                        "color": "default",
+                                        "emphasis": false
                                     },
                                     {
-                                        "personagem": "Deus",
-                                        "texto": "Que a terra seja coberta com todo tipo de vegetação! Plantas que deem semente e árvores cujos frutos produzam sementes conforme suas próprias espécies",
-                                        "texto_hebraico": "תַּדְשֵׁא הָאָרֶץ דֶּשֶׁא עֵשֶׂב מַזְרִיעַ זֶרַע עֵץ פְּרִי עֹשֶׂה פְּרִי לְמִינוֹ אֲשֶׁר זַרְעוֹ- בוֹ עַל- הָאָרֶץ",
-                                        "cor": "azul",
-                                        "destaque": true
+                                        "character": "Deus",
+                                        "text": "Que a terra seja coberta com todo tipo de vegetação! Plantas que deem semente e árvores cujos frutos produzam sementes conforme suas próprias espécies",
+                                        "text_hebrew": "תַּדְשֵׁא הָאָרֶץ דֶּשֶׁא עֵשֶׂב מַזְרִיעַ זֶרַע עֵץ פְּרִי עֹשֶׂה פְּרִי לְמִינוֹ אֲשֶׁר זַרְעוֹ- בוֹ עַל- הָאָרֶץ",
+                                        "color": "azul",
+                                        "emphasis": true
                                     },
                                     {
-                                        "personagem":"Comum",
-                                        "texto": ". E assim aconteceu.",
-                                        "texto_hebraico": "וַיְהִי- כֵן:",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character":"Comum",
+                                        "text": ". E assim aconteceu.",
+                                        "text_hebrew": "וַיְהִי- כֵן:",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.12",
-                                "numero": 12,
-                                "texto": "E, assim a terra fez brotar toda a vegetação: ervas que dão sementes segundo sua espécie, e arvores que produzem frutos, cujas sementes estejam neles, de acordo com suas espécies. E observou Deus que isso era bom.",
-                                "texto_hebraico": "וַתּוֹצֵא הָאָרֶץ דֶּשֶׁא עֵשֶׂב מַזְרִיעַ זֶרַע לְמִינֵהוּ וְעֵץ עֹשֶׂה- פְּרִי אֲשֶׁר זַרְעוֹ- בוֹ לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
-                                "falas": [
+                                "number": 12,
+                                "text": "E, assim a terra fez brotar toda a vegetação: ervas que dão sementes segundo sua espécie, e arvores que produzem frutos, cujas sementes estejam neles, de acolordo com suas espécies. E observou Deus que isso era bom.",
+                                "text_hebrew": "וַתּוֹצֵא הָאָרֶץ דֶּשֶׁא עֵשֶׂב מַזְרִיעַ זֶרַע לְמִינֵהוּ וְעֵץ עֹשֶׂה- פְּרִי אֲשֶׁר זַרְעוֹ- בוֹ לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "E, assim a terra fez brotar toda a vegetação: ervas que dão sementes segundo sua espécie, e arvores que produzem frutos, cujas sementes estejam neles, de acordo com suas espécies. E observou Deus que isso era bom.",
-                                        "texto_hebraico": "וַתּוֹצֵא הָאָרֶץ דֶּשֶׁא עֵשֶׂב מַזְרִיעַ זֶרַע לְמִינֵהוּ וְעֵץ עֹשֶׂה- פְּרִי אֲשֶׁר זַרְעוֹ- בוֹ לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "E, assim a terra fez brotar toda a vegetação: ervas que dão sementes segundo sua espécie, e arvores que produzem frutos, cujas sementes estejam neles, de acolordo com suas espécies. E observou Deus que isso era bom.",
+                                        "text_hebrew": "וַתּוֹצֵא הָאָרֶץ דֶּשֶׁא עֵשֶׂב מַזְרִיעַ זֶרַע לְמִינֵהוּ וְעֵץ עֹשֶׂה- פְּרִי אֲשֶׁר זַרְעוֹ- בוֹ לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.13",
-                                "numero": 13,
-                                "texto": "Passaram-se a tarde e a manhã: esse foi o terceiro dia.",
-                                "texto_hebraico": "וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם שְׁלִישִׁי: ",
-                                "falas": [
+                                "number": 13,
+                                "text": "Passaram-se a tarde e a manhã: esse foi o terceiro dia.",
+                                "text_hebrew": "וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם שְׁלִישִׁי: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Passaram-se a tarde e a manhã: esse foi o terceiro dia.",
-                                        "texto_hebraico": "וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם שְׁלִישִׁי: ",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Passaram-se a tarde e a manhã: esse foi o terceiro dia.",
+                                        "text_hebrew": "וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם שְׁלִישִׁי: ",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.14",
-                                "numero": 14,
-                                "texto": "Declarou Deus: \"Haja luminares no firmamento do céu a fim de separar o dia da noite; e sirvam eles de sinais para definir as estações, dias e anos;",
-                                "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים יְהִי מְאֹרֹת בִּרְקִיעַ הַשָּׁמַיִם לְהַבְדִּיל בֵּין הַיּוֹם וּבֵין הַלָּיְלָה וְהָיוּ לְאֹתֹת וּלְמוֹעֲדִים וּלְיָמִים וְשָׁנִים: ",
-                                "falas": [
+                                "number": 14,
+                                "text": "Declarou Deus: \"Haja luminares no firmamento do céu a fim de separar o dia da noite; e sirvam eles de sinais para definir as estações, dias e anos;",
+                                "text_hebrew": "וַיֹּאמֶר אֱלֹהִים יְהִי מְאֹרֹת בִּרְקִיעַ הַשָּׁמַיִם לְהַבְדִּיל בֵּין הַיּוֹם וּבֵין הַלָּיְלָה וְהָיוּ לְאֹתֹת וּלְמוֹעֲדִים וּלְיָמִים וְשָׁנִים: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Declarou Deus: ",
-                                        "textor_hebraico": "וַיֹּאמֶר אֱלֹהִים",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Declarou Deus: ",
+                                        "text_hebrew": "וַיֹּאמֶר אֱלֹהִים",
+                                        "color": "default",
+                                        "emphasis": false
                                     },
                                     {
-                                        "personagem": "Deus",
-                                        "texto": "Haja luminares no firmamento do céu a fim de separar o dia da noite; e sirvam eles de sinais para definir as estações, dias e anos;",
-                                        "textor_hebraico": "יְהִי מְאֹרֹת בִּרְקִיעַ הַשָּׁמַיִם לְהַבְדִּיל בֵּין הַיּוֹם וּבֵין הַלָּיְלָה וְהָיוּ לְאֹתֹת וּלְמוֹעֲדִים וּלְיָמִים וְשָׁנִים:",
-                                        "cor": "azul",
-                                        "destaque": true
+                                        "character": "Deus",
+                                        "text": "Haja luminares no firmamento do céu a fim de separar o dia da noite; e sirvam eles de sinais para definir as estações, dias e anos;",
+                                        "text_hebrew": "יְהִי מְאֹרֹת בִּרְקִיעַ הַשָּׁמַיִם לְהַבְדִּיל בֵּין הַיּוֹם וּבֵין הַלָּיְלָה וְהָיוּ לְאֹתֹת וּלְמוֹעֲדִים וּלְיָמִים וְשָׁנִים:",
+                                        "color": "azul",
+                                        "emphasis": true
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.15",
-                                "numero": 15,
-                                "texto": "e que sejam também luzeiros nos céus, para iluminar toda a terra!\" E assim aconteceu.",
-                                "texto_hebraico": "וְהָיוּ לִמְאוֹרֹת בִּרְקִיעַ הַשָּׁמַיִם לְהָאִיר עַל- הָאָרֶץ וַיְהִי- כֵן: ",
-                                "falas": [
+                                "number": 15,
+                                "text": "e que sejam também luzeiros nos céus, para iluminar toda a terra!\" E assim aconteceu.",
+                                "text_hebrew": "וְהָיוּ לִמְאוֹרֹת בִּרְקִיעַ הַשָּׁמַיִם לְהָאִיר עַל- הָאָרֶץ וַיְהִי- כֵן: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Deus",
-                                        "texto": "e que sejam também luzeiros nos céus, para iluminar toda a terra!",
-                                        "texto_hebraico": "וְהָיוּ לִמְאוֹרֹת בִּרְקִיעַ הַשָּׁמַיִם לְהָאִיר עַל- הָאָרֶץ",
-                                        "cor": "azul",
-                                        "destaque": true
+                                        "character": "Deus",
+                                        "text": "e que sejam também luzeiros nos céus, para iluminar toda a terra!",
+                                        "text_hebrew": "וְהָיוּ לִמְאוֹרֹת בִּרְקִיעַ הַשָּׁמַיִם לְהָאִיר עַל- הָאָרֶץ",
+                                        "color": "azul",
+                                        "emphasis": true
                                     },
                                     {
-                                        "personagem": "Comum",
-                                        "texto": " E assim aconteceu.",
-                                        "texto_hebraico": "וַיְהִי- כֵן:",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": " E assim aconteceu.",
+                                        "text_hebrew": "וַיְהִי- כֵן:",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.16",
-                                "numero": 16,
-                                "texto": "Deus fez os dois grandes luzeiros: o maior para governar o dia e o menor para regular o andamento da noite. E formou também as estrelas.",
-                                "texto_hebraico": "וַיַּעַשׂ אֱלֹהִים אֶת- שְׁנֵי הַמְּאֹרֹת הַגְּדֹלִים אֶת- הַמָּאוֹר הַגָּדֹל לְמֶמְשֶׁלֶת הַיּוֹם וְאֶת- הַמָּאוֹר הַקָּטֹן לְמֶמְשֶׁלֶת הַלַּיְלָה וְאֵת הַכּוֹכָבִים: ",
-                                "falas": [
+                                "number": 16,
+                                "text": "Deus fez os dois grandes luzeiros: o maior para governar o dia e o menor para regular o andamento da noite. E formou também as estrelas.",
+                                "text_hebrew": "וַיַּעַשׂ אֱלֹהִים אֶת- שְׁנֵי הַמְּאֹרֹת הַגְּדֹלִים אֶת- הַמָּאוֹר הַגָּדֹל לְמֶמְשֶׁלֶת הַיּוֹם וְאֶת- הַמָּאוֹר הַקָּטֹן לְמֶמְשֶׁלֶת הַלַּיְלָה וְאֵת הַכּוֹכָבִים: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Deus fez os dois grandes luzeiros: o maior para governar o dia e o menor para regular o andamento da noite. E formou também as estrelas.",
-                                        "texto_hebraico": "וַיַּעַשׂ אֱלֹהִים אֶת- שְׁנֵי הַמְּאֹרֹת הַגְּדֹלִים אֶת- הַמָּאוֹר הַגָּדֹל לְמֶמְשֶׁלֶת הַיּוֹם וְאֶת- הַמָּאוֹר הַקָּטֹן לְמֶמְשֶׁלֶת הַלַּיְלָה וְאֵת הַכּוֹכָבִים: ",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Deus fez os dois grandes luzeiros: o maior para governar o dia e o menor para regular o andamento da noite. E formou também as estrelas.",
+                                        "text_hebrew": "וַיַּעַשׂ אֱלֹהִים אֶת- שְׁנֵי הַמְּאֹרֹת הַגְּדֹלִים אֶת- הַמָּאוֹר הַגָּדֹל לְמֶמְשֶׁלֶת הַיּוֹם וְאֶת- הַמָּאוֹר הַקָּטֹן לְמֶמְשֶׁלֶת הַלַּיְלָה וְאֵת הַכּוֹכָבִים: ",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.17",
-                                "numero": 17,
-                                "texto": "Deus colocou todas essas luzes nos céus a fim de iluminarem toda a terra,",
-                                "texto_hebraico": "וַיִּתֵּן אֹתָם אֱלֹהִים בִּרְקִיעַ הַשָּׁמָיִם לְהָאִיר עַל- הָאָרֶץ: ",
-                                "falas": [
+                                "number": 17,
+                                "text": "Deus colocou todas essas luzes nos céus a fim de iluminarem toda a terra,",
+                                "text_hebrew": "וַיִּתֵּן אֹתָם אֱלֹהִים בִּרְקִיעַ הַשָּׁמָיִם לְהָאִיר עַל- הָאָרֶץ: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Deus colocou todas essas luzes nos céus a fim de iluminarem toda a terra,",
-                                        "texto_hebraico": "וַיִּתֵּן אֹתָם אֱלֹהִים בִּרְקִיעַ הַשָּׁמָיִם לְהָאִיר עַל- הָאָרֶץ: ",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Deus colocou todas essas luzes nos céus a fim de iluminarem toda a terra,",
+                                        "text_hebrew": "וַיִּתֵּן אֹתָם אֱלֹהִים בִּרְקִיעַ הַשָּׁמָיִם לְהָאִיר עַל- הָאָרֶץ: ",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.18",
-                                "numero": 18,
-                                "texto": "para dirigirem o andamento do dia e da noite e fazerem separação entre a lz e a escuridão. E observou Deus que isso era bom.",
-                                "texto_hebraico": "וְלִמְשֹׁל בַּיּוֹם וּבַלַּיְלָה וּלֲהַבְדִּיל בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
-                                "falas": [
+                                "number": 18,
+                                "text": "para dirigirem o andamento do dia e da noite e fazerem separação entre a lz e a escuridão. E observou Deus que isso era bom.",
+                                "text_hebrew": "וְלִמְשֹׁל בַּיּוֹם וּבַלַּיְלָה וּלֲהַבְדִּיל בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "para dirigirem o andamento do dia e da noite e fazerem separação entre a lz e a escuridão. E observou Deus que isso era bom.",
-                                        "texto_hebraico": "וְלִמְשֹׁל בַּיּוֹם וּבַלַּיְלָה וּלֲהַבְדִּיל בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "para dirigirem o andamento do dia e da noite e fazerem separação entre a lz e a escuridão. E observou Deus que isso era bom.",
+                                        "text_hebrew": "וְלִמְשֹׁל בַּיּוֹם וּבַלַּיְלָה וּלֲהַבְדִּיל בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.19",
-                                "numero": 19,
-                                "texto": "Passaram-se a tarde e a manhã: esse foi o quarto dia.",
-                                "texto_hebraico": "וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם רְבִיעִי: ",
-                                "falas": [
+                                "number": 19,
+                                "text": "Passaram-se a tarde e a manhã: esse foi o quarto dia.",
+                                "text_hebrew": "וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם רְבִיעִי: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Passaram-se a tarde e a manhã: esse foi o quarto dia.",
-                                        "texto_hebraico": "וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם רְבִיעִי: ",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Passaram-se a tarde e a manhã: esse foi o quarto dia.",
+                                        "text_hebrew": "וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם רְבִיעִי: ",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.20",
-                                "numero": 20,
-                                "texto": "Disse também Deus: \"Fervilhem as águas um fervilhar de seres vivos e que as aves voem acima da terra, sob o firmamento do céu!\" E assim aconteceu.",
-                                "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים יִשְׁרְצוּ הַמַּיִם שֶׁרֶץ נֶפֶשׁ חַיָּה וְעוֹף יְעוֹפֵף עַל- הָאָרֶץ עַל- פְּנֵי רְקִיעַ הַשָּׁמָיִם: ",
-                                "falas": [
+                                "number": 20,
+                                "text": "Disse também Deus: \"Fervilhem as águas um fervilhar de seres vivos e que as aves voem acima da terra, sob o firmamento do céu!\" E assim aconteceu.",
+                                "text_hebrew": "וַיֹּאמֶר אֱלֹהִים יִשְׁרְצוּ הַמַּיִם שֶׁרֶץ נֶפֶשׁ חַיָּה וְעוֹף יְעוֹפֵף עַל- הָאָרֶץ עַל- פְּנֵי רְקִיעַ הַשָּׁמָיִם: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Disse também Deus: ",
-                                        "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Disse também Deus: ",
+                                        "text_hebrew": "וַיֹּאמֶר אֱלֹהִים",
+                                        "color": "default",
+                                        "emphasis": false
                                     },
                                     {
-                                        "personagem": "Deus",
-                                        "texto": "Fervilhem as águas um fervilhar de seres vivos e que as aves voem acima da terra, sob o firmamento do céu!",
-                                        "texto_hebraico": "יִשְׁרְצוּ הַמַּיִם שֶׁרֶץ נֶפֶשׁ חַיָּה וְעוֹף יְעוֹפֵף עַל- הָאָרֶץ עַל- פְּנֵי רְקִיעַ הַשָּׁמָיִם:",
-                                        "cor": "azul",
-                                        "destaque": true
+                                        "character": "Deus",
+                                        "text": "Fervilhem as águas um fervilhar de seres vivos e que as aves voem acima da terra, sob o firmamento do céu!",
+                                        "text_hebrew": "יִשְׁרְצוּ הַמַּיִם שֶׁרֶץ נֶפֶשׁ חַיָּה וְעוֹף יְעוֹפֵף עַל- הָאָרֶץ עַל- פְּנֵי רְקִיעַ הַשָּׁמָיִם:",
+                                        "color": "azul",
+                                        "emphasis": true
                                     },
                                     {
-                                        "personagem": "Comum",
-                                        "texto": " E assim aconteceu.",
-                                        "texto_hebraico": "",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": " E assim aconteceu.",
+                                        "text_hebrew": "",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.21",
-                                "numero": 21,
-                                "texto": "Dessa forma, Deus criou os grandes animais aquáticos e os demais seres vivos que povoam as águas, em conformidade com suas muitas espécies; e todas as aves, também de acordo com suas espécies. E observou Deus que isso era bom.",
-                                "texto_hebraico": "וַיִּבְרָא אֱלֹהִים אֶת- הַתַּנִּינִם הַגְּדֹלִים וְאֵת כָּל- נֶפֶשׁ הַחַיָּה הָרֹמֶשֶׂת אֲשֶׁר שָׁרְצוּ הַמַּיִם לְמִינֵהֶם וְאֵת כָּל- עוֹף כָּנָף לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
-                                "falas": [
+                                "number": 21,
+                                "text": "Dessa forma, Deus criou os grandes animais aquáticos e os demais seres vivos que povoam as águas, em conformidade com suas muitas espécies; e todas as aves, também de acolordo com suas espécies. E observou Deus que isso era bom.",
+                                "text_hebrew": "וַיִּבְרָא אֱלֹהִים אֶת- הַתַּנִּינִם הַגְּדֹלִים וְאֵת כָּל- נֶפֶשׁ הַחַיָּה הָרֹמֶשֶׂת אֲשֶׁר שָׁרְצוּ הַמַּיִם לְמִינֵהֶם וְאֵת כָּל- עוֹף כָּנָף לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Dessa forma, Deus criou os grandes animais aquáticos e os demais seres vivos que povoam as águas, em conformidade com suas muitas espécies; e todas as aves, também de acordo com suas espécies. E observou Deus que isso era bom.",
-                                        "texto_hebraico": "וַיִּבְרָא אֱלֹהִים אֶת- הַתַּנִּינִם הַגְּדֹלִים וְאֵת כָּל- נֶפֶשׁ הַחַיָּה הָרֹמֶשֶׂת אֲשֶׁר שָׁרְצוּ הַמַּיִם לְמִינֵהֶם וְאֵת כָּל- עוֹף כָּנָף לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Dessa forma, Deus criou os grandes animais aquáticos e os demais seres vivos que povoam as águas, em conformidade com suas muitas espécies; e todas as aves, também de acolordo com suas espécies. E observou Deus que isso era bom.",
+                                        "text_hebrew": "וַיִּבְרָא אֱלֹהִים אֶת- הַתַּנִּינִם הַגְּדֹלִים וְאֵת כָּל- נֶפֶשׁ הַחַיָּה הָרֹמֶשֶׂת אֲשֶׁר שָׁרְצוּ הַמַּיִם לְמִינֵהֶם וְאֵת כָּל- עוֹף כָּנָף לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.22",
-                                "numero": 22,
-                                "texto": "Então Deus os abençoou, declarado: \"Sede fecundos, multiplicai-vos! Enchei as águas dos mares. E que também as aves multipliquem na terra!\"",
-                                "texto_hebraico": "וַיְבָרֶךְ אֹתָם אֱלֹהִים לֵאמֹר פְּרוּ וּרְבוּ וּמִלְאוּ אֶת- הַמַּיִם בַּיַּמִּים וְהָעוֹף יִרֶב בָּאָרֶץ: ",
-                                "falas": [
+                                "number": 22,
+                                "text": "Então Deus os abençoou, declarado: \"Sede fecundos, multiplicai-vos! Enchei as águas dos mares. E que também as aves multipliquem na terra!\"",
+                                "text_hebrew": "וַיְבָרֶךְ אֹתָם אֱלֹהִים לֵאמֹר פְּרוּ וּרְבוּ וּמִלְאוּ אֶת- הַמַּיִם בַּיַּמִּים וְהָעוֹף יִרֶב בָּאָרֶץ: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Então Deus os abençoou, declarado: ",
-                                        "texto_hebraico": "וַיְבָרֶךְ אֹתָם אֱלֹהִים לֵאמֹר",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Então Deus os abençoou, declarado: ",
+                                        "text_hebrew": "וַיְבָרֶךְ אֹתָם אֱלֹהִים לֵאמֹר",
+                                        "color": "default",
+                                        "emphasis": false
                                     },
                                     {
-                                        "personagem": "Deus",
-                                        "texto": "Sede fecundos, multiplicai-vos! Enchei as águas dos mares. E que também as aves multipliquem na terra!",
-                                        "texto_hebraico": "פְּרוּ וּרְבוּ וּמִלְאוּ אֶת- הַמַּיִם בַּיַּמִּים וְהָעוֹף יִרֶב בָּאָרֶץ:",
-                                        "cor": "azul",
-                                        "destaque": true
+                                        "character": "Deus",
+                                        "text": "Sede fecundos, multiplicai-vos! Enchei as águas dos mares. E que também as aves multipliquem na terra!",
+                                        "text_hebrew": "פְּרוּ וּרְבוּ וּמִלְאוּ אֶת- הַמַּיִם בַּיַּמִּים וְהָעוֹף יִרֶב בָּאָרֶץ:",
+                                        "color": "azul",
+                                        "emphasis": true
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.23",
-                                "numero": 23,
-                                "texto": "Passaram-se a tarde e a manhã: esse foi o quinto dia.",
-                                "texto_hebraico": "וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם חֲמִישִׁי: ",
-                                "falas": [
+                                "number": 23,
+                                "text": "Passaram-se a tarde e a manhã: esse foi o quinto dia.",
+                                "text_hebrew": "וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם חֲמִישִׁי: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Passaram-se a tarde e a manhã: esse foi o quinto dia.",
-                                        "texto_hebraico": "וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם חֲמִישִׁי: ",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Passaram-se a tarde e a manhã: esse foi o quinto dia.",
+                                        "text_hebrew": "וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם חֲמִישִׁי: ",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.24",
-                                "numero": 24,
-                                "texto": "E disse Deus: \"Que a terra produza seres vivos segundo suas espécies: rebanhos domésticos, animais selvagens e todos os demais seres viventes da terra, cada um de acordo com sua espécie!\" E assim aconteceu.",
-                                "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים תּוֹצֵא הָאָרֶץ נֶפֶשׁ חַיָּה לְמִינָהּ בְּהֵמָה וָרֶמֶשׂ וְחַיְתוֹ- אֶרֶץ לְמִינָהּ וַיְהִי- כֵן: ",
-                                "falas": [
+                                "number": 24,
+                                "text": "E disse Deus: \"Que a terra produza seres vivos segundo suas espécies: rebanhos domésticos, animais selvagens e todos os demais seres viventes da terra, cada um de acolordo com sua espécie!\" E assim aconteceu.",
+                                "text_hebrew": "וַיֹּאמֶר אֱלֹהִים תּוֹצֵא הָאָרֶץ נֶפֶשׁ חַיָּה לְמִינָהּ בְּהֵמָה וָרֶמֶשׂ וְחַיְתוֹ- אֶרֶץ לְמִינָהּ וַיְהִי- כֵן: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "E disse Deus: ",
-                                        "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "E disse Deus: ",
+                                        "text_hebrew": "וַיֹּאמֶר אֱלֹהִים",
+                                        "color": "default",
+                                        "emphasis": false
                                     },
                                     {
-                                        "personagem": "Deus",
-                                        "texto": "\"Que a terra produza seres vivos segundo suas espécies: rebanhos domésticos, animais selvagens e todos os demais seres viventes da terra, cada um de acordo com sua espécie!\"",
-                                        "texto_hebraico": "תּוֹצֵא הָאָרֶץ נֶפֶשׁ חַיָּה לְמִינָהּ בְּהֵמָה וָרֶמֶשׂ וְחַיְתוֹ- אֶרֶץ לְמִינָהּ",
-                                        "cor": "azul",
-                                        "destaque": true
+                                        "character": "Deus",
+                                        "text": "\"Que a terra produza seres vivos segundo suas espécies: rebanhos domésticos, animais selvagens e todos os demais seres viventes da terra, cada um de acolordo com sua espécie!\"",
+                                        "text_hebrew": "תּוֹצֵא הָאָרֶץ נֶפֶשׁ חַיָּה לְמִינָהּ בְּהֵמָה וָרֶמֶשׂ וְחַיְתוֹ- אֶרֶץ לְמִינָהּ",
+                                        "color": "azul",
+                                        "emphasis": true
                                     },
                                     {
-                                        "personagem": "Comum",
-                                        "texto": " E assim aconteceu.",
-                                        "texto_hebraico": "וַיְהִי- כֵן:",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": " E assim aconteceu.",
+                                        "text_hebrew": "וַיְהִי- כֵן:",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.25",
-                                "numero": 25,
-                                "texto": "Deus fez, portanto, todas as feras selvagens segundo suas espécies, os rebanhos domésticos conforme suas espécies, répteis, e todos os demais seres vivos, cada qual de acordo com sua espécie. E observou Deus que isso era bom.",
-                                "texto_hebraico": "וַיַּעַשׂ אֱלֹהִים אֶת- חַיַּת הָאָרֶץ לְמִינָהּ וְאֶת- הַבְּהֵמָה לְמִינָהּ וְאֵת כָּל- רֶמֶשׂ הָאֲדָמָה לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
-                                "falas": [
+                                "number": 25,
+                                "text": "Deus fez, portanto, todas as feras selvagens segundo suas espécies, os rebanhos domésticos conforme suas espécies, répteis, e todos os demais seres vivos, cada qual de acolordo com sua espécie. E observou Deus que isso era bom.",
+                                "text_hebrew": "וַיַּעַשׂ אֱלֹהִים אֶת- חַיַּת הָאָרֶץ לְמִינָהּ וְאֶת- הַבְּהֵמָה לְמִינָהּ וְאֵת כָּל- רֶמֶשׂ הָאֲדָמָה לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Deus fez, portanto, todas as feras selvagens segundo suas espécies, os rebanhos domésticos conforme suas espécies, répteis, e todos os demais seres vivos, cada qual de acordo com sua espécie. E observou Deus que isso era bom.",
-                                        "texto_hebraico": "וַיַּעַשׂ אֱלֹהִים אֶת- חַיַּת הָאָרֶץ לְמִינָהּ וְאֶת- הַבְּהֵמָה לְמִינָהּ וְאֵת כָּל- רֶמֶשׂ הָאֲדָמָה לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Deus fez, portanto, todas as feras selvagens segundo suas espécies, os rebanhos domésticos conforme suas espécies, répteis, e todos os demais seres vivos, cada qual de acolordo com sua espécie. E observou Deus que isso era bom.",
+                                        "text_hebrew": "וַיַּעַשׂ אֱלֹהִים אֶת- חַיַּת הָאָרֶץ לְמִינָהּ וְאֶת- הַבְּהֵמָה לְמִינָהּ וְאֵת כָּל- רֶמֶשׂ הָאֲדָמָה לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי- טוֹב: ",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.26",
-                                "numero": 26,
-                                "texto": "Então Deus determinou: \"Façamos o ser humano à nossa imagem, de acordo com a nossa semelhança. Dominem eles sobre os peixes do mar, sobre as aves do céu, sobre os grandes animais e todas as feras da terra, e sobre todos os pequenos seres viventes que se movem rente ao chão!\"",
-                                "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים נַעֲשֶׂה אָדָם בְּצַלְמֵנוּ כִּדְמוּתֵנוּ וְיִרְדּוּ בִדְגַת הַיָּם וּבְעוֹף הַשָּׁמַיִם וּבַבְּהֵמָה וּבְכָל- הָאָרֶץ וּבְכָל- הָרֶמֶשׂ הָרֹמֵשׂ עַל- הָאָרֶץ: ",
-                                "falas": [
+                                "number": 26,
+                                "text": "Então Deus determinou: \"Façamos o ser humano à nossa imagem, de acolordo com a nossa semelhança. Dominem eles sobre os peixes do mar, sobre as aves do céu, sobre os grandes animais e todas as feras da terra, e sobre todos os pequenos seres viventes que se movem rente ao chão!\"",
+                                "text_hebrew": "וַיֹּאמֶר אֱלֹהִים נַעֲשֶׂה אָדָם בְּצַלְמֵנוּ כִּדְמוּתֵנוּ וְיִרְדּוּ בִדְגַת הַיָּם וּבְעוֹף הַשָּׁמַיִם וּבַבְּהֵמָה וּבְכָל- הָאָרֶץ וּבְכָל- הָרֶמֶשׂ הָרֹמֵשׂ עַל- הָאָרֶץ: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Então Deus determinou: ",
-                                        "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Então Deus determinou: ",
+                                        "text_hebrew": "וַיֹּאמֶר אֱלֹהִים",
+                                        "color": "default",
+                                        "emphasis": false
                                     },
                                     {
-                                        "personagem": "Deus",
-                                        "texto": "\"Façamos o ser humano à nossa imagem, de acordo com a nossa semelhança. Dominem eles sobre os peixes do mar, sobre as aves do céu, sobre os grandes animais e todas as feras da terra, e sobre todos os pequenos seres viventes que se movem rente ao chão!\"",
-                                        "texto_hebraico": "נַעֲשֶׂה אָדָם בְּצַלְמֵנוּ כִּדְמוּתֵנוּ וְיִרְדּוּ בִדְגַת הַיָּם וּבְעוֹף הַשָּׁמַיִם וּבַבְּהֵמָה וּבְכָל- הָאָרֶץ וּבְכָל- הָרֶמֶשׂ הָרֹמֵשׂ עַל- הָאָרֶץ:",
-                                        "cor": "azul",
-                                        "destaque": true
+                                        "character": "Deus",
+                                        "text": "\"Façamos o ser humano à nossa imagem, de acolordo com a nossa semelhança. Dominem eles sobre os peixes do mar, sobre as aves do céu, sobre os grandes animais e todas as feras da terra, e sobre todos os pequenos seres viventes que se movem rente ao chão!\"",
+                                        "text_hebrew": "נַעֲשֶׂה אָדָם בְּצַלְמֵנוּ כִּדְמוּתֵנוּ וְיִרְדּוּ בִדְגַת הַיָּם וּבְעוֹף הַשָּׁמַיִם וּבַבְּהֵמָה וּבְכָל- הָאָרֶץ וּבְכָל- הָרֶמֶשׂ הָרֹמֵשׂ עַל- הָאָרֶץ:",
+                                        "color": "azul",
+                                        "emphasis": true
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.27",
-                                "numero": 27,
-                                "texto": "Deus, portanto, criou os seres humanos à sua imagem, à imagem de Deus os criou: macho e fêmea os criou.",
-                                "texto_hebraico": "וַיִּבְרָא אֱלֹהִים אֶת- הָאָדָם בְּצַלְמוֹ בְּצֶלֶם אֱלֹהִים בָּרָא אֹתוֹ זָכָר וּנְקֵבָה בָּרָא אֹתָם: ",
-                                "falas": [
+                                "number": 27,
+                                "text": "Deus, portanto, criou os seres humanos à sua imagem, à imagem de Deus os criou: macho e fêmea os criou.",
+                                "text_hebrew": "וַיִּבְרָא אֱלֹהִים אֶת- הָאָדָם בְּצַלְמוֹ בְּצֶלֶם אֱלֹהִים בָּרָא אֹתוֹ זָכָר וּנְקֵבָה בָּרָא אֹתָם: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Deus, portanto, criou os seres humanos à sua imagem, à imagem de Deus os criou: macho e fêmea os criou.",
-                                        "texto_hebraico": "וַיִּבְרָא אֱלֹהִים אֶת- הָאָדָם בְּצַלְמוֹ בְּצֶלֶם אֱלֹהִים בָּרָא אֹתוֹ זָכָר וּנְקֵבָה בָּרָא אֹתָם: ",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Deus, portanto, criou os seres humanos à sua imagem, à imagem de Deus os criou: macho e fêmea os criou.",
+                                        "text_hebrew": "וַיִּבְרָא אֱלֹהִים אֶת- הָאָדָם בְּצַלְמוֹ בְּצֶלֶם אֱלֹהִים בָּרָא אֹתוֹ זָכָר וּנְקֵבָה בָּרָא אֹתָם: ",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.28",
-                                "numero": 28,
-                                "texto": "Deus os abençoou e lhes ordenou: \"Sede férteis e multiplicai-vos! Povoai e sujeita toda a terra; dominai sobre os peixes do mar, sobre as aves do céu e sobre todo animal que rasteja sobre a terra!\"",
-                                "texto_hebraico": "וַיְבָרֶךְ אֹתָם אֱלֹהִים וַיֹּאמֶר לָהֶם אֱלֹהִים פְּרוּ וּרְבוּ וּמִלְאוּ אֶת- הָאָרֶץ וְכִבְשֻׁהָ וּרְדוּ בִּדְגַת הַיָּם וּבְעוֹף הַשָּׁמַיִם וּבְכָל- חַיָּה הָרֹמֶשֶׂת עַל- הָאָרֶץ: ",
-                                "falas": [
+                                "number": 28,
+                                "text": "Deus os abençoou e lhes ordenou: \"Sede férteis e multiplicai-vos! Povoai e sujeita toda a terra; dominai sobre os peixes do mar, sobre as aves do céu e sobre todo animal que rasteja sobre a terra!\"",
+                                "text_hebrew": "וַיְבָרֶךְ אֹתָם אֱלֹהִים וַיֹּאמֶר לָהֶם אֱלֹהִים פְּרוּ וּרְבוּ וּמִלְאוּ אֶת- הָאָרֶץ וְכִבְשֻׁהָ וּרְדוּ בִּדְגַת הַיָּם וּבְעוֹף הַשָּׁמַיִם וּבְכָל- חַיָּה הָרֹמֶשֶׂת עַל- הָאָרֶץ: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Deus os abençoou e lhes ordenou: ",
-                                        "texto_hebraico": "וַיְבָרֶךְ אֹתָם אֱלֹהִים וַיֹּאמֶר לָהֶם אֱלֹהִים",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Deus os abençoou e lhes ordenou: ",
+                                        "text_hebrew": "וַיְבָרֶךְ אֹתָם אֱלֹהִים וַיֹּאמֶר לָהֶם אֱלֹהִים",
+                                        "color": "default",
+                                        "emphasis": false
                                     },
                                     {
-                                        "personagem": "Deus",
-                                        "texto": "\"Sede férteis e multiplicai-vos! Povoai e sujeita toda a terra; dominai sobre os peixes do mar, sobre as aves do céu e sobre todo animal que rasteja sobre a terra!\"",
-                                        "texto_hebraico": "פְּרוּ וּרְבוּ וּמִלְאוּ אֶת- הָאָרֶץ וְכִבְשֻׁהָ וּרְדוּ בִּדְגַת הַיָּם וּבְעוֹף הַשָּׁמַיִם וּבְכָל- חַיָּה הָרֹמֶשֶׂת עַל- הָאָרֶץ:",
-                                        "cor": "azul",
-                                        "destaque": true
+                                        "character": "Deus",
+                                        "text": "\"Sede férteis e multiplicai-vos! Povoai e sujeita toda a terra; dominai sobre os peixes do mar, sobre as aves do céu e sobre todo animal que rasteja sobre a terra!\"",
+                                        "text_hebrew": "פְּרוּ וּרְבוּ וּמִלְאוּ אֶת- הָאָרֶץ וְכִבְשֻׁהָ וּרְדוּ בִּדְגַת הַיָּם וּבְעוֹף הַשָּׁמַיִם וּבְכָל- חַיָּה הָרֹמֶשֶׂת עַל- הָאָרֶץ:",
+                                        "color": "azul",
+                                        "emphasis": true
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.29",
-                                "numero": 29,
-                                "texto": "E acrescentou Deus: \"Eis que os dou todas as plantas que nascem por toda a terra e produzem sementes, etodas as árvores que dão frutos com sementes: ess será o vosso alimento!",
-                                "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים הִנֵּה נָתַתִּי לָכֶם אֶת- כָּל- עֵשֶׂב זֹרֵעַ זֶרַע אֲשֶׁר עַל- פְּנֵי כָל- הָאָרֶץ וְאֶת- כָּל- הָעֵץ אֲשֶׁר- בּוֹ פְרִי- עֵץ זֹרֵעַ זָרַע לָכֶם יִהְיֶה לְאָכְלָה: ",
-                                "falas": [
+                                "number": 29,
+                                "text": "E acrescentou Deus: \"Eis que os dou todas as plantas que nascem por toda a terra e produzem sementes, etodas as árvores que dão frutos com sementes: ess será o vosso alimento!",
+                                "text_hebrew": "וַיֹּאמֶר אֱלֹהִים הִנֵּה נָתַתִּי לָכֶם אֶת- כָּל- עֵשֶׂב זֹרֵעַ זֶרַע אֲשֶׁר עַל- פְּנֵי כָל- הָאָרֶץ וְאֶת- כָּל- הָעֵץ אֲשֶׁר- בּוֹ פְרִי- עֵץ זֹרֵעַ זָרַע לָכֶם יִהְיֶה לְאָכְלָה: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "E acrescentou Deus: ",
-                                        "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "E acrescentou Deus: ",
+                                        "text_hebrew": "וַיֹּאמֶר אֱלֹהִים",
+                                        "color": "default",
+                                        "emphasis": false
                                     },
                                     {
-                                        "personagem": "Deus",
-                                        "texto": "\"Eis que os dou todas as plantas que nascem por toda a terra e produzem sementes, etodas as árvores que dão frutos com sementes: ess será o vosso alimento!",
-                                        "texto_hebraico": "הִנֵּה נָתַתִּי לָכֶם אֶת- כָּל- עֵשֶׂב זֹרֵעַ זֶרַע אֲשֶׁר עַל- פְּנֵי כָל- הָאָרֶץ וְאֶת- כָּל- הָעֵץ אֲשֶׁר- בּוֹ פְרִי- עֵץ זֹרֵעַ זָרַע לָכֶם יִהְיֶה לְאָכְלָה:",
-                                        "cor": "azul",
-                                        "destaque": true
+                                        "character": "Deus",
+                                        "text": "\"Eis que os dou todas as plantas que nascem por toda a terra e produzem sementes, etodas as árvores que dão frutos com sementes: ess será o vosso alimento!",
+                                        "text_hebrew": "הִנֵּה נָתַתִּי לָכֶם אֶת- כָּל- עֵשֶׂב זֹרֵעַ זֶרַע אֲשֶׁר עַל- פְּנֵי כָל- הָאָרֶץ וְאֶת- כָּל- הָעֵץ אֲשֶׁר- בּוֹ פְרִי- עֵץ זֹרֵעַ זָרַע לָכֶם יִהְיֶה לְאָכְלָה:",
+                                        "color": "azul",
+                                        "emphasis": true
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.30",
-                                "numero": 30,
-                                "texto": "\"Também dou a todos os animais da terra, a todas as aves dos céus, a todos os répteis da terra, e a todas as criaturas em que há fôlego de vida, todos os vegetais existentes, como mantimento e sustento!\" E assim aconteceu.",
-                                "texto_hebraico": "וּלְכָל- חַיַּת הָאָרֶץ וּלְכָל- עוֹף הַשָּׁמַיִם וּלְכֹל רוֹמֵשׂ עַל- הָאָרֶץ אֲשֶׁר- בּוֹ נֶפֶשׁ חַיָּה אֶת- כָּל- יֶרֶק עֵשֶׂב לְאָכְלָה וַיְהִי- כֵן: ",
-                                "falas": [
+                                "number": 30,
+                                "text": "\"Também dou a todos os animais da terra, a todas as aves dos céus, a todos os répteis da terra, e a todas as criaturas em que há fôlego de vida, todos os vegetais existentes, como mantimento e sustento!\" E assim aconteceu.",
+                                "text_hebrew": "וּלְכָל- חַיַּת הָאָרֶץ וּלְכָל- עוֹף הַשָּׁמַיִם וּלְכֹל רוֹמֵשׂ עַל- הָאָרֶץ אֲשֶׁר- בּוֹ נֶפֶשׁ חַיָּה אֶת- כָּל- יֶרֶק עֵשֶׂב לְאָכְלָה וַיְהִי- כֵן: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Deus",
-                                        "texto": "\"Também dou a todos os animais da terra, a todas as aves dos céus, a todos os répteis da terra, e a todas as criaturas em que há fôlego de vida, todos os vegetais existentes, como mantimento e sustento!\"",
-                                        "texto_hebraico": "וּלְכָל- חַיַּת הָאָרֶץ וּלְכָל- עוֹף הַשָּׁמַיִם וּלְכֹל רוֹמֵשׂ עַל- הָאָרֶץ אֲשֶׁר- בּוֹ נֶפֶשׁ חַיָּה אֶת- כָּל- יֶרֶק עֵשֶׂב לְאָכְלָה",
-                                        "cor": "azul",
-                                        "destaque": true
+                                        "character": "Deus",
+                                        "text": "\"Também dou a todos os animais da terra, a todas as aves dos céus, a todos os répteis da terra, e a todas as criaturas em que há fôlego de vida, todos os vegetais existentes, como mantimento e sustento!\"",
+                                        "text_hebrew": "וּלְכָל- חַיַּת הָאָרֶץ וּלְכָל- עוֹף הַשָּׁמַיִם וּלְכֹל רוֹמֵשׂ עַל- הָאָרֶץ אֲשֶׁר- בּוֹ נֶפֶשׁ חַיָּה אֶת- כָּל- יֶרֶק עֵשֶׂב לְאָכְלָה",
+                                        "color": "azul",
+                                        "emphasis": true
                                     },
                                     {
-                                        "personagem": "Comum",
-                                        "texto": " E assim aconteceu.",
-                                        "texto_hebraico":  "וַיְהִי- כֵן:",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": " E assim aconteceu.",
+                                        "text_hebrew":  "וַיְהִי- כֵן:",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             },
                             {
                                 "id": "gn.1.31",
-                                "numero": 31,
-                                "texto": "Então Deus contemplou toda a sua criação, e eis que tudo era muito bom. Houve, assim, a tarde e a manhã: esse foi o sexto dia.",
-                                "texto_hebraico": "וַיַּרְא אֱלֹהִים אֶת- כָּל- אֲשֶׁר עָשָׂה וְהִנֵּה- טוֹב מְאֹד וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם הַשִּׁשִּׁי: ",
-                                "falas": [
+                                "number": 31,
+                                "text": "Então Deus contemplou toda a sua criação, e eis que tudo era muito bom. Houve, assim, a tarde e a manhã: esse foi o sexto dia.",
+                                "text_hebrew": "וַיַּרְא אֱלֹהִים אֶת- כָּל- אֲשֶׁר עָשָׂה וְהִנֵּה- טוֹב מְאֹד וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם הַשִּׁשִּׁי: ",
+                                "speeches": [
                                     {
-                                        "personagem": "Comum",
-                                        "texto": "Então Deus contemplou toda a sua criação, e eis que tudo era muito bom. Houve, assim, a tarde e a manhã: esse foi o sexto dia.",
-                                        "texto_hebraico": "וַיַּרְא אֱלֹהִים אֶת- כָּל- אֲשֶׁר עָשָׂה וְהִנֵּה- טוֹב מְאֹד וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם הַשִּׁשִּׁי: ",
-                                        "cor": "default",
-                                        "destaque": false
+                                        "character": "Comum",
+                                        "text": "Então Deus contemplou toda a sua criação, e eis que tudo era muito bom. Houve, assim, a tarde e a manhã: esse foi o sexto dia.",
+                                        "text_hebrew": "וַיַּרְא אֱלֹהִים אֶת- כָּל- אֲשֶׁר עָשָׂה וְהִנֵּה- טוֹב מְאֹד וַיְהִי- עֶרֶב וַיְהִי- בֹקֶר יוֹם הַשִּׁשִּׁי: ",
+                                        "color": "default",
+                                        "emphasis": false
                                     }
                                 ],
-                                "notas": [],
-                                "referencia_cruzada": []
+                                "notes": [],
+                                "cross-reference": []
                             }
                         ]
                     }
@@ -988,22 +989,22 @@
             ]
         },
         
-        "novo_testamento": {
-            "livros": []
+        "new_testament": {
+            "books": []
         },
         
-        "apendices": {
-            "mapas": {
-                "titulo": "Mapas Bíblicos",
-                "itens": []
+        "appendices": {
+            "maps": {
+                "titles": "Mapas Bíblicos",
+                "items": []
             },
-            "concordancia": {
-                "titulo": "Concordância Bíblica",
-                "itens": []
+            "concolordance": {
+                "title": "Concolordância Bíblica",
+                "items": []
             },
-            "tabelas": {
-                "titulo": "Tabelas de Pesos e Medidas",
-                "itens": []
+            "tables": {
+                "titles": "Tabelas de Pesos e Medidas",
+                "items": []
             }
         }
     }

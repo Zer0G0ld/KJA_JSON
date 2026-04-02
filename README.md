@@ -15,9 +15,11 @@ O JSON foi criado manualmente com base na versão física da Bíblia de Estudo K
 - **Apresentação** do Pr. Carlos Alberto de Quadros Bezerra
 - **Prefácio** do Dr. Lisânias Moura
 - **Introduções completas** de cada livro (autoria, propósitos, data, esboço)
+- **Notas de estudo** detalhadas para versículos
+- **Nota do título do capítulo** com contexto histórico e teológico
 - **Textos em hebraico** segmentados por fala
 - **Identificação de falas** de Deus (azul) e personagens comuns
-- **Notas de estudo** e referências cruzadas (estrutura preparada)
+- **Referências cruzadas** (estrutura preparada)
 - **Sumário completo** com número de capítulos
 
 ### 🎯 Propósito
@@ -41,12 +43,13 @@ O JSON foi criado manualmente com base na versão física da Bíblia de Estudo K
   - Ajudas ao Leitor
 - **Sumário completo** do Antigo e Novo Testamento com número de capítulos
 - **Introduções detalhadas** dos livros (autoria, propósitos, data, esboço)
+- **Nota do título do capítulo** com contexto histórico e teológico
 - **Texto completo em hebraico** segmentado por fala
+- **Notas de estudo** versículo por versículo
 - **Identificação de falas** com personagens e cores:
   - 🟦 **Deus** - azul, destaque true
   - 🟥 **Jesus** - vermelho, destaque true (previsto)
   - ⚫ **Comum** - cor padrão, destaque false
-- **Estrutura pronta** para inserção de notas de estudo
 - **Estrutura pronta** para referências cruzadas
 - **Apêndices** (Mapas, Concordância, Tabelas)
 
@@ -56,7 +59,8 @@ O JSON foi criado manualmente com base na versão física da Bíblia de Estudo K
 - **Total de versículos:** 31.102
 - **Formato:** JSON estruturado e aninhado
 - **Versificação:** KJA (King James Atualizada)
-- **Idioma do JSON:** Português (campos de conteúdo)
+- **Idioma dos campos de estrutura:** Inglês
+- **Idioma do conteúdo bíblico:** Português
 
 ## 🗂️ Estrutura do JSON
 
@@ -64,106 +68,52 @@ O JSON foi criado manualmente com base na versão física da Bíblia de Estudo K
 
 ```json
 {
-  "metadata": {
-    "name": "King James Atualizada",
-    "abbreviation": "KJA",
-    "language": "Portuguese",
-    "titulo": "Bíblia Sagrada",
-    "subtitulo": "Edição de Estudo King James Atualizada - 400 Anos",
-    "copyright": { ... },
-    "traducao_e_revisao": { ... },
-    "publicacao": { ... },
-    "entidades_parceiras": [ ... ],
-    "digital_project": { ... }
-  },
-  
-  "conteudo": {
-    "secoes_preliminares": [
-      { "tipo": "apresentacao", "autor": "Pr. Carlos A. Q. Bezerra", "conteudo": [...] },
-      { "tipo": "prefacio", "autor": "Dr. Lisânias Moura", "conteudo": [...] },
-      { "tipo": "fac_simile", "titulo": "KJV 1611", ... },
-      { "tipo": "ajudas_ao_leitor", ... }
-    ],
-    
-    "sumario": {
-      "antigo_testamento": {
-        "nome": "Antigo Testamento",
-        "total_livros": 39,
-        "livros": [
-          {"ordem": 1, "nome": "Gênesis", "abreviacao": "Gn", "capitulos": 50},
-          ...
-        ]
-      },
-      "novo_testamento": { ... }
-    },
-    
-    "antigo_testamento": {
-      "livros": [
+  "metadata": { ... },
+  "content": {
+    "preliminary_sections": [ ... ],
+    "summary": { ... },
+    "old_testament": {
+      "books": [
         {
           "id": "gn",
-          "livro": "Gênesis",
-          "subtitulo": "בְּרֵאשִׁית Bereshit / No princípio",
-          "introducao": {
-            "autoria": ["texto completo..."],
-            "propositos": ["texto completo..."],
-            "data_da_primeira_publicacao": ["texto completo..."],
-            "esboco_geral_de_genesis": [...]
-          },
-          "capitulos": {
-            "numero": 1,
-            "titulo": "No Princípio בְּרֵאשִׁית",
-            "versiculos": [ ... ]
+          "book": "Gênesis",
+          "subtitle": "בְּרֵאשִׁית Bereshit / No princípio",
+          "introduction": { ... },
+          "chapters": {
+            "id": "gn.1.title",
+            "number": 1,
+            "title": "No Princípio בְּרֵאשִׁית",
+            "note_title": "Nota explicativa sobre o título...",
+            "verses": [ ... ]
           }
         }
       ]
     },
-    
-    "novo_testamento": {
-      "livros": []
-    },
-    
-    "apendices": {
-      "mapas": { ... },
-      "concordancia": { ... },
-      "tabelas": { ... }
-    }
+    "new_testament": { ... },
+    "appendices": { ... }
   }
 }
 ```
 
-### 📖 Estrutura de um Versículo (Detalhada)
+### 📖 Estrutura de um Versículo com Nota de Estudo
 
 ```json
 {
-  "id": "gn.1.3",
-  "numero": 3,
-  "texto": "Disse Deus: \"Haja luz!\", e houve luz.",
-  "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי- אוֹר:",
-  "falas": [
+  "id": "gn.1.1",
+  "number": 1,
+  "text": "No princípio, Deus criou os céus e a terra.",
+  "text_hebrew": "בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ:",
+  "speeches": [
     {
-      "personagem": "Comum",
-      "texto": "Disse Deus: ",
-      "texto_hebraico": "וַיֹּאמֶר אֱלֹהִים",
-      "cor": "default",
-      "destaque": false
-    },
-    {
-      "personagem": "Deus",
-      "texto": "Haja luz!",
-      "texto_hebraico": "יְהִי אוֹר",
-      "cor": "azul",
-      "destaque": true
-    },
-    {
-      "personagem": "Comum",
-      "texto": ", e houve luz.",
-      "texto_hebraico": "וַיְהִי- אוֹר:",
-      "cor": "default",
-      "destaque": false
+      "character": "Comum",
+      "text": "No princípio, Deus criou os céus e a terra.",
+      "text_hebrew": "בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ:",
+      "color": "default",
+      "emphasis": false
     }
   ],
-  "notas": [],
-  "referencia_cruzada": []
+  "notes": "A primeira frase nos manuscritos hebraicos... (texto completo da nota)",
+  "cross-reference": []
 }
 ```
 
@@ -197,95 +147,91 @@ cat KJA.json
 
 ### Exemplos de Uso
 
-#### JavaScript/Node.js - Acessando Versículos com Falas
+#### JavaScript/Node.js - Acessando Notas de Estudo
 ```javascript
 const bibliaKJA = require('./KJA.json');
 
 // Acessar Gênesis capítulo 1
-const genesis = bibliaKJA.conteudo.antigo_testamento.livros[0];
-const capitulo1 = genesis.capitulos;
+const genesis = bibliaKJA.content.old_testament.books[0];
+const chapter1 = genesis.chapters;
+
+// Acessar nota do título do capítulo
+console.log(chapter1.note_title);
+
+// Acessar nota do versículo 1
+const verse1 = chapter1.verses[0];
+console.log(verse1.notes);
 
 // Renderizar versículo com destaque para fala de Deus
-capitulo1.versiculos.forEach(versiculo => {
-  if (versiculo.falas) {
-    versiculo.falas.forEach(fala => {
-      if (fala.personagem === 'Deus') {
-        console.log(`\x1b[34m${fala.texto}\x1b[0m`); // Azul no terminal
+chapter1.verses.forEach(verse => {
+  if (verse.speeches) {
+    verse.speeches.forEach(speech => {
+      if (speech.character === 'Deus') {
+        console.log(`\x1b[34m${speech.text}\x1b[0m`);
       } else {
-        console.log(fala.texto);
+        console.log(speech.text);
       }
     });
-  } else {
-    console.log(versiculo.texto);
   }
 });
-
-// Acessar texto em hebraico segmentado
-const hebraicoCompleto = versiculo.falas
-  .map(f => f.texto_hebraico)
-  .join('');
-console.log(hebraicoCompleto);
 ```
 
-#### Python - Processamento de Falas
+#### Python - Processamento de Notas
 ```python
 import json
 
 with open('KJA.json', 'r', encoding='utf-8') as file:
     biblia = json.load(file)
 
-# Função para renderizar versículo com cores
-def renderizar_versiculo(versiculo):
-    if 'falas' in versiculo:
-        for fala in versiculo['falas']:
-            if fala['personagem'] == 'Deus':
-                print(f"\033[34m{fala['texto']}\033[0m", end='')
-            else:
-                print(fala['texto'], end='')
-        print()
-    else:
-        print(versiculo['texto'])
+# Acessar Gênesis
+genesis = biblia['content']['old_testament']['books'][0]
+chapter1 = genesis['chapters']
 
-# Renderizar Gênesis 1.1-5
-genesis = biblia['conteudo']['antigo_testamento']['livros'][0]
-for versiculo in genesis['capitulos']['versiculos'][:5]:
-    print(f"{versiculo['numero']}. ", end='')
-    renderizar_versiculo(versiculo)
+# Exibir nota do título
+print(f"Nota do título: {chapter1['note_title'][:200]}...")
+
+# Exibir nota do versículo 1
+verse1 = chapter1['verses'][0]
+print(f"Nota de Gn 1.1: {verse1['notes'][:200]}...")
 ```
 
-#### React/Next.js - Componente com Destaque de Falas
+#### React/Next.js - Componente com Notas
 ```javascript
 import bibliaKJA from './KJA.json';
 
-function Versiculo({ versiculo }) {
-  if (!versiculo.falas) {
-    return <span>{versiculo.texto}</span>;
-  }
-
+function ChapterDisplay({ bookId, chapterNumber }) {
+  const book = bibliaKJA.content.old_testament.books.find(b => b.id === bookId);
+  const chapter = book.chapters;
+  
   return (
-    <span>
-      {versiculo.falas.map((fala, idx) => {
-        const estilo = {
-          color: fala.cor === 'azul' ? '#3498db' : 
-                 fala.cor === 'vermelho' ? '#e74c3c' : 'inherit',
-          fontWeight: fala.destaque ? 'bold' : 'normal'
-        };
-        
-        return (
-          <span key={idx} style={estilo}>
-            {fala.texto}
+    <div>
+      <h2>{chapter.title}</h2>
+      {chapter.note_title && (
+        <div className="chapter-note">
+          <small>{chapter.note_title}</small>
+        </div>
+      )}
+      
+      {chapter.verses.map(verse => (
+        <div key={verse.id} className="verse">
+          <span className="verse-number">{verse.number}</span>
+          <span className="verse-text">
+            {verse.speeches.map((speech, idx) => (
+              <span key={idx} style={{ color: speech.color === 'azul' ? 'blue' : 'inherit' }}>
+                {speech.text}
+              </span>
+            ))}
           </span>
-        );
-      })}
-    </span>
+          {verse.notes && (
+            <div className="verse-note">
+              <sup>†</sup> <small>{verse.notes}</small>
+            </div>
+          )}
+        </div>
+      ))}
+    </div>
   );
 }
-
-// Uso
-const genesis = bibliaKJA.conteudo.antigo_testamento.livros[0];
-const versiculo3 = genesis.capitulos.versiculos[2];
-
-return <Versiculo versiculo={versiculo3} />;
 ```
 
 ## 🔧 Status do Projeto
@@ -300,21 +246,25 @@ return <Versiculo versiculo={versiculo3} />;
 - [x] **Capítulo 1 de Gênesis completo** (31 versículos)
 - [x] **Segmentação de falas** com identificação de Deus (14 ocorrências)
 - [x] **Texto hebraico** segmentado por fala em todos os versículos
+- [x] **Nota do título do capítulo** com contexto histórico
+- [x] **Notas de estudo** para versículos selecionados (Gn 1.1)
+- [x] **Campos da estrutura em inglês** para padronização internacional
 
 ### 🚧 Em Andamento
 - [ ] Continuação de Gênesis (capítulos 2-50)
-- [ ] Adição de notas de estudo
+- [ ] Adição de mais notas de estudo
 - [ ] Adição de referências cruzadas
 - [ ] Continuação dos demais livros do Antigo Testamento
 - [ ] Inserção do Novo Testamento
 
 ### 📝 Próximos Passos
 1. Completar Gênesis com todos os 50 capítulos
-2. Adicionar introduções dos demais livros
-3. Incluir notas de rodapé e referências cruzadas
-4. Criar scripts de validação e testes
-5. Gerar versões otimizadas para diferentes casos de uso
-6. Adicionar mapas, concordância e tabelas
+2. Adicionar notas de estudo para os demais versículos
+3. Adicionar introduções dos demais livros
+4. Incluir referências cruzadas
+5. Criar scripts de validação e testes
+6. Gerar versões otimizadas para diferentes casos de uso
+7. Adicionar mapas, concordância e tabelas
 
 ## 📄 Licença e Direitos Autorais
 
@@ -352,12 +302,13 @@ Contribuições são bem-vindas! Siga os passos:
 
 ### Diretrizes
 - Mantenha a fidelidade ao texto original da KJA
-- Respeite a estrutura JSON estabelecida
+- Respeite a estrutura JSON estabelecida (campos em inglês)
 - Verifique a acentuação e ortografia
 - Teste a validade do JSON após alterações
 - Preserve as notas de estudo e referências cruzadas
 - **Mantenha o padrão de segmentação de falas** (Comum, Deus, Jesus)
 - **Inclua texto hebraico** sempre que disponível
+- **Adicione notas de estudo** conforme presente na edição física
 
 ## 📞 Contato
 
@@ -385,7 +336,7 @@ Encontrou um erro ou inconsistência? Abra uma issue no GitHub:
 
 | Versão | Data | Status | Descrição |
 |--------|------|--------|-----------|
-| 1.0.0 | 2026-04-01 | 🚧 Em desenvolvimento | Estrutura completa, metadados, sumário, apresentação, prefácio, introdução de Gênesis e **Capítulo 1 completo com 31 versículos, segmentação de falas e hebraico** |
+| 1.0.0 | 2026-04-02 | 🚧 Em desenvolvimento | Estrutura completa com campos em inglês, metadados, sumário, apresentação, prefácio, introdução de Gênesis, **Capítulo 1 completo com 31 versículos**, **nota do título**, **notas de estudo** (Gn 1.1), segmentação de falas e hebraico |
 
 ## 🔗 Links Úteis
 
