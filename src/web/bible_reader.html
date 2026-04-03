@@ -211,7 +211,7 @@
         // Carregar o JSON
         async function loadBible() {
             try {
-                const response = await fetch('KJA.json');
+                const response = await fetch('/data/KJA.json');
                 bibleData = await response.json();
                 showHome();
             } catch (error) {
