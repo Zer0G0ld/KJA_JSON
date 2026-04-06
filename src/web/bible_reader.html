@@ -65,6 +65,36 @@
             background: #0d2818;
         }
 
+        .chapter-nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .chapter-nav button {
+            background: #2e7d32;
+            padding: 8px 16px;
+        }
+
+        .chapter-nav button:hover:not(:disabled) {
+            background: #1b5e20;
+        }
+
+        .chapter-nav button:disabled {
+            background: #9e9e9e;
+            cursor: not-allowed;
+            opacity: 0.6;
+        }
+
+        .chapter-nav span {
+            font-size: 1.1em;
+            color: #1a472a;
+            font-weight: bold;
+        }
+
         .search-box {
             margin-bottom: 20px;
             display: flex;
@@ -117,6 +147,22 @@
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }
 
+        .chapter-title {
+            font-size: 1.8em;
+            color: #1a472a;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #1a472a;
+            padding-bottom: 10px;
+        }
+
+        .section-title {
+            font-size: 1.4em;
+            color: #2e7d32;
+            margin: 20px 0 15px 0;
+            padding-left: 10px;
+            border-left: 4px solid #2e7d32;
+        }
+
         .verse {
             margin-bottom: 20px;
             padding-bottom: 10px;
@@ -140,7 +186,6 @@
             color: #333;
         }
 
-        /* Indicador de nota (superscript) */
         .note-marker {
             display: inline-flex;
             align-items: center;
@@ -164,12 +209,6 @@
             transform: scale(1.05);
         }
 
-        /* Container da nota (dropdown) */
-        .note-container {
-            position: relative;
-            display: inline-block;
-        }
-
         .verse-note {
             margin-top: 10px;
             padding: 12px 15px;
@@ -191,7 +230,6 @@
             color: #1a472a;
         }
 
-        /* Nota do capítulo (título) */
         .chapter-note {
             background: #e8f5e9;
             padding: 15px;
@@ -201,7 +239,6 @@
             color: #2e7d32;
             cursor: pointer;
             transition: all 0.2s;
-            position: relative;
         }
 
         .chapter-note:hover {
@@ -253,7 +290,6 @@
             padding: 50px;
         }
 
-        /* Fechar notas ao clicar fora */
         .note-overlay-close {
             position: fixed;
             top: 0;
@@ -276,6 +312,14 @@
             .verse-note {
                 font-size: 0.85em;
                 padding: 10px;
+            }
+
+            .chapter-nav {
+                flex-direction: column;
+            }
+            
+            .chapter-nav button {
+                width: 100%;
             }
         }
     </style>
@@ -305,14 +349,15 @@
         </div>
     </div>
 
-    <!-- Overlay para fechar notas ao clicar fora -->
     <div id="noteOverlay" class="note-overlay-close" onclick="closeAllNotes()"></div>
 
     <script>
         let bibleData = null;
         let currentOpenNote = null;
+        let currentBookId = null;
+        let currentChapterNum = null;
+        let currentBookName = null;
 
-        // Carregar o JSON
         async function loadBible() {
             try {
                 const response = await fetch('../../data/KJA.json');
@@ -332,7 +377,6 @@
             }
         }
 
-        // Fechar todas as notas abertas
         function closeAllNotes() {
             document.querySelectorAll('.verse-note.visible, .chapter-note-content.visible').forEach(note => {
                 note.classList.remove('visible');
@@ -341,7 +385,6 @@
             currentOpenNote = null;
         }
 
-        // Alternar nota do versículo
         function toggleVerseNote(noteId, event) {
             event.stopPropagation();
             const noteElement = document.getElementById(noteId);
@@ -351,7 +394,6 @@
                 document.getElementById('noteOverlay').style.display = 'none';
                 currentOpenNote = null;
             } else {
-                // Fechar qualquer nota aberta
                 closeAllNotes();
                 noteElement.classList.add('visible');
                 document.getElementById('noteOverlay').style.display = 'block';
@@ -359,7 +401,6 @@
             }
         }
 
-        // Alternar nota do capítulo
         function toggleChapterNote(noteId, event) {
             event.stopPropagation();
             const noteElement = document.getElementById(noteId);
@@ -376,15 +417,15 @@
             }
         }
 
-        // Mostrar tela inicial
         function showHome() {
             document.getElementById('booksGrid').style.display = 'grid';
             document.getElementById('verseView').style.display = 'none';
             document.getElementById('searchResults').style.display = 'none';
             showBooks('at');
+            currentBookId = null;
+            currentChapterNum = null;
         }
 
-        // Mostrar lista de livros
         function showBooks(testament) {
             if (!bibleData) return;
             
@@ -408,7 +449,79 @@
             document.getElementById('searchResults').style.display = 'none';
         }
 
-        // Mostrar capítulo
+        function nextChapter() {
+            if (currentBookId && currentChapterNum) {
+                const book = bibleData.content.old_testament.books.find(b => b.id === currentBookId);
+                if (book) {
+                    const chapters = book.chapters;
+                    const maxChapter = chapters.length;
+                    if (currentChapterNum < maxChapter) {
+                        showChapter(currentBookId, currentChapterNum + 1, currentBookName);
+                    }
+                }
+            }
+        }
+
+        function prevChapter() {
+            if (currentBookId && currentChapterNum && currentChapterNum > 1) {
+                showChapter(currentBookId, currentChapterNum - 1, currentBookName);
+            }
+        }
+
+        function renderSpeech(speech) {
+            const character = speech.character || speech.personagem;
+            const text = speech.text || '';
+            const color = speech.color;
+            
+            if (character === 'Deus' || color === 'azul') {
+                return `<span class="god-speech">${escapeHtml(text)}</span>`;
+            }
+            return `<span class="normal-speech">${escapeHtml(text)}</span>`;
+        }
+
+        function renderVerses(chapter, bookId, chapterNum) {
+            let html = '';
+            
+            for (const item of chapter.verses) {
+                // Se for um título de seção (título interno)
+                if (item.type === 'section_title') {
+                    html += `<div class="section-title">${escapeHtml(item.title)}</div>`;
+                    continue;
+                }
+                
+                // Se for um versículo normal
+                if (item.number !== undefined) {
+                    const hasNote = item.notes && item.notes !== null;
+                    const noteId = `note-${bookId}-${chapterNum}-${item.number}`;
+                    
+                    html += `<div class="verse">`;
+                    html += `<span class="verse-number">${item.number}</span>`;
+                    
+                    if (item.speeches && Array.isArray(item.speeches)) {
+                        item.speeches.forEach(speech => {
+                            html += renderSpeech(speech);
+                        });
+                    } else {
+                        html += `<span class="normal-speech">${escapeHtml(item.text || '')}</span>`;
+                    }
+                    
+                    if (hasNote) {
+                        html += `
+                            <span class="note-marker" onclick="toggleVerseNote('${noteId}', event)">ⓘ</span>
+                            <div id="${noteId}" class="verse-note">
+                                <strong>Nota ${item.notes_id || ''}:</strong><br>
+                                ${escapeHtml(item.notes)}
+                            </div>
+                        `;
+                    }
+                    
+                    html += `</div>`;
+                }
+            }
+            
+            return html;
+        }
+
         function showChapter(bookId, chapterNum, bookName) {
             if (!bibleData) return;
             
@@ -418,20 +531,48 @@
                 return;
             }
 
-            const chapter = book.chapters;
+            const chapters = book.chapters;
+            if (!Array.isArray(chapters)) {
+                console.error('chapters não é um array');
+                return;
+            }
+            
+            const chapter = chapters.find(ch => ch.number === chapterNum);
+            if (!chapter) {
+                console.error('Capítulo não encontrado:', chapterNum);
+                return;
+            }
+
+            currentBookId = bookId;
+            currentChapterNum = chapterNum;
+            currentBookName = bookName;
+
+            const totalChapters = chapters.length;
+            const hasPrev = chapterNum > 1;
+            const hasNext = chapterNum < totalChapters;
             
             let html = `
                 <div class="verse-container">
                     <button onclick="showBooks('at')" style="margin-bottom: 20px;">← Voltar para livros</button>
-                    <h2>${bookName} - Capítulo ${chapterNum}</h2>
+                    
+                    <div class="chapter-nav">
+                        <button onclick="prevChapter()" ${!hasPrev ? 'disabled' : ''}>◀ Capítulo Anterior</button>
+                        <span>${bookName} - Capítulo ${chapterNum} de ${totalChapters}</span>
+                        <button onclick="nextChapter()" ${!hasNext ? 'disabled' : ''}>Próximo Capítulo ▶</button>
+                    </div>
             `;
             
-            // Exibir nota do título do capítulo (se existir e não for null)
+            // Título do capítulo (se existir)
+            if (chapter.title && chapter.title !== null) {
+                html += `<div class="chapter-title">${escapeHtml(chapter.title)}</div>`;
+            }
+            
+            // Nota do título do capítulo (se existir)
             if (chapter.note_title && chapter.note_title !== null) {
                 const chapterNoteId = `chapter-note-${bookId}-${chapterNum}`;
                 html += `
                     <div class="chapter-note" onclick="toggleChapterNote('${chapterNoteId}', event)">
-                        📌 Capítulo ${chapterNum} - Nota de Estudo
+                        📌 Nota de Estudo do Capítulo ${chapterNum}
                         <span class="note-marker-chapter">ⓘ</span>
                         <div id="${chapterNoteId}" class="chapter-note-content">
                             <strong>Nota do Capítulo ${chapterNum}:</strong><br>
@@ -441,42 +582,8 @@
                 `;
             }
             
-            // Exibir versículos
-            if (chapter.verses && Array.isArray(chapter.verses)) {
-                chapter.verses.forEach(verse => {
-                    const hasNote = verse.notes && verse.notes !== null;
-                    const noteId = `note-${bookId}-${chapterNum}-${verse.number}`;
-                    
-                    html += `<div class="verse">`;
-                    html += `<span class="verse-number">${verse.number}</span>`;
-                    
-                    // Renderizar falas
-                    if (verse.speeches && Array.isArray(verse.speeches)) {
-                        verse.speeches.forEach(speech => {
-                            if (speech.character === 'Deus') {
-                                html += `<span class="god-speech">${escapeHtml(speech.text)}</span>`;
-                            } else {
-                                html += `<span class="normal-speech">${escapeHtml(speech.text)}</span>`;
-                            }
-                        });
-                    } else {
-                        html += `<span class="normal-speech">${escapeHtml(verse.text || '')}</span>`;
-                    }
-                    
-                    // Adicionar marcador de nota se existir
-                    if (hasNote) {
-                        html += `
-                            <span class="note-marker" onclick="toggleVerseNote('${noteId}', event)">ⓘ</span>
-                            <div id="${noteId}" class="verse-note">
-                                <strong>Nota ${verse.notes_id || ''}:</strong><br>
-                                ${escapeHtml(verse.notes)}
-                            </div>
-                        `;
-                    }
-                    
-                    html += `</div>`;
-                });
-            }
+            // Renderizar versículos (incluindo títulos internos)
+            html += renderVerses(chapter, bookId, chapterNum);
             
             html += `</div>`;
             
@@ -488,7 +595,6 @@
             closeAllNotes();
         }
 
-        // Pesquisar versículos
         function searchVerses() {
             if (!bibleData) return;
             
@@ -498,18 +604,25 @@
             const results = [];
             
             for (const book of bibleData.content.old_testament.books) {
-                const chapter = book.chapters;
-                if (chapter.verses && Array.isArray(chapter.verses)) {
-                    for (const verse of chapter.verses) {
-                        if (verse.text && verse.text.toLowerCase().includes(keyword)) {
-                            results.push({
-                                book: book.book,
-                                bookId: book.id,
-                                chapter: chapter.number,
-                                verse: verse.number,
-                                text: verse.text,
-                                hasNote: verse.notes && verse.notes !== null
-                            });
+                const chapters = book.chapters;
+                if (Array.isArray(chapters)) {
+                    for (const chapter of chapters) {
+                        if (chapter.verses && Array.isArray(chapter.verses)) {
+                            for (const verse of chapter.verses) {
+                                // Pular títulos de seção na busca
+                                if (verse.type === 'section_title') continue;
+                                
+                                if (verse.text && verse.text.toLowerCase().includes(keyword)) {
+                                    results.push({
+                                        book: book.book,
+                                        bookId: book.id,
+                                        chapter: chapter.number,
+                                        verse: verse.number,
+                                        text: verse.text,
+                                        hasNote: verse.notes && verse.notes !== null
+                                    });
+                                }
+                            }
                         }
                     }
                 }
@@ -540,7 +653,6 @@
             searchResults.style.display = 'block';
         }
 
-        // Função auxiliar para escapar HTML
         function escapeHtml(text) {
             if (!text) return '';
             const div = document.createElement('div');
@@ -548,7 +660,6 @@
             return div.innerHTML;
         }
 
-        // Fechar notas ao clicar fora
         document.addEventListener('click', function(event) {
             const isNoteMarker = event.target.classList && event.target.classList.contains('note-marker');
             const isChapterNote = event.target.classList && (event.target.classList.contains('chapter-note') || event.target.classList.contains('note-marker-chapter'));
@@ -558,7 +669,6 @@
             }
         });
 
-        // Iniciar
         loadBible();
     </script>
 </body>
