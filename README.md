@@ -5,6 +5,8 @@
 [![Language](https://img.shields.io/badge/language-Portuguese-red.svg)]()
 [![JSON](https://img.shields.io/badge/format-JSON-yellow.svg)]()
 [![Hebrew](https://img.shields.io/badge/Hebrew-Supported-blue.svg)]()
+[![Interactive Notes](https://img.shields.io/badge/Notes-Interactive-orange.svg)]()
+[![Fidelity](https://img.shields.io/badge/Fidelity-100%25%20to%20Physical%20Edition-brightgreen.svg)]()
 
 ## 📚 Sobre o Projeto
 
@@ -15,7 +17,7 @@ O JSON foi criado manualmente com base na versão física da Bíblia de Estudo K
 - **Apresentação** do Pr. Carlos Alberto de Quadros Bezerra
 - **Prefácio** do Dr. Lisânias Moura
 - **Introduções completas** de cada livro (autoria, propósitos, data, esboço)
-- **Notas de estudo** detalhadas para versículos
+- **Notas de estudo** detalhadas para versículos com **exibição interativa**
 - **Nota do título do capítulo** com contexto histórico e teológico
 - **Textos em hebraico** segmentados por fala
 - **Identificação de falas** de Deus (azul) e personagens comuns
@@ -44,7 +46,7 @@ KJA_JSON/
 │   ├── python/
 │   │   └── bible_reader.py     # Script em Python
 │   └── web/
-│       └── bible_reader.html   # Interface web (HTML/JS)
+│       └── bible_reader.html   # Interface web (HTML/JS) com notas interativas
 ├── LICENSE
 ├── README.md
 ├── package.json                # Dependências Node.js
@@ -64,7 +66,7 @@ KJA_JSON/
 - **Introduções detalhadas** dos livros (autoria, propósitos, data, esboço)
 - **Nota do título do capítulo** com contexto histórico e teológico
 - **Texto completo em hebraico** segmentado por fala
-- **Notas de estudo** versículo por versículo
+- **Notas de estudo** versículo por versículo com **exibição interativa** (clique para abrir/fechar)
 - **Identificação de falas** com personagens e cores:
   - 🟦 **Deus** - azul, destaque true
   - 🟥 **Jesus** - vermelho, destaque true (previsto)
@@ -131,6 +133,7 @@ KJA_JSON/
       "emphasis": false
     }
   ],
+  "notes_id": 2,
   "notes": "A primeira frase nos manuscritos hebraicos... (texto completo da nota)",
   "cross-reference": []
 }
@@ -239,19 +242,24 @@ python src/python/bible_reader.py --verse gn 1 1
 python src/python/bible_reader.py --search amor
 ```
 
-#### Web
+#### Web (Interface Interativa)
+
+A interface web oferece uma experiência rica com:
+
+- 📖 **Leitura de capítulos** com formatação preservada
+- 🎨 **Destaque colorido** para falas de Deus (azul)
+- ⓘ **Notas interativas** - clique no ícone para abrir/fechar notas
+- 🔍 **Pesquisa integrada** por palavras-chave
+- 📚 **Navegação** por todos os livros do Antigo Testamento
 
 ```bash
-# Opção 1: Servir com Python
+# Iniciar servidor web
 cd src/web
 python -m http.server 8000
-# Abrir http://localhost:8000
+# Acesse http://localhost:8000
 
-# Opção 2: Servir com Node.js
+# Ou com Node.js
 npx http-server src/web -o
-
-# Opção 3: Abrir diretamente (pode ter restrições CORS)
-# Basta abrir o arquivo src/web/bible_reader.html no navegador
 ```
 
 ### Exemplos de Uso em Código
@@ -308,9 +316,10 @@ print(results)
 - [x] **Segmentação de falas** com identificação de Deus (14 ocorrências)
 - [x] **Texto hebraico** segmentado por fala em todos os versículos
 - [x] **Nota do título do capítulo** com contexto histórico
-- [x] **Notas de estudo** para versículos selecionados (Gn 1.1)
+- [x] **Notas de estudo** para versículos selecionados (Gn 1.1-30)
 - [x] **Campos da estrutura em inglês** para padronização internacional
 - [x] **Scripts de consumo** (Node.js, Python, Web)
+- [x] **Interface web com notas interativas** (clique para abrir/fechar)
 
 ### 🚧 Em Andamento
 - [ ] Continuação de Gênesis (capítulos 2-50)
@@ -362,8 +371,67 @@ Contribuições são bem-vindas! Siga os passos:
 5. **Push** para a branch: `git push origin minha-feature`
 6. Abra um **Pull Request**
 
+## 📖 Política de Fidelidade ao Texto Original
+
+Este projeto tem como compromisso principal **manter a fidelidade absoluta** à edição física da Bíblia de Estudo King James Atualizada (KJA) - 400 Anos.
+
+### ✅ O que é permitido
+- Correções de **erros ortográficos** evidentes (typos)
+- Ajustes de **formatação** que não alterem o sentido do texto
+- Melhorias na **estrutura do JSON** para melhor consumo em apps
+- Adição de **metadados** e informações técnicas
+
+### ❌ O que NÃO é permitido na branch `main`
+- Alteração de **notas de estudo** (conteúdo teológico)
+- Modificação do **texto bíblico** (versículos)
+- Mudança na **segmentação de falas** (quem fala o quê)
+- Adição ou remoção de **notas** que existem na versão física
+
+### 🌿 Política de Branches
+
+| Branch | Propósito |
+|--------|-----------|
+| `main` | Versão **idêntica** à Bíblia física (referência oficial) |
+| `dev` | Desenvolvimento de novas funcionalidades nos scripts |
+| `experimental/notas` | Testes de correções ortográficas e pequenos ajustes |
+| `feature/*` | Novas funcionalidades nos leitores (JS, Python, Web) |
+
+### 📝 Correções de Notas
+
+Caso sejam identificados **erros ortográficos** nas notas de estudo:
+
+1. Crie uma branch a partir da `main`:
+   ```bash
+   git checkout -b experimental/notas/correcao-ortografica
+   ```
+
+2. Faça as correções **apenas nas notas** (não no texto bíblico)
+
+3. Abra um **Pull Request** descrevendo:
+   - Quais notas foram alteradas
+   - Qual foi a correção aplicada
+   - Comparação com a versão física (se disponível)
+
+4. As correções serão revisadas e, se aprovadas, mescladas à `main`
+
+### 🔍 Verificação de Erros
+
+Se você encontrar um possível erro (ortográfico ou de digitação) nas notas:
+
+- Abra uma **Issue** no GitHub
+- Informe o versículo/capítulo e o texto atual
+- Informe a correção sugerida
+- Anexe foto da versão física (se possível)
+
+### 🎯 Princípio Fundamental
+
+> **"O JSON deve ser um reflexo digital fiel da Bíblia física, preservando seu conteúdo de estudo integralmente."**
+
+Alterações que alterem o **sentido teológico** ou o **conteúdo doutrinário** das notas não serão aceitas na branch `main`.
+
+
 ### Diretrizes
-- Mantenha a fidelidade ao texto original da KJA
+- Mantenha a fidelidade ao texto original da KJA (branch `main`)
 - Respeite a estrutura JSON estabelecida (campos em inglês)
 - Verifique a acentuação e ortografia
 - Teste a validade do JSON após alterações
@@ -371,6 +439,7 @@ Contribuições são bem-vindas! Siga os passos:
 - **Mantenha o padrão de segmentação de falas** (Comum, Deus, Jesus)
 - **Inclua texto hebraico** sempre que disponível
 - **Adicione notas de estudo** conforme presente na edição física
+- **Correções ortográficas** devem ser feitas em branches separadas (não diretamente na `main`)
 
 ## 📞 Contato
 
@@ -398,7 +467,7 @@ Encontrou um erro ou inconsistência? Abra uma issue no GitHub:
 
 | Versão | Data | Status | Descrição |
 |--------|------|--------|-----------|
-| 1.0.0 | 2026-04-02 | 🚧 Em desenvolvimento | Estrutura completa com campos em inglês, metadados, sumário, apresentação, prefácio, introdução de Gênesis, **Capítulo 1 completo com 31 versículos**, **nota do título**, **notas de estudo** (Gn 1.1), segmentação de falas, hebraico e **scripts de consumo** (Node.js, Python, Web) |
+| 1.0.0 | 2026-04-06 | 🚧 Em desenvolvimento | Estrutura completa com campos em inglês, metadados, sumário, apresentação, prefácio, introdução de Gênesis, **Capítulo 1 completo com 31 versículos**, **nota do título**, **notas de estudo** (Gn 1.1-30), segmentação de falas, hebraico, **scripts de consumo** (Node.js, Python, Web) e **interface web com notas interativas** |
 
 ## 🔗 Links Úteis
 
