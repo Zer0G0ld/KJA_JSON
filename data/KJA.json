@@ -1173,8 +1173,328 @@
                                     "notes_id": 4,
                                     "notes": "O autor de Gênesis escreve, como se estivesse num local tão central e geograficamente importante que simplesmente nos informa que a região do Éden fica a leste de onde estava. Descobertas arqueológicas nos indicam que o jardim do Éden ficava na confluência dos caudalosos rios Tigre e Eufrates (na época), o que corresponde à região onde hoje se situa o Iraque (v.14). A expressão \"éden\" significa na linguagem mesopotâmica ẽdĩn \"planície\" ou \"terreno fértil\"; já em hebraico ´dẽn, tem o sentido de \"bem-aventurança\" ou \"grande prazer\". O \"jardim\" ou \"parque\", em grego paradeisos, como na LXX (Septuaginta, a tradução grega do AT), constituía somente uma parte do Éden.",
                                     "cross-referencce": []
-                                }
-                            ]
+                                },
+                                {
+                                    "id": "gn.2.9",
+                                    "number": 9,
+                                    "text": "O Senhor Deus fez nascer do solo toda espécie de árvores agradáveis aos olhos e boas para alimento. E no meio desse jardim estavam a árvore da vida e a árvore do conhecimento do bem e do mal.",
+                                    "text_hebrew": "וַיַּצְמַח יְהוָה אֱלֹהִים מִן- הָאֲדָמָה כָּל- עֵץ נֶחְמָד לְמַרְאֶה וְטוֹב לְמַאֲכָל וְעֵץ הַחַיִּים בְּתוֹךְ הַגָּן וְעֵץ הַדַּעַת טוֹב וָרָע: ",
+                                    "speeches": [
+                                        {
+                                            "character": "comum",
+                                            "text": "O Senhor Deus fez nascer do solo toda espécie de árvores agradáveis aos olhos e boas para alimento. E no meio desse jardim estavam a árvore da vida e a árvore do conhecimento do bem e do mal.",
+                                            "text_hebrew": "וַיַּצְמַח יְהוָה אֱלֹהִים מִן- הָאֲדָמָה כָּל- עֵץ נֶחְמَד לְמַרְאֶה וְטוֹב לְמَאכׇל וְעץ החיים בתוך הגן ועץ הדעת טוב ורע: ",
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 5,
+                                    "notes": "A intenção de Deus sempre foi proporcionar vida plena e eterna aos seus filhos (Jo 10.10), por isso a \"Árvore da vida\" era franqueada ao consulmo de Adão e sua mulher (3.22, Ap 2.7:22.14). O \"conhecimento do bem e do mal\" não era necessário ao ser humano, mas caso essa fosse sua escolha (como foi), ele não poderia viver de forma abundante e eterna com os conflitos provenientes de um conhecimento moral e discernimento ético que alimentam a vontade de independência de Deus Pai, o Criador (Dt 1.39; Is 7.15,16).",
+                                    "cross-referencce": []
+                                    },
+                                    {
+                                    "id": "gn.2.10",
+                                    "number": 10,
+                                    "text": "Na região do Éden nascia um rio que irrigava todo o jardim e depois se dividia em quatro.",
+                                    "text_hebrew": "וְנָהָר יֹצֵא מֵעֵדֶן לְהַשְׁקוֹת אֶת- הַגָּן וּמִשָּׁם יִפָּרֵד וְהָיָה לְאַרְבָּעָה רָאשִׁים: ",
+                                    "speeches": [
+                                        {
+                                            "character": "comum",
+                                            "text": "Na região do Éden nascia um rio que irrigava todo o jardim e depois se dividia em quatro.",
+                                            "text_hebrew": "וְנָהָר יֹצֵא מֵעֵדֶן לְהַשְׁקוֹת אֶת- הַגָּן וּמִשָּׁם יִפָּרֵד וְהָיָה לְאַרְבָּעָה רָאשִׁים: ",
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": "",
+                                    "notes": "",
+                                    "cross-referencce": []
+                                    },
+                                    {
+                                    "id": "gn.2.11",
+                                    "number": 11,
+                                    "text": "O nome do primeiro é Pisom. Ele percorre todo o território de Havilá, onde exite ouro.",
+                                    "text_hebrew": "שֵׁם הָאֶחָד פִּישׁוֹן הוּא הַסֹּבֵב אֵת כָּל- אֶרֶץ הַחֲוִילָה אֲשֶׁר- שָׁם הַזָּהָב: ",
+                                    "speeches": [
+                                        {
+                                            "character": "comum",
+                                            "text": "O nome do primeiro é Pisom. Ele percorre todo o território de Havilá, onde exite ouro.",
+                                            "text_hebrew": "שֵׁם הָאֶחָד פִּישׁוֹן הוּא הַסֹּבֵב אֵת כָּל- אֶרֶץ הַחֲוִילָה אֲשֶׁר- שָׁם הַזָּהָב: ",
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 6,
+                                    "notes": "A cidade de Havilá (10.29) era banhada pelo rio Pisom, que em hebraico antigo significa \"fonte a jorrar\" e ficava nas vizinhanças do jardim do Éden. Sua localização exata, entretanto, se perdeu na história. Em 25.18 é mencionada uma cidade com o mesmo nome, mas pertencente à Israel. Em 1Sm 15.7 uma outra Havliá, no deserto da Arábia Meridional, é citada como uma região habitada por amalequitas e os parentes de Esaú.",
+                                    "cross-referencce": []
+                                    },
+                                    {
+                                    "id": "gn.2.12",
+                                    "number": 12,
+                                    "text": "O ouro daquela terra é de pureza excelente; terra na qual se encontra o bdélio, raro perfume, e a valiosa pedra ônix.",
+                                    "text_hebrew": "וּזֲהַב הָאָרֶץ הַהִוא טוֹב שָׁם הַבְּדֹלַח וְאֶבֶן הַשֹּׁהַם: ",
+                                    "speeches": [
+                                        {
+                                            "character": "comum",
+                                            "text": "O ouro daquela terra é de pureza excelente; terra na qual se encontra o bdélio, raro perfume, e a valiosa pedra ônix.",
+                                            "text_hebrew": "וּזֲהַב הָאָרֶץ הַהִוא טוֹב שָׁם הַבְּדֹלַח וְאֶבֶן הַשֹּׁהַם: ",
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": "",
+                                    "notes": "",
+                                    "cross-referencce": []
+                                    },
+                                    {
+                                    "id": "gn.2.13",
+                                    "number": 13,
+                                    "text": "O segundo, que percorre toda a terra de Cuxe, é chamado Giom.",
+                                    "text_hebrew": "וְשֵׁם- הַנָּהָר הַשֵּׁנִי גִּיחוֹן הוּא הַסּוֹבֵב אֵת כָּל- אֶרֶץ כּוּשׁ: ",
+                                    "speeches": [
+                                        {
+                                            "character": "comum",
+                                            "text": "O segundo, que percorre toda a terra de Cuxe, é chamado Giom.",
+                                            "text_hebrew": "וְשֵׁם- הַנָּהָר הַשֵּׁנִי גִּיחוֹן הוּא הַסּוֹבֵב אֵת כָּל- אֶרֶץ כּוּשׁ: ",
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": "",
+                                    "notes": "",
+                                    "cross-referencce": []
+                                    },
+                                    {
+                                    "id": "gn.2.14",
+                                    "number": 14,
+                                    "text": "O terceiro, que flui pelo lado leste da Assíria, é o conhecido rio Tigre. E o quarto, é o grande rio Eufrates.",
+                                    "text_hebrew": "וְשֵׁם הַנָּהָר הַשְּׁלִישִׁי חִדֶּקֶל הוּא הַהֹלֵךְ קִדְמַת אַשּׁוּר וְהַנָּהָר הָרְבִיעִי הוּא פְרָת: ",
+                                    "speeches": [
+                                        {
+                                            "character": "comum",
+                                            "text": "O terceiro, que flui pelo lado leste da Assíria, é o conhecido rio Tigre. E o quarto, é o grande rio Eufrates.",
+                                            "text_hebrew": "וְשֵׁם הַנָּהָר הַשְּׁלִישִׁי חִדֶּקֶל הוּא הַהֹלֵךְ קִדְמַת אַשּׁוּר וְהַנָּהָר הָרְבִיעִי הוּא פְרָת: ",
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 7,
+                                    "notes": "O substatntivo hebraico Giom tem o sentido de \"jorrador\", mas hoje a localização correta deste rio é desconhecida. É sabido que Pisom e Giom, já na época de Moisés, eram riachos localizados mais a Oriente, na baixa Mesopontâmia, nas proximidades do Golfo Pérsico. Assur era a capital da Assíria (nomes correlatos). Os rios Tigre (Dn 10.4) e Eufrates são bem conhecidos até hoje e fluem do Oriente para o Ocidente. O Eufrates é muitas vezes citados apenas como \"o Rio\", devido ao seu porte e importância histórica (15.18; 41.1; Êx 23.31; Nm 22.5; Dt 1.7; 11.24; Js 1.4; 2Sm 8.3; 1Rs 4.21; 2Rs 23.29; 24.7; 1Cr 5.9; 18.3; 2Cr 35.20; Jr 13.4; 46.2; 51.63; Ap 9.14).",
+                                    "cross-referencce": []
+                                    },
+                                    {
+                                    "id": "gn.2.15",
+                                    "number": 15,
+                                    "text": "Assim, Yahweh Deus, o Senhor, tomou o homem e o colocou no jardim do Éden para zelar por ele e nele fazer suas plantações.",
+                                    "text_hebrew": "וַיִּקַּח יְהוָה אֱלֹהִים אֶת- הָאָדָם וַיַּנִּחֵהוּ בְגַן- עֵדֶן לְעָבְדָהּ וּלְשָׁמְרָהּ: ",
+                                    "speeches": [
+                                        {
+                                            "character": "comum",
+                                            "text": "Assim, Yahweh Deus, o Senhor, tomou o homem e o colocou no jardim do Éden para zelar por ele e nele fazer suas plantações.",
+                                            "text_hebrew": "וַיִּקַּח יְהוָה אֱלֹהִים אֶת- הָאָדָם וַיַּנִּחֵהוּ בְגַן- עֵדֶן לְעָבְדָהּ וּלְשָׁמְרָהּ: ",
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": "",
+                                    "notes": "",
+                                    "cross-referencce": []
+                                    },
+                                    {
+                                    "id": "gn.2.16",
+                                    "number": 16,
+                                    "text": "E o Senhor deu a seguinte ordem ao homem: \"Comerás livremente o fruto de qualquer espécie de árvore que está no jardim;",
+                                    "text_hebrew": "וַיְצַו יְהוָה אֱלֹהִים עַל- הָאָדָם לֵאמֹר מִכֹּל עֵץ- הַגָּן אָכֹל תֹּאכֵל: ",
+                                    "speeches": [
+                                        {
+                                            "character": "comum",
+                                            "text": "E o Senhor deu a seguinte ordem ao homem: ",
+                                            "text_hebrew": "וַיְצַו יְהוָה אֱלֹהִים עַל- הָאָדָם לֵאמֹר",
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "\"Comerás livremente o fruto de qualquer espécie de árvore que está no jardim;",
+                                            "text_hebrew": "מִכֹּל עֵץ- הַגָּן אָכֹל תֹּאכֵל:",
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": "",
+                                    "notes": "",
+                                    "cross-referencce": []
+                                    },
+                                    {
+                                    "id": "gn.2.17",
+                                    "number": 17,
+                                    "text": "contudo, não comerás da árvore do conhecimento do bem e do mal, porque no dia em que comeres, com toda a certeza morrerás!\"",
+                                    "text_hebrew": "וּמֵעֵץ הַדַּעַת טוֹב וָרָע לֹא תֹאכַל מִמֶּנּוּ כִּי בְּיוֹם אֲכָלְךָ מִמֶּנּוּ מוֹת תָּמוּת: ",
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "contudo, não comerás da árvore do conhecimento do bem e do mal, porque no dia em que comeres, com toda a certeza morrerás!\"",
+                                            "text_hebrew": "וּמֵעֵץ הַדַּעַת טוֹב וָרָע לֹא תֹאכַל מִמֶּנּוּ כִּי בְּיוֹם אֲכָלְךָ מִמֶּנּוּ מוֹת תָּמוּת: ",
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": 8,
+                                    "notes": "Deus criou o ser humano como \"alma livre\". Um ser natural e sobrenatural, composto de elementos químicos (água e terra - como os animais - v.19) e feito à Imagem de Deus (1.27). A expressão hebraica Nepēš, que pode ser traduzida por \"pessoa\", \"o Eu\", \"vida\", \"alma\", indica um \"ser\" completo. Ainda que essa \"unidade\" possa ser didaticamente analisada em seus elementos constitutivos: corpo, alma e espírito (1 Ts 5.23). Deus utiliza-se do cuidado paterno em seu relacionamento com a humanidade. Provê todos os elementos para o saudável e prazeroso desenvolvimento físico, intelectual e emocional do homem (vv.9.15,19). Embora Gênesis tenha sido escrito em hebraico bíblico antigo (língua inicialmente oral, surgida em Canaã há cerca de 2000 a.C.), é certo que Deus usou uma outra linguagem para se comunicar com os habitantes do Éden; língua, cujo uso e as sucessivas modificações muito influenciou as primeiras palavras dos antigos povos na Mesopotâmia há mais de 10.000 a.C. Para o despertamento espiritual do ser humano foi estabelecido um mandamento divino com dois gumes afiados: \"comerás livremente...\" e \"não comerás...\" (vv.16,17). Somente o ser humano tem a capacidade de escolher entre o \"sim\" e o \"não\". Todas as demais criaturas são obedientes aos instintos com os quais foram criados e vivem tranquilamente sujeitos à vontade divina e à natureza que os cerca. O homem é chamado a tornar decisões; e ao permitir ou rejeitar (recional e emocionamente) as pressões exercidas sobre ele, demonstra que é, de fato, livre. Deus supriu Adão (o ser humano), com uma espécie de bússola interna (sempre apontando para o Senhor Yahweh), muito melhor do que um \"plano de ação\" ou \"princípio moral\". A resposta de Adão (e de toda a humanidade) deveria ser motivada pelo amor e lealdade de filho, não pelo orgulho, desobediência. O elemento de custo na restrição divina (o \"não\" de Deus a Adão), é porque o desenvolvimento humano à plena estatura desejada pelo Criador o requer (Hb 5.8,9). Embora negado pelo Adversário ou Inimigo da humanidade (a serpente), a desobediência a Deus sempre resultará em morte (3.4,17).",
+                                    "cross-referencce": []
+                                    },
+                                    {
+                                    "id": "gn.2.18",
+                                    "number": 18,
+                                    "text": "Então declarou Yahweh, o Senhor: \"Não é bom que o ser humano viva sem a companhia de um semelhante; farei para ele alguém que o ajude e a ele corresponda!\"",
+                                    "text_hebrew": "וַיֹּאמֶר יְהוָה אֱלֹהִים לֹא- טוֹב הֱיוֹת הָאָדָם לְבַדּוֹ אֶעֱשֶׂהּ- לּוֹ עֵזֶר כְּנֶגְדּוֹ: ",
+                                    "speeches": [
+                                        {
+                                            "character": "comum",
+                                            "text": "Então declarou Yahweh, o Senhor: ",
+                                            "text_hebrew": "וַיֹּאמֶר יְהוָה אֱלֹהִים",
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "\"Não é bom que o ser humano viva sem a companhia de um semelhante; farei para ele alguém que o ajude e a ele corresponda!\"",
+                                            "text_hebrew": "לֹא- טוֹב הֱיוֹת הָאָדָם לְבַדּוֹ אֶעֱשֶׂהּ- לּוֹ עֵזֶר כְּנֶגְדּוֹ:",
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": 9,
+                                    "notes": "A passagem bíblica de 2.18-25 é o único depoimento claro sobre a criação da mulher (em hebraico ishah, no sentido de fêmea humana) encontrado na literatura de todo o Oriente Médico até nossos dias.",
+                                    "cross-referencce": []
+                                    },
+                                    {
+                                    "id": "gn.2.19",
+                                    "number": 19,
+                                    "text": "Sendo assim, o Senhor modelou, do solo, todos os animasi selvagens e todas as aves do céu e, em seguida, os trouxe à presença do homem para ver como este os chamaria; e o nome que o homem desse a cada ser vivo, esse precisamente seria seu nome.",
+                                    "text_hebrew": "וַיִּצֶר יְהוָה אֱלֹהִים מִן- הָאֲדָמָה כָּל- חַיַּת הַשָּׂדֶה וְאֵת כָּל- עוֹף הַשָּׁמַיִם וַיָּבֵא אֶל- הָאָדָם לִרְאוֹת מַה- יִּקְרָא- לוֹ וְכֹל אֲשֶׁר יִקְרָא- לוֹ הָאָדָם נֶפֶשׁ חַיָּה הוּא שְׁמוֹ: ",
+                                    "speeches": [
+                                        {
+                                            "character": "comum",
+                                            "text": "Sendo assim, o Senhor modelou, do solo, todos os animasi selvagens e todas as aves do céu e, em seguida, os trouxe à presença do homem para ver como este os chamaria; e o nome que o homem desse a cada ser vivo, esse precisamente seria seu nome.",
+                                            "text_hebrew": "וַיִּצֶר יְהוָה אֱלֹהִים מִן- הָאֲדָמָה כָּל- חַיַּת הַשָּׂדֶה וְאֵת כָּל- עוֹף הַשָּׁמַיִם וַיָּבֵא אֶל- הָאָדָם לִרְאוֹת מַה- יִּקְרָא- לוֹ וְכֹל אֲשֶׁר יִקְרָא- לוֹ הָאָדָם נֶפֶשׁ חַיָּה הוּא שְׁמוֹ: ",
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 10,
+                                    "notes": "A expressão hebraica ish significa \"homem\" (referindo-se especificamente ao macho da espécie humana). Entretando, em muitos casos adam (ser humano) tem uso intercambiável a ish (gênero masculino). O NT extrai significativa parte do seu ensino sobre a diferença dos sexos humanos deste parágrafo (vv.18-25 conforme 1.27,28). O ato de dar nomes aos animais e a tudo quanto estivesse ao alcance dos olhos e do conhecimento de Adão, retrata a soberania outorgada por Deus ao ser humano sobre a terra,e o revela como ser social, criado para desenvolver e viver em comunhão; não para exercer tirania, mas sim compartilhar o amor, dividindo com seu próximo, parte do seu próprio corpo (vv.21-24). Assim a mulher é apresentada integralmente como sua companheira e sua réplica; nada ainda é dito sobre ela como gestante e mãe. A mulher primeiramente é avaliada pelo que ela mesma é. Eva foi criada a partir da mesma substância essencial de Adão, sendo entretanto um ser completamente novo. oA união matrimonial de ambos deve ser um laço exclusivo, permanente e selado pelo Senhor. Observe-se o \"deixar\" antes de \"uni-se\" (v.24; Mc 10.5-9), porquanto o próprio Deus, como pai da noiva, leva a esposa ao marido, a mulher ao seu homem. As analogias de Adão com o Messias, Jesus Cristo, são várias e profundas (Ef 5.22-23). Todos os crentes, que fazem a Igreja, o Corpo vivo de Cristo, estão para Cristo assim como Eva estava para Adão. Ninguém poderá se tornar \"carne da mesma carne\" com Cristo se não deixar a antiga custódia e moradia (o velho mundo) para se unir-se num só Espírito ao Senhor (1Jo 2.15; 2Co 5.17; Gl 6.15; Tg 1.18).",
+                                    "cross-referencce": []
+                                    },
+                                    {
+                                    "id": "gn.2.20",
+                                    "number": 20,
+                                    "text": "E, desse modo, o homem nomeou a todos os animais: os rebanhos domésticos, as aves do céu e a todas as feras. Entretanto, não se encontrou para o próprio ser humano alguém que com ele cooperasse e a ele correspondesse intimamente.",
+                                    "text_hebrew": "וַיִּקְרָא הָאָדָם שֵׁמוֹת לְכָל- הַבְּהֵמָה וּלְעוֹף הַשָּׁמַיִם וּלְכֹל חַיַּת הַשָּׂדֶה וּלְאָדָם לֹא- מָצָא עֵזֶר כְּנֶגְדּוֹ: ",
+                                    "speeches": [
+                                        {
+                                            "character": "comum",
+                                            "text": "E, desse modo, o homem nomeou a todos os animais: os rebanhos domésticos, as aves do céu e a todas as feras. Entretanto, não se encontrou para o próprio ser humano alguém que com ele cooperasse e a ele correspondesse intimamente.",
+                                            "text_hebrew": "וַיִּקְרָא הָאָדָם שֵׁמוֹת לְכָל- הַבְּהֵמָה וּלְעוֹף הַשָּׁמַיִם וּלְכֹל חַיַּת הַשָּׂדֶה וּלְאָדָם לֹא- מָצָא עֵזֶר כְּנֶגְדּוֹ: ",
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": "",
+                                    "notes": "",
+                                    "cross-referencce": []
+                                    },
+                                    {
+                                    "id": "gn.2.21",
+                                    "number": 21,
+                                    "text": "Então, Yahweh Deus fez Adão cair em profundo sono e, enquanto este dormia, retirou-lhe parte de um dos lados do corpo e uma costela, e fechou o lugar com carne.",
+                                    "text_hebrew": "וַיַּפֵּל יְהוָה אֱלֹהִים תַּרְדֵּמָה עַל- הָאָדָם וַיִּישָׁן וַיִּקַּח אַחַת מִצַּלְעֹתָיו וַיִּסְגֹּר בָּשָׂר תַּחְתֶּנָּה: ",
+                                    "speeches": [
+                                        {
+                                            "character": "comum",
+                                            "text": "Então, Yahweh Deus fez Adão cair em profundo sono e, enquanto este dormia, retirou-lhe parte de um dos lados do corpo e uma costela, e fechou o lugar com carne.",
+                                            "text_hebrew": "וַיַּפֵּל יְהוָה אֱלֹהִים תַּרְדֵּמָה עַל- הָאָדָם וַיִּישָׁן וַיִּקַּח אַחַת מִצַּלְעֹתָיו וַיִּסְגֹּר בָּשָׂר תַּחְתֶּנָּה: ",
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": "",
+                                    "notes": "",
+                                    "cross-referencce": []
+                                    },
+                                    {
+                                    "id": "gn.2.22",
+                                    "number": 22,
+                                    "text": "Com a costela que havia tirado do homem, o Senhor Deus modelou uma mulher e a conduziu até ele.",
+                                    "text_hebrew": "וַיִּבֶן יְהוָה אֱלֹהִים אֶת- הַצֵּלָע אֲשֶׁר- לָקַח מִן- הָאָדָם לְאִשָּׁה וַיְבִאֶהָ אֶל- הָאָדָם: ",
+                                    "speeches": [
+                                        {
+                                            "character": "comum",
+                                            "text": "Com a costela que havia tirado do homem, o Senhor Deus modelou uma mulher e a conduziu até ele.",
+                                            "text_hebrew": "וַיִּבֶן יְהוָה אֱלֹהִים אֶת- הַצֵּלָע אֲשֶׁר- לָקַח מִן- הָאָדָם לְאִשָּׁה וַיְבִאֶהָ אֶל- הָאָדָם: ",
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": "",
+                                    "notes": "",
+                                    "cross-referencce": []
+                                    },
+                                    {
+                                    "id": "gn.2.23",
+                                    "number": 23,
+                                    "text": "Então exclamou Adão: \"Esta, sim, é osso dos meus ossos e carne da minha carne! Ela será chamada 'mulher', porquanto do 'homem' foi extrapida\".",
+                                    "text_hebrew": "וַיֹּאמֶר הָאָדָם זֹאת הַפַּעַם עֶצֶם מֵעֲצָמַי וּבָשָׂר מִבְּשָׂרִי לְזֹאת יִקָּרֵא אִשָּׁה כִּי מֵאִישׁ לֻקֳחָה- זֹּאת: ",
+                                    "speeches": [
+                                        {
+                                            "character": "comum",
+                                            "text": "Então exclamou Adão: \"Esta, sim, é osso dos meus ossos e carne da minha carne! Ela será chamada 'mulher', porquanto do 'homem' foi extrapida\".",
+                                            "text_hebrew": "וַיֹּאמֶר הָאָדָם זֹאת הַפַּעַם עֶצֶם מֵעֲצָמַי וּבָשָׂר מִבְּשָׂרִי לְזֹאת יִקָּרֵא אִשָּׁה כִּי מֵאִישׁ לֻקֳחָה- זֹּאת: ",
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": "",
+                                    "notes": "",
+                                    "cross-referencce": []
+                                    },
+                                    {
+                                    "id": "gn.2.24",
+                                    "number": 24,
+                                    "text": "Por esse motivo é que o homem deixa a guarda de seu pai e sua mãe, para se unir à sua mulher, e eles se tornam uma só carne.",
+                                    "text_hebrew": "עַל- כֵּן יַעֲזָב- אִישׁ אֶת- אָבִיו וְאֶת- אִמּוֹ וְדָבַק בְּאִשְׁתּוֹ וְהָיוּ לְבָשָׂר אֶחָד: ",
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "Por esse motivo é que o homem deixa a guarda de seu pai e sua mãe, para se unir à sua mulher, e eles se tornam uma só carne.",
+                                            "text_hebrew": "עַל- כֵּן יַעֲזָב- אִישׁ אֶת- אָבִיו וְאֶת- אִמּוֹ וְדָבַק בְּאִשְׁתּוֹ וְהָיוּ לְבָשָׂר אֶחָד: ",
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": "",
+                                    "notes": "",
+                                    "cross-referencce": []
+                                    },
+                                    {
+                                    "id": "gn.2.25",
+                                    "number": 25,
+                                    "text": "O homem e a mulher viviam nus e não se envergonhavam.",
+                                    "text_hebrew": "וַיִּהְיוּ שְׁנֵיהֶם עֲרוּמִּים הָאָדָם וְאִשְׁתּוֹ וְלֹא יִתְבֹּשָׁשׁוּ: ",
+                                    "speeches": [
+                                        {
+                                            "character": "comum",
+                                            "text": "O homem e a mulher viviam nus e não se envergonhavam.",
+                                            "text_hebrew": "וַיִּהְיוּ שְׁנֵיהֶם עֲרוּמִּים הָאָדָם וְאִשְׁתּוֹ וְלֹא יִתְבֹּשָׁשׁוּ: ",
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": "",
+                                    "notes": "",
+                                    "cross-referencce": []
+                                    }
+                                ]
                         }
                     ]
                 }
