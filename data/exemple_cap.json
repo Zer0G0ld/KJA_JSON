@@ -1,0 +1,37 @@
+[
+    {
+        "id": "livro.cap.title",
+        "number": null,
+        "title": "",
+        "notes_id": null,
+        "note_title": null,
+        "verses": []
+    },
+    {
+        "id": "livro.cap.title",
+        "number": null,
+        "title": "",
+        "notes_id": null,
+        "note_title": null,
+        "verses": [
+            {
+                "id": "livro.cap.ver", 
+                "number": null,
+                "text": "",
+                "text_hebrew": "",
+                "speeches": [
+                    {
+                        "character": "Comum/Deus/Jesus",
+                        "text": "",
+                        "text_hebrew": "",
+                        "color": "default/azul/vermelho",
+                        "emphasis": "false/true"
+                    }
+                ],
+                "notes_id": null,
+                "notes": null,
+                "cross-reference": []
+            }
+        ]
+    }
+]

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bíblia KJA - Leitor</title>
+    <title>Bíblia KJA - Leitor com Hebraico</title>
     <style>
         * {
             margin: 0;
@@ -158,14 +158,15 @@
         .section-title {
             font-size: 1.4em;
             color: #2e7d32;
-            margin: 20px 0 15px 0;
+            margin: 25px 0 15px 0;
             padding-left: 10px;
             border-left: 4px solid #2e7d32;
+            font-style: italic;
         }
 
         .verse {
-            margin-bottom: 20px;
-            padding-bottom: 10px;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
             border-bottom: 1px solid #eee;
             position: relative;
         }
@@ -175,10 +176,12 @@
             font-weight: bold;
             margin-right: 10px;
             font-size: 1.1em;
+            display: inline-block;
+            min-width: 30px;
         }
 
         .god-speech {
-            color: #3498db;
+            color: #2e86de;
             font-weight: bold;
         }
 
@@ -186,6 +189,93 @@
             color: #333;
         }
 
+        /* Estilos para Hebraico e Transliteração */
+        .hebrew-section {
+            margin-top: 10px;
+            padding: 12px 15px;
+            background: #f8f4e8;
+            border-radius: 8px;
+            border-left: 4px solid #8d6e3b;
+            font-size: 0.95em;
+        }
+
+        .hebrew-word {
+            display: inline-block;
+            margin-right: 8px;
+            margin-bottom: 5px;
+            padding: 4px 8px;
+            background: #f0ebe0;
+            border-radius: 4px;
+            border: 1px solid #d4c9b0;
+            font-size: 0.9em;
+        }
+
+        .hebrew-word .hebrew-text {
+            font-family: 'Ezra SIL', 'SBL Hebrew', 'Times New Roman', serif;
+            font-size: 1.2em;
+            color: #2d1b0e;
+            direction: rtl;
+            display: inline-block;
+            margin-right: 5px;
+        }
+
+        .hebrew-word .transliteration {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 0.85em;
+            color: #6d4c2a;
+            font-weight: bold;
+            margin: 0 4px;
+        }
+
+        .hebrew-word .translation {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 0.8em;
+            color: #5a4a3a;
+            font-style: italic;
+        }
+
+        .hebrew-word .separator {
+            color: #b8a88a;
+            margin: 0 2px;
+        }
+
+        .hebrew-toggle {
+            cursor: pointer;
+            color: #6d4c2a;
+            font-size: 0.85em;
+            font-weight: bold;
+            margin-top: 8px;
+            display: inline-block;
+            padding: 4px 12px;
+            background: #e8e0d0;
+            border-radius: 4px;
+            transition: background 0.2s;
+            user-select: none;
+        }
+
+        .hebrew-toggle:hover {
+            background: #d4c9b0;
+        }
+
+        .hebrew-toggle .arrow {
+            display: inline-block;
+            transition: transform 0.2s;
+        }
+
+        .hebrew-toggle .arrow.open {
+            transform: rotate(90deg);
+        }
+
+        .hebrew-content {
+            display: none;
+            margin-top: 8px;
+        }
+
+        .hebrew-content.visible {
+            display: block;
+        }
+
+        /* Notas de estudo */
         .note-marker {
             display: inline-flex;
             align-items: center;
@@ -300,6 +390,11 @@
             display: none;
         }
 
+        /* Scroll suave */
+        .verse-container {
+            scroll-behavior: smooth;
+        }
+
         @media (max-width: 768px) {
             .books-grid {
                 grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
@@ -320,6 +415,15 @@
             
             .chapter-nav button {
                 width: 100%;
+            }
+
+            .hebrew-word {
+                display: block;
+                margin-bottom: 4px;
+            }
+
+            .hebrew-word .hebrew-text {
+                font-size: 1em;
             }
         }
     </style>
@@ -468,6 +572,36 @@
             }
         }
 
+        function escapeHtml(text) {
+            if (!text) return '';
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        function renderHebrewWords(hebrewArray) {
+            if (!hebrewArray || !Array.isArray(hebrewArray) || hebrewArray.length === 0) {
+                return '';
+            }
+
+            return hebrewArray.map(item => {
+                const word = item.word || '';
+                const transliteration = item.transliteration || '';
+                const translation = item.translation || '';
+                
+                let html = `<span class="hebrew-word">`;
+                html += `<span class="hebrew-text">${escapeHtml(word)}</span>`;
+                if (transliteration) {
+                    html += ` <span class="transliteration">${escapeHtml(transliteration)}</span>`;
+                }
+                if (translation) {
+                    html += ` <span class="translation">• ${escapeHtml(translation)}</span>`;
+                }
+                html += `</span>`;
+                return html;
+            }).join('');
+        }
+
         function renderSpeech(speech) {
             const character = speech.character || speech.personagem;
             const text = speech.text || '';
@@ -481,6 +615,7 @@
 
         function renderVerses(chapter, bookId, chapterNum) {
             let html = '';
+            let hebrewVisible = true; // Começa visível
             
             for (const item of chapter.verses) {
                 // Se for um título de seção (título interno)
@@ -493,10 +628,15 @@
                 if (item.number !== undefined) {
                     const hasNote = item.notes && item.notes !== null;
                     const noteId = `note-${bookId}-${chapterNum}-${item.number}`;
+                    const hasHebrew = item.text_hebrew && (
+                        (Array.isArray(item.text_hebrew) && item.text_hebrew.length > 0) ||
+                        (typeof item.text_hebrew === 'string' && item.text_hebrew.length > 0)
+                    );
                     
                     html += `<div class="verse">`;
                     html += `<span class="verse-number">${item.number}</span>`;
                     
+                    // Renderizar falas (texto em português)
                     if (item.speeches && Array.isArray(item.speeches)) {
                         item.speeches.forEach(speech => {
                             html += renderSpeech(speech);
@@ -505,6 +645,7 @@
                         html += `<span class="normal-speech">${escapeHtml(item.text || '')}</span>`;
                     }
                     
+                    // Marcador de nota
                     if (hasNote) {
                         html += `
                             <span class="note-marker" onclick="toggleVerseNote('${noteId}', event)">ⓘ</span>
@@ -515,11 +656,52 @@
                         `;
                     }
                     
+                    // Seção de Hebraico com transliteração
+                    if (hasHebrew) {
+                        const hebrewContentId = `hebrew-${bookId}-${chapterNum}-${item.number}`;
+                        html += `
+                            <div class="hebrew-section">
+                                <div class="hebrew-toggle" onclick="toggleHebrew('${hebrewContentId}', this)">
+                                    <span class="arrow open">▶</span> 
+                                    <span>Hebraico Original</span>
+                                </div>
+                                <div id="${hebrewContentId}" class="hebrew-content visible">
+                        `;
+                        
+                        if (Array.isArray(item.text_hebrew)) {
+                            // Novo formato: array com transliteração
+                            html += renderHebrewWords(item.text_hebrew);
+                        } else if (typeof item.text_hebrew === 'string') {
+                            // Formato antigo: string simples
+                            html += `<span class="hebrew-text" style="font-size:1.2em;">${escapeHtml(item.text_hebrew)}</span>`;
+                        }
+                        
+                        html += `
+                                </div>
+                            </div>
+                        `;
+                    }
+                    
                     html += `</div>`;
                 }
             }
             
             return html;
+        }
+
+        function toggleHebrew(contentId, toggleElement) {
+            const content = document.getElementById(contentId);
+            if (!content) return;
+            
+            const arrow = toggleElement.querySelector('.arrow');
+            
+            if (content.classList.contains('visible')) {
+                content.classList.remove('visible');
+                arrow.classList.remove('open');
+            } else {
+                content.classList.add('visible');
+                arrow.classList.add('open');
+            }
         }
 
         function showChapter(bookId, chapterNum, bookName) {
@@ -609,7 +791,6 @@
                     for (const chapter of chapters) {
                         if (chapter.verses && Array.isArray(chapter.verses)) {
                             for (const verse of chapter.verses) {
-                                // Pular títulos de seção na busca
                                 if (verse.type === 'section_title') continue;
                                 
                                 if (verse.text && verse.text.toLowerCase().includes(keyword)) {
@@ -653,18 +834,12 @@
             searchResults.style.display = 'block';
         }
 
-        function escapeHtml(text) {
-            if (!text) return '';
-            const div = document.createElement('div');
-            div.textContent = text;
-            return div.innerHTML;
-        }
-
         document.addEventListener('click', function(event) {
             const isNoteMarker = event.target.classList && event.target.classList.contains('note-marker');
             const isChapterNote = event.target.classList && (event.target.classList.contains('chapter-note') || event.target.classList.contains('note-marker-chapter'));
+            const isHebrewToggle = event.target.closest && event.target.closest('.hebrew-toggle');
             
-            if (!isNoteMarker && !isChapterNote && currentOpenNote) {
+            if (!isNoteMarker && !isChapterNote && !isHebrewToggle && currentOpenNote) {
                 closeAllNotes();
             }
         });

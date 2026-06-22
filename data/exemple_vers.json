@@ -1,0 +1,18 @@
+{
+    "id": "livro.cap.ver", 
+    "number": null,
+    "text": "",
+    "text_hebrew": "",
+    "speeches": [
+        {
+            "character": "Comum",
+            "text": "",
+            "text_hebrew": "",
+            "color": "default",
+            "emphasis": false
+        }
+    ],
+    "notes_id": null,
+    "notes": null,
+    "cross-reference": []
+}
