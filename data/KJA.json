@@ -4065,6 +4065,1147 @@
                                     "notes_id": 1,
                                     "notes": "A frase de Eva nos originais hebraicos pode ser traduzida assim: \"Obtive um homem, ó Yahweh!\", onde \"Obtive\" é a expressão transliterada Cãnah ou Caim, que significa \"aquele que extrai o metal dos minerais\" ou \"metalúrgico\". Eva soube reconhecer que apesar do pecado que ela e Adão cometeram Deus permanecia misericordioso e doador do sopro ou fôlego (espírito) da vida (At 17.25).",
                                     "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.2", 
+                                    "number": 2,
+                                    "text": "Voltou a engravidar e desta vez lhe nasceu Abel, irmão de Caim. Abel tornou-se pastor de ovelhas e Caim cultivava a terra.",
+                                    "text_hebrew": [
+                                        { "word": "וַתֹּסֶף", "transliteration": "VATOSEF", "translation": "{e continuou}" },
+                                        { "word": "לָלֶדֶת", "transliteration": "LÅLEDET", "translation": "{(a) dar à luz}" },
+                                        { "word": "אֶת- אָחִיו", "transliteration": "ET-ÅCHYV", "translation": "{(o)} seu irmão" },
+                                        { "word": "אֶת- הָבֶל", "transliteration": "ET-HÅVEL", "translation": "Abel:" },
+                                        { "word": "וַיְהִי- הֶבֶל", "transliteration": "VAYËHY-HEVEL", "translation": "e foi Abel" },
+                                        { "word": "רֹעֵה", "transliteration": "ROEH", "translation": "pastor de" },
+                                        { "word": "צֹאן", "transliteration": "TSON", "translation": "ovelhas, {lit.: ovelha}" },
+                                        { "word": "וְקַיִן", "transliteration": "VËQAYN", "translation": "e Caim" },
+                                        { "word": "הָיָה", "transliteration": "HÅYÅH", "translation": "foi" },
+                                        { "word": "עֹבֵד", "transliteration": "OVED", "translation": "lavrador da" },
+                                        { "word": "אֲדָמָה:", "transliteration": "ADÅMÅH:", "translation": "terra." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Voltou a engravidar e desta vez lhe nasceu Abel, irmão de Caim. Abel tornou-se pastor de ovelhas e Caim cultivava a terra.",
+                                            "text_hebrew": [
+                                                { "word": "וַתֹּסֶף", "transliteration": "VATOSEF", "translation": "{e continuou}" },
+                                                { "word": "לָלֶדֶת", "transliteration": "LÅLEDET", "translation": "{(a) dar à luz}" },
+                                                { "word": "אֶת- אָחִיו", "transliteration": "ET-ÅCHYV", "translation": "{(o)} seu irmão" },
+                                                { "word": "אֶת- הָבֶל", "transliteration": "ET-HÅVEL", "translation": "Abel:" },
+                                                { "word": "וַיְהִי- הֶבֶל", "transliteration": "VAYËHY-HEVEL", "translation": "e foi Abel" },
+                                                { "word": "רֹעֵה", "transliteration": "ROEH", "translation": "pastor de" },
+                                                { "word": "צֹאן", "transliteration": "TSON", "translation": "ovelhas, {lit.: ovelha}" },
+                                                { "word": "וְקַיִן", "transliteration": "VËQAYN", "translation": "e Caim" },
+                                                { "word": "הָיָה", "transliteration": "HÅYÅH", "translation": "foi" },
+                                                { "word": "עֹבֵד", "transliteration": "OVED", "translation": "lavrador da" },
+                                                { "word": "אֲדָמָה:", "transliteration": "ADÅMÅH:", "translation": "terra." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 2,
+                                    "notes": "Durante toda a Bíblia os nomes terão profundo significado em relação ao caráter ou ao destino de seus possuidores. Abel tem um duplo sentido no original hebraico: pode ser \"o fôlego passageiro da vida\" ou a expressão \"sem nexo\", o mesmo termo usado por Salomão para mostrar a \"inutilidade\" e a \"falta de sentido\" da vida sem a perspectiva divina (Ec 1.2; 12.8). Não que Abel vivesse afastado de Deus; ao contrário, mas que a fatalidade que ceifou prematuramente esse servo do Senhor foi um \"total absurdo\" se não crermos, somente pela fé, que Deus assim o permitiu por sua infinita e insondável bondade e sabedoria. Entretanto, como já vimos, nessa época ainda não se falava o hebraico bíblico antigo (surgido por volta de 2500 a.C. em Canaã), e o nome Abel nas antigas línguas derivadas do sumério Ibil e do acádio Abplu significa simplesmente \"filho\".",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.3", 
+                                    "number": 3,
+                                    "text": "Passado o tempo, Caim apresentou alguns produtos do solo, em oferenda ao Senhor.",
+                                    "text_hebrew": [
+                                        { "word": "וַיְהִי", "transliteration": "VAYËHY", "translation": "E aconteceu" },
+                                        { "word": "מִקֵּץ", "transliteration": "MIQETS", "translation": "ao cabo de" },
+                                        { "word": "יָמִים", "transliteration": "YÅMYM", "translation": "dias" },
+                                        { "word": "וַיָּבֵא", "transliteration": "VAYÅVE", "translation": "{e} trouxe" },
+                                        { "word": "קַיִן", "transliteration": "QAYN", "translation": "Caim" },
+                                        { "word": "מִפְּרִי", "transliteration": "MIPËRY", "translation": "do fruto da" },
+                                        { "word": "הָאֲדָמָה", "transliteration": "HÅADÅMÅH", "translation": "terra" },
+                                        { "word": "מִנְחָה", "transliteration": "MINËCHÅH", "translation": "(uma) oferta" },
+                                        { "word": "לַיהוָה:", "transliteration": "LAYHVH:", "translation": "ao SENHOR." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Passado o tempo, Caim apresentou alguns produtos do solo, em oferenda ao Senhor.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְהִי", "transliteration": "VAYËHY", "translation": "E aconteceu" },
+                                                { "word": "מִקֵּץ", "transliteration": "MIQETS", "translation": "ao cabo de" },
+                                                { "word": "יָמִים", "transliteration": "YÅMYM", "translation": "dias" },
+                                                { "word": "וַיָּבֵא", "transliteration": "VAYÅVE", "translation": "{e} trouxe" },
+                                                { "word": "קַיִן", "transliteration": "QAYN", "translation": "Caim" },
+                                                { "word": "מִפְּרִי", "transliteration": "MIPËRY", "translation": "do fruto da" },
+                                                { "word": "הָאֲדָמָה", "transliteration": "HÅADÅMÅH", "translation": "terra" },
+                                                { "word": "מִנְחָה", "transliteration": "MINËCHÅH", "translation": "(uma) oferta" },
+                                                { "word": "לַיהוָה:", "transliteration": "LAYHVH:", "translation": "ao SENHOR." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.4", 
+                                    "number": 4,
+                                    "text": "Abel, por sua vez, ofereceu as primícias e a gordura de seu rebanho. Ora, o Senhor aceitou com alegria a Abel e sua oferta.",
+                                    "text_hebrew": [
+                                        { "word": "וְהֶבֶל", "transliteration": "VËHEVEL", "translation": "E Abel" },
+                                        { "word": "הֵבִיא", "transliteration": "HEVY", "translation": "trouxe" },
+                                        { "word": "גַם- הוּא", "transliteration": "GAM-HU", "translation": "também {ele}" },
+                                        { "word": "מִבְּכֹרוֹת", "transliteration": "MIBËKHOROT", "translation": "dos primogênitos das" },
+                                        { "word": "צֹאנוֹ", "transliteration": "TSONO", "translation": "suas ovelhas, {lit.: sua ovelha}" },
+                                        { "word": "וּמֵחֶלְבֵהֶן", "transliteration": "UMECHELËVEHEN", "translation": "e da sua gordura: {lit.: e da gordura delas}" },
+                                        { "word": "וַיִּשַׁע", "transliteration": "VAYSHA", "translation": "e atentou" },
+                                        { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                        { "word": "אֶל- הֶבֶל", "transliteration": "EL-HEVEL", "translation": "para Abel" },
+                                        { "word": "וְאֶל- מִנְחָתוֹ:", "transliteration": "VËEL-MINËCHÅTO:", "translation": "e para a sua oferta," }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Abel, por sua vez, ofereceu as primícias e a gordura de seu rebanho. Ora, o Senhor aceitou com alegria a Abel e sua oferta.",
+                                            "text_hebrew": [
+                                                { "word": "וְהֶבֶל", "transliteration": "VËHEVEL", "translation": "E Abel" },
+                                                { "word": "הֵבִיא", "transliteration": "HEVY", "translation": "trouxe" },
+                                                { "word": "גַם- הוּא", "transliteration": "GAM-HU", "translation": "também {ele}" },
+                                                { "word": "מִבְּכֹרוֹת", "transliteration": "MIBËKHOROT", "translation": "dos primogênitos das" },
+                                                { "word": "צֹאנוֹ", "transliteration": "TSONO", "translation": "suas ovelhas, {lit.: sua ovelha}" },
+                                                { "word": "וּמֵחֶלְבֵהֶן", "transliteration": "UMECHELËVEHEN", "translation": "e da sua gordura: {lit.: e da gordura delas}" },
+                                                { "word": "וַיִּשַׁע", "transliteration": "VAYSHA", "translation": "e atentou" },
+                                                { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                                { "word": "אֶל- הֶבֶל", "transliteration": "EL-HEVEL", "translation": "para Abel" },
+                                                { "word": "וְאֶל- מִנְחָתוֹ:", "transliteration": "VËEL-MINËCHÅTO:", "translation": "e para a sua oferta," }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 3,
+                                    "notes": "A alegria de Deus na pessoa e na oferta de Abel, e seu desprazer em relação a Caim e sua oferta podem ser compreendidos principalmente à luz do caráter dos ofertantes, não apenas na quantidade e nas características físicas do que fora oferecido em reconhecimento ao amor e ao companheirismo do Senhor (1Jo 3.12; Hb 11.4; Lv 3.16).",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.5", 
+                                    "number": 5,
+                                    "text": "Todavia, não se agradou de Caim e de sua oferenda; e, por ese motivo, Caim ficou muito irado e seu semblante assumiu uma expressão maligna.",
+                                    "text_hebrew": [
+                                        { "word": "וְאֶל- קַיִן", "transliteration": "VËEL-QAYN", "translation": "Mas para Caim" },
+                                        { "word": "וְאֶל- מִנְחָתוֹ", "transliteration": "VËEL-MINËCHÅTO", "translation": "e para a sua oferta" },
+                                        { "word": "לֹא", "transliteration": "LO", "translation": "não" },
+                                        { "word": "שָׁעָה", "transliteration": "SHÅÅH", "translation": "atentou." },
+                                        { "word": "וַיִּחַר", "transliteration": "VAYCHAR", "translation": "E irou-se" },
+                                        { "word": "לְקַיִן", "transliteration": "LËQAYN", "translation": "Caim {lit.: para Caim}" },
+                                        { "word": "מְאֹד", "transliteration": "MËOD", "translation": "{muito}" },
+                                        { "word": "וַיִּפְּלוּ", "transliteration": "VAYPËLU", "translation": "e descaiu-lhe" },
+                                        { "word": "פָּנָיו:", "transliteration": "PÅNÅYV:", "translation": "o seu semblante." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Todavia, não se agradou de Caim e de sua oferenda; e, por ese motivo, Caim ficou muito irado e seu semblante assumiu uma expressão maligna.",
+                                            "text_hebrew": [
+                                                { "word": "וְאֶל- קַיִן", "transliteration": "VËEL-QAYN", "translation": "Mas para Caim" },
+                                                { "word": "וְאֶל- מִנְחָתוֹ", "transliteration": "VËEL-MINËCHÅTO", "translation": "e para a sua oferta" },
+                                                { "word": "לֹא", "transliteration": "LO", "translation": "não" },
+                                                { "word": "שָׁעָה", "transliteration": "SHÅÅH", "translation": "atentou." },
+                                                { "word": "וַיִּחַר", "transliteration": "VAYCHAR", "translation": "E irou-se" },
+                                                { "word": "לְקַיִן", "transliteration": "LËQAYN", "translation": "Caim {lit.: para Caim}" },
+                                                { "word": "מְאֹד", "transliteration": "MËOD", "translation": "{muito}" },
+                                                { "word": "וַיִּפְּלוּ", "transliteration": "VAYPËLU", "translation": "e descaiu-lhe" },
+                                                { "word": "פָּנָיו:", "transliteration": "PÅNÅYV:", "translation": "o seu semblante." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.6", 
+                                    "number": 6,
+                                    "text": "Então o Senhor abordou Caim: \"Porque estás furioso? E por qual motivo teu rosto está transtornado?",
+                                    "text_hebrew": [
+                                        { "word": "וַיֹּאמֶer", "transliteration": "VAYOMER", "translation": "E disse" },
+                                        { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                        { "word": "אֶל- קָיִן", "transliteration": "EL-QÅYN", "translation": "a Caim:" },
+                                        { "word": "לָמָּה", "transliteration": "LÅMÅH", "translation": "Por que" },
+                                        { "word": "חָרָה לָךְ", "transliteration": "CHÅRÅH LÅKH", "translation": "te iraste?" },
+                                        { "word": "וְלָמָּה", "transliteration": "VËLÅMÅH", "translation": "E por que" },
+                                        { "word": "נָפְלוּ", "transliteration": "NÅFËLU", "translation": "descaiu" },
+                                        { "word": "פָנֶיךָ:", "transliteration": "FÅNEYKHA:", "translation": "(o) teu semblante?" }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Então o Senhor abordou Caim: ",
+                                            "text_hebrew": [
+                                                { "word": "וַיֹּאמֶer", "transliteration": "VAYOMER", "translation": "E disse" },
+                                                { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                                { "word": "אֶל- קָיִן", "transliteration": "EL-QÅYN", "translation": "a Caim:" }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "\"Porque estás furioso? E por qual motivo teu rosto está transtornado?",
+                                            "text_hebrew": [
+                                                { "word": "לָמָּה", "transliteration": "LÅMÅH", "translation": "Por que" },
+                                                { "word": "חָרָה לָךְ", "transliteration": "CHÅRÅH LÅKH", "translation": "te iraste?" },
+                                                { "word": "וְלָמָּה", "transliteration": "VËLÅMÅH", "translation": "E por que" },
+                                                { "word": "נָפְלוּ", "transliteration": "NÅFËLU", "translation": "descaiu" },
+                                                { "word": "פָנֶיךָ:", "transliteration": "FÅNEYKHA:", "translation": "(o) teu semblante?" }
+                                            ],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.7", 
+                                    "number": 7,
+                                    "text": "Se procederes bem, não é certo que será aceito? Entretanto, se assim não fizeres, sabe que o pecado espreita à tua porta e deseja destruir-te; cabe a ti vencê-lo!\"",
+                                    "text_hebrew": [
+                                        { "word": "הֲלוֹא", "transliteration": "HALO", "translation": "{acaso não}" },
+                                        { "word": "אִם- תֵּיטִיב", "transliteration": "IM-TEYTYV", "translation": "{se fores bom}" },
+                                        { "word": "שְׂאֵת", "transliteration": "SËET", "translation": "{levantar?}" },
+                                        { "word": "וְאִם", "transliteration": "VËIM", "translation": "E se" },
+                                        { "word": "לֹא", "transliteration": "LO", "translation": "não" },
+                                        { "word": "תֵיטִיב", "transliteration": "TEYTYV", "translation": "{fores bom}" },
+                                        { "word": "לַפֶּתַח", "transliteration": "LAPETACH", "translation": "à porta," },
+                                        { "word": "חַטָּאת", "transliteration": "CHATÅT", "translation": "(o) pecado" },
+                                        { "word": "רֹבֵץ", "transliteration": "ROVETS", "translation": "jaz" },
+                                        { "word": "וְאֵלֶיךָ", "transliteration": "VËELEYKHA", "translation": "e para ti" },
+                                        { "word": "תְּשׁוּקָתוֹ", "transliteration": "TËSHUQÅTO", "translation": "(será) o seu desejo, {alter.: o desejo dele}" },
+                                        { "word": "וְאַתָּה", "transliteration": "VËATÅH", "translation": "{mas tu}" },
+                                        { "word": "תִּמְשָׁל- בּוֹ:", "transliteration": "TIMËSHÅL-BO:", "translation": "{o dominarás}" }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "Se procederes bem, não é certo que será aceito? Entretanto, se assim não fizeres, sabe que o pecado espreita à tua porta e deseja destruir-te; cabe a ti vencê-lo!\"",
+                                            "text_hebrew": [
+                                                { "word": "הֲלוֹא", "transliteration": "HALO", "translation": "{acaso não}" },
+                                                { "word": "אִם- תֵּיטִיב", "transliteration": "IM-TEYTYV", "translation": "{se fores bom}" },
+                                                { "word": "שְׂאֵת", "transliteration": "SËET", "translation": "{levantar?}" },
+                                                { "word": "וְאִם", "transliteration": "VËIM", "translation": "E se" },
+                                                { "word": "לֹא", "transliteration": "LO", "translation": "não" },
+                                                { "word": "תֵיטִיב", "transliteration": "TEYTYV", "translation": "{fores bom}" },
+                                                { "word": "לַפֶּתַח", "transliteration": "LAPETACH", "translation": "à porta," },
+                                                { "word": "חַטָּאת", "transliteration": "CHATÅT", "translation": "(o) pecado" },
+                                                { "word": "רֹבֵץ", "transliteration": "ROVETS", "translation": "jaz" },
+                                                { "word": "וְאֵלֶיךָ", "transliteration": "VËELEYKHA", "translation": "e para ti" },
+                                                { "word": "תְּשׁוּקָתוֹ", "transliteration": "TËSHUQÅTO", "translation": "(será) o seu desejo, {alter.: o desejo dele}" },
+                                                { "word": "וְאַתָּה", "transliteration": "VËATÅH", "translation": "{mas tu}" },
+                                                { "word": "תִּמְשָׁל- בּוֹ:", "transliteration": "TIMËSHÅL-BO:", "translation": "{o dominarás}" }
+                                            ],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": 4,
+                                    "notes": "O vocábulo hebraico original, aqui traduzido por \"aceito\" significa literalmente: \"elevado\" ou \"abençoado\" (Nm 6.26), num contraste ao \"rosto caído\" ou \"transtornado\" (v.6). Caim não compreendia a bondade de Deus, pois lavrar o solo depois da Queda (Gn 3), passou a ser um trabalho penoso; observava seu irmão mais novo com uma atividade menos cansativa e, aparentemente, mais prazerosa; quando vem cumprir um ritual de agradecimento a Deus, seu coração está ferido de injúria, inveja e mágoas; suas ofertas são produtos da terra dura e do seu coração árido e odioso. O Senhor percebe o semblante revoltado de Caim e o aconselha a rever seu estilo de vida e os desígnios do seu coração. Acumular mágoas e invejas deforma a Imagem de Deus (Imago Dei - Gn 1.26) depositada no ser humano e nos torna maleáveis às influências do Enganador. A expressão hebraica original aqui traduzida por \"espreita\" é a mesma palavra babilônica antiga que se refer a um \"demônio ardiloso e terrível\" que avalia atento, bem à porta da casa, o melhor momento para atacar e matar suas vítimas. O pecado é retratado assim, como um demônio em forma de fera, pronto para dominar Caim por meio da porta da ingratidão contra Deus e o mundo. Chaga que o próprio Caim, ensandecidamente produziu ao longo do tempo. Deus adverte a Caim e a todos nós, que nossas iras, mágoas, desejos escusos, orgulhos e invejas, tentarão sempre nos sabotar, mas cumpre a nós, mediante a fé no Senhor, vencer o mal que nos assedia diariamente tão pertinaz (Pv21.10; Mt 6.13; Jo 17.15; Rm 12.9,17,21; 1Tm 6.10; 1Pe 3.10; 3Jo 11).",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.8", 
+                                    "number": 8,
+                                    "text": "Contudo, propôs Caim a seu irmão Abel: \"Saiamos, vamos ao campo!\" E, quando estavam no campo, aconteceu que Caim se levantou contra Abel, seu irmão, e o matou.",
+                                    "text_hebrew": [
+                                        { "word": "וַיֹּאמֶer", "transliteration": "VAYOMER", "translation": "E falou" },
+                                        { "word": "קַיִן", "transliteration": "QAYN", "translation": "Caim" },
+                                        { "word": "אֶל- הֶבֶל", "transliteration": "EL-HEVEL", "translation": "com Abel:" },
+                                        { "word": "אָחִיו", "transliteration": "ÅCHYV", "translation": "(o) seu irmão" },
+                                        { "word": "וַיְהִי", "transliteration": "VAYËHY", "translation": "e sucedeu (que,)" },
+                                        { "word": "בִּהְיוֹתָם", "transliteration": "BIHËYOTÅM", "translation": "estando eles" },
+                                        { "word": "בַּשָּׂדֶה", "transliteration": "BASÅDEH", "translation": "no campo," },
+                                        { "word": "וַיָּקָם", "transliteration": "VAYÅQÅM", "translation": "{e} se levantou" },
+                                        { "word": "קַיִן", "transliteration": "QAYN", "translation": "Caim" },
+                                        { "word": "אֶל- הֶבֶל", "transliteration": "EL-HEVEL", "translation": "contra Abel," },
+                                        { "word": "אָחִיו", "transliteration": "ÅCHYV", "translation": "(o) seu irmão" },
+                                        { "word": "וַיַּהַרְגֵהוu:", "transliteration": "VAYAHARËGEHU:", "translation": "e o matou." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Contudo, propôs Caim a seu irmão Abel: \"Saiamos, vamos ao campo!\" E, quando estavam no campo, aconteceu que Caim se levantou contra Abel, seu irmão, e o matou.",
+                                            "text_hebrew": [
+                                                { "word": "וַיֹּאמֶer", "transliteration": "VAYOMER", "translation": "E falou" },
+                                                { "word": "קַיִן", "transliteration": "QAYN", "translation": "Caim" },
+                                                { "word": "אֶל- הֶבֶל", "transliteration": "EL-HEVEL", "translation": "com Abel:" },
+                                                { "word": "אָחִיו", "transliteration": "ÅCHYV", "translation": "(o) seu irmão" },
+                                                { "word": "וַיְהִי", "transliteration": "VAYËHY", "translation": "e sucedeu (que,)" },
+                                                { "word": "בִּהְיוֹתָם", "transliteration": "BIHËYOTÅM", "translation": "estando eles" },
+                                                { "word": "בַּשָּׂדֶה", "transliteration": "BASÅDEH", "translation": "no campo," },
+                                                { "word": "וַיָּקָם", "transliteration": "VAYÅQÅM", "translation": "{e} se levantou" },
+                                                { "word": "קַיִן", "transliteration": "QAYN", "translation": "Caim" },
+                                                { "word": "אֶל- הֶבֶל", "transliteration": "EL-HEVEL", "translation": "contra Abel," },
+                                                { "word": "אָחִיו", "transliteration": "ÅCHYV", "translation": "(o) seu irmão" },
+                                                { "word": "וַיַּהַרְגֵהוu:", "transliteration": "VAYAHARËGEHU:", "translation": "e o matou." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 5,
+                                    "notes": "O TM (Texto Massorético) não traz o vil convite de Caim: \"vamos ao campo\"; entretanto deixa claro que \"Caim conversou com Abel\" e logo depois estavam no campo. Documentos como o Petatuco Samaritano, a LXX (Septuaginta), a Vulgata e a Versão Siríca, além dos conhecidos Rolos do Mar Morto, encontratos na maior descoberta arqueológica do séc.XX, monte Qunram, próximo às cidades de Jericó e Jerusalém, é que trazem o texto conforme publicado aqui.",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.9", 
+                                    "number": 9,
+                                    "text": "Então o Senhor inquiriu Caim: \"Onde está teu irmão Abel?\" Retrucou Caim: \"Não sei; acaso sou eu o protetor do meu irmão?\"",
+                                    "text_hebrew": [
+                                        { "word": "וַיֹּאמֶר", "transliteration": "VAYOMER", "translation": "E disse" },
+                                        { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                        { "word": "אֶל- קַיִן", "transliteration": "EL-QAYN", "translation": "a Caim:" },
+                                        { "word": "אֵי", "transliteration": "EY", "translation": "Onde (está)" },
+                                        { "word": "הֶבֶל", "transliteration": "HEVEL", "translation": "Abel," },
+                                        { "word": "אָחִיךָ", "transliteration": "ÅCHYKHA", "translation": "teu irmão?" },
+                                        { "word": "וַיֹּאמֶר", "transliteration": "VAYOMER", "translation": "E (ele) disse:" },
+                                        { "word": "לֹא", "transliteration": "LO", "translation": "Não" },
+                                        { "word": "יָדַעְתִּי", "transliteration": "YÅDAËTY", "translation": "sei:" },
+                                        { "word": "הֲשֹׁמֵר", "transliteration": "HASHOMER", "translation": "guardador do" },
+                                        { "word": "אָחִי", "transliteration": "ÅCHY", "translation": "meu irmão?" },
+                                        { "word": "אָנֹכִי:", "transliteration": "ÅNOKHY:", "translation": "eu (sou)" }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Então o Senhor inquiriu Caim: ",
+                                            "text_hebrew": [
+                                                { "word": "וַיֹּאמֶר", "transliteration": "VAYOMER", "translation": "E disse" },
+                                                { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                                { "word": "אֶל- קַיִן", "transliteration": "EL-QAYN", "translation": "a Caim:" }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "\"Onde está teu irmão Abel?\"",
+                                            "text_hebrew": [
+                                                { "word": "אֵי", "transliteration": "EY", "translation": "Onde (está)" },
+                                                { "word": "הֶבֶל", "transliteration": "HEVEL", "translation": "Abel," },
+                                                { "word": "אָחִיךָ", "transliteration": "ÅCHYKHA", "translation": "teu irmão?" }
+                                            ],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        },
+                                        {
+                                            "character": "Comum",
+                                            "text": "Retrucou Caim: \"Não sei; acaso sou eu o protetor do meu irmão?\"",
+                                            "text_hebrew": [
+                                                { "word": "וַיֹּאמֶר", "transliteration": "VAYOMER", "translation": "E (ele) disse:" },
+                                                { "word": "לֹא", "transliteration": "LO", "translation": "Não" },
+                                                { "word": "יָדַעְתִּי", "transliteration": "YÅDAËTY", "translation": "sei:" },
+                                                { "word": "הֲשֹׁמֵר", "transliteration": "HASHOMER", "translation": "guardador do" },
+                                                { "word": "אָחִי", "transliteration": "ÅCHY", "translation": "meu irmão?" },
+                                                { "word": "אָנֹכִי:", "transliteration": "ÅNOKHY:", "translation": "eu (sou)" }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 6,
+                                    "notes": "Desde que o ser humano conheceu o mal seu aprendizado não só o fez menos feliz do que era no Éden como o tem ensinado a tramar ardis, violências e barbáries contra seus inimigos, parentes e amigos (Mt 23.35; 1Jo 3.12). Do alto da sua arrogância Caim ousa passar uma descompostura em Deus (quanto mais insensato, mais desaforado se torna o homem); insinuado que se o Senhor era Todo-Poderoso e Misericordioso (como certamente seus pais lhe garantiam), deveria saber muito bem onde estava Abel naquele momento (Hb 11.4). O protesto de Caim (vv.13,14) mais parece com as alegações do rico no inferno (Lc 16.24-31) do que ao criminoso arrependido que admitiu a justiça do seu castigo (Lc 23.41,42).",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.10", 
+                                    "number": 10,
+                                    "text": "Exclamou o Senhor: \"Que fizeste? Ouve! Da terra, o sangue do teu irmão clama a mim.",
+                                    "text_hebrew": [
+                                        { "word": "וַיֹּאמֶר", "transliteration": "VAYOMER", "translation": "E disse" },
+                                        { "word": "מֶה", "transliteration": "MEH", "translation": "Que" },
+                                        { "word": "עָשִׂיתָ", "transliteration": "ÅSYTÅ", "translation": "fizeste?" },
+                                        { "word": "קוֹל", "transliteration": "QOL", "translation": "(A) voz do" },
+                                        { "word": "דְּמֵי", "transliteration": "DËMEY", "translation": "sangue do" },
+                                        { "word": "אָחִיךָ", "transliteration": "ÅCHYKHA", "translation": "teu irmão" },
+                                        { "word": "צֹעֲקִים", "transliteration": "TSOAQYM", "translation": "clama" },
+                                        { "word": "אֵלַי", "transliteration": "ELAY", "translation": "a mim" },
+                                        { "word": "מִן- הָאֲדָמָה:", "transliteration": "MIN-HÅADÅMÅH:", "translation": "desde a terra." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Exclamou o Senhor: ",
+                                            "text_hebrew": [ { "word": "וַיֹּאמֶר", "transliteration": "VAYOMER", "translation": "E disse" } ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "\"Que fizeste? Ouve! Da terra, o sangue do teu irmão clama a mim.",
+                                            "text_hebrew": [
+                                                { "word": "מֶה", "transliteration": "MEH", "translation": "Que" },
+                                                { "word": "עָשִׂיתָ", "transliteration": "ÅSYTÅ", "translation": "fizeste?" },
+                                                { "word": "קוֹל", "transliteration": "QOL", "translation": "(A) voz do" },
+                                                { "word": "דְּמֵי", "transliteration": "DËMEY", "translation": "sangue do" },
+                                                { "word": "אָחִיךָ", "transliteration": "ÅCHYKHA", "translation": "teu irmão" },
+                                                { "word": "צֹעֲקִים", "transliteration": "TSOAQYM", "translation": "clama" },
+                                                { "word": "אֵלַי", "transliteration": "ELAY", "translation": "a mim" },
+                                                { "word": "מִן- הָאֲדָמָה:", "transliteration": "MIN-HÅADÅMÅH:", "translation": "desde a terra." }
+                                            ],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": 7,
+                                    "notes": "O sangue de Abel \"filho\" de Adam \"homem\" (v.2; Gn 2.7), justo e temente a Deus (v.4), clama em nome de todos os justos que foram vítimas das tramas do mal pela vingança perfeita que viria, no limite da História, por meio do sangue inocente e vicário do próprio Filho de Deus (Lc 11.50,51; Hb 1.1,2; 12.24).",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.11", 
+                                    "number": 11,
+                                    "text": "Portanto, agora és mais amaldiçoado que a terra que abriu a boca para tragar, de tuas mãos, o sangue de teu irmão.",
+                                    "text_hebrew": [
+                                        { "word": "וְעַתָּה", "transliteration": "VËATÅH", "translation": "E agora" },
+                                        { "word": "אָרוּר", "transliteration": "ÅRUR", "translation": "maldito" },
+                                        { "word": "אָתָּה", "transliteration": "ÅTÅH", "translation": "(és) tu" },
+                                        { "word": "מִן- הָאֲדָמָה", "transliteration": "MIN-HÅADÅMÅH", "translation": "desde a terra," },
+                                        { "word": "אֲשֶׁר", "transliteration": "ASHER", "translation": "que" },
+                                        { "word": "פָּצְתָה", "transliteration": "PÅTSËTÅH", "translation": "abriu" },
+                                        { "word": "אֶת- פִּיהָ", "transliteration": "ET-PYHÅ", "translation": "(a) sua boca" },
+                                        { "word": "לָקַחַת", "transliteration": "LÅQACHAT", "translation": "para receber" },
+                                        { "word": "אֶת- דְּמֵי", "transliteration": "ET-DËMEY", "translation": "o sangue do" },
+                                        { "word": "אָחִיךָ", "transliteration": "ÅCHYKHA", "translation": "teu irmão." },
+                                        { "word": "מִיָּדֶךָ:", "transliteration": "MYÅDEKHA:", "translation": "da tua mão" }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "Portanto, agora és mais amaldiçoado que a terra que abriu a boca para tragar, de tuas mãos, o sangue de teu irmão.",
+                                            "text_hebrew": [
+                                                { "word": "וְעַתָּה", "transliteration": "VËATÅH", "translation": "E agora" },
+                                                { "word": "אָרוּר", "transliteration": "ÅRUR", "translation": "maldito" },
+                                                { "word": "אָתָּה", "transliteration": "ÅTÅH", "translation": "(és) tu" },
+                                                { "word": "מִן- הָאֲדָמָה", "transliteration": "MIN-HÅADÅMÅH", "translation": "desde a terra," },
+                                                { "word": "אֲשֶׁר", "transliteration": "ASHER", "translation": "que" },
+                                                { "word": "פָּצְתָה", "transliteration": "PÅTSËTÅH", "translation": "abriu" },
+                                                { "word": "אֶת- פִּיהָ", "transliteration": "ET-PYHÅ", "translation": "(a) sua boca" },
+                                                { "word": "לָקַחַת", "transliteration": "LÅQACHAT", "translation": "para receber" },
+                                                { "word": "אֶת- דְּמֵי", "transliteration": "ET-DËMEY", "translation": "o sangue do" },
+                                                { "word": "אָחִיךָ", "transliteration": "ÅCHYKHA", "translation": "teu irmão." },
+                                                { "word": "מִיָּדֶךָ:", "transliteration": "MYÅDEKHA:", "translation": "da tua mão" }
+                                            ],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.12", 
+                                    "number": 12,
+                                    "text": "Quando cultivares o solo, este não te fornecerá mais fa sua força; serás um fugitivo errante pelo mundo!\"",
+                                    "text_hebrew": [
+                                        { "word": "כִּי", "transliteration": "KY", "translation": "Quando" },
+                                        { "word": "תַעֲבֹד", "transliteration": "TAAVOD", "translation": "lavrares" },
+                                        { "word": "אֶת- הָאֲדָמָה", "transliteration": "ET-HÅADÅMÅH", "translation": "a terra," },
+                                        { "word": "לֹא- תֹסֵף", "transliteration": "LO-TOSEF", "translation": "não {continuará}" },
+                                        { "word": "תֵּת- כֹּחָהּ", "transliteration": "TET-KOCHÅH", "translation": "{dar} (a) sua força; {a força dela}" },
+                                        { "word": "לָךְ", "transliteration": "LÅKH", "translation": "{para ti}" },
+                                        { "word": "נָע וָנָד", "transliteration": "NÅ VÅNÅD", "translation": "fugitivo e vagabundo" },
+                                        { "word": "תִּהְיֶה", "transliteration": "TIHËYEH", "translation": "serás" },
+                                        { "word": "בָאָרֶץ:", "transliteration": "VÅÅRETS:", "translation": "na terra." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "Quando cultivares o solo, este não te fornecerá mais fa sua força; serás um fugitivo errante pelo mundo!\"",
+                                            "text_hebrew": [
+                                                { "word": "כִּי", "transliteration": "KY", "translation": "Quando" },
+                                                { "word": "תַעֲבֹד", "transliteration": "TAAVOD", "translation": "lavrares" },
+                                                { "word": "אֶת- הָאֲדָמָה", "transliteration": "ET-HÅADÅMÅH", "translation": "a terra," },
+                                                { "word": "לֹא- תֹסֵף", "transliteration": "LO-TOSEF", "translation": "não {continuará}" },
+                                                { "word": "תֵּת- כֹּחָהּ", "transliteration": "TET-KOCHÅH", "translation": "{dar} (a) sua força; {a força dela}" },
+                                                { "word": "לָךְ", "transliteration": "LÅKH", "translation": "{para ti}" },
+                                                { "word": "נָע וָנָד", "transliteration": "NÅ VÅNÅD", "translation": "fugitivo e vagabundo" },
+                                                { "word": "תִּהְיֶה", "transliteration": "TIHËYEH", "translation": "serás" },
+                                                { "word": "בָאָרֶץ:", "transliteration": "VÅÅRETS:", "translation": "na terra." }
+                                            ],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.13", 
+                                    "number": 13,
+                                    "text": "Apelou Caim ao Senhor: \"Meu castigo é maior do que posso suportar.",
+                                    "text_hebrew": [
+                                        { "word": "וַיֹּאמֶר", "transliteration": "VAYOMER", "translation": "{e} disse" },
+                                        { "word": "קַיִן", "transliteration": "QAYN", "translation": "Caim" },
+                                        { "word": "אֶל- יְהוָה", "transliteration": "EL-YHVH", "translation": "ao SENHOR:" },
+                                        { "word": "גָּדוֹל", "transliteration": "GÅDOL", "translation": "(É) maior" },
+                                        { "word": "עֲוֹנִי", "transliteration": "AVONY", "translation": "a minha maldade" },
+                                        { "word": "מִנְּשֹׂא:", "transliteration": "MINËSO:", "translation": "que possa ser perdoada. {lit.: de carregar ou de ser perdoada}" }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Apelou Caim ao Senhor: \"Meu castigo é maior do que posso suportar.",
+                                            "text_hebrew": [
+                                                { "word": "וַיֹּאמֶר", "transliteration": "VAYOMER", "translation": "{e} disse" },
+                                                { "word": "קַיִן", "transliteration": "QAYN", "translation": "Caim" },
+                                                { "word": "אֶל- יְהוָה", "transliteration": "EL-YHVH", "translation": "ao SENHOR:" },
+                                                { "word": "גָּדוֹל", "transliteration": "GÅDOL", "translation": "(É) maior" },
+                                                { "word": "עֲוֹנִי", "transliteration": "AVONY", "translation": "a minha maldade" },
+                                                { "word": "מִנְּשֹׂא:", "transliteration": "MINËSO:", "translation": "que possa ser perdoada. {lit.: de carregar ou de ser perdoada}" }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 8,
+                                    "notes": "O ser humano insensato não consegue ver que sua atitude e ações são reflexos diretos de suas emoções e motivações contaminadas de ódio, rancor, malignidade, inveja e arrogância. Por isso ele sempre tem uma boa desculpa para justificar seus atos e, quando pego pela justiça e sob punição, se entrega não ao arrependimento sincero e à mudança de sua filosofia de vida, mas à autocomiseração; achando-se injustiçado, buscando fugir do real problema e culpando sempre alguém (muitas vezes o próprio Deus) ou o mundo cruel por seus atos tresloucados e egoístas. É importante notar que Caim, primeiro desprezou o derradeiro convite de Deus ao arrependimento (vv.9,10): \"Onde está teu irmão Abel?\", ou seja, \"Que fizeste?\"; depois nenhum \"atrevimento\" lhe restou que o estimulasse a pedir perdão a Deus, e preferiu se afastar da presença do Senhor e criar uma civilização independente de Deus; arrogante, egoísta e auto-suficiente, como ele, e que o NT viria a chamar de \"sistema mundial\" ou \"mundo pagão\" (1Jo 2.15).",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.14", 
+                                    "number": 14,
+                                    "text": "Vê! Hoje tu me expulsas desta terra, e terei de me esconder da tua face; serei um fugitivo errante pelo mundo, e qualquer que me encontrar me matará!\"",
+                                    "text_hebrew": [
+                                        { "word": "הֵן", "transliteration": "HEN", "translation": "Eis (que)" },
+                                        { "word": "גֵּרַשְׁתָּ אֹתִי", "transliteration": "GERASHËTÅ OTY", "translation": "me lanças" },
+                                        { "word": "הַיּוֹם", "transliteration": "HAYOM", "translation": "hoje" },
+                                        { "word": "מֵעַל פְּנֵי", "transliteration": "MEAL PËNEY", "translation": "da face da" },
+                                        { "word": "הָאֲדָמָה", "transliteration": "HÅADÅMÅH", "translation": "terra," },
+                                        { "word": "וּמִפָּנֶיךָ", "transliteration": "UMIPÅNEYKHA", "translation": "e da tua face" },
+                                        { "word": "אֶסָּתֵר", "transliteration": "ESÅTER", "translation": "me esconderei;" },
+                                        { "word": "וְהָיִיתִי", "transliteration": "VËHÅYYTY", "translation": "e serei" },
+                                        { "word": "נָע וָנָד", "transliteration": "NÅ VÅNÅD", "translation": "fugitivo e vagabundo" },
+                                        { "word": "בָּאָרֶץ", "transliteration": "BÅÅRETS", "translation": "na terra," },
+                                        { "word": "וְהָיָה", "transliteration": "VËHÅYÅH", "translation": "e será (que)" },
+                                        { "word": "כָל- מֹצְאִי", "transliteration": "KHÅL-MOTSËY", "translation": "todo aquele que me achar" },
+                                        { "word": "יַהַרְגֵנִי:", "transliteration": "YAHARËGENY:", "translation": "me matará." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Vê! Hoje tu me expulsas desta terra, e terei de me esconder da tua face; serei um fugitivo errante pelo mundo, e qualquer que me encontrar me matará!\"",
+                                            "text_hebrew": [
+                                                { "word": "הֵן", "transliteration": "HEN", "translation": "Eis (que)" },
+                                                { "word": "גֵּרַשְׁתָּ אֹתִי", "transliteration": "GERASHËTÅ OTY", "translation": "me lanças" },
+                                                { "word": "הַיּוֹם", "transliteration": "HAYOM", "translation": "hoje" },
+                                                { "word": "מֵעַל פְּנֵי", "transliteration": "MEAL PËNEY", "translation": "da face da" },
+                                                { "word": "הָאֲדָמָה", "transliteration": "HÅADÅMÅH", "translation": "terra," },
+                                                { "word": "וּמִפָּנֶיךָ", "transliteration": "UMIPÅNEYKHA", "translation": "e da tua face" },
+                                                { "word": "אֶסָּתֵר", "transliteration": "ESÅTER", "translation": "me esconderei;" },
+                                                { "word": "וְהָיִיתִי", "transliteration": "VËHÅYYTY", "translation": "e serei" },
+                                                { "word": "נָע וָנָד", "transliteration": "NÅ VÅNÅD", "translation": "fugitivo e vagabundo" },
+                                                { "word": "בָּאָרֶץ", "transliteration": "BÅÅRETS", "translation": "na terra," },
+                                                { "word": "וְהָיָה", "transliteration": "VËHÅYÅH", "translation": "e será (que)" },
+                                                { "word": "כָל- מֹצְאִי", "transliteration": "KHÅL-MOTSËY", "translation": "todo aquele que me achar" },
+                                                { "word": "יַהַרְגֵנִי:", "transliteration": "YAHARËGENY:", "translation": "me matará." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.15", 
+                                    "number": 15,
+                                    "text": "Contudo, o Senhor lhe asseverou: \"Não acontecerá assim! Se alguém matar a Caim, sofrerá sete vezes a vingança.\" E o Senhor colocou em Caim um sinal, para que ninguém que visse a encontrá-lo o matasse.",
+                                    "text_hebrew": [
+                                        { "word": "וַיֹּאמֶer לוֹ", "transliteration": "VAYOMER LO", "translation": "{e} disse-lhe:" },
+                                        { "word": "יְהוָה", "transliteration": "YHVH", "translation": "O SENHOR" },
+                                        { "word": "לָכֵן", "transliteration": "LÅKHEN", "translation": "Portanto" },
+                                        { "word": "כָּל- הֹרֵג", "transliteration": "KÅL-HOREG", "translation": "qualquer que matar {todo (o que) mata} (a)" },
+                                        { "word": "קַיִן", "transliteration": "QAYN", "translation": "Caim," },
+                                        { "word": "שִׁבְעָתַיִם", "transliteration": "SHIVËÅTAYM", "translation": "sete vezes" },
+                                        { "word": "יֻקָּם", "transliteration": "YUQÅM", "translation": "será {vingado}" },
+                                        { "word": "וַיָּשֶׂם", "transliteration": "VAYÅSEM", "translation": "E pôs" },
+                                        { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                        { "word": "לְקַיִן", "transliteration": "LËQAYN", "translation": "em Caim," },
+                                        { "word": "אוֹת", "transliteration": "OT", "translation": "(um) sinal" },
+                                        { "word": "לְבִלְתִּי", "transliteration": "LËVILËTY", "translation": "para que não" },
+                                        { "word": "הַכּוֹת- אֹתוֹ", "transliteration": "HAKOT-OTO", "translation": "o ferisse" },
+                                        { "word": "כָּל- מֹצְאוֹ:", "transliteration": "KÅL-MOTSËO:", "translation": "{lit.: todo (o que) o encontra} qualquer que o achasse." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Contudo, o Senhor lhe asseverou:",
+                                            "text_hebrew": [ { "word": "וַיֹּאמֶer לוֹ", "transliteration": "VAYOMER LO", "translation": "{e} disse-lhe:" } ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "\"Não acontecerá assim! Se alguém matar a Caim, sofrerá sete vezes a vingança.\"",
+                                            "text_hebrew": [
+                                                { "word": "יְהוָה", "transliteration": "YHVH", "translation": "O SENHOR" },
+                                                { "word": "לָכֵן", "transliteration": "LÅKHEN", "translation": "Portanto" },
+                                                { "word": "כָּל- הֹרֵג", "transliteration": "KÅL-HOREG", "translation": "qualquer que matar {todo (o que) mata} (a)" },
+                                                { "word": "קַיִן", "transliteration": "QAYN", "translation": "Caim," },
+                                                { "word": "שִׁבְעָתַיִם", "transliteration": "SHIVËÅTAYM", "translation": "sete vezes" },
+                                                { "word": "יֻקָּם", "transliteration": "YUQÅM", "translation": "será {vingado}" }
+                                            ],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        },
+                                        {
+                                            "character": "Comum",
+                                            "text": "E o Senhor colocou em Caim um sinal, para que ninguém que visse a encontrá-lo o matasse.",
+                                            "text_hebrew": [
+                                                { "word": "וַיָּשֶׂם", "transliteration": "VAYÅSEM", "translation": "E pôs" },
+                                                { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                                { "word": "לְקַיִן", "transliteration": "LËQAYN", "translation": "em Caim," },
+                                                { "word": "אוֹת", "transliteration": "OT", "translation": "(um) sinal" },
+                                                { "word": "לְבִלְתִּי", "transliteration": "LËVILËTY", "translation": "para que não" },
+                                                { "word": "הַכּוֹת- אֹתוֹ", "transliteration": "HAKOT-OTO", "translation": "o ferisse" },
+                                                { "word": "כָּל- מֹצְאוֹ:", "transliteration": "KÅL-MOTSËO:", "translation": "{lit.: todo (o que) o encontra} qualquer que o achasse." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }                                    
+                                    ],
+                                    "notes_id": 9,
+                                    "notes": "A imensa e inescrutável paciência e bondade de Deus atende o apelo egoísta do criminoso e o livra da pena de morte com um sinal de misericórdia divina que  o protegeria das possíveis tentativas de vingança (a ideia de pessoas marcadas para determinadas finalidades está presente em toda a Bíblia - Ez 9.4; Gl 6.17; Ap 14.1,,9,10). Entretanto, o limite do amor e das misericórdias de Deus não pode comprometer sua justiça pura, imparcial e inexorável. E, portanto, chega o primeiro Dia do Juíza (Gn 6.7), e a Aliança com Noé dá inicio ao estabelecimento de um padrão de convivência mais restrito e punitivo, de acordo com o recrudescimento da maldade humana (Gn 9.6).",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.16", 
+                                    "number": 16,
+                                    "text": "Caim se retirou da presença do Senhor e foi morar na terra de Node, a leste do Éden.",
+                                    "text_hebrew": [
+                                        { "word": "וַיֵּצֵא", "transliteration": "VAYETSE", "translation": "E saiu" },
+                                        { "word": "קַיִן", "transliteration": "QAYN", "translation": "Caim" },
+                                        { "word": "מִלִּפְנֵי", "transliteration": "MILIFËNEY", "translation": "de (diante) da face do" },
+                                        { "word": "יְהוָה", "transliteration": "YHVH", "translation": "SENHOR," },
+                                        { "word": "וַיֵּשֶׁב", "transliteration": "VAYESHEV", "translation": "e habitou" },
+                                        { "word": "בְּאֶרֶץ- נוֹד", "transliteration": "BËERETS-NOD", "translation": "na terra de Node," },
+                                        { "word": "קִדְמַת- עֵדֶן:", "transliteration": "QIDËMAT-EDEN:", "translation": "(da banda) do oriente do Éden." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Caim se retirou da presença do Senhor e foi morar na terra de Node, a leste do Éden.",
+                                            "text_hebrew": [
+                                                { "word": "וַיֵּצֵא", "transliteration": "VAYETSE", "translation": "E saiu" },
+                                                { "word": "קַיִן", "transliteration": "QAYN", "translation": "Caim" },
+                                                { "word": "מִלִּפְנֵי", "transliteration": "MILIFËNEY", "translation": "de (diante) da face do" },
+                                                { "word": "יְהוָה", "transliteration": "YHVH", "translation": "SENHOR," },
+                                                { "word": "וַיֵּשֶׁב", "transliteration": "VAYESHEV", "translation": "e habitou" },
+                                                { "word": "בְּאֶרֶץ- נוֹד", "transliteration": "BËERETS-NOD", "translation": "na terra de Node," },
+                                                { "word": "קִדְמַת- עֵדֶן:", "transliteration": "QIDËMAT-EDEN:", "translation": "(da banda) do oriente do Éden." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 10,
+                                    "notes": "O nome Node nos originais hebraicos significa \"peregrinação\".",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.subtitle",
+                                    "type": "section_title",
+                                    "title": "A descendência de Caim"
+                                },
+                                {
+                                    "id": "gn.4.17", 
+                                    "number": 17,
+                                    "text": "Então Caim coabitou com sua mulher, ela engravidou e deu à luz Enoque. Depois Caim fundou uma cidade, à qual deu o nome do seu filho, Enoque.",
+                                    "text_hebrew": [
+                                        { "word": "וַיֵּדַע", "transliteration": "VAYEDA", "translation": "E conheceu" },
+                                        { "word": "קַיִן", "transliteration": "QAYN", "translation": "Caim" },
+                                        { "word": "אֶת- אִשְׁתּוֹ", "transliteration": "ET-ISHËTO", "translation": "a sua mulher," },
+                                        { "word": "וַתַּהַר", "transliteration": "VATAHAR", "translation": "e (ela) concebeu," },
+                                        { "word": "וַתֵּלֶד", "transliteration": "VATELED", "translation": "e teve a {deu à luz}" },
+                                        { "word": "אֶת- חֲנוֹךְ", "transliteration": "ET-CHANOKH", "translation": "Enoque:" },
+                                        { "word": "וַיְהִי בֹּנֶה עִיר", "transliteration": "VAYËHY BONEH YR", "translation": "e (ele) edificou (uma) cidade, {lit.: e foi edificador de cidade}" },
+                                        { "word": "וַיִּקְרָא", "transliteration": "VAYQËRÅ", "translation": "e chamou" },
+                                        { "word": "שֵׁם", "transliteration": "SHEM", "translation": "(o) nome da" },
+                                        { "word": "הָעִיר", "transliteration": "HÅYR", "translation": "cidade" },
+                                        { "word": "כְּשֵׁם", "transliteration": "KËSHEM", "translation": "pelo nome de {lit.: como (o) nome de}" },
+                                        { "word": "בְּנוֹ", "transliteration": "BËNO", "translation": "seu filho" },
+                                        { "word": "חֲנוֹךְ:", "transliteration": "CHANOKH:", "translation": "Enoque." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Então Caim coabitou com sua mulher, ela engravidou e deu à luz Enoque. Depois Caim fundou uma cidade, à qual deu o nome do seu filho, Enoque.",
+                                            "text_hebrew": [
+                                                { "word": "וַיֵּדַע", "transliteration": "VAYEDA", "translation": "E conheceu" },
+                                                { "word": "קַיִן", "transliteration": "QAYN", "translation": "Caim" },
+                                                { "word": "אֶת- אִשְׁתּוֹ", "transliteration": "ET-ISHËTO", "translation": "a sua mulher," },
+                                                { "word": "וַתַּהַר", "transliteration": "VATAHAR", "translation": "e (ela) concebeu," },
+                                                { "word": "וַתֵּלֶד", "transliteration": "VATELED", "translation": "e teve a {deu à luz}" },
+                                                { "word": "אֶת- חֲנוֹךְ", "transliteration": "ET-CHANOKH", "translation": "Enoque:" },
+                                                { "word": "וַיְהִי בֹּנֶה עִיר", "transliteration": "VAYËHY BONEH YR", "translation": "e (ele) edificou (uma) cidade, {lit.: e foi edificador de cidade}" },
+                                                { "word": "וַיִּקְרָא", "transliteration": "VAYQËRÅ", "translation": "e chamou" },
+                                                { "word": "שֵׁם", "transliteration": "SHEM", "translation": "(o) nome da" },
+                                                { "word": "הָעִיר", "transliteration": "HÅYR", "translation": "cidade" },
+                                                { "word": "כְּשֵׁם", "transliteration": "KËSHEM", "translation": "pelo nome de {lit.: como (o) nome de}" },
+                                                { "word": "בְּנוֹ", "transliteration": "BËNO", "translation": "seu filho" },
+                                                { "word": "חֲנוֹךְ:", "transliteration": "CHANOKH:", "translation": "Enoque." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.18", 
+                                    "number": 18,
+                                    "text": "Enoque foi pai de Irade, que foi pai de Meujael, que foi pai de Metusael, que foi pai de Lameque.",
+                                    "text_hebrew": [
+                                        { "word": "וַיִּוָּלֵד", "transliteration": "VAYVÅLED", "translation": "E nasceu" },
+                                        { "word": "לַחֲנוֹךְ", "transliteration": "LACHANOKH", "translation": "a Enoque" },
+                                        { "word": "אֶת- עִירָד", "transliteration": "ET-YRÅD", "translation": "Irade," },
+                                        { "word": "וְעִירָד", "transliteration": "VËYRÅD", "translation": "e Irade" },
+                                        { "word": "יָלַד", "transliteration": "YÅLAD", "translation": "gerou (a)" },
+                                        { "word": "אֶת- מְחוּיָאֵל", "transliteration": "ET-MËCHUYÅEL", "translation": "Meujael," },
+                                        { "word": "וּמְחִיּיָאֵל", "transliteration": "UMËCHYYÅEL", "translation": "e Meujael" },
+                                        { "word": "יָלַד", "transliteration": "YÅLAD", "translation": "gerou (a)" },
+                                        { "word": "אֶת- מְתוּשָׁאֵל", "transliteration": "ET-MËTUSHÅEL", "translation": "Metusael," },
+                                        { "word": "וּמְתוּשָׁאֵל", "transliteration": "UMËTUSHÅEL", "translation": "e Metusael" },
+                                        { "word": "יָלַד", "transliteration": "YÅLAD", "translation": "gerou (a)" },
+                                        { "word": "אֶת- לָמֶךְ:", "transliteration": "ET-LÅMEKH:", "translation": "Lameque" }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Enoque foi pai de Irade, que foi pai de Meujael, que foi pai de Metusael, que foi pai de Lameque.",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּוָּלֵד", "transliteration": "VAYVÅLED", "translation": "E nasceu" },
+                                                { "word": "לַחֲנוֹךְ", "transliteration": "LACHANOKH", "translation": "a Enoque" },
+                                                { "word": "אֶת- עִירָד", "transliteration": "ET-YRÅD", "translation": "Irade," },
+                                                { "word": "וְעִירָד", "transliteration": "VËYRÅD", "translation": "e Irade" },
+                                                { "word": "יָלַד", "transliteration": "YÅLAD", "translation": "gerou (a)" },
+                                                { "word": "אֶת- מְחוּיָאֵל", "transliteration": "ET-MËCHUYÅEL", "translation": "Meujael," },
+                                                { "word": "וּמְחִיּיָאֵל", "transliteration": "UMËCHYYÅEL", "translation": "e Meujael" },
+                                                { "word": "יָלַד", "transliteration": "YÅLAD", "translation": "gerou (a)" },
+                                                { "word": "אֶת- מְתוּשָׁאֵל", "transliteration": "ET-MËTUSHÅEL", "translation": "Metusael," },
+                                                { "word": "וּמְתוּשָׁאֵל", "transliteration": "UMËTUSHÅEL", "translation": "e Metusael" },
+                                                { "word": "יָלַד", "transliteration": "YÅLAD", "translation": "gerou (a)" },
+                                                { "word": "אֶת- לָמֶךְ:", "transliteration": "ET-LÅMEKH:", "translation": "Lameque" }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 11,
+                                    "notes": "Cai, Enoque, Irade, Meujael, Matusae e Lameque; cada um dos seis descendentes de Caim tem seu correspondente (semelhante ou idêntico) na genealogia de Sete: Cainã (5.12), Enoque (5.21); Jarede (5.18); Maalaleel (5.15); Matusalém (5.25); Lameque (5.28). É importante notar que, desde nossas origens, há homens bons que geram filhos maus, assim como filhos de pais perversos que se transformam em santos homens de Deus. O que vale dizer que somos, cada um de nós, responsáveis pelo que decidimos ser e não por uma automática destinação genética ou cultural (Ec 11.9-10; Mt 12.36; Lc 16.2; Rm 14.12; Hb 13.17; 1Pe 4.5). Contudo, considerando que o número sete, em hebraico antigo, representa uma ideia de plenitude, inteireza, é impressionante a semelhança entre os dois grupos de nomes dos primeiros descendentes de Caim e Sete (5.5), o filho que Deus concedeu a Adão e Eva para consolo, alegrias, honra e suprimento da falta de Abel (v.25).",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.19", 
+                                    "number": 19,
+                                    "text": "Lameque tomou para si duas esposas: uma se chamava Ada, e a outra, Zilá.",
+                                    "text_hebrew": [
+                                        { "word": "וַיִּקַּח- לוֹ", "transliteration": "VAYQACH-LO", "translation": "E tomou para si" },
+                                        { "word": "לֶמֶךְ", "transliteration": "LEMEKH", "translation": "Lameque" },
+                                        { "word": "שְׁתֵּי", "transliteration": "SHËTEY", "translation": "duas" },
+                                        { "word": "נָשִׁים", "transliteration": "NÅSHYM", "translation": "mulheres:" },
+                                        { "word": "שֵׁם", "transliteration": "SHEM", "translation": "(o) nome {da}" },
+                                        { "word": "הָאַחַת", "transliteration": "HÅACHAT", "translation": "{primeira}" },
+                                        { "word": "עָדָה", "transliteration": "ÅDÅH", "translation": "(era) Ada," },
+                                        { "word": "וְשֵׁם", "transliteration": "VËSHEM", "translation": "e (o) nome da" },
+                                        { "word": "הַשֵּׁנִית", "transliteration": "HASHENYT", "translation": "{segunda}" },
+                                        { "word": "צִלָּה:", "transliteration": "TSILÅH:", "translation": "Zila." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Lameque tomou para si duas esposas: uma se chamava Ada, e a outra, Zilá.",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּקַּח- לוֹ", "transliteration": "VAYQACH-LO", "translation": "E tomou para si" },
+                                                { "word": "לֶמֶךְ", "transliteration": "LEMEKH", "translation": "Lameque" },
+                                                { "word": "שְׁתֵּי", "transliteration": "SHËTEY", "translation": "duas" },
+                                                { "word": "נָשִׁים", "transliteration": "NÅSHYM", "translation": "mulheres:" },
+                                                { "word": "שֵׁם", "transliteration": "SHEM", "translation": "(o) nome {da}" },
+                                                { "word": "הָאַחַת", "transliteration": "HÅACHAT", "translation": "{primeira}" },
+                                                { "word": "עָדָה", "transliteration": "ÅDÅH", "translation": "(era) Ada," },
+                                                { "word": "וְשֵׁם", "transliteration": "VËSHEM", "translation": "e (o) nome da" },
+                                                { "word": "הַשֵּׁנִית", "transliteration": "HASHENYT", "translation": "{segunda}" },
+                                                { "word": "צִלָּה:", "transliteration": "TSILÅH:", "translation": "Zila." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 12,
+                                    "notes": "O sétimo desccendente de Adão, linhagem de Caim foi o autoritário, egocêntrico, arrogante e perverso Lameque, o caimita (4.23); não confunfir com o Lameque, seteita, homem de Deus e pai de Noé (5.28,29), o que prova que também os nomes das pessoas podem ser iguais mas as personalidades completamente diferentes. Não são os nomes que determinam o caráter, mas as pessoas é que dão sentido aos seus nomes. Lameque, o canaita, entendu que poderia dar cumprimento aos propósitos expansionistas da raça humana, e do seu povo em particular, à sua maneira, multiplicando esposas. Entretanto, a monogamia foi -desde Adão e Eva - a única intenção divina para o desenvolvimento saudável e familiar dos seres humanos (2.23-25; Mt 19.3-9; Mc 10.2-12).",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.20", 
+                                    "number": 20,
+                                    "text": "Ada deu à luz um filho chamado Jabal, que foi o antepassado dos que criam rebanhos e vivem em tendas.",
+                                    "text_hebrew": [
+                                        { "word": "וַתֵּלֶד", "transliteration": "VATELED", "translation": "{e deu à luz}" },
+                                        { "word": "עָדָה", "transliteration": "ÅDÅH", "translation": "Ada" },
+                                        { "word": "אֶת- יָבָל", "transliteration": "ET-YÅVÅL", "translation": "Jabal:" },
+                                        { "word": "הוּא הָיָה", "transliteration": "HU HÅYÅH", "translation": "este foi" },
+                                        { "word": "אֲבִי יֹשֵׁב אֹהֶל", "transliteration": "AVY YOSHEV OHEL", "translation": "pai dos que habitam em tendas, {lit.: pai do que mora em tenda}" },
+                                        { "word": "וּמִקְנֶה:", "transliteration": "UMIQËNEH:", "translation": "e (têm) gado." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Ada deu à luz um filho chamado Jabal, que foi o antepassado dos que criam rebanhos e vivem em tendas.",
+                                            "text_hebrew": [
+                                                { "word": "וַתֵּלֶד", "transliteration": "VATELED", "translation": "{e deu à luz}" },
+                                                { "word": "עָדָה", "transliteration": "ÅDÅH", "translation": "Ada" },
+                                                { "word": "אֶת- יָבָל", "transliteration": "ET-YÅVÅL", "translation": "Jabal:" },
+                                                { "word": "הוּא הָיָה", "transliteration": "HU HÅYÅH", "translation": "este foi" },
+                                                { "word": "אֲבִי יֹשֵׁב אֹהֶל", "transliteration": "AVY YOSHEV OHEL", "translation": "pai dos que habitam em tendas, {lit.: pai do que mora em tenda}" },
+                                                { "word": "וּמִקְנֶה:", "transliteration": "UMIQËNEH:", "translation": "e (têm) gado." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.21", 
+                                    "number": 21,
+                                    "text": "Jabal tinha um irmão chamado Jubal, antepassado de todos os músicos que tocam harpa e flauta.",
+                                    "text_hebrew": [
+                                        { "word": "וְשֵׁם", "transliteration": "VËSHEM", "translation": "E (o) nome do" },
+                                        { "word": "אָחִיו", "transliteration": "ÅCHYV", "translation": "seu irmão" },
+                                        { "word": "יוּבָל", "transliteration": "YUVÅL", "translation": "(era) Jubal:" },
+                                        { "word": "הוּא", "transliteration": "HU", "translation": "este {(ele)}" },
+                                        { "word": "הָיָה", "transliteration": "HÅYÅH", "translation": "foi" },
+                                        { "word": "אֲבִי", "transliteration": "AVY", "translation": "(o) pai de" },
+                                        { "word": "כָּל- תֹּפֵשׂ", "transliteration": "KÅL-TOFES", "translation": "todos os que tocam {lit.: todo (o que) segura}" },
+                                        { "word": "כִּנּוֹר", "transliteration": "KINOR", "translation": "harpa" },
+                                        { "word": "וְעוּגָב:", "transliteration": "VËUGÅV:", "translation": "e órgão." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Jabal tinha um irmão chamado Jubal, antepassado de todos os músicos que tocam harpa e flauta.",
+                                            "text_hebrew": [
+                                                { "word": "וְשֵׁם", "transliteration": "VËSHEM", "translation": "E (o) nome do" },
+                                                { "word": "אָחִיו", "transliteration": "ÅCHYV", "translation": "seu irmão" },
+                                                { "word": "יוּבָל", "transliteration": "YUVÅL", "translation": "(era) Jubal:" },
+                                                { "word": "הוּא", "transliteration": "HU", "translation": "este {(ele)}" },
+                                                { "word": "הָיָה", "transliteration": "HÅYÅH", "translation": "foi" },
+                                                { "word": "אֲבִי", "transliteration": "AVY", "translation": "(o) pai de" },
+                                                { "word": "כָּל- תֹּפֵשׂ", "transliteration": "KÅL-TOFES", "translation": "todos os que tocam {lit.: todo (o que) segura}" },
+                                                { "word": "כִּנּוֹר", "transliteration": "KINOR", "translation": "harpa" },
+                                                { "word": "וְעוּגָב:", "transliteration": "VËUGÅV:", "translation": "e órgão." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.22", 
+                                    "number": 22,
+                                    "text": "Zilá também deu a luz um filho, chamado Tubalcaim, artífice de todo instrumento cortante, de bronze e de ferro; a irmã de Tubalcaim foi Naamá.",
+                                    "text_hebrew": [
+                                        { "word": "וְצִלָּה", "transliteration": "VËTSILÅH", "translation": "E Zila" },
+                                        { "word": "גַם- הִוא", "transliteration": "GAM-HIV", "translation": "também {ela}" },
+                                        { "word": "יָלְדָה", "transliteration": "YÅLËDÅH", "translation": "teve a {lit.: deu à luz}" },
+                                        { "word": "אֶת- תּוּבַל קַיִן", "transliteration": "ET-TÅVAL QAYN", "translation": "Tubalcaim," },
+                                        { "word": "לֹטֵשׁ כָּל- חֹרֵשׁ נְחֹשֶׁת", "transliteration": "LOTESH KÅL-CHORESH NËCHOSHET", "translation": "mestre de toda a obra de cobre" },
+                                        { "word": "וּבַרְזֶל", "transliteration": "UVARËZEL", "translation": "e (de) ferro:" },
+                                        { "word": "וַאֲחוֹת", "transliteration": "VAACHOT", "translation": "e (a) irmã de" },
+                                        { "word": "תּוּבַל- קַיִן", "transliteration": "TÅVAL-QAYN", "translation": "Tubalcaim" },
+                                        { "word": "נַעֲמָה:", "transliteration": "NAAMÅH:", "translation": "(foi) Naama." }    
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Zilá também deu a luz um filho, chamado Tubalcaim, artífice de todo instrumento cortante, de bronze e de ferro; a irmã de Tubalcaim foi Naamá.",
+                                            "text_hebrew": [
+                                                { "word": "וְצִלָּה", "transliteration": "VËTSILÅH", "translation": "E Zila" },
+                                                { "word": "גַם- הִוא", "transliteration": "GAM-HIV", "translation": "também {ela}" },
+                                                { "word": "יָלְדָה", "transliteration": "YÅLËDÅH", "translation": "teve a {lit.: deu à luz}" },
+                                                { "word": "אֶת- תּוּבַל קַיִן", "transliteration": "ET-TÅVAL QAYN", "translation": "Tubalcaim," },
+                                                { "word": "לֹטֵשׁ כָּל- חֹרֵשׁ נְחֹשֶׁת", "transliteration": "LOTESH KÅL-CHORESH NËCHOSHET", "translation": "mestre de toda a obra de cobre" },
+                                                { "word": "וּבַרְזֶל", "transliteration": "UVARËZEL", "translation": "e (de) ferro:" },
+                                                { "word": "וַאֲחוֹת", "transliteration": "VAACHOT", "translation": "e (a) irmã de" },
+                                                { "word": "תּוּבַל- קַיִן", "transliteration": "TÅVAL-QAYN", "translation": "Tubalcaim" },
+                                                { "word": "נַעֲמָה:", "transliteration": "NAAMÅH:", "translation": "(foi) Naama." }    
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 13,
+                                    "notes": "É notável que os nomes dos filhos de Lameque, o canaita, nos originais hebraicos, são semelhantes e estão todos associados a verbos imperativos: Jabal (trazer), Jubal (levar), Tubal Caim (produzir metal a partir de minerais ou \"artífice metalúrgico\" - v.1). A raça human dava vazão à sua ambiguidade moral e ética (o bem e o mal em plena ação): as mesmas mãos artísticas e dedicadas, que se empenham na fabricação de ferramentas para tornar a exploração da terra menos extenuante, eram as mesmas que se esmeravam para produzir armas cada mais resistentes, afiadas e mortíferas.",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.23", 
+                                    "number": 23,
+                                    "text": "Então Lameque vanglouriou-se diante de suas esposas: \"Ada e Zilá, ouvi-me! Vós, mulheres de Lameque, escutai o que passo a declarar-vos: Matei um homem por causa de ferimentos que me causara; e uma criança porque me ofendeu.",
+                                    "text_hebrew": [
+                                        { "word": "וַיֹּאמֶר", "transliteration": "VAYOMER", "translation": "E disse" },
+                                        { "word": "לֶמֶךְ", "transliteration": "LEMEKH", "translation": "Lameque" },
+                                        { "word": "לְנָשָׁיו", "transliteration": "LËNÅSHÅYV", "translation": "a suas mulheres:" },
+                                        { "word": "עָדָה", "transliteration": "ÅDÅH", "translation": "Ada" },
+                                        { "word": "וְצִלָּה", "transliteration": "VËTSILÅH", "translation": "e Zila," },
+                                        { "word": "שְׁמַעַן", "transliteration": "SHËMAAN", "translation": "ouvi" },
+                                        { "word": "קוֹלִי", "transliteration": "QOLY", "translation": "(a) minha voz;" },
+                                        { "word": "נְשֵׁי", "transliteration": "NËSHEY", "translation": "(vós,) mulheres de" },
+                                        { "word": "לֶמֶךְ", "transliteration": "LEMEKH", "translation": "Lameque," },
+                                        { "word": "הַאְזֵנָּה", "transliteration":"HAËZENÅH", "translation": "escutai" },
+                                        { "word": "אִמְרָתִי", "transliteration": "IMËRÅTY", "translation": "(o) meu dito:" },
+                                        { "word": "כִּי", "transliteration": "KY", "translation": "porque" },
+                                        { "word": "אִישׁ", "transliteration": "YSH", "translation": "(um) varão" },
+                                        { "word": "הָרַגְתִּי", "transliteration": "HÅRAGËTY", "translation": "(eu) matei" },
+                                        { "word": "לְפִצְעִי", "transliteration": "LËFITSËY", "translation": "{pela minha ferida}" },
+                                        { "word": "וְיֶלֶד", "transliteration": "VËYELED", "translation": "(e) um mancebo" },
+                                        { "word": "לְחַבֻּרָתִי:", "transliteration": "LËCHABURÅTY:", "translation": "{pela minha contusão}" }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Então Lameque vanglouriou-se diante de suas esposas: \"Ada e Zilá, ouvi-me! Vós, mulheres de Lameque, escutai o que passo a declarar-vos: Matei um homem por causa de ferimentos que me causara; e uma criança porque me ofendeu.",
+                                            "text_hebrew": [
+                                                { "word": "וַיֹּאמֶר", "transliteration": "VAYOMER", "translation": "E disse" },
+                                                { "word": "לֶמֶךְ", "transliteration": "LEMEKH", "translation": "Lameque" },
+                                                { "word": "לְנָשָׁיו", "transliteration": "LËNÅSHÅYV", "translation": "a suas mulheres:" },
+                                                { "word": "עָדָה", "transliteration": "ÅDÅH", "translation": "Ada" },
+                                                { "word": "וְצִלָּה", "transliteration": "VËTSILÅH", "translation": "e Zila," },
+                                                { "word": "שְׁמַעַן", "transliteration": "SHËMAAN", "translation": "ouvi" },
+                                                { "word": "קוֹלִי", "transliteration": "QOLY", "translation": "(a) minha voz;" },
+                                                { "word": "נְשֵׁי", "transliteration": "NËSHEY", "translation": "(vós,) mulheres de" },
+                                                { "word": "לֶמֶךְ", "transliteration": "LEMEKH", "translation": "Lameque," },
+                                                { "word": "הַאְזֵנָּה", "transliteration":"HAËZENÅH", "translation": "escutai" },
+                                                { "word": "אִמְרָתִי", "transliteration": "IMËRÅTY", "translation": "(o) meu dito:" },
+                                                { "word": "כִּי", "transliteration": "KY", "translation": "porque" },
+                                                { "word": "אִישׁ", "transliteration": "YSH", "translation": "(um) varão" },
+                                                { "word": "הָרַגְתִּי", "transliteration": "HÅRAGËTY", "translation": "(eu) matei" },
+                                                { "word": "לְפִצְעִי", "transliteration": "LËFITSËY", "translation": "{pela minha ferida}" },
+                                                { "word": "וְיֶלֶד", "transliteration": "VËYELED", "translation": "(e) um mancebo" },
+                                                { "word": "לְחַבֻּרָתִי:", "transliteration": "LËCHABURÅTY:", "translation": "{pela minha contusão}" }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.24", 
+                                    "number": 24,
+                                    "text": "Ora, se Caim é vingado sete vezes, Lameque pode ser, setenta vezes sete!\"",
+                                    "text_hebrew": [
+                                        { "word": "כִּי", "transliteration": "KY", "translation": "Porque" },
+                                        { "word": "שִׁבְעָתַיִם", "transliteration": "SHIVËÅTAYM", "translation": "sete vezes" },
+                                        { "word": "יֻקַּם- קָיִן", "transliteration": "YUQAM-QÅYN", "translation": "Caim será vingado;" },
+                                        { "word": "וְלֶמֶךְ", "transliteration": "VËLEMEKH", "translation": "mas Lameque" },
+                                        { "word": "שִׁבְעִים", "transliteration": "SHIVËYM", "translation": "setenta (vezes)" },
+                                        { "word": "וְשִׁבְעָה:", "transliteration": "VËSHIVËÅH:", "translation": "{e} sete." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Ora, se Caim é vingado sete vezes, Lameque pode ser, setenta vezes sete!\"",
+                                            "text_hebrew": [
+                                                { "word": "כִּי", "transliteration": "KY", "translation": "Porque" },
+                                                { "word": "שִׁבְעָתַיִם", "transliteration": "SHIVËÅTAYM", "translation": "sete vezes" },
+                                                { "word": "יֻקַּם- קָיִן", "transliteration": "YUQAM-QÅYN", "translation": "Caim será vingado;" },
+                                                { "word": "וְלֶמֶךְ", "transliteration": "VËLEMEKH", "translation": "mas Lameque" },
+                                                { "word": "שִׁבְעִים", "transliteration": "SHIVËYM", "translation": "setenta (vezes)" },
+                                                { "word": "וְשִׁבְעָה:", "transliteration": "VËSHIVËÅH:", "translation": "{e} sete." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 14,
+                                    "notes": "Parafraseando um antigo ditado brasileiro: \"Lameque estava com tudo, e estava prosa\". É bem o retrato do pagão atrevido e desbocado, que há muito proclamou sua independência de Deus e acha que vai se safar da Justiça divina com seu pretenso poder e esperteza (Dt 32.35). Lameque, o caimita, demonsta como a vingança é sempre injusta, pois a reação natural é retribuir em dobro ao seu agressor. Lameque se achava digno de executar do seu jeito sua retaliação, muito além do número pleno estabelecido por Deus no caso de vingança contra Caim (v.15). Muitos séculos mais tarde, próprio Deus, por meio de Jesus Cristo, vai mostrar que tamanho poder em retribuição só é permitido ao que perdoa, esse sim: setenta vezes sete, a capacidade perfeita e infindável do amor (Mt 18.21,22).",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.subtitle",
+                                    "type": "section_title",
+                                    "title": "Set, outro filho de Adão e Eva"
+                                },
+                                {
+                                    "id": "gn.4.25", 
+                                    "number": 25,
+                                    "text": "Novamente Adão teve relações sexuais com sua esposa, e ela deu à luz outro filho a quem chamou de Sete, exclamando: \"Deus me concedeu outro filho para ficar em lugar de Abel, que foi morto por Caim!\"",
+                                    "text_hebrew": [
+                                        { "word": "וַיֵּדַע", "transliteration": "VAYEDA", "translation": "E {conheceu}" },
+                                        { "word": "אָדָם", "transliteration": "ÅDÅM", "translation": "Adão" },
+                                        { "word": "עוֹד", "transliteration": "OD", "translation": "{outra vez}" },
+                                        { "word": "אֶת- אִשְׁתּוֹ", "transliteration": "ET-ISHËTO", "translation": "(a) sua mulher;" },
+                                        { "word": "וַתֵּלֶד", "transliteration": "VATELED", "translation": "e {deu à luz}" },
+                                        { "word": "בֵּן", "transliteration": "BEN", "translation": "(um) filho," },
+                                        { "word": "וַתִּקְרָא", "transliteration": "VATIQËRÅ", "translation": "e chamou" },
+                                        { "word": "אֶת- שְׁמוֹ", "transliteration": "ET-SHËMO", "translation": "(o) seu nome" },
+                                        { "word": "שֵׁת", "transliteration": "SHET", "translation": "Sete;" },
+                                        { "word": "כִּי", "transliteration": "KY", "translation": "porque," },
+                                        { "word": "שָׁת- לִי", "transliteration": "SHÅT-LY", "translation": "{colocou para mim}" },
+                                        { "word": "אֱלֹהִים", "transliteration": "ELOHYM", "translation": "Deus" },
+                                        { "word": "זֶרַע", "transliteration": "ZERA", "translation": "semente" },
+                                        { "word": "אַחֵר", "transliteration": "ACHER", "translation": "outra" },
+                                        { "word": "תַּחַת", "transliteration": "TACHAT", "translation": "em lugar de" },
+                                        { "word": "הֶבֶל", "transliteration": "HEVEL", "translation": "Abel;" },
+                                        { "word": "כִּי", "transliteration": "KY", "translation": "porquanto" },
+                                        { "word": "הֲרָגוֹ", "transliteration": "HARÅGO", "translation": "o matou." },
+                                        { "word": "קָיִן:", "transliteration": "QÅYN:", "translation": "Caim" }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Novamente Adão teve relações sexuais com sua esposa, e ela deu à luz outro filho a quem chamou de Sete, exclamando: \"Deus me concedeu outro filho para ficar em lugar de Abel, que foi morto por Caim!\"",
+                                            "text_hebrew": [
+                                                { "word": "וַיֵּדַע", "transliteration": "VAYEDA", "translation": "E {conheceu}" },
+                                                { "word": "אָדָם", "transliteration": "ÅDÅM", "translation": "Adão" },
+                                                { "word": "עוֹד", "transliteration": "OD", "translation": "{outra vez}" },
+                                                { "word": "אֶת- אִשְׁתּוֹ", "transliteration": "ET-ISHËTO", "translation": "(a) sua mulher;" },
+                                                { "word": "וַתֵּלֶד", "transliteration": "VATELED", "translation": "e {deu à luz}" },
+                                                { "word": "בֵּן", "transliteration": "BEN", "translation": "(um) filho," },
+                                                { "word": "וַתִּקְרָא", "transliteration": "VATIQËRÅ", "translation": "e chamou" },
+                                                { "word": "אֶת- שְׁמוֹ", "transliteration": "ET-SHËMO", "translation": "(o) seu nome" },
+                                                { "word": "שֵׁת", "transliteration": "SHET", "translation": "Sete;" },
+                                                { "word": "כִּי", "transliteration": "KY", "translation": "porque," },
+                                                { "word": "שָׁת- לִי", "transliteration": "SHÅT-LY", "translation": "{colocou para mim}" },
+                                                { "word": "אֱלֹהִים", "transliteration": "ELOHYM", "translation": "Deus" },
+                                                { "word": "זֶרַע", "transliteration": "ZERA", "translation": "semente" },
+                                                { "word": "אַחֵר", "transliteration": "ACHER", "translation": "outra" },
+                                                { "word": "תַּחַת", "transliteration": "TACHAT", "translation": "em lugar de" },
+                                                { "word": "הֶבֶל", "transliteration": "HEVEL", "translation": "Abel;" },
+                                                { "word": "כִּי", "transliteration": "KY", "translation": "porquanto" },
+                                                { "word": "הֲרָגוֹ", "transliteration": "HARÅGO", "translation": "o matou." },
+                                                { "word": "קָיִן:", "transliteration": "QÅYN:", "translation": "Caim" }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 15,
+                                    "notes": "Os vv.16-24 apresentam a linha de Caim; os vv.25-32 revelam a descendência de Sete (que em hebraico antigo quer dizer \"designado para ocupar o lugar\"). Os primeiros versículos do próximo capítulo descrevem a junção dos dois ramos genealógicos, até a primeira história de a humanidade culminar com o Dilúvio total da terra povoada e o livramento dos únicos crentes sinceros da época: Noé e sua família. É interessante como Eva associou o nascimento do seu primogênito, Caim, com o Deus da Graça, ao referir-se a Deus como yahweh; com o nascimento de Sete, entretanto, Eva chama a Deus de Elohim, cujo sentido é \"Deus da Criação e do Poder\".",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.4.26", 
+                                    "number": 26,
+                                    "text": "Sete foi pai e deu a seu filho o nome de Enos, que foi o primeiro a proclamar o Nome de Yahweh!",
+                                    "text_hebrew": [
+                                        { "word": "וּלְשֵׁת", "transliteration": "ULËSHET", "translation": "E a Sete" },
+                                        { "word": "גַּם- הוּא", "transliteration": "GAM-HU", "translation": "{também ele}" },
+                                        { "word": "יֻלַּד- בֵּן", "transliteration": "YULAD-BEN", "translation": "{foi nascido (um) filho}" },
+                                        { "word": "וַיִּקְרָא", "transliteration": "VAYQËRÅ", "translation": "e chamou" },
+                                        { "word": "אֶת- שְׁמוֹ", "transliteration": "ET-SHËMO", "translation": "(o) seu nome" },
+                                        { "word": "אֱנוֹשׁ", "transliteration": "ENOSH", "translation": "Enos:" },
+                                        { "word": "אָז", "transliteration": "ÅZ", "translation": "então" },
+                                        { "word": "הוּחַל", "transliteration": "HUCHAL", "translation": "se começou (a)" },
+                                        { "word": "לִקְרֹא", "transliteration": "LIQËRO", "translation": "invocar" },
+                                        { "word": "בְּשֵׁם", "transliteration": "BËSHEM", "translation": "o nome do" },
+                                        { "word": "יְהוָה:", "transliteration": "YHVH:", "translation": "SENHOR." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Sete foi pai e deu a seu filho o nome de Enos, que foi o primeiro a proclamar o Nome de Yahweh!",
+                                            "text_hebrew": [
+                                                { "word": "וּלְשֵׁת", "transliteration": "ULËSHET", "translation": "E a Sete" },
+                                                { "word": "גַּם- הוּא", "transliteration": "GAM-HU", "translation": "{também ele}" },
+                                                { "word": "יֻלַּד- בֵּן", "transliteration": "YULAD-BEN", "translation": "{foi nascido (um) filho}" },
+                                                { "word": "וַיִּקְרָא", "transliteration": "VAYQËRÅ", "translation": "e chamou" },
+                                                { "word": "אֶת- שְׁמוֹ", "transliteration": "ET-SHËMO", "translation": "(o) seu nome" },
+                                                { "word": "אֱנוֹשׁ", "transliteration": "ENOSH", "translation": "Enos:" },
+                                                { "word": "אָז", "transliteration": "ÅZ", "translation": "então" },
+                                                { "word": "הוּחַל", "transliteration": "HUCHAL", "translation": "se começou (a)" },
+                                                { "word": "לִקְרֹא", "transliteration": "LIQËRO", "translation": "invocar" },
+                                                { "word": "בְּשֵׁם", "transliteration": "BËSHEM", "translation": "o nome do" },
+                                                { "word": "יְהוָה:", "transliteration": "YHVH:", "translation": "SENHOR." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 16,
+                                    "notes": "É interessante que Sete demonstra seu amor e reconhecimento a Deus e a seus pais, colocando em seu filho um nome com o mesmo significado do nome do avô: Enos (homem feito do barro - 2.7). A descontrolada e vã autoconfiança de Lameque, que caracterizou a própria vida de Caim e sua descendência, contrapõe-se à sincera, humilde e amorosa devoção de Sete e sua linhagem por Deus. A expresão \"proclamar\" indica que Sete foi o precursosr das reuniões comunitárias de adoração, ensino e celebração ao Senhor, \"Deus da Graça\" - Yahweh.",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.5.title",
+                                    "number": 5,
+                                    "title": "A linhagem de Adão",
+                                    "notes_id": null,
+                                    "note_title": null,
+                                    "verses": [
+                                        {
+                                            "id": "gn.5.1", 
+                                            "number": 1,
+                                            "text": [
+                                                "Este é o registro da descendência de Adão:",
+                                                "Quando ele criou os seres humanos, o Senhor os fez parecidos com Ele."
+                                            ],
+                                            "text_hebrew": [
+                                                { "word": "זֶה", "transliteration": "ZEH", "translation": "ESTE (é)" },
+                                                { "word": "סֵפֶר", "transliteration": "SEFER", "translation": "(o) livro das" },
+                                                { "word": "תּוֹלְדֹת", "transliteration": "TOLËDOT", "translation": "gerações de" },
+                                                { "word": "אָדָם", "transliteration": "ÅDÅM", "translation": "Adão." },
+                                                { "word": "בְּיוֹם בְּרֹא", "transliteration": "BËYOM BËRO", "translation": "No dia (em que) criou" },
+                                                { "word": "אֱלֹהִים", "transliteration": "ELOHYM", "translation": "Deus" },
+                                                { "word": "אָדָם", "transliteration": "ÅDÅM", "translation": "(o) homem," },
+                                                { "word": "בִּדְמוּת", "transliteration": "BIDËMUT", "translation": "à semelhança de" },
+                                                { "word": "אֱלֹהִים", "transliteration": "ELOHYM", "translation": "Deus" },
+                                                { "word": "עָשָׂה", "transliteration": "ÅSÅH", "translation": "fez." },
+                                                { "word": "אֹתוֹ:", "transliteration": "OTO:", "translation": "o" }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": [
+                                                        "Este é o registro da descendência de Adão:",
+                                                        "Quando ele criou os seres humanos, o Senhor os fez parecidos com Ele."
+                                                    ],
+                                                    "text_hebrew": [
+                                                        { "word": "זֶה", "transliteration": "ZEH", "translation": "ESTE (é)" },
+                                                        { "word": "סֵפֶר", "transliteration": "SEFER", "translation": "(o) livro das" },
+                                                        { "word": "תּוֹלְדֹת", "transliteration": "TOLËDOT", "translation": "gerações de" },
+                                                        { "word": "אָדָם", "transliteration": "ÅDÅM", "translation": "Adão." },
+                                                        { "word": "בְּיוֹם בְּרֹא", "transliteration": "BËYOM BËRO", "translation": "No dia (em que) criou" },
+                                                        { "word": "אֱלֹהִים", "transliteration": "ELOHYM", "translation": "Deus" },
+                                                        { "word": "אָדָם", "transliteration": "ÅDÅM", "translation": "(o) homem," },
+                                                        { "word": "בִּדְמוּת", "transliteration": "BIDËMUT", "translation": "à semelhança de" },
+                                                        { "word": "אֱלֹהִים", "transliteration": "ELOHYM", "translation": "Deus" },
+                                                        { "word": "עָשָׂה", "transliteration": "ÅSÅH", "translation": "fez." },
+                                                        { "word": "אֹתוֹ:", "transliteration": "OTO:", "translation": "o" }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": 1,
+                                            "notes": "Deus criou Adão à sua semelhança e transferiu essa imagem divina para todos nós, seus descendentes (1.26-28; 2.4). O autor de Gênesis costuma se referir, especialmente nos primeiros capítulos, ao \"homem\" e a \"mulher\" pelo termo genérico da espécie humana: \"humanidade\" ou \"humanos\" (2.7,19; 3.22-24).",
+                                            "cross-reference": []
+                                        }
+                                    ]
                                 }
                             ]
                         }
