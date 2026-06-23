@@ -14,7 +14,7 @@
         
         "copyright": {
             "trademark": 2001,
-            "copyrigth": [2002, 2012],
+            "copyright": [2002, 2012],
             "holder_rights": "Abba Press Editora e Divulgadora Cultural Ltda.",
             "observation": "Todos os direitos reservados. Esta versão digital é para fins de estudo e integração em aplicações."
         },
@@ -36,7 +36,7 @@
             "city": "São Paulo"
         },
         
-        "partiner_entities": [
+        "partner_entities": [
             {
                 "name": "SBIA - Sociedade Bíblica Ibero-Americana",
                 "site": "https://bibliakingjames.com.br",
@@ -57,7 +57,7 @@
             }
         ],
         
-        "catholograph_classification": {
+        "catalog_classification": {
             "cdd": "220.5",
             "full_cdd": "220.5 - Bíblia em Português",
             "matters": [
@@ -79,7 +79,7 @@
                 "Antigo Testamento",
                 "Novo Testamento",
                 "Mapas",
-                "Concolordância"
+                "Concordância"
             ]
         },
         
@@ -88,13 +88,13 @@
             "github": "https://github.com/Zer0G0ld",
             "hebrew": "https://hebraico.pro.br",
             "greek": "",
-            "datea_creation": "2026-03-30",
+            "date_creation": "2026-03-30",
             "objective": "Disponibilizar a KJA em formato JSON estruturado para apps e ferramentas digitais",
             "physical_basis": "Bíblia de Estudo King James Atualizada - Edição 400 Anos (física)",
             "description": [
                 "Entusiasta de tecnologia e amante da Bíblia, dedicado a compartilhar conhecimento e promover a fé através de recursos digitais.",
                 "Projeto voltado para uso em apps que precisam de uma versão de estudo King James atualizada, com foco em acessibilidade e facilidade de integração.",
-                "Estou escrevendo este JSON com base na bíblia física que tenho. Tudo o que estiver aqui é baseado nela. Se houver algo errado, me avise para que eu possa colorrigir."
+                "Estou escrevendo este JSON com base na bíblia física que tenho. Tudo o que estiver aqui é baseado nela. Se houver algo errado, me avise para que eu possa corrigir."
             ],
             "license": "Uso para estudos e desenvolvimento - respeitar direitos autorais da edição impressa"
         }
@@ -220,8 +220,8 @@
                     {"order": 4, "name": "João", "abbreviation": "Jo", "chapters": 21},
                     {"order": 5, "name": "Atos dos Apóstolos", "abbreviation": "At", "chapters": 28},
                     {"order": 6, "name": "Romanos", "abbreviation": "Rm", "chapters": 16},
-                    {"order": 7, "name": "1 coloríntios", "abbreviation": "1Co", "chapters": 16},
-                    {"order": 8, "name": "2 coloríntios", "abbreviation": "2Co", "chapters": 13},
+                    {"order": 7, "name": "1 Coríntios", "abbreviation": "1Co", "chapters": 16},
+                    {"order": 8, "name": "2 Coríntios", "abbreviation": "2Co", "chapters": 13},
                     {"order": 9, "name": "Gálatas", "abbreviation": "Gl", "chapters": 6},
                     {"order": 10,"name": "Efésios", "abbreviation": "Ef", "chapters": 6},
                     {"order": 11,"name": "Filipenses", "abbreviation": "Fp", "chapters": 4},
@@ -3580,6 +3580,491 @@
                                     "notes_id": 9,
                                     "notes": "O NT nos autoriza a observar aqui a ocorrência do protevangelium, o primeiro vislumbre do Evangelho enquanto \"Boas Novas de Deus\" à humanidade (Cl 2.6-15). A perspectiva de luta, sofrimento e triunfo é clara e concreta. O trocadilho no original hebraico, bem armado e rico em significado, contrasta os termos \"cabeça e calcanhar\" com \"ferirás e picarás\" conforme defende o Lexicon in Verteis Tesetamenti Libras e outros léxicos importantes sobre o AT. Estas sutilezas verbais são características de alguns oráculos de destino (16.12, 27.28,39; 40.13,19). Contudo, é somente no NT que o vulto de Satanás é desmascarado por detrás da serpente (Rm 16.20; Ap 12.9; 20.2), revelado o maravilhoso e amplo significado da transferência de Adão para a mulher e sa descendência (Mt 1.23; Lc 7.28; Gl 4.4; 1TM 2.15). A semente da muher, como a de Abraão, é tanto coletiva como individual (pois o termo \"semente\", no original hebraixo, refere-se também a \"um indivíduo\" - Gn 4.25; 1Sm 1.11), na luta decisiva (Gl 3.16), desde que Jesus Cristo; como derradeiro Adão, sintetizou em sua pessoa a perfeita combinação da divindade e da humanidade. Cristo é o homem perfeito; Senhor e modelo de todos aqueles que foram agraciados com o dom de crer em seu Nome e por Ele viver eternamente (Mt 5.48; Jo 1.12; Hb 9.11-16; 1Co 13.10, Ef 4.13; Cl 1.28; 2 Tm 3.17; Hb 6.1; 7.28).",
                                     "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.3.16", 
+                                    "number": 16,
+                                    "text": "Para a mulher sentenciou o Senhor: \"Multiplicarei grandemente o teu sofrimento na gravidez; em meio à agonia darás à luz filhos; seguirás desejando influenciar o teu marido, mas ele te dominará!\"",
+                                    "text_hebrew": [
+                                        { "word": "אֶל- הָאִשָּׁה", "transliteration": "EL-HÅISHÅH", "translation": "(E) à mulher" },
+                                        { "word": "אָמַר", "transliteration": "ÅMAR", "translation": "disse:" },
+                                        { "word": "הַרְבָּה אַרְבֶּה", "transliteration": "HARËBÅH ARËBEH", "translation": "Multiplicarei grandemente" },
+                                        { "word": "עִצְּבוֹנֵךְ", "transliteration": "ITSËVONEKH", "translation": "(a) tua dor," },
+                                        { "word": "וְהֵרֹנֵךְ", "transliteration": "VËHERONEKH", "translation": "e a tua conceição;" },
+                                        { "word": "בְּעֶצֶב", "transliteration": "BËETSEV", "translation": "com dor" },
+                                        { "word": "תֵּלְדִי בָנִים", "transliteration": "TELËDY VÅNYM", "translation": "terás filhos;" },
+                                        { "word": "וְאֶל- אִישֵׁךְ", "transliteration": "VËEL-YSHEKH", "translation": "e para o teu marido," },
+                                        { "word": "תְּשׁוּקָתֵךְ", "transliteration": "TËSHUQÅTEKH", "translation": "(o) teu desejo (será)" },
+                                        { "word": "וְהוּא", "transliteration": "VËHU", "translation": "e ele" },
+                                        { "word": "יִמְשָׁל- בָּךְ:", "transliteration": "YMËSHÅL-BÅKH:", "translation": "te dominará." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Para a mulher sentenciou o Senhor: ",
+                                            "text_hebrew": [
+                                                { "word": "אֶל- הָאִשָּׁה", "transliteration": "EL-HÅISHÅH", "translation": "(E) à mulher" },
+                                                { "word": "אָמַר", "transliteration": "ÅMAR", "translation": "disse:" }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "\"Multiplicarei grandemente o teu sofrimento na gravidez; em meio à agonia darás à luz filhos; seguirás desejando influenciar o teu marido, mas ele te dominará!\"",
+                                            "text_hebrew": [
+                                                { "word": "הַרְבָּה אַרְבֶּה", "transliteration": "HARËBÅH ARËBEH", "translation": "Multiplicarei grandemente" },
+                                                { "word": "עִצְּבוֹנֵךְ", "transliteration": "ITSËVONEKH", "translation": "(a) tua dor," },
+                                                { "word": "וְהֵרֹנֵךְ", "transliteration": "VËHERONEKH", "translation": "e a tua conceição;" },
+                                                { "word": "בְּעֶצֶב", "transliteration": "BËETSEV", "translation": "com dor" },
+                                                { "word": "תֵּלְדִי בָנִים", "transliteration": "TELËDY VÅNYM", "translation": "terás filhos;" },
+                                                { "word": "וְאֶל- אִישֵׁךְ", "transliteration": "VËEL-YSHEKH", "translation": "e para o teu marido," },
+                                                { "word": "תְּשׁוּקָתֵךְ", "transliteration": "TËSHUQÅTEKH", "translation": "(o) teu desejo (será)" },
+                                                { "word": "וְהוּא", "transliteration": "VËHU", "translation": "e ele" },
+                                                { "word": "יִמְשָׁל- בָּךְ:", "transliteration": "YMËSHÅL-BÅKH:", "translation": "te dominará." }
+                                            ],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": 10,
+                                    "notes": "Dor, aflição, cansaço, humilhação, servidão são alguns dos sentimentos que passaram a fazer parte da vida humana na terra (Ec 1.8). Deus castigou a mulher e o homem nas atribuições que lhes era mais particulares. A raça humana iniciaria uma peregrinação rumo à plena Salvação e à vida eterna, como um sinal visível e histórico da graça de Deus mesmo em meio à condição de condenados e pecadores. Os plenos sentimentos de amor, carinho e companherismo foram comprometidos por novas motivações, desejos e receios. A mulher tenderia a reprimir seus sentimentos e a controlar o homem, porém seria subjugada por seu marido e nem todos os seus sonhos e vontades seriam satisfeitos por ele. Ainda que, mesmo nos casamentos pagãos o padrão moral possa elevar-se muito acima disso, o impulso do pecado é sempre nessa direção, o que provoca invariavelmente muita discórdia, frustração e sofrimento. Um eco da frase 4.7, evoca de forma mais contundente este princípio. O NT, entretanto, demonstra que a transformação que se processa no coração do verdadeiro cristão, mediante o poder do Espírito Santo, pode, mediante a fé, \"abrir os olhos espirituais\" para as novas realidades do Reino e promover comportamentos mais próprios de homens e mulheres de Deus (Fl 3.1-21; Ef 5.22-33; 1Pe 3.1-7).",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gen.3.17", 
+                                    "number": 17,
+                                    "text": "Então voltou-se para o homem e ordenou: \"Porque escutaste a voz de tua mulher e comeste da árvore que Eu te proibira comer, maldita é a terra por tua causa! Com sofrimentos obterás do solo o teu alimento, todos os dias da tua vida.",
+                                    "text_hebrew": [
+                                        { "word": "וּלְאָדָם", "transliteration": "ULËÅDÅM", "translation": "E a Adão" },
+                                        { "word": "אָמַר", "transliteration": "ÅMAR", "translation": "disse:" },
+                                        { "word": "כִּי- שָׁמַעְתָּ", "transliteration": "KY-SHÅMAËTÅ", "translation": "Porquanto deste ouvidos" },
+                                        { "word": "לְקוֹל", "transliteration": "LËQOL", "translation": "à voz de" },
+                                        { "word": "אִש\u05B1\u05EA\u05BC\u05B6ך\u05B1", "transliteration": "ISHËTEKHA", "translation": "tua mulher," },
+                                        { "word": "וַתֹּאכַל", "transliteration": "VATOKHAL", "translation": "e comeste" },
+                                        { "word": "מִן- הָעֵץ", "transliteration": "MIN-HÅETS", "translation": "da árvore" },
+                                        { "word": "אֲשֶׁר", "transliteration": "ASHER", "translation": "(de) que" },
+                                        { "word": "צִוִּיתִיךָ", "transliteration": "TSIVYTYKHA", "translation": "te ordenei," },
+                                        { "word": "לֵאמֹר", "transliteration": "LEMOR", "translation": "dizendo:" },
+                                        { "word": "לֹא", "transliteration": "LO", "translation": "Não" },
+                                        { "word": "תֹאכַל", "transliteration": "TOKHAL", "translation": "comerás" },
+                                        { "word": "מִמֶּנּוּ", "transliteration": "MIMENU", "translation": "dela:" },
+                                        { "word": "אֲרוּרָה", "transliteration": "ARURÅH", "translation": "maldita (é)" },
+                                        { "word": "הָאֲדָמָה", "transliteration": "HÅADÅMÅH", "translation": "a terra" },
+                                        { "word": "בַּעֲבוּרֶךָ", "transliteration": "BAAVUREKHA", "translation": "por causa de ti;" },
+                                        { "word": "בְּעִצָּבוֹן", "transliteration": "BËITSÅVON", "translation": "com dor" },
+                                        { "word": "תֹּאכֲלֶנָּה", "transliteration": "TOKHALENÅH", "translation": "comerás dela" },
+                                        { "word": "כֹּל", "transliteration": "KOL", "translation": "todos" },
+                                        { "word": "יְמֵי", "transliteration": "YËMEY", "translation": "os dias da" },
+                                        { "word": "חַיֶּיךָ:", "transliteration": "CHAYEYKHA:", "translation": "tua vida." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Então voltou-se para o homem e ordenou: ",
+                                            "text_hebrew": [
+                                                { "word": "וּלְאָדָם", "transliteration": "ULËÅDÅM", "translation": "E a Adão" },
+                                                { "word": "אָמַר", "transliteration": "ÅMAR", "translation": "disse:" }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "\"Porque escutaste a voz de tua mulher e comeste da árvore que Eu te proibira comer, maldita é a terra por tua causa! Com sofrimentos obterás do solo o teu alimento, todos os dias da tua vida.",
+                                            "text_hebrew": [
+                                                { "word": "כִּי- שָׁמַעְתָּ", "transliteration": "KY-SHÅMAËTÅ", "translation": "Porquanto deste ouvidos" },
+                                                { "word": "לְקוֹל", "transliteration": "LËQOL", "translation": "à voz de" },
+                                                { "word": "אִש\u05B1\u05EA\u05BC\u05B6ך\u05B1", "transliteration": "ISHËTEKHA", "translation": "tua mulher," },
+                                                { "word": "וַתֹּאכַל", "transliteration": "VATOKHAL", "translation": "e comeste" },
+                                                { "word": "מִן- הָעֵץ", "transliteration": "MIN-HÅETS", "translation": "da árvore" },
+                                                { "word": "אֲשֶׁר", "transliteration": "ASHER", "translation": "(de) que" },
+                                                { "word": "צִוִּיתִיךָ", "transliteration": "TSIVYTYKHA", "translation": "te ordenei," },
+                                                { "word": "לֵאמֹר", "transliteration": "LEMOR", "translation": "dizendo:" },
+                                                { "word": "לֹא", "transliteration": "LO", "translation": "Não" },
+                                                { "word": "תֹאכַל", "transliteration": "TOKHAL", "translation": "comerás" },
+                                                { "word": "מִמֶּנּוּ", "transliteration": "MIMENU", "translation": "dela:" },
+                                                { "word": "אֲרוּרָה", "transliteration": "ARURÅH", "translation": "maldita (é)" },
+                                                { "word": "הָאֲדָמָה", "transliteration": "HÅADÅMÅH", "translation": "a terra" },
+                                                { "word": "בַּעֲבוּרֶךָ", "transliteration": "BAAVUREKHA", "translation": "por causa de ti;" },
+                                                { "word": "בְּעִצָּבוֹן", "transliteration": "BËITSÅVON", "translation": "com dor" },
+                                                { "word": "תֹּאכֲלֶנָּה", "transliteration": "TOKHALENÅH", "translation": "comerás dela" },
+                                                { "word": "כֹּל", "transliteration": "KOL", "translation": "todos" },
+                                                { "word": "יְמֵי", "transliteration": "YËMEY", "translation": "os dias da" },
+                                                { "word": "חַיֶּיךָ:", "transliteration": "CHAYEYKHA:", "translation": "tua vida." }
+                                            ],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gen.3.18", 
+                                    "number": 18,
+                                    "text": "A terra produzirá espinhos e ervas daninhas, e tu terás de comer das plantas do campo.",
+                                    "text_hebrew": [
+                                        { "word": "וְקוֹץ", "transliteration": "VËQOTS", "translation": "{e} Espinhos," },
+                                        { "word": "וְדַרְדַּר", "transliteration": "VËDARËDAR", "translation": "e cardos" },
+                                        { "word": "תַּצְמִיחַ", "transliteration": "TATSËMYACH", "translation": "produzirá;" },
+                                        { "word": "לָךְ", "transliteration": "LÅKH", "translation": "{para ti}" },
+                                        { "word": "וְאָכַלְתָּ", "transliteration": "VËÅKHALËTÅ", "translation": "e comerás" },
+                                        { "word": "אֶת- עֵשֶׂב", "transliteration": "ET-ESEV", "translation": "a erva do" },
+                                        { "word": "הַשָּׂדֶה:", "transliteration": "HASÅDEH:", "translation": "campo." }     
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "A terra produzirá espinhos e ervas daninhas, e tu terás de comer das plantas do campo.",
+                                            "text_hebrew": [
+                                                { "word": "וְקוֹץ", "transliteration": "VËQOTS", "translation": "{e} Espinhos," },
+                                                { "word": "וְדַרְדַּר", "transliteration": "VËDARËDAR", "translation": "e cardos" },
+                                                { "word": "תַּצְמִיחַ", "transliteration": "TATSËMYACH", "translation": "produzirá;" },
+                                                { "word": "לָךְ", "transliteration": "LÅKH", "translation": "{para ti}" },
+                                                { "word": "וְאָכַלְתָּ", "transliteration": "VËÅKHALËTÅ", "translation": "e comerás" },
+                                                { "word": "אֶת- עֵשֶׂב", "transliteration": "ET-ESEV", "translation": "a erva do" },
+                                                { "word": "הַשָּׂדֶה:", "transliteration": "HASÅDEH:", "translation": "campo." }
+                                            ],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gen.3.19", 
+                                    "number": 19,
+                                    "text": "Com o suor do teu rosto comerás o teu pão, até que voltes ao solo pois da terra foste formado; porque tu és pó e ao pó da terra retornarás!",
+                                    "text_hebrew": [
+                                        { "word": "בְּזֵעַת", "transliteration": "BËZEAT", "translation": "No suor do" },
+                                        { "word": "אַפֶּיךָ", "transliteration": "APEYKHA", "translation": "teu rosto" },
+                                        { "word": "תֹּאכַל", "transliteration": "TOKHAL", "translation": "comerás" },
+                                        { "word": "לֶחֶם", "transliteration": "LECHEM", "translation": "(o teu) pão," },
+                                        { "word": "עַד", "transliteration": "AD", "translation": "até (que)" },
+                                        { "word": "שׁוּבְךָ", "transliteration": "SHUVËKHA", "translation": "te tornes" },
+                                        { "word": "אֶל- הָאֲדָמָה", "transliteration": "EL-HÅADÅMÅH", "translation": "à terra;" },
+                                        { "word": "כִּי", "transliteration": "KY", "translation": "porque" },
+                                        { "word": "מִמֶּנָּה", "transliteration": "MIMENÅH", "translation": "dela" },
+                                        { "word": "לֻקָּחְתָּ", "transliteration": "LUQÅCHËTÅ", "translation": "foste tomado:" },
+                                        { "word": "כִּי- עָפָר", "transliteration": "KY-ÅFÅR", "translation": "porquanto (és) pó," },
+                                        { "word": "אַתָּה", "transliteration": "ATÅH", "translation": "{tu}" },
+                                        { "word": "וְאֶל- עָפָר", "transliteration": "VËEL-ÅFÅR", "translation": "e {para (o)} pó" },
+                                        { "word": "תָּשׁוּב:", "transliteration": "TÅSHUV:", "translation": "{voltarás}" }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "Com o suor do teu rosto comerás o teu pão, até que voltes ao solo pois da terra foste formado; porque tu és pó e ao pó da terra retornarás!",
+                                            "text_hebrew": [
+                                                { "word": "בְּזֵעַת", "transliteration": "BËZEAT", "translation": "No suor do" },
+                                                { "word": "אַפֶּיךָ", "transliteration": "APEYKHA", "translation": "teu rosto" },
+                                                { "word": "תֹּאכַל", "transliteration": "TOKHAL", "translation": "comerás" },
+                                                { "word": "לֶחֶם", "transliteration": "LECHEM", "translation": "(o teu) pão," },
+                                                { "word": "עַד", "transliteration": "AD", "translation": "até (que)" },
+                                                { "word": "שׁוּבְךָ", "transliteration": "SHUVËKHA", "translation": "te tornes" },
+                                                { "word": "אֶל- הָאֲדָמָה", "transliteration": "EL-HÅADÅMÅH", "translation": "à terra;" },
+                                                { "word": "כִּי", "transliteration": "KY", "translation": "porque" },
+                                                { "word": "מִמֶּנָּה", "transliteration": "MIMENÅH", "translation": "dela" },
+                                                { "word": "לֻקָּחְתָּ", "transliteration": "LUQÅCHËTÅ", "translation": "foste tomado:" },
+                                                { "word": "כִּי- עָפָר", "transliteration": "KY-ÅFÅR", "translation": "porquanto (és) pó," },
+                                                { "word": "אַתָּה", "transliteration": "ATÅH", "translation": "{tu}" },
+                                                { "word": "וְאֶל- עָפָר", "transliteration": "VËEL-ÅFÅR", "translation": "e {para (o)} pó" },
+                                                { "word": "תָּשׁוּב:", "transliteration": "TÅSHUV:", "translation": "{voltarás}" }
+                                            ],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": 11,
+                                    "notes": "Espinhos e ervas daninhas ou cardos e abrolhos, como nas versões mais antigas em português, são expressões que denotam a condição da raça humana após o juízo de Deus no Éden. A terra passou a ser uma ameaça ao ser humano (Nm 33.55); pois o homem em sua própria desordem interior (o contínuo conflito entre o bem e o mal que escolheu saber), jamais viria a \"dominar\" (1.26) plenamente a terra. Os milagres realizados por Jesus, o Messias (o homem perfeito), sobre a natureza proporcionam certo vislumbre do controle que os seres humanos poderiam exercer caso não houvessem desobedecido a Deus no Éden (Hb 2.8,9).",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gen.3.20", 
+                                    "number": 20,
+                                    "text": "Assim, Adão deu à sua mulher o nome de Eva, porquanto ela seria mãe de toda a humanidade.",
+                                    "text_hebrew": [
+                                        { "word": "וַיִּקְרָא", "transliteration": "VAYQËRÅ", "translation": "E chamou" },
+                                        { "word": "הָאָדָם", "transliteration": "HÅÅDÅM", "translation": "Adão" },
+                                        { "word": "שֵׁם", "transliteration": "SHEM", "translation": "(o) nome de" },
+                                        { "word": "אִשְׁתּוֹ", "transliteration": "ISHËTO", "translation": "sua mulher," },
+                                        { "word": "חַוָּה", "transliteration": "CHAVÅH", "translation": "Eva;" },
+                                        { "word": "כִּי", "transliteration": "KY", "translation": "porquanto" },
+                                        { "word": "הִוא", "transliteration": "HIV", "translation": "ela" },
+                                        { "word": "הָיְתָה", "transliteration": "HÅYËTÅH", "translation": "era" },
+                                        { "word": "אֵם", "transliteration": "EM", "translation": "(a) mãe de" },
+                                        { "word": "כָּל- חָי:", "transliteration": "KÅL-CHÅY:", "translation": "todos os viventes. {lit.: todo vivo}" }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Assim, Adão deu à sua mulher o nome de Eva, porquanto ela seria mãe de toda a humanidade.",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּקְרָא", "transliteration": "VAYQËRÅ", "translation": "E chamou" },
+                                                { "word": "הָאָדָם", "transliteration": "HÅÅDÅM", "translation": "Adão" },
+                                                { "word": "שֵׁם", "transliteration": "SHEM", "translation": "(o) nome de" },
+                                                { "word": "אִשְׁתּוֹ", "transliteration": "ISHËTO", "translation": "sua mulher," },
+                                                { "word": "חַוָּה", "transliteration": "CHAVÅH", "translation": "Eva;" },
+                                                { "word": "כִּי", "transliteration": "KY", "translation": "porquanto" },
+                                                { "word": "הִוא", "transliteration": "HIV", "translation": "ela" },
+                                                { "word": "הָיְתָה", "transliteration": "HÅYËTÅH", "translation": "era" },
+                                                { "word": "אֵם", "transliteration": "EM", "translation": "(a) mãe de" },
+                                                { "word": "כָּל- חָי:", "transliteration": "KÅL-CHÅY:", "translation": "todos os viventes. {lit.: todo vivo}" }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 12,
+                                    "notes": "A linguagem primitiva não era o hebraico, os primeiros seres humanos  viveram na Mesopotâmia e adjacências (região onde se ergueu mais tarde a torre de Babel, onde nasceu Abraão; onde Isaque tomou uma esposa e Jacó morou por vinte anos antes de se estabelecerem na Palestina). Tábuas de barro descobertas recentemente no sítio arqueológico de Tell Mardikh (antiga cidade de Ebla), no norte da Síria, escritos em sumério e eblaíta, revelam a vitalidade cultural e política de uma civilização pré-patriarcal há cerca de 2500 a.C. As cartas ou \"Tábuas de Mari\" (séc. XVII a.C.), escritas em acádico e datadas do período patriarcal, nos informam sobre os nomes dos patriarcas (Abraão, Jacó e Jó) eram típicos da época, e que havia grande liberdade para se viajar entre as várias partes do mundo amorreu em que viviam os patriarcas e seus povos. Portanto, à medida que as ideias e as informações são comunicadas de uma para outra língua, os nomes vão se ajustando a fim de manterem a significação original (o que é mais importante). Depois da sentença de morte, o nome \"Eva\", que significa \"Vida\" (com o sentido de \"humanidade vivente\"), é muito auspicioso. A conexão dessa palavra com o próprio papel de Eva como \"mãe\", sugere que Adão ouvira com fé a promessa do v.15.",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gen.3.21", 
+                                    "number": 21,
+                                    "text": "Fez Yahweh Deus túnicas de pele e com elas vestiu Adão e Eva, sua mulher.",
+                                    "text_hebrew": [
+                                        { "word": "וַיַּעַשׂ", "transliteration": "VAYAAS", "translation": "E fez" },
+                                        { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                        { "word": "אֱלֹהִים", "transliteration": "ELOHYM", "translation": "Deus" },
+                                        { "word": "לְאָדָם", "transliteration": "LËÅDÅM", "translation": "a Adão" },
+                                        { "word": "וּלְאִשְׁתּוֹ", "transliteration": "ULËISHËTO", "translation": "e a sua mulher" },
+                                        { "word": "כָּתְנוֹת", "transliteration": "KÅTËNOT", "translation": "túnicas de" },
+                                        { "word": "עוֹר", "transliteration": "OR", "translation": "peles," },
+                                        { "word": "וַיַּלְבִּשֵׁם:", "transliteration": "VAYALËBISHEM:", "translation": "e os vestiu." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Fez Yahweh Deus túnicas de pele e com elas vestiu Adão e Eva, sua mulher.",
+                                            "text_hebrew": [
+                                                { "word": "וַיַּעַשׂ", "transliteration": "VAYAAS", "translation": "E fez" },
+                                                { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                                { "word": "אֱלֹהִים", "transliteration": "ELOHYM", "translation": "Deus" },
+                                                { "word": "לְאָדָם", "transliteration": "LËÅDÅM", "translation": "a Adão" },
+                                                { "word": "וּלְאִשְׁתּוֹ", "transliteration": "ULËISHËTO", "translation": "e a sua mulher" },
+                                                { "word": "כָּתְנוֹת", "transliteration": "KÅTËNOT", "translation": "túnicas de" },
+                                                { "word": "עוֹר", "transliteration": "OR", "translation": "peles," },
+                                                { "word": "וַיַּלְבִּשֵׁם:", "transliteration": "VAYALËBISHEM:", "translation": "e os vestiu." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 13,
+                                    "notes": "A correção e a disciplina de Deus para com seus filhos, conquanto possa ser a mais severa e dolorosa, não é jamais aplicada com ódio (um grande exemplo, especialmente aos pais e educadores), porquanto tem como alvo o resgate e não a destruição dos seus. Deus sabe que Adão e Eva não têm ideia do que haverão de enfrentar na terra, agora inóspita e indomável. Cintas de folhas de figueira não serão suficientes nem confortáveis. Deus demonstra seu cuidado paternal ao providenciar o suprimento imediato necessário. O Senhor está atento ao que precisamos agora e no futuro. Essas vestimentas de pele são precursoras de muitas medidas em prol do bem-estar moral e físico que o pecado humano torna necessárias. A ação social, agora delegada às mãos humanas, não podia ter início mais antigo, nem mais elevado: pelas mãos do próprio Deus (Tg 2.16,17; Rm 13.1-7). Ver nessa passagem, pela morte dos animais, um prenúncio da expiação é forçar o significado.",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gen.3.22", 
+                                    "number": 22,
+                                    "text": "Então declarou Yahweh Deus: \"Eis que agora o ser humano tornou-se como um de nós, conhecendo o bem e o mal. Não devemos permitir que ele também estenda a sua mão e tome do fruto da árvore da vida e comendo-o possa viver para sempre!\"",
+                                    "text_hebrew": [
+                                        { "word": "וַיֹּאמֶר", "transliteration": "VAYOMER", "translation": "{e} disse" },
+                                        { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                        { "word": "אֱלֹהִים", "transliteration": "ELOHYM", "translation": "Deus:" },
+                                        { "word": "הֵן", "transliteration": "HEN", "translation": "Eis (que)" },
+                                        { "word": "הָאָדָם", "transliteration": "HÅÅDÅM", "translation": "o homem" },
+                                        { "word": "הָיָה", "transliteration": "HÅYÅH", "translation": "é" },
+                                        { "word": "כ\u05BC\u05B1אַחַד", "transliteration": "K\u05CBACHAD", "translation": "como um" },
+                                        { "word": "מִמֶּנּוּ", "transliteration": "MIMENU", "translation": "de nós," },
+                                        { "word": "לָדַעַת", "transliteration": "LÅDAAT", "translation": "sabendo" },
+                                        { "word": "טוֹב", "transliteration": "TOV", "translation": "(o) bem" },
+                                        { "word": "וָרָע", "transliteration": "VÅRÅ", "translation": "e (o) mal;" },
+                                        { "word": "וְעַתָּה", "transliteration": "VËATÅH", "translation": "{e agora}" },
+                                        { "word": "פֶּן- יִשְׁלַח", "transliteration": "PEN-YSHËLACH", "translation": "para que não estenda" },
+                                        { "word": "יָדוֹ", "transliteration": "YÅDO", "translation": "(a) sua mão," },
+                                        { "word": "וְלָקַח", "transliteration": "VËLÅQACH", "translation": "e tome" },
+                                        { "word": "גַּם", "transliteration": "GAM", "translation": "também" },
+                                        { "word": "מֵעֵץ", "transliteration": "MEETS", "translation": "da árvore da" },
+                                        { "word": "הַחַיִּים", "transliteration": "HACHAYYM", "translation": "vida," },
+                                        { "word": "וְאָכַל", "transliteration": "VËÅKHAL", "translation": "e coma" },
+                                        { "word": "וָחַי", "transliteration": "VÅCHAY", "translation": "e viva" },
+                                        { "word": "לְעֹלָם:", "transliteration": "LËOLÅM:", "translation": "eternamente:" }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Então declarou Yahweh Deus: ",
+                                            "text_hebrew": [
+                                                { "word": "וַיֹּאמֶר", "transliteration": "VAYOMER", "translation": "{e} disse" },
+                                                { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                                { "word": "אֱלֹהִים", "transliteration": "ELOHYM", "translation": "Deus:" }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "\"Eis que agora o ser humano tornou-se como um de nós, conhecendo o bem e o mal. Não devemos permitir que ele também estenda a sua mão e tome do fruto da árvore da vida e comendo-o possa viver para sempre!\"",
+                                            "text_hebrew": [
+                                                { "word": "הֵן", "transliteration": "HEN", "translation": "Eis (que)" },
+                                                { "word": "הָאָדָם", "transliteration": "HÅÅDÅM", "translation": "o homem" },
+                                                { "word": "הָיָה", "transliteration": "HÅYÅH", "translation": "é" },
+                                                { "word": "כ\u05BC\u05B1אַחַד", "transliteration": "K\u05CBACHAD", "translation": "como um" },
+                                                { "word": "מִמֶּנּוּ", "transliteration": "MIMENU", "translation": "de nós," },
+                                                { "word": "לָדַעַת", "transliteration": "LÅDAAT", "translation": "sabendo" },
+                                                { "word": "טוֹב", "transliteration": "TOV", "translation": "(o) bem" },
+                                                { "word": "וָרָע", "transliteration": "VÅRÅ", "translation": "e (o) mal;" },
+                                                { "word": "וְעַתָּה", "transliteration": "VËATÅH", "translation": "{e agora}" },
+                                                { "word": "פֶּן- יִשְׁלַח", "transliteration": "PEN-YSHËLACH", "translation": "para que não estenda" },
+                                                { "word": "יָדוֹ", "transliteration": "YÅDO", "translation": "(a) sua mão," },
+                                                { "word": "וְלָקַח", "transliteration": "VËLÅQACH", "translation": "e tome" },
+                                                { "word": "גַּם", "transliteration": "GAM", "translation": "também" },
+                                                { "word": "מֵעֵץ", "transliteration": "MEETS", "translation": "da árvore da" },
+                                                { "word": "הַחַיִּים", "transliteration": "HACHAYYM", "translation": "vida," },
+                                                { "word": "וְאָכַל", "transliteration": "VËÅKHAL", "translation": "e coma" },
+                                                { "word": "וָחַי", "transliteration": "VÅCHAY", "translation": "e viva" },
+                                                { "word": "לְעֹלָם:", "transliteration": "LËOLÅM:", "translation": "eternamente:" }
+                                            ],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": 14,
+                                    "notes": "O ser humano repudiou a perfeita comunhão com o Criador e a vida eterna (Jo 1.10-12; 17.3). A meia-verdade predita por Satanás cumpriu-se de modo perverso (v.5), e o pecado - que sempre resulta em morte - priva o pecador da bênção de Deus: a vida eterna em toda a sua plenitude e glória (Rm 6.23; Tg 1.14,15); e aquela ilusão pregada pelo Inimigo (3.5) pela qual a humanidade incrédula escolhera viver a conduzirá de volta ao pó e ao afastamento de Deus (vv.19-21; Is 59.2).",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gen.3.23", 
+                                    "number": 23,
+                                    "text": "Por isso o Senhor expulsou o ser humano do jardim do Éden e fez que ele lavrasse a terra da qual havia sido formado.",
+                                    "text_hebrew": [
+                                        { "word": "וַיְשַׁלְּחֵהוּ", "transliteration": "VAYËSHALËCHEHU", "translation": "{e} o lançou" },
+                                        { "word": "יְהוָה", "transliteration": "YHVH", "translation": "O SENHOR" },
+                                        { "word": "אֱלֹהִים", "transliteration": "ELOHYM", "translation": "Deus," },
+                                        { "word": "מִגַּן- עֵדֶן", "transliteration": "MIGAN-EDEN", "translation": "do jardim do Éden," },
+                                        { "word": "לַעֲבֹד", "transliteration": "LAAVOD", "translation": "para lavrar" },
+                                        { "word": "אֶת- הָאֲדָמָה", "transliteration": "ET-HÅADÅMÅH", "translation": "a terra" },
+                                        { "word": "אֲשֶׁר", "transliteration": "ASHER", "translation": "(de) que" },
+                                        { "word": "לֻקַּח", "transliteration": "LUQACH", "translation": "fora tomado." },
+                                        { "word": "מִשָּׁם:", "transliteration": "MISHÅM:", "translation": "{de lá}" }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Por isso o Senhor expulsou o ser humano do jardim do Éden e fez que ele lavrasse a terra da qual havia sido formado.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְשַׁלְּחֵהוּ", "transliteration": "VAYËSHALËCHEHU", "translation": "{e} o lançou" },
+                                                { "word": "יְהוָה", "transliteration": "YHVH", "translation": "O SENHOR" },
+                                                { "word": "אֱלֹהִים", "transliteration": "ELOHYM", "translation": "Deus," },
+                                                { "word": "מִגַּן- עֵדֶן", "transliteration": "MIGAN-EDEN", "translation": "do jardim do Éden," },
+                                                { "word": "לַעֲבֹד", "transliteration": "LAAVOD", "translation": "para lavrar" },
+                                                { "word": "אֶת- הָאֲדָמָה", "transliteration": "ET-HÅADÅMÅH", "translation": "a terra" },
+                                                { "word": "אֲשֶׁר", "transliteration": "ASHER", "translation": "(de) que" },
+                                                { "word": "לֻקַּח", "transliteration": "LUQACH", "translation": "fora tomado." },
+                                                { "word": "מִשָּׁם:", "transliteration": "MISHÅM:", "translation": "{de lá}" }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gen.3.24", 
+                                    "number": 24,
+                                    "text": "Deus baniu Adão e Eva e no lado leste do jardim do Éden estabeleceu seus querubins e uma espada flamejante que se movia em todas as direções, evitando assim que alguém tivesse acesso à árvore da vida.",
+                                    "text_hebrew": [
+                                        { "word": "וַיְגָרֶשׁ", "transliteration": "VAYËGÅRESH", "translation": "E (havendo) lançado fora" },
+                                        { "word": "אֶת- הָאָדָם", "transliteration": "ET-HÅÅDÅM", "translation": "o homem," },
+                                        { "word": "וַיַּשְׁכֵּן", "transliteration": "VAYASHËKEN", "translation": "{e} pôs" },
+                                        { "word": "מִקֶּדֶם", "transliteration": "MIQEDEM", "translation": "ao oriente" },
+                                        { "word": "לְגַן- עֵדֶן", "transliteration": "LËGAN-EDEN", "translation": "do jardim do Éden," },
+                                        { "word": "אֶת- הַכְּרֻבִים", "transliteration": "ET-HAKËRUVYM", "translation": "querubins" },
+                                        { "word": "וְאֵת", "transliteration": "VËET", "translation": "e" },
+                                        { "word": "לַהַט", "transliteration": "LAHAT", "translation": "inflamada" },
+                                        { "word": "הַחֶרֶב", "transliteration": "HACHEREV", "translation": "(uma) espada" },
+                                        { "word": "הַמִּתְהַפֶּכֶת", "transliteration": "HAMITËHAPEKHET", "translation": "que andava ao redor," },
+                                        { "word": "לִשְׁמֹר", "transliteration": "LISHËMOR", "translation": "para guardar" },
+                                        { "word": "אֶת- דֶּרֶךְ", "transliteration": "ET-DEREKH", "translation": "(o) caminho da" },
+                                        { "word": "עֵץ", "transliteration": "ETS", "translation": "árvore da" },
+                                        { "word": "הַחַיִּים:", "transliteration": "HACHAYYM:", "translation": "vida." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Deus baniu Adão e Eva e no lado leste do jardim do Éden estabeleceu seus querubins e uma espada flamejante que se movia em todas as direções, evitando assim que alguém tivesse acesso à árvore da vida.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְגָרֶשׁ", "transliteration": "VAYËGÅRESH", "translation": "E (havendo) lançado fora" },
+                                                { "word": "אֶת- הָאָדָם", "transliteration": "ET-HÅÅDÅM", "translation": "o homem," },
+                                                { "word": "וַיַּשְׁכֵּן", "transliteration": "VAYASHËKEN", "translation": "{e} pôs" },
+                                                { "word": "מִקֶּדֶם", "transliteration": "MIQEDEM", "translation": "ao oriente" },
+                                                { "word": "לְגַן- עֵדֶן", "transliteration": "LËGAN-EDEN", "translation": "do jardim do Éden," },
+                                                { "word": "אֶת- הַכְּרֻבִים", "transliteration": "ET-HAKËRUVYM", "translation": "querubins" },
+                                                { "word": "וְאֵת", "transliteration": "VËET", "translation": "e" },
+                                                { "word": "לַהַט", "transliteration": "LAHAT", "translation": "inflamada" },
+                                                { "word": "הַחֶרֶב", "transliteration": "HACHEREV", "translation": "(uma) espada" },
+                                                { "word": "הַמִּתְהַפֶּכֶת", "transliteration": "HAMITËHAPEKHET", "translation": "que andava ao redor," },
+                                                { "word": "לִשְׁמֹר", "transliteration": "LISHËMOR", "translation": "para guardar" },
+                                                { "word": "אֶת- דֶּרֶךְ", "transliteration": "ET-DEREKH", "translation": "(o) caminho da" },
+                                                { "word": "עֵץ", "transliteration": "ETS", "translation": "árvore da" },
+                                                { "word": "הַחַיִּים:", "transliteration": "HACHAYYM:", "translation": "vida." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 15,
+                                    "notes": "É fascinante como nos grandes arqueológicos ocorridos, especialmente nas últimas décadas, observa-se uma profusão de estátuas de touros ou leões alados com cabeças humanas (símbolos inquestionáveis de autoridade e poder), colocadas como guardiões dos palácios e templos da antiga Mesopotâmia (Êx 25.18). Os \"querubins\" keruhbïm em hebraico, são anjos do Senhor, categorizados em poder logo abaixo dos \"serafins\". A função básica do \"querubim\" (kerub em hebraico) era proteger , guardar e sustentar o trono de Deus e áreas consideradas sagradas pelo Senhor (Sl 18.9,10; 80.1; 99.1). Nas visões de Ezequiel são os multiformes e temíveis sustentáculos do trono do Senhor (Ez 1.5; 10.15). São guardiões bordadas no véu (conjunto de pesadas cortinas de linho puro) que impedia o acesso público ao recinto, e esculpidas sobre a tampa (propiciatório) da Arca (Êx 25.18; 36.35; 37.7-9). Por ocasião da morte vicária de Jesus, o Messias (Cristo), este véu rasgou-se - de alto a baixo - em duas partes (Mt 27.51) e o Caminho para Deus foi aberto (Hb 10.19-22). No Apocalipse aparecem como \"seres viventes\" (Ap 4.6). E, somente mediante a redenção divina é que o ser humano volta a ter acesso à Árvore da Vida (Ap 2.7; 22.2,14,19).",
+                                    "cross-reference": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "gn.4.title",
+                            "number": 4,
+                            "title": "O primeiro homicídio",
+                            "notes_id": null,
+                            "note_title": null,
+                            "verses": [
+                                {
+                                    "id": "gn.4.1", 
+                                    "number": 1,
+                                    "text": "Então Adão teve relações sexuais com Eva, sua mulher; ela concebeu e deu a luz à Caim, e declarou: \"Com a ajuda do Senhor, tive um filho homem\".",
+                                    "text_hebrew": [
+                                        { "word": "וְהָאָדָם", "transliteration": "VËHÅÅDÅM", "translation": "E Adão" },
+                                        { "word": "יָדַע", "transliteration": "YÅDA", "translation": "CONHECEU" },
+                                        { "word": "אֶת- חַוָּה", "transliteration": "ET-CHAVÅH", "translation": "a Eva," },
+                                        { "word": "אִשְׁתּוֹ", "transliteration": "ISHËTO", "translation": "sua mulher," },
+                                        { "word": "וַתַּהַר", "transliteration": "VATAHAR", "translation": "e (ela) concebeu" },
+                                        { "word": "וַתֵּלֶד", "transliteration": "VATELED", "translation": "e teve {lit.: deu à luz}" },
+                                        { "word": "אֶת- קַיִן", "transliteration": "ET-QAYN", "translation": "(a) Caim," },
+                                        { "word": "וַתֹּאמֶer", "transliteration": "VATOMER", "translation": "e disse:" },
+                                        { "word": "קָנִיתִי", "transliteration": "QÅNYTY", "translation": "Alcancei {alter.: consegui}" },
+                                        { "word": "אִישׁ", "transliteration": "YSH", "translation": "(um) varão." },
+                                        { "word": "אֶת- יְהוָה:", "transliteration": "ET-YHVH:", "translation": "do SENHOR" }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Então Adão teve relações sexuais com Eva, sua mulher; ela concebeu e deu a luz à Caim, e declarou: \"Com a ajuda do Senhor, tive um filho homem\".",
+                                            "text_hebrew": [
+                                                { "word": "וְהָאָדָם", "transliteration": "VËHÅÅDÅM", "translation": "E Adão" },
+                                                { "word": "יָדַע", "transliteration": "YÅDA", "translation": "CONHECEU" },
+                                                { "word": "אֶת- חַוָּה", "transliteration": "ET-CHAVÅH", "translation": "a Eva," },
+                                                { "word": "אִשְׁתּוֹ", "transliteration": "ISHËTO", "translation": "sua mulher," },
+                                                { "word": "וַתַּהַר", "transliteration": "VATAHAR", "translation": "e (ela) concebeu" },
+                                                { "word": "וַתֵּלֶד", "transliteration": "VATELED", "translation": "e teve {lit.: deu à luz}" },
+                                                { "word": "אֶת- קַיִן", "transliteration": "ET-QAYN", "translation": "(a) Caim," },
+                                                { "word": "וַתֹּאמֶer", "transliteration": "VATOMER", "translation": "e disse:" },
+                                                { "word": "קָנִיתִי", "transliteration": "QÅNYTY", "translation": "Alcancei {alter.: consegui}" },
+                                                { "word": "אִישׁ", "transliteration": "YSH", "translation": "(um) varão." },
+                                                { "word": "אֶת- יְהוָה:", "transliteration": "ET-YHVH:", "translation": "do SENHOR" }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 1,
+                                    "notes": "A frase de Eva nos originais hebraicos pode ser traduzida assim: \"Obtive um homem, ó Yahweh!\", onde \"Obtive\" é a expressão transliterada Cãnah ou Caim, que significa \"aquele que extrai o metal dos minerais\" ou \"metalúrgico\". Eva soube reconhecer que apesar do pecado que ela e Adão cometeram Deus permanecia misericordioso e doador do sopro ou fôlego (espírito) da vida (At 17.25).",
+                                    "cross-reference": []
                                 }
                             ]
                         }
@@ -3598,7 +4083,7 @@
                 "items": []
             },
             "concolordance": {
-                "title": "Concolordância Bíblica",
+                "title": "Concordância Bíblica",
                 "items": []
             },
             "tables": {
