@@ -23,7 +23,7 @@
                     {
                         "character": "Comum/Deus/Jesus",
                         "text": "",
-                        "text_hebrew": "",
+                        "text_hebrew": [],
                         "color": "default/azul/vermelho",
                         "emphasis": "false/true"
                     }

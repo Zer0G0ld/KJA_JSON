@@ -8352,6 +8352,985 @@
                                     "cross-reference": []
                                 }
                             ]
+                        },
+                        {
+                            "id": "gn.8.title",
+                            "number": 8,
+                            "title": null,
+                            "notes_id": null,
+                            "note_title": null,
+                            "verses": [
+                                {
+                                    "id": "gn.8.1", 
+                                    "number": 1,
+                                    "text": "Deus lembrou-se então de Noé e de todos os animais selvagens, de todos os rebanhos domésticos, e de todas as criaturas que estavam com ele na grande embarcação, e enviou um forte vento sobre a terra, e as águas começaram a baixar.",
+                                    "text_hebrew": [
+                                        { "word": "וַיִּזְכֹּר", "transliteration": "VAYZËKOR", "translation": "E lembrou-se" },
+                                        { "word": "אֱלֹהִים", "transliteration": "ELOHYM", "translation": "Deus" },
+                                        { "word": "אֶת- נֹחַ", "transliteration": "ET-NOACH", "translation": "de Noé" },
+                                        { "word": "וְאֵת", "transliteration": "VËET", "translation": "e de todos" },
+                                        { "word": "כָּל- הַחַיָּה", "transliteration": "KÅL-HACHAYÅH", "translation": "os seres vivos" },
+                                        { "word": "וְאֶת- כָּל- הַבְּהֵמָה", "transliteration": "VËET-KÅL-HABËHEMÅH", "translation": "e de todos os animais domésticos" },
+                                        { "word": "אֲשֶׁר", "transliteration": "ASHER", "translation": "que [estavam]" },
+                                        { "word": "אִתּוֹ", "transliteration": "ITO", "translation": "com ele" },
+                                        { "word": "בַּתֵּבָה", "transliteration": "BATEVÅH", "translation": "na arca;" },
+                                        { "word": "וַיַּעֲבֵר", "transliteration": "VAYAAVER", "translation": "e fez passar" },
+                                        { "word": "אֱלֹהִים", "transliteration": "ELOHYM", "translation": "Deus" },
+                                        { "word": "רוּחַ", "transliteration": "RUACH", "translation": "um vento" },
+                                        { "word": "עַל- הָאָרֶץ", "transliteration": "AL-HÅÅRETS", "translation": "sobre a terra," },
+                                        { "word": "וַיָּשֹׁכּוּ", "transliteration": "VAYÅSHOKU", "translation": "e baixaram" },
+                                        { "word": "הַמָּיִם:", "transliteration": "HAMÅYM:", "translation": "as águas." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Deus lembrou-se então de Noé e de todos os animais selvagens, de todos os rebanhos domésticos, e de todas as criaturas que estavam com ele na grande embarcação, e enviou um forte vento sobre a terra, e as águas começaram a baixar.",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּזְכֹּר", "transliteration": "VAYZËKOR", "translation": "E lembrou-se" },
+                                                { "word": "אֱלֹהִים", "transliteration": "ELOHYM", "translation": "Deus" },
+                                                { "word": "אֶת- נֹחַ", "transliteration": "ET-NOACH", "translation": "de Noé" },
+                                                { "word": "וְאֵת", "transliteration": "VËET", "translation": "e de todos" },
+                                                { "word": "כָּל- הַחַיָּה", "transliteration": "KÅL-HACHAYÅH", "translation": "os seres vivos" },
+                                                { "word": "וְאֶת- כָּל- הַבְּהֵמָה", "transliteration": "VËET-KÅL-HABËHEMÅH", "translation": "e de todos os animais domésticos" },
+                                                { "word": "אֲשֶׁר", "transliteration": "ASHER", "translation": "que [estavam]" },
+                                                { "word": "אִתּוֹ", "transliteration": "ITO", "translation": "com ele" },
+                                                { "word": "בַּתֵּבָה", "transliteration": "BATEVÅH", "translation": "na arca;" },
+                                                { "word": "וַיַּעֲבֵר", "transliteration": "VAYAAVER", "translation": "e fez passar" },
+                                                { "word": "אֱלֹהִים", "transliteration": "ELOHYM", "translation": "Deus" },
+                                                { "word": "רוּחַ", "transliteration": "RUACH", "translation": "um vento" },
+                                                { "word": "עַל- הָאָרֶץ", "transliteration": "AL-HÅÅRETS", "translation": "sobre a terra," },
+                                                { "word": "וַיָּשֹׁכּוּ", "transliteration": "VAYÅSHOKU", "translation": "e baixaram" },
+                                                { "word": "הַמָּיִם:", "transliteration": "HAMÅYM:", "translation": "as águas." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": "false"
+                                        }
+                                    ],
+                                    "notes_id": 1,
+                                    "notes": "A narrativa do Dilúvio que vinha seguindo sua firme e severa trajetória de julgamento e punição (juízo divíno), de agora em diante realça seu propósito redentor. Do ponto de vista de Noé (e do autor de Gênesis) Deus parece ter se ausentado dos acontecimentos e da História (sensação comum quando atravessamos longos períodos de crise a angústia). Depois de 7.6, nem um recado de Deus surge em cento e cinquenta dias de romentas (7.24), relâmpagos cortando a escuridão e muita expectativa. Contudo, Deus jamais se \"esquecera\" de Noé nem de cada um dos seus compromissos. O único \"esquecimento\" que Deus se auto-impõe é em relação aos pecados dos seus filhos amados e sinceros (Is 43.25 com 49.15). O \"lembrar de Deus\" nas Escrituras sempre se refere ao momento preciso em que o \"amor fiel e misericordioso\" do Pai se junta com o \"poder e a intervenção oportuna\" do Senhor Yahweh, o Altíssimo (Jr 2.2; 31.20 com Gn 19.29; Êx 2.24; Ne 5.19; 13.31; Lc 1.54,55).",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.2", 
+                                    "number": 2,
+                                    "text": "Fecharam-se as fontes do abismo e as comportas do céu, e a chuva foi detida no céu.",
+                                    "text_hebrew": [
+                                        { "word": "וַיִּסָּכְרוּ", "transliteration": "VAYSÅKHËRU", "translation": "E fecharam-se" },
+                                        { "word": "מַעְיְנֹת", "transliteration": "MAËYËNOT", "translation": "as fontes do" },
+                                        { "word": "תְּהוֹם", "transliteration": "TËHOM", "translation": "abismo," },
+                                        { "word": "וַאֲרֻבֹּת", "transliteration": "VAARUBOT", "translation": "e as janelas" },
+                                        { "word": "הַשָּׁמָיִם", "transliteration": "HASHÅMÅYM", "translation": "dos céus," },
+                                        { "word": "וַיִּכָּלֵא", "transliteration": "VAYKÅLE", "translation": "e conteve-se" },
+                                        { "word": "הַגֶּשֶׁם", "transliteration": "HAGESHEM", "translation": "a chuva" },
+                                        { "word": "מִן- הַשָּׁמָיִם:", "transliteration": "MIN-HASHÅMÅYM:", "translation": "dos céus." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Fecharam-se as fontes do abismo e as comportas do céu, e a chuva foi detida no céu.",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּסָּכְרוּ", "transliteration": "VAYSÅKHËRU", "translation": "E fecharam-se" },
+                                                { "word": "מַעְיְנֹת", "transliteration": "MAËYËNOT", "translation": "as fontes do" },
+                                                { "word": "תְּהוֹם", "transliteration": "TËHOM", "translation": "abismo," },
+                                                { "word": "וַאֲרֻבֹּת", "transliteration": "VAARUBOT", "translation": "e as janelas" },
+                                                { "word": "הַשָּׁמָיִם", "transliteration": "HASHÅMÅYM", "translation": "dos céus," },
+                                                { "word": "וַיִּכָּלֵא", "transliteration": "VAYKÅLE", "translation": "e conteve-se" },
+                                                { "word": "הַגֶּשֶׁם", "transliteration": "HAGESHEM", "translation": "a chuva" },
+                                                { "word": "מִן- הַשָּׁמָיִם:", "transliteration": "MIN-HASHÅMÅYM:", "translation": "dos céus." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.3", 
+                                    "number": 3,
+                                    "text": "As águas pouco a pouco se retiraram da terra. Ao fim de cento e cinquenta dias, as águas haviam dimínuido,",
+                                    "text_hebrew": [
+                                        { "word": "וַיָּשֻׁבוּ", "transliteration": "VAYÅSHUVU", "translation": "E retornaram" },
+                                        { "word": "הַמַּיִם", "transliteration": "HAMAYM", "translation": "as águas" },
+                                        { "word": "מֵעַל", "transliteration": "MEAL", "translation": "de sobre" },
+                                        { "word": "הָאָרֶץ", "transliteration": "HÅÅRETS", "translation": "a terra," },
+                                        { "word": "הָלוֹךְ", "transliteration": "HÅLOKH", "translation": "indo" },
+                                        { "word": "וָשׁוֹב", "transliteration": "VÅSHOV", "translation": "e voltando;" },
+                                        { "word": "וַיַּחְסְרוּ", "transliteration": "VAYACHËSËRU", "translation": "e minguaram" },
+                                        { "word": "הַמַּיִם", "transliteration": "HAMAYM", "translation": "as águas" },
+                                        { "word": "מִקְצֵה", "transliteration": "MIQËTSEH", "translation": "ao fim de" },
+                                        { "word": "חֲמִשִּׁים", "transliteration": "CHAMISHYM", "translation": "cinquenta" },
+                                        { "word": "וּמְאַת", "transliteration": "UMËAT", "translation": "e cem" },
+                                        { "word": "יוֹם:", "transliteration": "YOM:", "translation": "dias." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "As águas pouco a pouco se retiraram da terra. Ao fim de cento e cinquenta dias, as águas haviam dimínuido,",
+                                            "text_hebrew": [
+                                                { "word": "וַיָּשֻׁבוּ", "transliteration": "VAYÅSHUVU", "translation": "E retornaram" },
+                                                { "word": "הַמַּיִם", "transliteration": "HAMAYM", "translation": "as águas" },
+                                                { "word": "מֵעַל", "transliteration": "MEAL", "translation": "de sobre" },
+                                                { "word": "הָאָרֶץ", "transliteration": "HÅÅRETS", "translation": "a terra," },
+                                                { "word": "הָלוֹךְ", "transliteration": "HÅLOKH", "translation": "indo" },
+                                                { "word": "וָשׁוֹב", "transliteration": "VÅSHOV", "translation": "e voltando;" },
+                                                { "word": "וַיַּחְסְרוּ", "transliteration": "VAYACHËSËRU", "translation": "e minguaram" },
+                                                { "word": "הַמַּיִם", "transliteration": "HAMAYM", "translation": "as águas" },
+                                                { "word": "מִקְצֵה", "transliteration": "MIQËTSEH", "translation": "ao fim de" },
+                                                { "word": "חֲמִשִּׁים", "transliteration": "CHAMISHYM", "translation": "cinquenta" },
+                                                { "word": "וּמְאַת", "transliteration": "UMËAT", "translation": "e cem" },
+                                                { "word": "יוֹם:", "transliteration": "YOM:", "translation": "dias." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.4", 
+                                    "number": 4,
+                                    "text": "e, no décimo sétimo dia do sétimo mês, a arca encalhou sobre as montanhas de Ararate.",
+                                    "text_hebrew": [
+                                        { "word": "וַתָּנַח", "transliteration": "VATÅNACH", "translation": "E pousou" },
+                                        { "word": "הַתֵּבָה", "transliteration": "HATEVÅH", "translation": "a arca" },
+                                        { "word": "בַּחֹדֶשׁ", "bold": false, "transliteration": "BACHODESH", "translation": "no mês" },
+                                        { "word": "הַשְּׁבִיעִי", "transliteration": "HASHËVYY", "translation": "sétimo," },
+                                        { "word": "בְּשִׁבְעָה- עָשָׂר", "transliteration": "BËSHIVËÅH-ÅSÅR", "translation": "no dia dezessete" },
+                                        { "word": "יוֹם", "transliteration": "YOM", "translation": "do" },
+                                        { "word": "לַחֹדֶשׁ", "transliteration": "LACHODESH", "translation": "mês," },
+                                        { "word": "עַל", "transliteration": "AL", "translation": "sobre" },
+                                        { "word": "הָרֵי", "transliteration": "HÅREY", "translation": "os montes de" },
+                                        { "word": "אֲרָרָט:", "transliteration": "ARÅRÅT:", "translation": "Ararate." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "e, no décimo sétimo dia do sétimo mês, a arca encalhou sobre as montanhas de Ararate.",
+                                            "text_hebrew": [
+                                                { "word": "וַתָּנַח", "transliteration": "VATÅNACH", "translation": "E pousou" },
+                                                { "word": "הַתֵּבָה", "transliteration": "HATEVÅH", "translation": "a arca" },
+                                                { "word": "בַּחֹדֶשׁ", "bold": false, "transliteration": "BACHODESH", "translation": "no mês" },
+                                                { "word": "הַשְּׁבִיעִי", "transliteration": "HASHËVYY", "translation": "sétimo," },
+                                                { "word": "בְּשִׁבְעָה- עָשָׂר", "transliteration": "BËSHIVËÅH-ÅSÅR", "translation": "no dia dezessete" },
+                                                { "word": "יוֹם", "transliteration": "YOM", "translation": "do" },
+                                                { "word": "לַחֹדֶשׁ", "transliteration": "LACHODESH", "translation": "mês," },
+                                                { "word": "עַל", "transliteration": "AL", "translation": "sobre" },
+                                                { "word": "הָרֵי", "transliteration": "HÅREY", "translation": "os montes de" },
+                                                { "word": "אֲרָרָט:", "transliteration": "ARÅRÅT:", "translation": "Ararate." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 2,
+                                    "notes": "O texto não diz que a arca tocou o pico do monte Ararate que tem cerca de 5.300 metros, mas que a grande barca encalhou na região montanhosa de Ararate, ao norte da Mesopotâmia e a leste da atual Turquia. Segundo as mais recentes descobertas e estudos arqueológicos, a arca de Noé atracou ao sul de Urartu, ao norte da Assíria, na Armênia (Jr 51.27; Is 37.38).",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.5", 
+                                    "number": 5,
+                                    "text": "As águas continuaram escoando até o décimo mês e no primeiro dia do décimo mês, surgiram os topos das montanhas.",
+                                    "text_hebrew": [
+                                        { "word": "וְהַמַּיִם", "transliteration": "VËHAMAYM", "translation": "E as águas" },
+                                        { "word": "הָיוּ", "transliteration": "HÅYU", "translation": "foram" },
+                                        { "word": "הָלוֹךְ", "transliteration": "HÅLOKH", "translation": "indo" },
+                                        { "word": "וְחָסוֹר", "transliteration": "VËCHÅSOR", "translation": "e minguando" },
+                                        { "word": "עַד", "transliteration": "AD", "translation": "até" },
+                                        { "word": "הַחֹדֶשׁ", "transliteration": "HACHODESH", "translation": "ao mês" },
+                                        { "word": "הָעֲשִׂירִי", "transliteration": "HÅASYRY", "translation": "décimo;" },
+                                        { "word": "בָּעֲשִׂירִי", "transliteration": "BÅASYRY", "translation": "no [mês] décimo," },
+                                        { "word": "בְּאֶחָד", "transliteration": "BËECHÅD", "translation": "no primeiro [dia]" },
+                                        { "word": "לַחֹדֶשׁ", "transliteration": "LACHODESH", "translation": "do mês," },
+                                        { "word": "נִרְאוּ", "transliteration": "NIRËU", "translation": "apareceram" },
+                                        { "word": "רָאשֵׁי", "transliteration": "RÅSHEY", "translation": "os cumes de" },
+                                        { "word": "הֶהָרִים:", "transliteration": "HEHÅRYM:", "translation": "os montes." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "As águas continuaram escoando até o décimo mês e no primeiro dia do décimo mês, surgiram os topos das montanhas.",
+                                            "text_hebrew": [
+                                                { "word": "וְהַמַּיִם", "transliteration": "VËHAMAYM", "translation": "E as águas" },
+                                                { "word": "הָיוּ", "transliteration": "HÅYU", "translation": "foram" },
+                                                { "word": "הָלוֹךְ", "transliteration": "HÅLOKH", "translation": "indo" },
+                                                { "word": "וְחָסוֹר", "transliteration": "VËCHÅSOR", "translation": "e minguando" },
+                                                { "word": "עַד", "transliteration": "AD", "translation": "até" },
+                                                { "word": "הַחֹדֶשׁ", "transliteration": "HACHODESH", "translation": "ao mês" },
+                                                { "word": "הָעֲשִׂירִי", "transliteration": "HÅASYRY", "translation": "décimo;" },
+                                                { "word": "בָּעֲשִׂירִי", "transliteration": "BÅASYRY", "translation": "no [mês] décimo," },
+                                                { "word": "בְּאֶחָד", "transliteration": "BËECHÅD", "translation": "no primeiro [dia]" },
+                                                { "word": "לַחֹדֶשׁ", "transliteration": "LACHODESH", "translation": "do mês," },
+                                                { "word": "נִרְאוּ", "transliteration": "NIRËU", "translation": "apareceram" },
+                                                { "word": "רָאשֵׁי", "transliteration": "RÅSHEY", "translation": "os cumes de" },
+                                                { "word": "הֶהָרִים:", "transliteration": "HEHÅRYM:", "translation": "os montes." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.6", 
+                                    "number": 6,
+                                    "text": "No fim de quarenta dias, Noe abriu a janela que fizera na arca.",
+                                    "text_hebrew": [
+                                        { "word": "וַיְהִי", "transliteration": "VAYËHY", "translation": "E aconteceu que" },
+                                        { "word": "מִקֵּץ", "transliteration": "MIQETS", "translation": "ao fim de" },
+                                        { "word": "אַרְבָּעִים", "transliteration": "ARËBÅYM", "translation": "quarenta" },
+                                        { "word": "יוֹם", "transliteration": "YOM", "translation": "dias," },
+                                        { "word": "וַיִּפְתַּח", "transliteration": "VAYFËTACH", "translation": "abriu" },
+                                        { "word": "נֹחַ", "transliteration": "NOACH", "translation": "Noé" },
+                                        { "word": "אֶת- חַלּוֹן", "transliteration": "ET-CHALON", "translation": "a janela da" },
+                                        { "word": "הַתֵּבָה", "transliteration": "HATEVÅH", "translation": "arca" },
+                                        { "word": "אֲשֶׁר", "transliteration": "ASHER", "translation": "que" },
+                                        { "word": "עָשָׂה:", "transliteration": "ÅSÅH:", "translation": "tinha feito." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "No fim de quarenta dias, Noe abriu a janela que fizera na arca.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְהִי", "transliteration": "VAYËHY", "translation": "E aconteceu que" },
+                                                { "word": "מִקֵּץ", "transliteration": "MIQETS", "translation": "ao fim de" },
+                                                { "word": "אַרְבָּעִים", "transliteration": "ARËBÅYM", "translation": "quarenta" },
+                                                { "word": "יוֹם", "transliteration": "YOM", "translation": "dias," },
+                                                { "word": "וַיִּפְתַּח", "transliteration": "VAYFËTACH", "translation": "abriu" },
+                                                { "word": "נֹחַ", "transliteration": "NOACH", "translation": "Noé" },
+                                                { "word": "אֶת- חַלּוֹן", "transliteration": "ET-CHALON", "translation": "a janela da" },
+                                                { "word": "הַתֵּבָה", "transliteration": "HATEVÅH", "translation": "arca" },
+                                                { "word": "אֲשֶׁר", "transliteration": "ASHER", "translation": "que" },
+                                                { "word": "עָשָׂה:", "transliteration": "ÅSÅH:", "translation": "tinha feito." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.7", 
+                                    "number": 7,
+                                    "text": "Esperando que a terra já estivesse a descoberto, Noé soltou um corvo; todavia, este ficou voando ao redor.",
+                                    "text_hebrew": [
+                                        { "word": "וַיְשַׁלַּח", "transliteration": "VAYËSHALACH", "translation": "E soltou" },
+                                        { "word": "אֶת- הָעֹרֵב", "transliteration": "ET-HÅOREV", "translation": "o corvo," },
+                                        { "word": "וַיֵּצֵא", "transliteration": "VAYETSE", "translation": "o qual saiu," },
+                                        { "word": "יָצוֹא", "transliteration": "YÅTSO", "translation": "saindo" },
+                                        { "word": "וָשׁוֹב", "transliteration": "VÅSHOV", "translation": "e voltando," },
+                                        { "word": "עַד- יְבֹשֶׁת", "transliteration": "AD-YËVOSHET", "translation": "até que se secaram" },
+                                        { "word": "הַמַּיִם", "transliteration": "HAMAYM", "translation": "as águas" },
+                                        { "word": "מֵעַל", "transliteration": "MEAL", "translation": "de sobre" },
+                                        { "word": "הָאָרֶץ:", "transliteration": "HÅÅRETS:", "translation": "a terra." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Esperando que a terra já estivesse a descoberto, Noé soltou um corvo; todavia, este ficou voando ao redor.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְשַׁלַּח", "transliteration": "VAYËSHALACH", "translation": "E soltou" },
+                                                { "word": "אֶת- הָעֹרֵב", "transliteration": "ET-HÅOREV", "translation": "o corvo," },
+                                                { "word": "וַיֵּצֵא", "transliteration": "VAYETSE", "translation": "o qual saiu," },
+                                                { "word": "יָצוֹא", "transliteration": "YÅTSO", "translation": "saindo" },
+                                                { "word": "וָשׁוֹב", "transliteration": "VÅSHOV", "translation": "e voltando," },
+                                                { "word": "עַד- יְבֹשֶׁת", "transliteration": "AD-YËVOSHET", "translation": "até que se secaram" },
+                                                { "word": "הַמַּיִם", "transliteration": "HAMAYM", "translation": "as águas" },
+                                                { "word": "מֵעַל", "transliteration": "MEAL", "translation": "de sobre" },
+                                                { "word": "הָאָרֶץ:", "transliteration": "HÅÅRETS:", "translation": "a terra." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.8", 
+                                    "number": 8,
+                                    "text": "Depois soltou uma pomba, a fim de saber se as águas já haviam diminuído sobre a superfície da terra.",
+                                    "text_hebrew": [
+                                        { "word": "וַיְשַׁלַּח", "transliteration": "VAYËSHALACH", "translation": "E soltou" },
+                                        { "word": "אֶת- הַיּוֹנָה", "transliteration": "ET-HAYONÅH", "translation": "a pomba" },
+                                        { "word": "מֵאִתּוֹ", "transliteration": "MEITO", "translation": "de si," },
+                                        { "word": "לִרְאוֹת", "transliteration": "LIRËOT", "translation": "para ver" },
+                                        { "word": "הֲקַלּוּ", "transliteration": "HAQALU", "translation": "se tinham minguado" },
+                                        { "word": "הַמַּיִם", "transliteration": "HAMAYM", "translation": "as águas" },
+                                        { "word": "מֵעַל", "transliteration": "MEAL", "translation": "de sobre" },
+                                        { "word": "פְּנֵי", "transliteration": "PËNEY", "translation": "a face" },
+                                        { "word": "הָאֲדָמָה:", "transliteration": "HÅADÅMÅH:", "translation": "da terra." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Depois soltou uma pomba, a fim de saber se as águas já haviam diminuído sobre a superfície da terra.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְשַׁלַּח", "transliteration": "VAYËSHALACH", "translation": "E soltou" },
+                                                { "word": "אֶת- הַיּוֹנָה", "transliteration": "ET-HAYONÅH", "translation": "a pomba" },
+                                                { "word": "מֵאִתּוֹ", "transliteration": "MEITO", "translation": "de si," },
+                                                { "word": "לִרְאוֹת", "transliteration": "LIRËOT", "translation": "para ver" },
+                                                { "word": "הֲקַלּוּ", "transliteration": "HAQALU", "translation": "se tinham minguado" },
+                                                { "word": "הַמַּיִם", "transliteration": "HAMAYM", "translation": "as águas" },
+                                                { "word": "מֵעַל", "transliteration": "MEAL", "translation": "de sobre" },
+                                                { "word": "פְּנֵי", "transliteration": "PËNEY", "translation": "a face" },
+                                                { "word": "הָאֲדָמָה:", "transliteration": "HÅADÅMÅH:", "translation": "da terra." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.9", 
+                                    "number": 9,
+                                    "text": "Mas a pomba deu voltas e não encontrou lugar onde pousar os pés, porquanto a terra ainda estava coberta de água e, por esse motivo, voltou para a arca. Então Noé estendeu a mão para fora, apanhou a pomba e abrigou-a novamente dentro da arca.",
+                                    "text_hebrew": [
+                                        { "word": "וְלֹא- מָצְאָה", "transliteration": "VËLO-MÅTSËÅH", "translation": "Mas não achou" },
+                                        { "word": "הַיּוֹנָה", "transliteration": "HAYONÅH", "translation": "a pomba" },
+                                        { "word": "מָנוֹחַ", "transliteration": "MÅNOACH", "translation": "pouso" },
+                                        { "word": "לְכַף- רַגְלָהּ", "transliteration": "LËKHAF-RAGËLÅH", "translation": "para a planta de seu pé," },
+                                        { "word": "וַתָּשָׁב", "transliteration": "VATÅSHÅV", "translation": "e voltou" },
+                                        { "word": "אֵלָיו", "transliteration": "ELÅYV", "translation": "a ele," },
+                                        { "word": "אֶל- הַתֵּבָה", "transliteration": "EL-HATEVÅH", "translation": "para a arca;" },
+                                        { "word": "כִּי- מַיִם", "transliteration": "KY-MAYM", "translation": "porque as águas [estavam]" },
+                                        { "word": "עַל- פְּנֵי", "transliteration": "AL-PËNEY", "translation": "sobre a face de" },
+                                        { "word": "כָל- הָאָרֶץ", "transliteration": "KHÅL-HÅÅRETS", "translation": "toda a terra;" },
+                                        { "word": "וַיִּשְׁלַח", "transliteration": "VAYSHËLACH", "translation": "e ele estendeu" },
+                                        { "word": "יָדוֹ", "transliteration": "YÅDO", "translation": "sua mão," },
+                                        { "word": "וַיִּקָּחֶהָ", "transliteration": "VAYQÅCHEHÅ", "translation": "e a tomou," },
+                                        { "word": "וַיָּבֵא", "transliteration": "VAYÅVE", "translation": "e a recolheu" },
+                                        { "word": "אֹתָהּ", "transliteration": "OTÅH", "translation": "consigo" },
+                                        { "word": "אֵלָיו", "transliteration": "ELÅYV", "translation": "para dentro" },
+                                        { "word": "אֶל- הַתֵּבָה:", "transliteration": "EL-HATEVÅH:", "translation": "da arca." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Mas a pomba deu voltas e não encontrou lugar onde pousar os pés, porquanto a terra ainda estava coberta de água e, por esse motivo, voltou para a arca. Então Noé estendeu a mão para fora, apanhou a pomba e abrigou-a novamente dentro da arca.",
+                                            "text_hebrew": [
+                                                { "word": "וְלֹא- מָצְאָה", "transliteration": "VËLO-MÅTSËÅH", "translation": "Mas não achou" },
+                                                { "word": "הַיּוֹנָה", "transliteration": "HAYONÅH", "translation": "a pomba" },
+                                                { "word": "מָנוֹחַ", "transliteration": "MÅNOACH", "translation": "pouso" },
+                                                { "word": "לְכַף- רַגְלָהּ", "transliteration": "LËKHAF-RAGËLÅH", "translation": "para a planta de seu pé," },
+                                                { "word": "וַתָּשָׁב", "transliteration": "VATÅSHÅV", "translation": "e voltou" },
+                                                { "word": "אֵלָיו", "transliteration": "ELÅYV", "translation": "a ele," },
+                                                { "word": "אֶל- הַתֵּבָה", "transliteration": "EL-HATEVÅH", "translation": "para a arca;" },
+                                                { "word": "כִּי- מַיִם", "transliteration": "KY-MAYM", "translation": "porque as águas [estavam]" },
+                                                { "word": "עַל- פְּנֵי", "transliteration": "AL-PËNEY", "translation": "sobre a face de" },
+                                                { "word": "כָל- הָאָרֶץ", "transliteration": "KHÅL-HÅÅRETS", "translation": "toda a terra;" },
+                                                { "word": "וַיִּשְׁלַח", "transliteration": "VAYSHËLACH", "translation": "e ele estendeu" },
+                                                { "word": "יָדוֹ", "transliteration": "YÅDO", "translation": "sua mão," },
+                                                { "word": "וַיִּקָּחֶהָ", "transliteration": "VAYQÅCHEHÅ", "translation": "e a tomou," },
+                                                { "word": "וַיָּבֵא", "transliteration": "VAYÅVE", "translation": "e a recolheu" },
+                                                { "word": "אֹתָהּ", "transliteration": "OTÅH", "translation": "consigo" },
+                                                { "word": "אֵלָיו", "transliteration": "ELÅYV", "translation": "para dentro" },
+                                                { "word": "אֶל- הַתֵּבָה:", "transliteration": "EL-HATEVÅH:", "translation": "da arca." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.10", 
+                                    "number": 10,
+                                    "text": "Noé aguardou mais sete dias e soltou outra vez a pomba.",
+                                    "text_hebrew": [
+                                        { "word": "וַיָּחֶל", "transliteration": "VAYÅCHEL", "translation": "E esperou" },
+                                        { "word": "עוֹד", "transliteration": "OD", "translation": "mais" },
+                                        { "word": "שִׁבְעַת", "transliteration": "SHIVËAT", "translation": "sete" },
+                                        { "word": "יָמִים", "transliteration": "YÅMYM", "translation": "dias" },
+                                        { "word": "אֲחֵרִים", "transliteration": "ACHERYM", "translation": "adicionais," },
+                                        { "word": "וַיֹּסֶף", "transliteration": "VAYOSEF", "translation": "e tornou a" },
+                                        { "word": "שַׁלַּח", "transliteration": "SHALACH", "translation": "soltar" },
+                                        { "word": "אֶת- הַיּוֹנָה", "transliteration": "ET-HAYONÅH", "translation": "a pomba" },
+                                        { "word": "מִן- הַתֵּבָה:", "transliteration": "MIN-HATEVÅH:", "translation": "fora da arca." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Noé aguardou mais sete dias e soltou outra vez a pomba.",
+                                            "text_hebrew": [
+                                                { "word": "וַיָּחֶל", "transliteration": "VAYÅCHEL", "translation": "E esperou" },
+                                                { "word": "עוֹד", "transliteration": "OD", "translation": "mais" },
+                                                { "word": "שִׁבְעַת", "transliteration": "SHIVËAT", "translation": "sete" },
+                                                { "word": "יָמִים", "transliteration": "YÅMYM", "translation": "dias" },
+                                                { "word": "אֲחֵרִים", "transliteration": "ACHERYM", "translation": "adicionais," },
+                                                { "word": "וַיֹּסֶף", "transliteration": "VAYOSEF", "translation": "e tornou a" },
+                                                { "word": "שַׁלַּח", "transliteration": "SHALACH", "translation": "soltar" },
+                                                { "word": "אֶת- הַיּוֹנָה", "transliteration": "ET-HAYONÅH", "translation": "a pomba" },
+                                                { "word": "מִן- הַתֵּבָה:", "transliteration": "MIN-HATEVÅH:", "translation": "fora da arca." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.11", 
+                                    "number": 11,
+                                    "text": "Ao entardecer, quando a pomba retornou para ele, trouxe em seu bico uma folha nova de oliveira! Assim, Noé ficou sabendo que as águas tinham escoado da superfície da terra.",
+                                    "text_hebrew": [
+                                        { "word": "וַתָּבֹא", "transliteration": "VATÅVO", "translation": "E veio" },
+                                        { "word": "אֵלָיו", "transliteration": "ELÅYV", "translation": "a ele" },
+                                        { "word": "הַיּוֹנָה", "transliteration": "HAYONÅH", "translation": "a pomba" },
+                                        { "word": "לְעֵת", "transliteration": "LËET", "translation": "à hora da" },
+                                        { "word": "עֶרֶב", "transliteration": "EREV", "translation": "tarde;" },
+                                        { "word": "וְהִנֵּה", "transliteration": "VËHINEH", "translation": "e eis" },
+                                        { "word": "עֲלֵה- זַיִת", "transliteration": "ALEH-ZAYT", "translation": "uma folha de oliveira" },
+                                        { "word": "טָרָף", "transliteration": "TÅRÅF", "translation": "arrancada" },
+                                        { "word": "בְּפִיהָ", "transliteration": "BËFYHÅ", "translation": "no seu bico;" },
+                                        { "word": "וַיֵּדַע", "transliteration": "VAYEDA", "translation": "e soube" },
+                                        { "word": "נֹחַ", "transliteration": "NOACH", "translation": "Noé" },
+                                        { "word": "כִּי- קַלּוּ", "transliteration": "KY-QALU", "translation": "que tinham minguado" },
+                                        { "word": "הַמַּיִם", "transliteration": "HAMAYM", "translation": "as águas" },
+                                        { "word": "מֵעַל", "transliteration": "MEAL", "translation": "de sobre" },
+                                        { "word": "הָאָרֶץ:", "transliteration": "HÅÅRETS:", "translation": "a terra." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Ao entardecer, quando a pomba retornou para ele, trouxe em seu bico uma folha nova de oliveira! Assim, Noé ficou sabendo que as águas tinham escoado da superfície da terra.",
+                                            "text_hebrew": [
+                                                { "word": "וַתָּבֹא", "transliteration": "VATÅVO", "translation": "E veio" },
+                                                { "word": "אֵלָיו", "transliteration": "ELÅYV", "translation": "a ele" },
+                                                { "word": "הַיּוֹנָה", "transliteration": "HAYONÅH", "translation": "a pomba" },
+                                                { "word": "לְעֵת", "transliteration": "LËET", "translation": "à hora da" },
+                                                { "word": "עֶרֶב", "transliteration": "EREV", "translation": "tarde;" },
+                                                { "word": "וְהִנֵּה", "transliteration": "VËHINEH", "translation": "e eis" },
+                                                { "word": "עֲלֵה- זַיִת", "transliteration": "ALEH-ZAYT", "translation": "uma folha de oliveira" },
+                                                { "word": "טָרָף", "transliteration": "TÅRÅF", "translation": "arrancada" },
+                                                { "word": "בְּפִיהָ", "transliteration": "BËFYHÅ", "translation": "no seu bico;" },
+                                                { "word": "וַיֵּדַע", "transliteration": "VAYEDA", "translation": "e soube" },
+                                                { "word": "נֹחַ", "transliteration": "NOACH", "translation": "Noé" },
+                                                { "word": "כִּי- קַלּוּ", "transliteration": "KY-QALU", "translation": "que tinham minguado" },
+                                                { "word": "הַמַּיִם", "transliteration": "HAMAYM", "translation": "as águas" },
+                                                { "word": "מֵעַל", "transliteration": "MEAL", "translation": "de sobre" },
+                                                { "word": "הָאָרֶץ:", "transliteration": "HÅÅRETS:", "translation": "a terra." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 3,
+                                    "notes": "É notavel como muitos eventos bíblicos passaram para a história como os mais significativos ícones da humanidade. O símbolo universal da paz, conhecido hoje em todo o mundo, teve sua origem em Gênesis.",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.12", 
+                                    "number": 12,
+                                    "text": "Ele esperou ainda mais sete dias, e novamente soltou a pomba, que não mais voltou para Noé.",
+                                    "text_hebrew": [
+                                        { "word": "וַיִּיָּחֶל", "transliteration": "VAYYÅCHEL", "translation": "E esperou" },
+                                        { "word": "עוֹד", "transliteration": "OD", "translation": "mais" },
+                                        { "word": "שִׁבְעַת", "transliteration": "SHIVËAT", "translation": "sete" },
+                                        { "word": "יָמִים", "transliteration": "YÅMYM", "translation": "dias" },
+                                        { "word": "אֲחֵרִים", "transliteration": "ACHERYM", "translation": "adicionais," },
+                                        { "word": "וַיְשַׁלַּח", "transliteration": "VAYËSHALACH", "translation": "e soltou" },
+                                        { "word": "אֶת- הַיּוֹנָה", "transliteration": "ET-HAYONÅH", "translation": "a pomba," },
+                                        { "word": "וְלֹא- יָסְפָה", "transliteration": "VËLO-YÅSËFÅH", "translation": "e não tornou" },
+                                        { "word": "שׁוּב- אֵלָיו", "transliteration": "SHUV-ELÅYV", "translation": "a voltar a ele" },
+                                        { "word": "עוֹד:", "transliteration": "OD:", "translation": "mais." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Ele esperou ainda mais sete dias, e novamente soltou a pomba, que não mais voltou para Noé.",
+                                            "text_hebrew": [
+                                                  { "word": "וַיִּיָּחֶל", "transliteration": "VAYYÅCHEL", "translation": "E esperou" },
+                                                { "word": "עוֹד", "transliteration": "OD", "translation": "mais" },
+                                                { "word": "שִׁבְעַת", "transliteration": "SHIVËAT", "translation": "sete" },
+                                                { "word": "יָמִים", "transliteration": "YÅMYM", "translation": "dias" },
+                                                { "word": "אֲחֵרִים", "transliteration": "ACHERYM", "translation": "adicionais," },
+                                                { "word": "וַיְשַׁלַּח", "transliteration": "VAYËSHALACH", "translation": "e soltou" },
+                                                { "word": "אֶת- הַיּוֹנָה", "transliteration": "ET-HAYONÅH", "translation": "a pomba," },
+                                                { "word": "וְלֹא- יָסְפָה", "transliteration": "VËLO-YÅSËFÅH", "translation": "e não tornou" },
+                                                { "word": "שׁוּב- אֵלָיו", "transliteration": "SHUV-ELÅYV", "translation": "a voltar a ele" },
+                                                { "word": "עוֹד:", "transliteration": "OD:", "translation": "mais." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.13", 
+                                    "number": 13,
+                                    "text": "No primeiro dia do primeiro mês do ano seiscentos e um da vida de Noé, secaram-se as águas que inundavam a terra. Noé, então, removeu o teto da arca e viu que a superfície da terra estava seca.",
+                                    "text_hebrew": [
+                                        { "word": "וַיְהִי", "transliteration": "VAYËHY", "translation": "E aconteceu" },
+                                        { "word": "בְּאַחַת", "transliteration": "BËACHAT", "translation": "no ano um" },
+                                        { "word": "וְשֵׁשׁ- מֵאוֹת", "transliteration": "VËSHESH-MEOT", "translation": "e seiscentos" },
+                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "[da vida de Noé]," },
+                                        { "word": "בָּרִאשׁוֹן", "transliteration": "BÅRISHON", "translation": "no primeiro [mês]," },
+                                        { "word": "בְּאֶחָד", "transliteration": "BËECHÅD", "translation": "no primeiro [dia]" },
+                                        { "word": "לַחֹדֶשׁ", "transliteration": "LACHODESH", "translation": "do mês," },
+                                        { "word": "חָרְבוּ", "transliteration": "CHÅRËVU", "translation": "secou-se" },
+                                        { "word": "הַמַּיִם", "transliteration": "HAMAYM", "translation": "as águas" },
+                                        { "word": "מֵעַל", "transliteration": "MEAL", "translation": "de sobre" },
+                                        { "word": "הָאָרֶץ", "transliteration": "HÅÅRETS", "translation": "a terra;" },
+                                        { "word": "וַיָּסַר", "transliteration": "VAYÅSAR", "translation": "e removeu" },
+                                        { "word": "נֹחַ", "transliteration": "NOACH", "translation": "Noé" },
+                                        { "word": "אֶת- מִכְסֵה", "transliteration": "ET-MIKHËSEH", "translation": "a cobertura da" },
+                                        { "word": "הַתֵּבָה", "transliteration": "HATEVÅH", "translation": "arca," },
+                                        { "word": "וַיַּרְא", "transliteration": "VAYARË", "translation": "e olhou," },
+                                        { "word": "וְהִנֵּה", "transliteration": "VËHINEH", "translation": "e eis que" },
+                                        { "word": "חָרְבוּ", "transliteration": "CHÅRËVU", "translation": "estava seca" },
+                                        { "word": "פְּנֵי", "transliteration": "PËNEY", "translation": "a face" },
+                                        { "word": "הָאֲדָמָה:", "transliteration": "HÅADÅMÅH:", "translation": "do solo." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "No primeiro dia do primeiro mês do ano seiscentos e um da vida de Noé, secaram-se as águas que inundavam a terra. Noé, então, removeu o teto da arca e viu que a superfície da terra estava seca.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְהִי", "transliteration": "VAYËHY", "translation": "E aconteceu" },
+                                                { "word": "בְּאַחַת", "transliteration": "BËACHAT", "translation": "no ano um" },
+                                                { "word": "וְשֵׁשׁ- מֵאוֹת", "transliteration": "VËSHESH-MEOT", "translation": "e seiscentos" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "[da vida de Noé]," },
+                                                { "word": "בָּרִאשׁוֹן", "transliteration": "BÅRISHON", "translation": "no primeiro [mês]," },
+                                                { "word": "בְּאֶחָד", "transliteration": "BËECHÅD", "translation": "no primeiro [dia]" },
+                                                { "word": "לַחֹדֶשׁ", "transliteration": "LACHODESH", "translation": "do mês," },
+                                                { "word": "חָרְבוּ", "transliteration": "CHÅRËVU", "translation": "secou-se" },
+                                                { "word": "הַמַּיִם", "transliteration": "HAMAYM", "translation": "as águas" },
+                                                { "word": "מֵעַל", "transliteration": "MEAL", "translation": "de sobre" },
+                                                { "word": "הָאָרֶץ", "transliteration": "HÅÅRETS", "translation": "a terra;" },
+                                                { "word": "וַיָּסַר", "transliteration": "VAYÅSAR", "translation": "e removeu" },
+                                                { "word": "נֹחַ", "transliteration": "NOACH", "translation": "Noé" },
+                                                { "word": "אֶת- מִכְסֵה", "transliteration": "ET-MIKHËSEH", "translation": "a cobertura da" },
+                                                { "word": "הַתֵּבָה", "transliteration": "HATEVÅH", "translation": "arca," },
+                                                { "word": "וַיַּרְא", "transliteration": "VAYARË", "translation": "e olhou," },
+                                                { "word": "וְהִנֵּה", "transliteration": "VËHINEH", "translation": "e eis que" },
+                                                { "word": "חָרְבוּ", "transliteration": "CHÅRËVU", "translation": "estava seca" },
+                                                { "word": "פְּנֵי", "transliteration": "PËNEY", "translation": "a face" },
+                                                { "word": "הָאֲדָמָה:", "transliteration": "HÅADÅMÅH:", "translation": "do solo." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 4,
+                                    "notes": "Mais de um ano se passou após o início do Dilúvio, o que comprova a grandiosidade do evento e sus desdobramentos (7.11).",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.14", 
+                                    "number": 14,
+                                    "text": "No vigésimo sétimo dia do segundo mês, a terra já estava bem seca.",
+                                    "text_hebrew": [
+                                        { "word": "וּבַחֹדֶשׁ", "transliteration": "UVACHODESH", "translation": "E no mês" },
+                                        { "word": "הַשֵּׁנִי", "transliteration": "HASHENY", "translation": "segundo," },
+                                        { "word": "בְּשִׁבְעָה", "transliteration": "BËSHIVËÅH", "translation": "aos sete" },
+                                        { "word": "וְעֶשְׂרִים", "transliteration": "VËESËRYM", "translation": "e vinte" },
+                                        { "word": "יוֹם", "transliteration": "YOM", "translation": "dias" },
+                                        { "word": "לַחֹדֶשׁ", "transliteration": "LACHODESH", "translation": "do mês," },
+                                        { "word": "יָבְשָׁה", "transliteration": "YÅVËSHÅH", "translation": "secou-se" },
+                                        { "word": "הָאָרֶץ:", "transliteration": "HÅÅRETS:", "translation": "a terra." },
+                                        { "word": "ס", "transliteration": "S", "translation": "[Sutura / Parashá Fechada]" }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "No vigésimo sétimo dia do segundo mês, a terra já estava bem seca.",
+                                            "text_hebrew": [
+                                                { "word": "וּבַחֹדֶשׁ", "transliteration": "UVACHODESH", "translation": "E no mês" },
+                                                { "word": "הַשֵּׁנִי", "transliteration": "HASHENY", "translation": "segundo," },
+                                                { "word": "בְּשִׁבְעָה", "transliteration": "BËSHIVËÅH", "translation": "aos sete" },
+                                                { "word": "וְעֶשְׂרִים", "transliteration": "VËESËRYM", "translation": "e vinte" },
+                                                { "word": "יוֹם", "transliteration": "YOM", "translation": "dias" },
+                                                { "word": "לַחֹדֶשׁ", "transliteration": "LACHODESH", "translation": "do mês," },
+                                                { "word": "יָבְשָׁה", "transliteration": "YÅVËSHÅH", "translation": "secou-se" },
+                                                { "word": "הָאָרֶץ:", "transliteration": "HÅÅRETS:", "translation": "a terra." },
+                                                { "word": "ס", "transliteration": "S", "translation": "[Sutura / Parashá Fechada]" }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.15", 
+                                    "number": 15,
+                                    "text": "Então ordenou Deus a Noé:",
+                                    "text_hebrew": [
+                                        { "word": "וַיְדַבֵּר", "transliteration": "VAYËDABER", "translation": "E falou" },
+                                        { "word": "אֱלֹהִים", "transliteration": "ELOHYM", "translation": "Deus" },
+                                        { "word": "אֶל- נֹחַ", "transliteration": "EL-NOACH", "translation": "a Noé," },
+                                        { "word": "לֵאמֹר:", "transliteration": "LEMOR:", "translation": "dizendo:" }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Então ordenou Deus a Noé:",
+                                            "text_hebrew": [
+                                                { "word": "וַיְדַבֵּר", "transliteration": "VAYËDABER", "translation": "E falou" },
+                                                { "word": "אֱלֹהִים", "transliteration": "ELOHYM", "translation": "Deus" },
+                                                { "word": "אֶל- נֹחַ", "transliteration": "EL-NOACH", "translation": "a Noé," },
+                                                { "word": "לֵאמֹר:", "transliteration": "LEMOR:", "translation": "dizendo:" }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.16", 
+                                    "number": 16,
+                                    "text": "\"Sai da tua arca, tu e tua esposa, teus filhos e as esposas de teus filhos contigo.",
+                                    "text_hebrew": [
+                                        { "word": "צֵא", "transliteration": "TSE", "translation": "Sai" },
+                                        { "word": "מִן- הַתֵּבָה", "transliteration": "MIN-HATEVÅH", "translation": "da arca," },
+                                        { "word": "אַתָּה", "transliteration": "ATÅH", "translation": "tu" },
+                                        { "word": "וְאִשְׁתְּךָ", "transliteration": "VËISHËTËKHA", "translation": "e tua mulher," },
+                                        { "word": "וּבָנֶיךָ", "transliteration": "UVÅNEYKHA", "translation": "e teus filhos," },
+                                        { "word": "וּנְשֵׁי- בָנֶיךָ", "transliteration": "UNËSHEY-VÅNEYKHA", "translation": "e as mulheres de teus filhos" },
+                                        { "word": "אִתָּךְ:", "transliteration": "ITÅKH:", "translation": "contigo." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "\"Sai da tua arca, tu e tua esposa, teus filhos e as esposas de teus filhos contigo.",
+                                            "text_hebrew": [
+                                                { "word": "צֵא", "transliteration": "TSE", "translation": "Sai" },
+                                                { "word": "מִן- הַתֵּבָה", "transliteration": "MIN-HATEVÅH", "translation": "da arca," },
+                                                { "word": "אַתָּה", "transliteration": "ATÅH", "translation": "tu" },
+                                                { "word": "וְאִשְׁתְּךָ", "transliteration": "VËISHËTËKHA", "translation": "e tua mulher," },
+                                                { "word": "וּבָנֶיךָ", "transliteration": "UVÅNEYKHA", "translation": "e teus filhos," },
+                                                { "word": "וּנְשֵׁי- בָנֶיךָ", "transliteration": "UNËSHEY-VÅNEYKHA", "translation": "e as mulheres de teus filhos" },
+                                                { "word": "אִתָּךְ:", "transliteration": "ITÅKH:", "translation": "contigo." }
+                                            ],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.17", 
+                                    "number": 17,
+                                    "text": "Todos os animais que estão contigo; todas as criaturas, as aves, os grandes animais e os pequenos, todos que se movem rente ao solo. Faze-os deixar a arca contigo: que pulem sobre a face da terra, sejam fecundos e multipliquem-se sobre toda a terra!\"",
+                                    "text_hebrew": [
+                                        { "word": "כָּל- הַחַיָּה", "transliteration": "KÅL-HACHAYÅH", "translation": "Todos os seres vivos" },
+                                        { "word": "אֲשֶׁר- אִתְּךָ", "transliteration": "ASHER-ITËKHA", "translation": "que estão contigo," },
+                                        { "word": "מִכָּל- בָּשָׂר", "transliteration": "MIKÅL-BÅSÅR", "translation": "de toda carne," },
+                                        { "word": "בָּעוֹף", "transliteration": "BÅOF", "translation": "de aves," },
+                                        { "word": "וּבַבְּהֵמָה", "transliteration": "UVABËHEMÅH", "translation": "e de animais domésticos," },
+                                        { "word": "וּבְכָל- הָרֶמֶשׂ", "transliteration": "UVËKHÅL-HÅREMES", "translation": "e de todo réptil" },
+                                        { "word": "הָרֹמֵשׂ", "transliteration": "HÅROMES", "translation": "que se arrasta" },
+                                        { "word": "עַל- הָאָרֶץ", "transliteration": "AL-HÅÅRETS", "translation": "sobre a terra," },
+                                        { "word": "הוֹצֵא", "transliteration": "HOTSE", "translation": "faze sair" },
+                                        { "word": "(הַיְצֵא)", "transliteration": "(HAYËTSE)", "translation": "[Kere: faze sair]" },
+                                        { "word": "אִתָּךְ", "transliteration": "ITÅKH", "translation": "contigo;" },
+                                        { "word": "וְשָׁרְצוּ", "transliteration": "VËSHÅRËTSU", "translation": "e que se povoem abundantemente" },
+                                        { "word": "בָאָרֶץ", "transliteration": "VÅÅRETS", "translation": "na terra," },
+                                        { "word": "וּפָרוּ", "transliteration": "UFÅRU", "translation": "e frutifiquem" },
+                                        { "word": "וְרָבוּ", "transliteration": "VËRÅVU", "translation": "e se multipliquem" },
+                                        { "word": "עַל- הָאָרֶץ:", "transliteration": "AL-HÅÅRETS:", "translation": "sobre a terra." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "Todos os animais que estão contigo; todas as criaturas, as aves, os grandes animais e os pequenos, todos que se movem rente ao solo. Faze-os deixar a arca contigo: que pulem sobre a face da terra, sejam fecundos e multipliquem-se sobre toda a terra!\"",
+                                            "text_hebrew": [
+                                                { "word": "כָּל- הַחַיָּה", "transliteration": "KÅL-HACHAYÅH", "translation": "Todos os seres vivos" },
+                                                { "word": "אֲשֶׁר- אִתְּךָ", "transliteration": "ASHER-ITËKHA", "translation": "que estão contigo," },
+                                                { "word": "מִכָּל- בָּשָׂר", "transliteration": "MIKÅL-BÅSÅR", "translation": "de toda carne," },
+                                                { "word": "בָּעוֹף", "transliteration": "BÅOF", "translation": "de aves," },
+                                                { "word": "וּבַבְּהֵמָה", "transliteration": "UVABËHEMÅH", "translation": "e de animais domésticos," },
+                                                { "word": "וּבְכָל- הָרֶמֶשׂ", "transliteration": "UVËKHÅL-HÅREMES", "translation": "e de todo réptil" },
+                                                { "word": "הָרֹמֵשׂ", "transliteration": "HÅROMES", "translation": "que se arrasta" },
+                                                { "word": "עַל- הָאָרֶץ", "transliteration": "AL-HÅÅRETS", "translation": "sobre a terra," },
+                                                { "word": "הוֹצֵא", "transliteration": "HOTSE", "translation": "faze sair" },
+                                                { "word": "(הַיְצֵא)", "transliteration": "(HAYËTSE)", "translation": "[Kere: faze sair]" },
+                                                { "word": "אִתָּךְ", "transliteration": "ITÅKH", "translation": "contigo;" },
+                                                { "word": "וְשָׁרְצוּ", "transliteration": "VËSHÅRËTSU", "translation": "e que se povoem abundantemente" },
+                                                { "word": "בָאָרֶץ", "transliteration": "VÅÅRETS", "translation": "na terra," },
+                                                { "word": "וּפָרוּ", "transliteration": "UFÅRU", "translation": "e frutifiquem" },
+                                                { "word": "וְרָבוּ", "transliteration": "VËRÅVU", "translation": "e se multipliquem" },
+                                                { "word": "עַל- הָאָרֶץ:", "transliteration": "AL-HÅÅRETS:", "translation": "sobre a terra." }
+                                            ],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.18", 
+                                    "number": 18,
+                                    "text": "Assim, Noé e sua mulher saíram da embarcação, junto com seus filhos e suas noras.",
+                                    "text_hebrew": [
+                                        { "word": "וַיֵּצֵא- נֹחַ", "transliteration": "VAYETSE-NOACH", "translation": "E saiu Noé," },
+                                        { "word": "וּבָנָיו", "transliteration": "UVÅNÅYV", "translation": "e seus filhos," },
+                                        { "word": "וְאִשְׁתּוֹ", "transliteration": "VËISHËTO", "translation": "e sua mulher," },
+                                        { "word": "וּנְשֵׁי- בָנָיו", "transliteration": "UNËSHEY-VÅNÅYV", "translation": "e as mulheres de seus filhos" },
+                                        { "word": "אִתּוֹ:", "transliteration": "ITO:", "translation": "com ele." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Assim, Noé e sua mulher saíram da embarcação, junto com seus filhos e suas noras.",
+                                            "text_hebrew": [
+                                                { "word": "וַיֵּצֵא- נֹחַ", "transliteration": "VAYETSE-NOACH", "translation": "E saiu Noé," },
+                                                { "word": "וּבָנָיו", "transliteration": "UVÅNÅYV", "translation": "e seus filhos," },
+                                                { "word": "וְאִשְׁתּוֹ", "transliteration": "VËISHËTO", "translation": "e sua mulher," },
+                                                { "word": "וּנְשֵׁי- בָנָיו", "transliteration": "UNËSHEY-VÅNÅYV", "translation": "e as mulheres de seus filhos" },
+                                                { "word": "אִתּוֹ:", "transliteration": "ITO:", "translation": "com ele." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.19", 
+                                    "number": 19,
+                                    "text": "Da mesma maneira saíram todos os animais e as aves, em grupos, de acordo com suas espécies.",
+                                    "text_hebrew": [
+                                        { "word": "כָּל- הַחַיָּה", "transliteration": "KÅL-HACHAYÅH", "translation": "Todos os animais," },
+                                        { "word": "כָּל- הָרֶמֶשׂ", "transliteration": "KÅL-HÅREMES", "translation": "todos os répteis," },
+                                        { "word": "וְכָל- הָעוֹף", "transliteration": "VËKHÅL-HÅOF", "translation": "e todas as aves," },
+                                        { "word": "כֹּל", "transliteration": "KOL", "translation": "tudo" },
+                                        { "word": "רוֹמֵשׂ", "transliteration": "ROMES", "translation": "o que se move" },
+                                        { "word": "עַל- הָאָרֶץ", "transliteration": "AL-HÅÅRETS", "translation": "sobre a terra," },
+                                        { "word": "לְמִשְׁפְּחֹתֵיהֶם", "transliteration": "LËMISHËPËCHOTEYHEM", "translation": "segundo as suas famílias," },
+                                        { "word": "יָצְאוּ", "transliteration": "YÅTSËU", "translation": "saíram" },
+                                        { "word": "מִן- הַתֵּבָה:", "transliteration": "MIN-HATEVÅH:", "translation": "da arca." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Da mesma maneira saíram todos os animais e as aves, em grupos, de acordo com suas espécies.",
+                                            "text_hebrew": [
+                                                { "word": "כָּל- הַחַיָּה", "transliteration": "KÅL-HACHAYÅH", "translation": "Todos os animais," },
+                                                { "word": "כָּל- הָרֶמֶשׂ", "transliteration": "KÅL-HÅREMES", "translation": "todos os répteis," },
+                                                { "word": "וְכָל- הָעוֹף", "transliteration": "VËKHÅL-HÅOF", "translation": "e todas as aves," },
+                                                { "word": "כֹּל", "transliteration": "KOL", "translation": "tudo" },
+                                                { "word": "רוֹמֵשׂ", "transliteration": "ROMES", "translation": "o que se move" },
+                                                { "word": "עַל- הָאָרֶץ", "transliteration": "AL-HÅÅRETS", "translation": "sobre a terra," },
+                                                { "word": "לְמִשְׁפְּחֹתֵיהֶם", "transliteration": "LËMISHËPËCHOTEYHEM", "translation": "segundo as suas famílias," },
+                                                { "word": "יָצְאוּ", "transliteration": "YÅTSËU", "translation": "saíram" },
+                                                { "word": "מִן- הַתֵּבָה:", "transliteration": "MIN-HATEVÅH:", "translation": "da arca." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.subtitle",
+                                    "type": "section_title",
+                                    "title": "Noé constrí um altar a Deus"
+                                },
+                                {
+                                    "id": "gn.8.20", 
+                                    "number": 20,
+                                    "text": "Depois, Noé construiu um altar dedicado ao Senhor e, tomando alguns animais e aves, todos puros, ofereceu-os como holocausto, queimando-os sobre o altar.",
+                                    "text_hebrew": [
+                                        { "word": "וַיִּבֶן", "transliteration": "VAYVEN", "translation": "E edificou" },
+                                        { "word": "נֹחַ", "transliteration": "NOACH", "translation": "Noé" },
+                                        { "word": "מִזְבֵּחַ", "transliteration": "MIZËBEACH", "translation": "um altar" },
+                                        { "word": "לַיהוָה", "transliteration": "LAYHVH", "translation": "ao Senhor;" },
+                                        { "word": "וַיִּקַּח", "transliteration": "VAYQACH", "translation": "e tomou" },
+                                        { "word": "מִכֹּל", "transliteration": "MIKOL", "translation": "de todos" },
+                                        { "word": "הַבְּהֵמָה", "transliteration": "HABËHEMÅH", "translation": "os animais" },
+                                        { "word": "הַטְּהוֹרָה", "transliteration": "HATËHORÅH", "translation": "puros," },
+                                        { "word": "וּמִכֹּל", "transliteration": "UMIKOL", "translation": "e de todas" },
+                                        { "word": "הָעוֹף", "transliteration": "HÅOF", "translation": "as aves" },
+                                        { "word": "הַטָּהֹר", "transliteration": "HATÅHOR", "translation": "puras," },
+                                        { "word": "וַיַּעַל", "transliteration": "VAYAAL", "translation": "e ofereceu" },
+                                        { "word": "עֹלֹת", "transliteration": "OLOT", "translation": "holocaustos" },
+                                        { "word": "בַּמִּזְבֵּחַ:", "transliteration": "BAMIZËBEACH:", "translation": "no altar." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Depois, Noé construiu um altar dedicado ao Senhor e, tomando alguns animais e aves, todos puros, ofereceu-os como holocausto, queimando-os sobre o altar.",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּבֶן", "transliteration": "VAYVEN", "translation": "E edificou" },
+                                                { "word": "נֹחַ", "transliteration": "NOACH", "translation": "Noé" },
+                                                { "word": "מִזְבֵּחַ", "transliteration": "MIZËBEACH", "translation": "um altar" },
+                                                { "word": "לַיהוָה", "transliteration": "LAYHVH", "translation": "ao Senhor;" },
+                                                { "word": "וַיִּקַּח", "transliteration": "VAYQACH", "translation": "e tomou" },
+                                                { "word": "מִכֹּל", "transliteration": "MIKOL", "translation": "de todos" },
+                                                { "word": "הַבְּהֵמָה", "transliteration": "HABËHEMÅH", "translation": "os animais" },
+                                                { "word": "הַטְּהוֹרָה", "transliteration": "HATËHORÅH", "translation": "puros," },
+                                                { "word": "וּמִכֹּל", "transliteration": "UMIKOL", "translation": "e de todas" },
+                                                { "word": "הָעוֹף", "transliteration": "HÅOF", "translation": "as aves" },
+                                                { "word": "הַטָּהֹר", "transliteration": "HATÅHOR", "translation": "puras," },
+                                                { "word": "וַיַּעַל", "transliteration": "VAYAAL", "translation": "e ofereceu" },
+                                                { "word": "עֹלֹת", "transliteration": "OLOT", "translation": "holocaustos" },
+                                                { "word": "בַּמִּזְבֵּחַ:", "transliteration": "BAMIZËBEACH:", "translation": "no altar." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.8.21", 
+                                    "number": 21,
+                                    "text": "O Senhor sentiu o aroma agradávelda adoração e declarou a si mesmo: \"Jamais amaldiçoarei a terra por causa do homem, porquanto seu íntimo é completamente inclinado para o mal, desde o nascimento. E nunca mais destruirei todos os seres nos quais há fôlego da vida, como fiz desta vez.",
+                                    "text_hebrew": [
+                                        { "word": "וַיָּרַח", "transliteration": "VAYÅRACH", "translation": "E aspirou" },
+                                        { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o Senhor" },
+                                        { "word": "אֶת- רֵיחַ", "transliteration": "ET-REYACH", "translation": "o aroma" },
+                                        { "word": "הַנִּיחֹחַ", "transliteration": "HANYCHOACH", "translation": "suave;" },
+                                        { "word": "וַיֹּאמֶר", "transliteration": "VAYOMER", "translation": "e disse" },
+                                        { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o Senhor" },
+                                        { "word": "אֶל- לִבּוֹ", "transliteration": "EL-LIBO", "translation": "em seu coração:" },
+                                        { "word": "לֹא- אֹסִף", "transliteration": "LO-OSIF", "translation": "Não tornarei" },
+                                        { "word": "לְקַלֵּל", "transliteration": "LËQALEL", "translation": "a amaldiçoar" },
+                                        { "word": "עוֹד", "transliteration": "OD", "translation": "mais" },
+                                        { "word": "אֶת- הָאֲדָמָה", "transliteration": "ET-HÅADÅMÅH", "translation": "a terra" },
+                                        { "word": "בַּעֲבוּר", "transliteration": "BAAVUR", "translation": "por causa" },
+                                        { "word": "הָאָדָם", "transliteration": "HÅÅDÅM", "translation": "do homem," },
+                                        { "word": "כִּי", "transliteration": "KY", "translation": "porque" },
+                                        { "word": "יֵצֶר", "transliteration": "YETSER", "translation": "a inclinação do" },
+                                        { "word": "לֵב", "transliteration": "LEV", "translation": "coração do" },
+                                        { "word": "הָאָדָם", "transliteration": "HÅÅDÅM", "translation": "homem" },
+                                        { "word": "רַע", "transliteration": "RA", "translation": "is má" },
+                                        { "word": "מִנְּעֻרָיו", "transliteration": "MINËURÅYV", "translation": "desde a sua mocidade;" },
+                                        { "word": "וְלֹא- אֹסִף", "transliteration": "VËLO-OSIF", "translation": "e não tornarei" },
+                                        { "word": "עוֹד", "transliteration": "OD", "translation": "mais" },
+                                        { "word": "לְהַכּוֹת", "transliteration": "LËHAKOT", "translation": "a ferir" },
+                                        { "word": "אֶת- כָּל- חַי", "transliteration": "ET-KÅL-CHAY", "translation": "a todo ser vivente," },
+                                        { "word": "כַּאֲשֶׁר", "transliteration": "KAASHER", "translation": "como" },
+                                        { "word": "עָשִׂיתִי:", "transliteration": "ÅSYTY:", "translation": "fiz." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "O Senhor sentiu o aroma agradávelda adoração e declarou a si mesmo: ",
+                                            "text_hebrew": [
+                                                { "word": "וַיָּרַח", "transliteration": "VAYÅRACH", "translation": "E aspirou" },
+                                                { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o Senhor" },
+                                                { "word": "אֶת- רֵיחַ", "transliteration": "ET-REYACH", "translation": "o aroma" },
+                                                { "word": "הַנִּיחֹחַ", "transliteration": "HANYCHOACH", "translation": "suave;" },
+                                                { "word": "וַיֹּאמֶר", "transliteration": "VAYOMER", "translation": "e disse" },
+                                                { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o Senhor" },
+                                                { "word": "אֶל- לִבּוֹ", "transliteration": "EL-LIBO", "translation": "em seu coração:" }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "\"Jamais amaldiçoarei a terra por causa do homem, porquanto seu íntimo é completamente inclinado para o mal, desde o nascimento. E nunca mais destruirei todos os seres nos quais há fôlego da vida, como fiz desta vez.",
+                                            "text_hebrew": [
+                                                { "word": "לֹא- אֹסִף", "transliteration": "LO-OSIF", "translation": "Não tornarei" },
+                                                { "word": "לְקַלֵּל", "transliteration": "LËQALEL", "translation": "a amaldiçoar" },
+                                                { "word": "עוֹד", "transliteration": "OD", "translation": "mais" },
+                                                { "word": "אֶת- הָאֲדָמָה", "transliteration": "ET-HÅADÅMÅH", "translation": "a terra" },
+                                                { "word": "בַּעֲבוּר", "transliteration": "BAAVUR", "translation": "por causa" },
+                                                { "word": "הָאָדָם", "transliteration": "HÅÅDÅM", "translation": "do homem," },
+                                                { "word": "כִּי", "transliteration": "KY", "translation": "porque" },
+                                                { "word": "יֵצֶר", "transliteration": "YETSER", "translation": "a inclinação do" },
+                                                { "word": "לֵב", "transliteration": "LEV", "translation": "coração do" },
+                                                { "word": "הָאָדָם", "transliteration": "HÅÅDÅM", "translation": "homem" },
+                                                { "word": "רַע", "transliteration": "RA", "translation": "is má" },
+                                                { "word": "מִנְּעֻרָיו", "transliteration": "MINËURÅYV", "translation": "desde a sua mocidade;" },
+                                                { "word": "וְלֹא- אֹסִף", "transliteration": "VËLO-OSIF", "translation": "e não tornarei" },
+                                                { "word": "עוֹד", "transliteration": "OD", "translation": "mais" },
+                                                { "word": "לְהַכּוֹת", "transliteration": "LËHAKOT", "translation": "a ferir" },
+                                                { "word": "אֶת- כָּל- חַי", "transliteration": "ET-KÅL-CHAY", "translation": "a todo ser vivente," },
+                                                { "word": "כַּאֲשֶׁר", "transliteration": "KAASHER", "translation": "como" },
+                                                { "word": "עָשִׂיתִי:", "transliteration": "ÅSYTY:", "translation": "fiz." }
+                                            ],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": 5,
+                                    "notes": "Noé decide expressar sua alegraia e agradecimento ao Senhor por meio do oferecimento de incenso baseado na queima de animais puros (2.4; 4.4; Lv 1.4; Ml 4.2). A linguagem figurada dos originais hebraicos nos comunica a \"satisfação de Deus ao receber o louvor e a adoração sincera dos seus filhos\" (Ef 5.2; Fp 4.18). Embora Noé fosse um homem justo, é certo que o mal habitava em suas entranhas (coração), como estigma de Adão e Eva, e estaria presente no Íntimo de todos seres humanos concebidos (Sl 51.5; 58.3). Contudo, Deus se compromete a nunca mais punir o pecado por meio de uma enchente tão catastrófica (9.11,15).",
+                                    "cross-reference": []
+                                },{
+                                    "id": "gn.8.22", 
+                                    "number": 22,
+                                    "text": "Enquanto durar a terra, semeadura e colheita, frio e calor, verão e inverno, dia e noite, jamais cessarão seus cliclos naturais!\"",
+                                    "text_hebrew": [
+                                        { "word": "עֹד", "transliteration": "OD", "translation": "Enquanto durarem" },
+                                        { "word": "כָּל- יְמֵי", "transliteration": "KÅL-YËMEY", "translation": "todos os dias de" },
+                                        { "word": "הָאָרֶץ", "transliteration": "HÅÅRETS", "translation": "a terra," },
+                                        { "word": "זֶרַע", "transliteration": "ZERA", "translation": "semeadura" },
+                                        { "word": "וְקָצִיר", "transliteration": "VËQÅTSYR", "translation": "e colheita," },
+                                        { "word": "וְקֹר", "transliteration": "VËQOR", "translation": "e frio" },
+                                        { "word": "וָחֹם", "transliteration": "VÅCHOM", "translation": "e calor," },
+                                        { "word": "וְקַיִץ", "transliteration": "VËQAYTS", "translation": "e verão" },
+                                        { "word": "וָחֹרֶף", "transliteration": "VÅCHOREF", "translation": "e inverno," },
+                                        { "word": "וְיוֹם", "transliteration": "VËYOM", "translation": "e dia" },
+                                        { "word": "וָלַיְלָה", "transliteration": "VÅLAYËLÅH", "translation": "e noite" },
+                                        { "word": "לֹא", "transliteration": "LO", "translation": "não" },
+                                        { "word": "יִשְׁבֹּתוּ:", "transliteration": "YSHËBOTU:", "translation": "cessarão." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "Enquanto durar a terra, semeadura e colheita, frio e calor, verão e inverno, dia e noite, jamais cessarão seus cliclos naturais!\"",
+                                            "text_hebrew": [
+                                                { "word": "עֹד", "transliteration": "OD", "translation": "Enquanto durarem" },
+                                                { "word": "כָּל- יְמֵי", "transliteration": "KÅL-YËMEY", "translation": "todos os dias de" },
+                                                { "word": "הָאָרֶץ", "transliteration": "HÅÅRETS", "translation": "a terra," },
+                                                { "word": "זֶרַע", "transliteration": "ZERA", "translation": "semeadura" },
+                                                { "word": "וְקָצִיר", "transliteration": "VËQÅTSYR", "translation": "e colheita," },
+                                                { "word": "וְקֹר", "transliteration": "VËQOR", "translation": "e frio" },
+                                                { "word": "וָחֹם", "transliteration": "VÅCHOM", "translation": "e calor," },
+                                                { "word": "וְקַיִץ", "transliteration": "VËQAYTS", "translation": "e verão" },
+                                                { "word": "וָחֹרֶף", "transliteration": "VÅCHOREF", "translation": "e inverno," },
+                                                { "word": "וְיוֹם", "transliteration": "VËYOM", "translation": "e dia" },
+                                                { "word": "וָלַיְלָה", "transliteration": "VÅLAYËLÅH", "translation": "e noite" },
+                                                { "word": "לֹא", "transliteration": "LO", "translation": "não" },
+                                                { "word": "יִשְׁבֹּתוּ:", "transliteration": "YSHËBOTU:", "translation": "cessarão." }
+                                            ],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                }
+                            ]
                         }
                     ]
                 }
