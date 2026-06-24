@@ -7,7 +7,7 @@
         {
             "character": "Comum",
             "text": "",
-            "text_hebrew": "",
+            "text_hebrew": [],
             "color": "default",
             "emphasis": false
         }

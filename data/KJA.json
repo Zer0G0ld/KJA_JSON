@@ -5626,6 +5626,804 @@
                                             "notes_id": null,
                                             "notes": null,
                                             "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.13", 
+                                            "number": 13,
+                                            "text": "Depois do nascimento de Maalaleel, Cainã viveu oitocentos e quarenta anos, e gerou filhos e filhas.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                { "word": "קֵינָן", "transliteration": "QEYNÅN", "translation": "Cainã," },
+                                                { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                                { "word": "הוֹלִידוֹ", "transliteration": "HOLYDO", "translation": "gerou {lit.: o gerar dele}" },
+                                                { "word": "אֶת- מַהֲלַלְאֵל", "transliteration": "ET-MAHALALËEL", "translation": "(a) Maalalel," },
+                                                { "word": "אַרְבָּעִים", "transliteration": "ARËBÅYM", "translation": "quarenta" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                { "word": "וּשְׁמֹנֶה", "transliteration": "USHËMONEH", "translation": "{e oito}" },
+                                                { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                { "word": "בָּנִים", "transliteration": "BÅNYM", "translation": "filhos" },
+                                                { "word": "וּבָנוֹת:", "transliteration": "UVÅNOT:", "translation": "e filhas." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Depois do nascimento de Maalaleel, Cainã viveu oitocentos e quarenta anos, e gerou filhos e filhas.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                        { "word": "קֵינָן", "transliteration": "QEYNÅN", "translation": "Cainã," },
+                                                        { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                                        { "word": "הוֹלִידוֹ", "transliteration": "HOLYDO", "translation": "gerou {lit.: o gerar dele}" },
+                                                        { "word": "אֶת- מַהֲלַלְאֵל", "transliteration": "ET-MAHALALËEL", "translation": "(a) Maalalel," },
+                                                        { "word": "אַרְבָּעִים", "transliteration": "ARËBÅYM", "translation": "quarenta" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                        { "word": "וּשְׁמֹנֶה", "transliteration": "USHËMONEH", "translation": "{e oito}" },
+                                                        { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                        { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                        { "word": "בָּנִים", "transliteration": "BÅNYM", "translation": "filhos" },
+                                                        { "word": "וּבָנוֹת:", "transliteration": "UVÅNOT:", "translation": "e filhas." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.14", 
+                                            "number": 14,
+                                            "text": "Toda a duração da vida de Cainã foi de novecentos e dez anos; depois morreu.",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּהְיוּ", "transliteration": "VAYHËYU", "translation": "E foram" },
+                                                { "word": "כָּל- יְמֵי", "transliteration": "KÅL-YËMEY", "translation": "todos os dias de" },
+                                                { "word": "קֵינָן", "transliteration": "QEYNÅN", "translation": "Cainã" },
+                                                { "word": "עֶשֶׂר", "transliteration": "ESER", "translation": "dez" },
+                                                { "word": "שָׁנִים", "transliteration": "SHÅNYM", "translation": "anos;" },
+                                                { "word": "וּתְשַׁע", "transliteration": "UTËSHA", "translation": "{e nove}" },
+                                                { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                { "word": "וַיָּמֹת:", "transliteration": "VAYÅMOT:", "translation": "e morreu." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Toda a duração da vida de Cainã foi de novecentos e dez anos; depois morreu.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיִּהְיוּ", "transliteration": "VAYHËYU", "translation": "E foram" },
+                                                        { "word": "כָּל- יְמֵי", "transliteration": "KÅL-YËMEY", "translation": "todos os dias de" },
+                                                        { "word": "קֵינָן", "transliteration": "QEYNÅN", "translation": "Cainã" },
+                                                        { "word": "עֶשֶׂר", "transliteration": "ESER", "translation": "dez" },
+                                                        { "word": "שָׁנִים", "transliteration": "SHÅNYM", "translation": "anos;" },
+                                                        { "word": "וּתְשַׁע", "transliteration": "UTËSHA", "translation": "{e nove}" },
+                                                        { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                        { "word": "וַיָּמֹת:", "transliteration": "VAYÅMOT:", "translation": "e morreu." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.15", 
+                                            "number": 15,
+                                            "text": "Quando Maalaleel completou sessenta e cinco anos, gerou Jarede.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                { "word": "מַהֲלַלְאֵל", "transliteration": "MAHALALËEL", "translation": "Maalalel" },
+                                                { "word": "חָמֵשׁ", "transliteration": "CHÅMESH", "translation": "cinco" },
+                                                { "word": "שָׁנִים", "transliteration": "SHÅNYM", "translation": "anos;" },
+                                                { "word": "וְשִׁשִּׁים", "transliteration": "VËSHISHYM", "translation": "e sessenta" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                { "word": "אֶת- יָרֶד:", "transliteration": "ET-YÅRED:", "translation": "(a) Járede." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Quando Maalaleel completou sessenta e cinco anos, gerou Jarede.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                        { "word": "מַהֲלַלְאֵל", "transliteration": "MAHALALËEL", "translation": "Maalalel" },
+                                                        { "word": "חָמֵשׁ", "transliteration": "CHÅMESH", "translation": "cinco" },
+                                                        { "word": "שָׁנִים", "transliteration": "SHÅNYM", "translation": "anos;" },
+                                                        { "word": "וְשִׁשִּׁים", "transliteration": "VËSHISHYM", "translation": "e sessenta" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                        { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                        { "word": "אֶת- יָרֶד:", "transliteration": "ET-YÅRED:", "translation": "(a) Járede." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.16", 
+                                            "number": 16,
+                                            "text": "Depois do nascimento de Jarede, Maalaleel foi de oitocentos e noventa e cinco anos; depois morreu.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                { "word": "מַהֲלַלְאֵל", "transliteration": "MAHALALËEL", "translation": "Maalalel," },
+                                                { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                                { "word": "הוֹלִידוֹ", "transliteration": "HOLYDO", "translation": "gerou {lit.: o gerar dele}" },
+                                                { "word": "אֶת- יֶרֶד", "transliteration": "ET-YERED", "translation": "(a) Járede," },
+                                                { "word": "שְׁלֹשִׁים", "transliteration": "SHËLOSHYM", "translation": "trinta" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                { "word": "וּשְׁמֹנֶה", "transliteration": "USHËMONEH", "translation": "{e oito}" },
+                                                { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                { "word": "בָּנִים", "transliteration": "BÅNYM", "translation": "filhos" },
+                                                { "word": "וּבָנוֹת:", "transliteration": "UVÅNOT:", "translation": "e filhas." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Depois do nascimento de Jarede, Maalaleel foi de oitocentos e noventa e cinco anos; depois morreu.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                        { "word": "מַהֲלַלְאֵל", "transliteration": "MAHALALËEL", "translation": "Maalalel," },
+                                                        { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                                        { "word": "הוֹלִידוֹ", "transliteration": "HOLYDO", "translation": "gerou {lit.: o gerar dele}" },
+                                                        { "word": "אֶת- יֶרֶד", "transliteration": "ET-YERED", "translation": "(a) Járede," },
+                                                        { "word": "שְׁלֹשִׁים", "transliteration": "SHËLOSHYM", "translation": "trinta" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                        { "word": "וּשְׁמֹנֶה", "transliteration": "USHËMONEH", "translation": "{e oito}" },
+                                                        { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                        { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                        { "word": "בָּנִים", "transliteration": "BÅNYM", "translation": "filhos" },
+                                                        { "word": "וּבָנוֹת:", "transliteration": "UVÅNOT:", "translation": "e filhas." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.17", 
+                                            "number": 17,
+                                            "text": "Toda a duração da vida de Maalaleel foi de oitocentos e noventa e cinco anos; depois morreus",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּהְיוּ", "transliteration": "VAYHËYU", "translation": "E foram" },
+                                                { "word": "כָּל- יְמֵי", "transliteration": "KÅL-YËMEY", "translation": "todos (os) dias de" },
+                                                { "word": "מַהֲלַלְאֵל", "transliteration": "MAHALALËEL", "translation": "Maalalel" },
+                                                { "word": "חָמֵשׁ", "transliteration": "CHÅMESH", "translation": "cinco" },
+                                                { "word": "וְתִשְׁעִים", "transliteration": "VËTISHËYM", "translation": "e noventa" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                { "word": "וּשְׁמֹנֶה", "transliteration": "USHËMONEH", "translation": "{e oito}" },
+                                                { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                { "word": "וַיָּמֹת:", "transliteration": "VAYÅMOT:", "translation": "e morreu." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Toda a duração da vida de Maalaleel foi de oitocentos e noventa e cinco anos; depois morreus",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיִּהְיוּ", "transliteration": "VAYHËYU", "translation": "E foram" },
+                                                        { "word": "כָּל- יְמֵי", "transliteration": "KÅL-YËMEY", "translation": "todos (os) dias de" },
+                                                        { "word": "מַהֲלַלְאֵל", "transliteration": "MAHALALËEL", "translation": "Maalalel" },
+                                                        { "word": "חָמֵשׁ", "transliteration": "CHÅMESH", "translation": "cinco" },
+                                                        { "word": "וְתִשְׁעִים", "transliteration": "VËTISHËYM", "translation": "e noventa" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                        { "word": "וּשְׁמֹנֶה", "transliteration": "USHËMONEH", "translation": "{e oito}" },
+                                                        { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                        { "word": "וַיָּמֹת:", "transliteration": "VAYÅMOT:", "translation": "e morreu." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.18", 
+                                            "number": 18,
+                                            "text": "Quando Jarede completou cento e sessenta e dois anos, gerou Enoque.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְחִי- יֶרֶד", "transliteration": "VAYËCHY-YERED", "translation": "E viveu Járede" },
+                                                { "word": "שְׁתַּיִם", "transliteration": "SHËTAYM", "translation": "dois" },
+                                                { "word": "וְשִׁשִּׁים", "transliteration": "VËSHISHYM", "translation": "e sessenta" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                { "word": "וּמְאַת", "transliteration": "UMËAT", "translation": "{e cem}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                { "word": "אֶת- חֲנוֹךְ:", "transliteration": "ET-CHANOKH:", "translation": "(a) Enoque." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Quando Jarede completou cento e sessenta e dois anos, gerou Enoque.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיְחִי- יֶרֶד", "transliteration": "VAYËCHY-YERED", "translation": "E viveu Járede" },
+                                                        { "word": "שְׁתַּיִם", "transliteration": "SHËTAYM", "translation": "dois" },
+                                                        { "word": "וְשִׁשִּׁים", "transliteration": "VËSHISHYM", "translation": "e sessenta" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                        { "word": "וּמְאַת", "transliteration": "UMËAT", "translation": "{e cem}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                        { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                        { "word": "אֶת- חֲנוֹךְ:", "transliteration": "ET-CHANOKH:", "translation": "(a) Enoque." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.19", 
+                                            "number": 19,
+                                            "text": "Depois do nascimento de Enoque, Jarede viveu oitocentos anos e gerou filhos e filhas.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְחִי- יֶרֶד", "transliteration": "VAYËCHY-YERED", "translation": "E viveu Járede," },
+                                                { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                                { "word": "הוֹלִידוֹ", "transliteration": "HOLYDO", "translation": "gerou {lit.: o gerar dele}" },
+                                                { "word": "אֶת- חֲנוֹךְ", "transliteration": "ET-CHANOKH", "translation": "(a) Enoque," },
+                                                { "word": "שְׁמֹנֶה", "transliteration": "SHËMONEH", "translation": "{oito}" },
+                                                { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                { "word": "בָּנִים", "transliteration": "BÅNYM", "translation": "filhos" },
+                                                { "word": "וּבָנוֹת:", "transliteration": "UVÅNOT:", "translation": "e filhas." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Depois do nascimento de Enoque, Jarede viveu oitocentos anos e gerou filhos e filhas.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיְחִי- יֶרֶד", "transliteration": "VAYËCHY-YERED", "translation": "E viveu Járede," },
+                                                        { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                                        { "word": "הוֹלִידוֹ", "transliteration": "HOLYDO", "translation": "gerou {lit.: o gerar dele}" },
+                                                        { "word": "אֶת- חֲנוֹךְ", "transliteration": "ET-CHANOKH", "translation": "(a) Enoque," },
+                                                        { "word": "שְׁמֹנֶה", "transliteration": "SHËMONEH", "translation": "{oito}" },
+                                                        { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                        { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                        { "word": "בָּנִים", "transliteration": "BÅNYM", "translation": "filhos" },
+                                                        { "word": "וּבָנוֹת:", "transliteration": "UVÅNOT:", "translation": "e filhas." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.20", 
+                                            "number": 20,
+                                            "text": "Toda a duração da vida de Jarede foi de novecentos e sessenta e dois anos; depois morreu.",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּהְיוּ", "transliteration": "VAYHËYU", "translation": "E foram" },
+                                                { "word": "כָּל- יְמֵי- יֶרֶד", "transliteration": "KÅL-YËMEY-YERED", "translation": "todos os dias de Járede" },
+                                                { "word": "שְׁתַּיִם", "transliteration": "SHËTAYM", "translation": "dois" },
+                                                { "word": "וְשִׁשִּׁים", "transliteration": "VËSHISHYM", "translation": "e sessenta" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                { "word": "וּתְשַׁע", "transliteration": "UTËSHA", "translation": "{e nove}" },
+                                                { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                { "word": "וַיָּמֹת:", "transliteration": "VAYÅMOT:", "translation": "e morreu." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Toda a duração da vida de Jarede foi de novecentos e sessenta e dois anos; depois morreu.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיִּהְיוּ", "transliteration": "VAYHËYU", "translation": "E foram" },
+                                                        { "word": "כָּל- יְמֵי- יֶרֶד", "transliteration": "KÅL-YËMEY-YERED", "translation": "todos os dias de Járede" },
+                                                        { "word": "שְׁתַּיִם", "transliteration": "SHËTAYM", "translation": "dois" },
+                                                        { "word": "וְשִׁשִּׁים", "transliteration": "VËSHISHYM", "translation": "e sessenta" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                        { "word": "וּתְשַׁע", "transliteration": "UTËSHA", "translation": "{e nove}" },
+                                                        { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                        { "word": "וַיָּמֹת:", "transliteration": "VAYÅMOT:", "translation": "e morreu." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.21", 
+                                            "number": 21,
+                                            "text": "Quando Enoque completou sessenta e cinco anos, gerou a Matusalém.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                { "word": "חֲנוֹךְ", "transliteration": "CHANOKH", "translation": "Enoque" },
+                                                { "word": "חָמֵשׁ", "transliteration": "CHÅMESH", "translation": "cinco" },
+                                                { "word": "וְשִׁשִּׁים", "transliteration": "VËSHISHYM", "translation": "e sessenta" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                { "word": "אֶת- מְתוּשָׁלַח:", "transliteration": "ET-MËTUSHÅLACH:", "translation": "(a) Metusala." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Quando Enoque completou sessenta e cinco anos, gerou a Matusalém.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                        { "word": "חֲנוֹךְ", "transliteration": "CHANOKH", "translation": "Enoque" },
+                                                        { "word": "חָמֵשׁ", "transliteration": "CHÅMESH", "translation": "cinco" },
+                                                        { "word": "וְשִׁשִּׁים", "transliteration": "VËSHISHYM", "translation": "e sessenta" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                        { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                        { "word": "אֶת- מְתוּשָׁלַח:", "transliteration": "ET-MËTUSHÅLACH:", "translation": "(a) Metusala." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.22", 
+                                            "number": 22,
+                                            "text": "Depois que gerou Matusalém, Enoque andou com Deus mais trezentos anos e gerou filhos e filhas.",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּתְהַלֵּךְ", "transliteration": "VAYTËHALEKH", "translation": "E andou" },
+                                                { "word": "חֲנוֹךְ", "transliteration": "CHANOKH", "translation": "Enoque" },
+                                                { "word": "אֶת- הָאֱלֹהִים", "transliteration": "ET-HÅELOHYM", "translation": "com Deus," },
+                                                { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                                { "word": "הוֹלִידוֹ", "transliteration": "HOLYDO", "translation": "gerou {lit.: o gerar dele}" },
+                                                { "word": "אֶת- מְתוּשֶׁלַח", "transliteration": "ET-MËTUSHELACH", "translation": "(a) Metusala," },
+                                                { "word": "שְׁלֹשׁ", "transliteration": "SHËLOSH", "translation": "{três}" },
+                                                { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                { "word": "בָּנִים", "transliteration": "BÅNYM", "translation": "filhos" },
+                                                { "word": "וּבָנוֹת:", "transliteration": "UVÅNOT:", "translation": "e filhas." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Depois que gerou Matusalém, Enoque andou com Deus mais trezentos anos e gerou filhos e filhas.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיִּתְהַלֵּךְ", "transliteration": "VAYTËHALEKH", "translation": "E andou" },
+                                                        { "word": "חֲנוֹךְ", "transliteration": "CHANOKH", "translation": "Enoque" },
+                                                        { "word": "אֶת- הָאֱלֹהִים", "transliteration": "ET-HÅELOHYM", "translation": "com Deus," },
+                                                        { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                                        { "word": "הוֹלִידוֹ", "transliteration": "HOLYDO", "translation": "gerou {lit.: o gerar dele}" },
+                                                        { "word": "אֶת- מְתוּשֶׁלַח", "transliteration": "ET-MËTUSHELACH", "translation": "(a) Metusala," },
+                                                        { "word": "שְׁלֹשׁ", "transliteration": "SHËLOSH", "translation": "{três}" },
+                                                        { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                        { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                        { "word": "בָּנִים", "transliteration": "BÅNYM", "translation": "filhos" },
+                                                        { "word": "וּבָנוֹת:", "transliteration": "UVÅNOT:", "translation": "e filhas." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.23", 
+                                            "number": 23,
+                                            "text": "Toda a duração da vida de Enoque foi de trezentos e sessenta e cinco anos",
+                                            "text_hebrew": [
+                                                { "word": "וַיְהִי", "transliteration": "VAYËHY", "translation": "E foram" },
+                                                { "word": "כָּל- יְמֵי", "transliteration": "KÅL-YËMEY", "translation": "todos (os) dias de" },
+                                                { "word": "חֲנוֹךְ", "transliteration": "CHANOKH", "translation": "Enoque" },
+                                                { "word": "חָמֵשׁ", "transliteration": "CHÅMESH", "translation": "cinco" },
+                                                { "word": "וְשִׁשִּׁים", "transliteration": "VËSHISHYM", "translation": "e sessenta" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos. {lit.: ano}" },
+                                                { "word": "וּשְׁלֹשׁ", "transliteration": "USHËLOSH", "translation": "{e três}" },
+                                                { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                { "word": "שָׁנָה:", "transliteration": "SHÅNÅH:", "translation": "{anos, lit.: ano}" }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Toda a duração da vida de Enoque foi de trezentos e sessenta e cinco anos",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיְהִי", "transliteration": "VAYËHY", "translation": "E foram" },
+                                                        { "word": "כָּל- יְמֵי", "transliteration": "KÅL-YËMEY", "translation": "todos (os) dias de" },
+                                                        { "word": "חֲנוֹךְ", "transliteration": "CHANOKH", "translation": "Enoque" },
+                                                        { "word": "חָמֵשׁ", "transliteration": "CHÅMESH", "translation": "cinco" },
+                                                        { "word": "וְשִׁשִּׁים", "transliteration": "VËSHISHYM", "translation": "e sessenta" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos. {lit.: ano}" },
+                                                        { "word": "וּשְׁלֹשׁ", "transliteration": "USHËLOSH", "translation": "{e três}" },
+                                                        { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                        { "word": "שָׁנָה:", "transliteration": "SHÅNÅH:", "translation": "{anos, lit.: ano}" }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.24", 
+                                            "number": 24,
+                                            "text": "Enoque andou sempre em comunhão com Deus e um dia desapareceu, porquanto Deus o arrebatou!",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּתְהַלֵּךְ", "transliteration": "VAYTËHALEKH", "translation": "E andou" },
+                                                { "word": "חֲנוֹךְ", "transliteration": "CHANOKH", "translation": "Enoque" },
+                                                { "word": "אֶת- הָאֱלֹהִים", "transliteration": "ET-HÅELOHYM", "translation": "com Deus;" },
+                                                { "word": "וְאֵינֶנּוּ", "transliteration": "VËEYNENU", "translation": "e não se viu mais; {lit.: e ele não (é)}" },
+                                                { "word": "כִּי- לָקַח אֹתוֹ", "transliteration": "KY-LÅQACH OTO", "translation": "porquanto o tomou." },
+                                                { "word": "אֱלֹהִים:", "transliteration": "ELOHYM:", "translation": "Deus" }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Enoque andou sempre em comunhão com Deus e um dia desapareceu, porquanto Deus o arrebatou!",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיִּתְהַלֵּךְ", "transliteration": "VAYTËHALEKH", "translation": "E andou" },
+                                                        { "word": "חֲנוֹךְ", "transliteration": "CHANOKH", "translation": "Enoque" },
+                                                        { "word": "אֶת- הָאֱלֹהִים", "transliteration": "ET-HÅELOHYM", "translation": "com Deus;" },
+                                                        { "word": "וְאֵינֶנּוּ", "transliteration": "VËEYNENU", "translation": "e não se viu mais; {lit.: e ele não (é)}" },
+                                                        { "word": "כִּי- לָקַח אֹתוֹ", "transliteration": "KY-LÅQACH OTO", "translation": "porquanto o tomou." },
+                                                        { "word": "אֱלֹהִים:", "transliteration": "ELOHYM:", "translation": "Deus" }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": 2,
+                                            "notes": "A expressão \"e morreu\" ao final da descrição da vida longeva de cada pessoa deste capítulo denota a misericórdia e a proteção de Deus sobre seus filhos; mas também a inevitabilidade da morte, como sinal do juízo e da punição divina sobre a terra e seres humanos até o estabelecimento definitivo e eterno do Reino de Deus com a Humanidade (Rm 5.12,14; 6.9,23; 7.24; 8.6,38; 1Co 15.54,55; Ap 1.18; 2.11; 20.6; 20.14; 21,4). A referência ao arrebatamento de Enoque, logo no limiar da História da civilização, demonstra o plano de Deus para resgatar o ser humano da mísera condição em que se precipitou por conta do pecado original e; desde então, do mal que ficou conhecendo, incorporou e transfere a todos os seus descendentes. Enoque \"andou com Deus\" o que vale dizer que ele não somente cria em Deus, mas tinha íntima e cotidiana comunhão com o Pai (17.1; Êx 13.4; Cl 2.6). Assim como Elias, que também foi guindado aos céus (2Rs 2.11), Enoque foi transferido da terra diretamente para a presença eterna de Deus sem experimentar a morte (Sl 49.15; 73.24). Entrementes, as Escrituras nos revelam também o exemplo de Lameque, o sétimo a partir de Adão, mas na linhagem de Caim, como a personificação do Maligno. Porém Enoque, o sétimo desde Adão, na genealogia de Sete, recebeu o reconhecimento sagrado de que \"tinha agradado a Deus\" (Hb 11.5; Jd 14).",
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.25", 
+                                            "number": 25,
+                                            "text": "Quando Matusalém completou cento e oitenta e sete anos, gerou a Lameque.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                { "word": "מְתוּשֶׁלַח", "transliteration": "MËTUSHELACH", "translation": "Metusala" },
+                                                { "word": "שֶׁבַע", "transliteration": "SHEVA", "translation": "sete" },
+                                                { "word": "וּשְׁמֹנִים", "transliteration": "USHËMONYM", "translation": "e oitenta" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                { "word": "וּמְאַת", "transliteration": "UMËAT", "translation": "{e cem}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                { "word": "אֶת- לָמֶךְ:", "transliteration": "ET-LÅMEKH:", "translation": "(a) Lameque." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Quando Matusalém completou cento e oitenta e sete anos, gerou a Lameque.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                        { "word": "מְתוּשֶׁלַח", "transliteration": "MËTUSHELACH", "translation": "Metusala" },
+                                                        { "word": "שֶׁבַע", "transliteration": "SHEVA", "translation": "sete" },
+                                                        { "word": "וּשְׁמֹנִים", "transliteration": "USHËMONYM", "translation": "e oitenta" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                        { "word": "וּמְאַת", "transliteration": "UMËAT", "translation": "{e cem}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                        { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                        { "word": "אֶת- לָמֶךְ:", "transliteration": "ET-LÅMEKH:", "translation": "(a) Lameque." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.26", 
+                                            "number": 26,
+                                            "text": "Depois do nascimento de Lameque, Matusalém viveu setecentos e oitenta e dois anos, e gerou filhos e filhas.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                { "word": "מְתוּשֶׁלַח", "transliteration": "MËTUSHELACH", "translation": "Metusala," },
+                                                { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                                { "word": "הוֹלִידוֹ", "transliteration": "HOLYDO", "translation": "gerou {lit.: o gerar dele}" },
+                                                { "word": "אֶת- לֶמֶךְ", "transliteration": "ET-LEMEKH", "translation": "(a) Lameque," },
+                                                { "word": "שְׁתַּיִם", "transliteration": "SHËTAYM", "translation": "dois" },
+                                                { "word": "וּשְׁמוֹנִים", "transliteration": "USHËMONYM", "translation": "e oitenta" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                { "word": "וּשְׁבַע", "transliteration": "USHËVA", "translation": "{e sete}" },
+                                                { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                { "word": "בָּנִים", "transliteration": "BÅNYM", "translation": "filhos" },
+                                                { "word": "וּבָנוֹת:", "transliteration": "UVÅNOT:", "translation": "e filhas." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Depois do nascimento de Lameque, Matusalém viveu setecentos e oitenta e dois anos, e gerou filhos e filhas.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                        { "word": "מְתוּשֶׁלַח", "transliteration": "MËTUSHELACH", "translation": "Metusala," },
+                                                        { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                                        { "word": "הוֹלִידוֹ", "transliteration": "HOLYDO", "translation": "gerou {lit.: o gerar dele}" },
+                                                        { "word": "אֶת- לֶמֶךְ", "transliteration": "ET-LEMEKH", "translation": "(a) Lameque," },
+                                                        { "word": "שְׁתַּיִם", "transliteration": "SHËTAYM", "translation": "dois" },
+                                                        { "word": "וּשְׁמוֹנִים", "transliteration": "USHËMONYM", "translation": "e oitenta" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                        { "word": "וּשְׁבַע", "transliteration": "USHËVA", "translation": "{e sete}" },
+                                                        { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                        { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                        { "word": "בָּנִים", "transliteration": "BÅNYM", "translation": "filhos" },
+                                                        { "word": "וּבָנוֹת:", "transliteration": "UVÅNOT:", "translation": "e filhas." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.27", 
+                                            "number": 27,
+                                            "text": "Toda a duração da vida de Matusalém foi de novecentos e sessenta e nove anos; depois morreu.",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּהְיוּ", "transliteration": "VAYHËYU", "translation": "E foram" },
+                                                { "word": "כָּל- יְמֵי", "transliteration": "KÅL-YËMEY", "translation": "todos (os) dias de" },
+                                                { "word": "מְתוּשֶׁלַח", "transliteration": "MËTUSHELACH", "translation": "Metusala" },
+                                                { "word": "תֵּשַׁע", "transliteration": "TESHA", "translation": "nove" },
+                                                { "word": "וְשִׁשִּׁים", "transliteration": "VËSHISHYM", "translation": "e sessenta" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                { "word": "וּתְשַׁע", "transliteration": "UTËSHA", "translation": "{e nove}" },
+                                                { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                { "word": "וַיָּמֹת:", "transliteration": "VAYÅMOT:", "translation": "e morreu." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Toda a duração da vida de Matusalém foi de novecentos e sessenta e nove anos; depois morreu.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיִּהְיוּ", "transliteration": "VAYHËYU", "translation": "E foram" },
+                                                        { "word": "כָּל- יְמֵי", "transliteration": "KÅL-YËMEY", "translation": "todos (os) dias de" },
+                                                        { "word": "מְתוּשֶׁלַח", "transliteration": "MËTUSHELACH", "translation": "Metusala" },
+                                                        { "word": "תֵּשַׁע", "transliteration": "TESHA", "translation": "nove" },
+                                                        { "word": "וְשִׁשִּׁים", "transliteration": "VËSHISHYM", "translation": "e sessenta" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                        { "word": "וּתְשַׁע", "transliteration": "UTËSHA", "translation": "{e nove}" },
+                                                        { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                        { "word": "וַיָּמֹת:", "transliteration": "VAYÅMOT:", "translation": "e morreu." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.28", 
+                                            "number": 28,
+                                            "text": "Quando Lameque completou cento e oitenta e dois anos, gerou um filho.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְחִי- לֶמֶךְ", "transliteration": "VAYËCHY-LEMEKH", "translation": "E viveu Lameque" },
+                                                { "word": "שְׁתַּיִם", "transliteration": "SHËTAYM", "translation": "dois" },
+                                                { "word": "וּשְׁמֹנִים", "transliteration": "USHËMONYM", "translation": "e oitenta" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                { "word": "וּמְאַת", "transliteration": "UMËAT", "translation": "{e cem}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                { "word": "בֵּן:", "transliteration": "BEN:", "translation": "(um) filho." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Quando Lameque completou cento e oitenta e dois anos, gerou um filho.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיְחִי- לֶמֶךְ", "transliteration": "VAYËCHY-LEMEKH", "translation": "E viveu Lameque" },
+                                                        { "word": "שְׁתַּיִם", "transliteration": "SHËTAYM", "translation": "dois" },
+                                                        { "word": "וּשְׁמֹנִים", "transliteration": "USHËMONYM", "translation": "e oitenta" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                        { "word": "וּמְאַת", "transliteration": "UMËAT", "translation": "{e cem}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                        { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                        { "word": "בֵּן:", "transliteration": "BEN:", "translation": "(um) filho." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.29", 
+                                            "number": 29,
+                                            "text": "Deu-lhe o nome de Noé, porque profetizou ele: \"Este nos aliviará do nosso árduo trabalho e do sofrimento de nossas mãos, causados pela dureza desta terra que o Senhor amaldiçoou!\"",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּקְרָא", "transliteration": "VAYQËRÅ", "translation": "E chamou" },
+                                                { "word": "אֶת- שְׁמוֹ", "transliteration": "ET-SHËMO", "translation": "(o) seu nome" },
+                                                { "word": "נֹחַ", "transliteration": "NOACH", "translation": "Noé,[Noah]" },
+                                                { "word": "לֵאמֹר", "transliteration": "LEMOR", "translation": "dizendo:" },
+                                                { "word": "זֶה", "transliteration": "ZEH", "translation": "Este" },
+                                                { "word": "יְנַחֲמֵנוּ", "transliteration": "YËNACHAMENU", "translation": "nos consolará" },
+                                                { "word": "מִמַּעֲשֵׂנוּ", "transliteration": "MIMAASENU", "translation": "acerca de {nossa obra}" },
+                                                { "word": "וּמֵעִצְּבוֹן", "transliteration": "UMEITSËVON", "translation": "e do {sofrimento} de" },
+                                                { "word": "יָדֵינוּ", "transliteration": "YÅDEYNU", "translation": "nossas mãos," },
+                                                { "word": "מִן- הָאֲדָמָה", "transliteration": "MIN-HÅADÅMÅH", "translation": "por causa da terra" },
+                                                { "word": "אֲשֶׁר", "transliteration": "ASHER", "translation": "que" },
+                                                { "word": "אֵרְרָהּ", "transliteration": "ERËRÅH", "translation": "{a} amaldiçoou." },
+                                                { "word": "יְהוָה:", "transliteration": "YHVH:", "translation": "o SENHOR" }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Deu-lhe o nome de Noé, porque profetizou ele: \"Este nos aliviará do nosso árduo trabalho e do sofrimento de nossas mãos, causados pela dureza desta terra que o Senhor amaldiçoou!\"",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיִּקְרָא", "transliteration": "VAYQËRÅ", "translation": "E chamou" },
+                                                        { "word": "אֶת- שְׁמוֹ", "transliteration": "ET-SHËMO", "translation": "(o) seu nome" },
+                                                        { "word": "נֹחַ", "transliteration": "NOACH", "translation": "Noé,[Noah]" },
+                                                        { "word": "לֵאמֹר", "transliteration": "LEMOR", "translation": "dizendo:" },
+                                                        { "word": "זֶה", "transliteration": "ZEH", "translation": "Este" },
+                                                        { "word": "יְנַחֲמֵנוּ", "transliteration": "YËNACHAMENU", "translation": "nos consolará" },
+                                                        { "word": "מִמַּעֲשֵׂנוּ", "transliteration": "MIMAASENU", "translation": "acerca de {nossa obra}" },
+                                                        { "word": "וּמֵעִצְּבוֹן", "transliteration": "UMEITSËVON", "translation": "e do {sofrimento} de" },
+                                                        { "word": "יָדֵינוּ", "transliteration": "YÅDEYNU", "translation": "nossas mãos," },
+                                                        { "word": "מִן- הָאֲדָמָה", "transliteration": "MIN-HÅADÅMÅH", "translation": "por causa da terra" },
+                                                        { "word": "אֲשֶׁר", "transliteration": "ASHER", "translation": "que" },
+                                                        { "word": "אֵרְרָהּ", "transliteration": "ERËRÅH", "translation": "{a} amaldiçoou." },
+                                                        { "word": "יְהוָה:", "transliteration": "YHVH:", "translation": "o SENHOR" }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.30", 
+                                            "number": 30,
+                                            "text": "Depois do nascimento de Noé, Lameque viveu quinhentos e noventa e cinco anos, e gerou filhos e filhas.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְחִי- לֶמֶךְ", "transliteration": "VAYËCHY-LEMEKH", "translation": "E viveu Lameque," },
+                                                { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                                { "word": "הוֹלִידוֹ", "transliteration": "HOLYDO", "translation": "gerou {lit.: o gerar dele}" },
+                                                { "word": "אֶת- נֹחַ", "transliteration": "ET-NOACH", "translation": "(a) Noé," },
+                                                { "word": "חָמֵשׁ", "transliteration": "CHÅMESH", "translation": "cinco" },
+                                                { "word": "וְתִשְׁעִים", "transliteration": "VËTISHËYM", "translation": "e noventa" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                { "word": "וַחֲמֵשׁ", "transliteration": "VACHAMESH", "translation": "{e cinco}" },
+                                                { "word": "מֵאֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                { "word": "בָּנִים", "transliteration": "BÅNYM", "translation": "filhos" },
+                                                { "word": "וּבָנוֹת:", "transliteration": "UVÅNOT:", "translation": "e filhas." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Depois do nascimento de Noé, Lameque viveu quinhentos e noventa e cinco anos, e gerou filhos e filhas.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיְחִי- לֶמֶךְ", "transliteration": "VAYËCHY-LEMEKH", "translation": "E viveu Lameque," },
+                                                        { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                                        { "word": "הוֹלִידוֹ", "transliteration": "HOLYDO", "translation": "gerou {lit.: o gerar dele}" },
+                                                        { "word": "אֶת- נֹחַ", "transliteration": "ET-NOACH", "translation": "(a) Noé," },
+                                                        { "word": "חָמֵשׁ", "transliteration": "CHÅMESH", "translation": "cinco" },
+                                                        { "word": "וְתִשְׁעִים", "transliteration": "VËTISHËYM", "translation": "e noventa" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                        { "word": "וַחֲמֵשׁ", "transliteration": "VACHAMESH", "translation": "{e cinco}" },
+                                                        { "word": "מֵאֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                        { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                        { "word": "בָּנִים", "transliteration": "BÅNYM", "translation": "filhos" },
+                                                        { "word": "וּבָנוֹת:", "transliteration": "UVÅNOT:", "translation": "e filhas." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.31", 
+                                            "number": 31,
+                                            "text": "Toda a duração da vida de Lameque foi de setecentos e setenta e sete anos; depois morreu",
+                                            "text_hebrew": [
+                                                { "word": "וַיְהִי", "transliteration": "VAYËHY", "translation": "E foram {lit.: e foi}" },
+                                                { "word": "כָּל- יְמֵי- לֶמֶךְ", "transliteration": "KÅL-YËMEY-LEMEKH", "translation": "todos (os) dias de Lameque" },
+                                                { "word": "שֶׁבַע", "transliteration": "SHEVA", "translation": "sete" },
+                                                { "word": "וְשִׁבְעִים", "transliteration": "VËSHIVËYM", "translation": "e setenta" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                { "word": "וּשְׁבַע", "transliteration": "USHËVA", "translation": "{e sete}" },
+                                                { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                { "word": "וַיָּמֹת:", "transliteration": "VAYÅMOT:", "translation": "e morreu." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Toda a duração da vida de Lameque foi de setecentos e setenta e sete anos; depois morreu",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיְהִי", "transliteration": "VAYËHY", "translation": "E foram {lit.: e foi}" },
+                                                        { "word": "כָּל- יְמֵי- לֶמֶךְ", "transliteration": "KÅL-YËMEY-LEMEKH", "translation": "todos (os) dias de Lameque" },
+                                                        { "word": "שֶׁבַע", "transliteration": "SHEVA", "translation": "sete" },
+                                                        { "word": "וְשִׁבְעִים", "transliteration": "VËSHIVËYM", "translation": "e setenta" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                        { "word": "וּשְׁבַע", "transliteration": "USHËVA", "translation": "{e sete}" },
+                                                        { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                        { "word": "וַיָּמֹת:", "transliteration": "VAYÅMOT:", "translation": "e morreu." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.32", 
+                                            "number": 32,
+                                            "text": "Quando Noé completou quinhentos anos, já havia geradoSem, Cam e Jafé.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְהִי- נֹחַ", "transliteration": "VAYËHY-NOACH", "translation": "E era Noé" },
+                                                { "word": "בֶּן- חֲמֵשׁ", "transliteration": "BEN-CHAMESH", "translation": "da idade de {cinco}" },
+                                                { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos, {lit.: ano}" },
+                                                { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                { "word": "נֹחַ", "transliteration": "NOACH", "translation": "Noé" },
+                                                { "word": "אֶת- שֵׁם", "transliteration": "ET-SHEM", "translation": "(a) Sem," },
+                                                { "word": "אֶת- חָם", "transliteration": "ET-CHÅM", "translation": "Cão," },
+                                                { "word": "וְאֶת- יָפֶת:", "transliteration": "VËET-YÅFET:", "translation": "e Jafé." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Quando Noé completou quinhentos anos, já havia geradoSem, Cam e Jafé.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיְהִי- נֹחַ", "transliteration": "VAYËHY-NOACH", "translation": "E era Noé" },
+                                                        { "word": "בֶּן- חֲמֵשׁ", "transliteration": "BEN-CHAMESH", "translation": "da idade de {cinco}" },
+                                                        { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos, {lit.: ano}" },
+                                                        { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                        { "word": "נֹחַ", "transliteration": "NOACH", "translation": "Noé" },
+                                                        { "word": "אֶת- שֵׁם", "transliteration": "ET-SHEM", "translation": "(a) Sem," },
+                                                        { "word": "אֶת- חָם", "transliteration": "ET-CHÅM", "translation": "Cão," },
+                                                        { "word": "וְאֶת- יָפֶת:", "transliteration": "VËET-YÅFET:", "translation": "e Jafé." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
                                         }
                                     ]
                                 }
