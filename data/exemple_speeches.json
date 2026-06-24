@@ -2,21 +2,21 @@
     {
         "character": "Comum",
         "text": "",
-        "text_hebrew": "",
+        "text_hebrew": [],
         "color": "default",
         "emphasis": false
     },
     {
         "character": "Deus",
         "text": "",
-        "text_hebrew": "",
+        "text_hebrew": [],
         "color": "azul",
         "emphasis": true
     },
     {
         "character": "Jesus",
         "text": "",
-        "text_hebrew": "",
+        "text_hebrew": [],
         "color": "vermelho",
         "emphasis": true
     }
