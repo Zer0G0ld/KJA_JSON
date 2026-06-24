@@ -5204,6 +5204,428 @@
                                             "notes_id": 1,
                                             "notes": "Deus criou Adão à sua semelhança e transferiu essa imagem divina para todos nós, seus descendentes (1.26-28; 2.4). O autor de Gênesis costuma se referir, especialmente nos primeiros capítulos, ao \"homem\" e a \"mulher\" pelo termo genérico da espécie humana: \"humanidade\" ou \"humanos\" (2.7,19; 3.22-24).",
                                             "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.2", 
+                                            "number": 2,
+                                            "text": "Homem e mulher os criou, e os abençoou e lhes deu o nome de Humanos.",
+                                            "text_hebrew": [
+                                                { "word": "זָכָר", "transliteration": "ZÅKHÅR", "translation": "Macho" },
+                                                { "word": "וּנְקֵבָה", "transliteration": "UNËQEVÅH", "translation": "e fêmea" },
+                                                { "word": "בְּרָאָם", "transliteration": "BËRÅÅM", "translation": "os criou;" },
+                                                { "word": "וַיְבָרֶךְ אֹתָם", "transliteration": "VAYËVÅREKH OTÅM", "translation": "e os abençoou," },
+                                                { "word": "וַיִּקְרָא", "transliteration": "VAYQËRÅ", "translation": "e chamou" },
+                                                { "word": "אֶת- שְׁמָם", "transliteration": "ET-SHËMÅM", "translation": "{o nome deles}" },
+                                                { "word": "אָדָם", "transliteration": "ÅDÅM", "translation": "Adão, {alter.: ser humano}" },
+                                                { "word": "בְּיוֹם הִבָּרְאָם:", "transliteration": "BËYOM HIBÅRËÅM:", "translation": "no dia (em que) foram criados." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Homem e mulher os criou, e os abençoou e lhes deu o nome de Humanos.",
+                                                    "text_hebrew": [
+                                                        { "word": "זָכָר", "transliteration": "ZÅKHÅR", "translation": "Macho" },
+                                                        { "word": "וּנְקֵבָה", "transliteration": "UNËQEVÅH", "translation": "e fêmea" },
+                                                        { "word": "בְּרָאָם", "transliteration": "BËRÅÅM", "translation": "os criou;" },
+                                                        { "word": "וַיְבָרֶךְ אֹתָם", "transliteration": "VAYËVÅREKH OTÅM", "translation": "e os abençoou," },
+                                                        { "word": "וַיִּקְרָא", "transliteration": "VAYQËRÅ", "translation": "e chamou" },
+                                                        { "word": "אֶת- שְׁמָם", "transliteration": "ET-SHËMÅM", "translation": "{o nome deles}" },
+                                                        { "word": "אָדָם", "transliteration": "ÅDÅM", "translation": "Adão, {alter.: ser humano}" },
+                                                        { "word": "בְּיוֹם הִבָּרְאָם:", "transliteration": "BËYOM HIBÅRËÅM:", "translation": "no dia (em que) foram criados." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.3", 
+                                            "number": 3,
+                                            "text": "Quando Adão completou cento e trinta anos, gerou um filho à sua semelhança, como sua imagem, e lhe deu o nome de Sete.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                { "word": "אָדָם", "transliteration": "ÅDÅM", "translation": "Adão" },
+                                                { "word": "שְׁלֹשִׁים", "transliteration": "SHËLOSHYM", "translation": "trinta" },
+                                                { "word": "וּמְאַת", "transliteration": "UMËAT", "translation": "e cento" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos, {lit.: ano}" },
+                                                { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou um filho" },
+                                                { "word": "בִּדְמוּתוֹ", "transliteration": "BIDËMUTO", "translation": "à sua semelhança," },
+                                                { "word": "כְּצַלְמוֹ", "transliteration": "KËTSALËMO", "translation": "conforme à sua imagem," },
+                                                { "word": "וַיִּקְרָא", "transliteration": "VAYQËRÅ", "translation": "e chamou" },
+                                                { "word": "אֶת- שְׁמוֹ", "transliteration": "ET-SHËMO", "translation": "o seu nome" },
+                                                { "word": "שֵׁת:", "transliteration": "SHET:", "translation": "Sete." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Quando Adão completou cento e trinta anos, gerou um filho à sua semelhança, como sua imagem, e lhe deu o nome de Sete.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                        { "word": "אָדָם", "transliteration": "ÅDÅM", "translation": "Adão" },
+                                                        { "word": "שְׁלֹשִׁים", "transliteration": "SHËLOSHYM", "translation": "trinta" },
+                                                        { "word": "וּמְאַת", "transliteration": "UMËAT", "translation": "e cento" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos, {lit.: ano}" },
+                                                        { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou um filho" },
+                                                        { "word": "בִּדְמוּתוֹ", "transliteration": "BIDËMUTO", "translation": "à sua semelhança," },
+                                                        { "word": "כְּצַלְמוֹ", "transliteration": "KËTSALËMO", "translation": "conforme à sua imagem," },
+                                                        { "word": "וַיִּקְרָא", "transliteration": "VAYQËRÅ", "translation": "e chamou" },
+                                                        { "word": "אֶת- שְׁמוֹ", "transliteration": "ET-SHËMO", "translation": "o seu nome" },
+                                                        { "word": "שֵׁת:", "transliteration": "SHET:", "translation": "Sete." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.4", 
+                                            "number": 4,
+                                            "text": "O tempo que viveu Adão depois do nascimento de Sete foi de oitocentos anos, e gerou filhos e filhas.",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּהְיוּ", "transliteration": "VAYHËYU", "translation": "E foram" },
+                                                { "word": "יְמֵי- אָדָם", "transliteration": "YËMEY-ÅDÅM", "translation": "(os) dias de Adão," },
+                                                { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                                { "word": "הוֹלִידוֹ", "transliteration": "HOLYDO", "translation": "gerou {lit.: o fazer gerar dele}" },
+                                                { "word": "אֶת- שֵׁת", "transliteration": "ET-SHET", "translation": "a Sete," },
+                                                { "word": "שְׁמֹנֶה", "transliteration": "SHËMONEH", "translation": "{oito}" },
+                                                { "word": "מֵאֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos: {lit.: ano}" },
+                                                { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                { "word": "בָּנִים", "transliteration": "BÅNYM", "translation": "filhos" },
+                                                { "word": "וּבָנוֹת:", "transliteration": "UVÅNOT:", "translation": "e filhas." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "O tempo que viveu Adão depois do nascimento de Sete foi de oitocentos anos, e gerou filhos e filhas.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיִּהְיוּ", "transliteration": "VAYHËYU", "translation": "E foram" },
+                                                        { "word": "יְמֵי- אָדָם", "transliteration": "YËMEY-ÅDÅM", "translation": "(os) dias de Adão," },
+                                                        { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                                        { "word": "הוֹלִידוֹ", "transliteration": "HOLYDO", "translation": "gerou {lit.: o fazer gerar dele}" },
+                                                        { "word": "אֶת- שֵׁת", "transliteration": "ET-SHET", "translation": "a Sete," },
+                                                        { "word": "שְׁמֹנֶה", "transliteration": "SHËMONEH", "translation": "{oito}" },
+                                                        { "word": "מֵאֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos: {lit.: ano}" },
+                                                        { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                        { "word": "בָּנִים", "transliteration": "BÅNYM", "translation": "filhos" },
+                                                        { "word": "וּבָנוֹת:", "transliteration": "UVÅNOT:", "translation": "e filhas." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.5", 
+                                            "number": 5,
+                                            "text": "Toda a duração da vida de Adão foi de novecentos e trinta anos; depois morreu.",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּהְיוּ", "transliteration": "VAYHËYU", "translation": "E foram" },
+                                                { "word": "כָּל- יְמֵי", "transliteration": "KÅL-YËMEY", "translation": "todos os dias {de}" },
+                                                { "word": "אָדָם", "transliteration": "ÅDÅM", "translation": "Adão" },
+                                                { "word": "אֲשֶׁר- חַי", "transliteration": "ASHER-CHAY", "translation": "{que viveu}" },
+                                                { "word": "תְּשַׁע", "transliteration": "TËSHA", "translation": "{nove}" },
+                                                { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                { "word": "וּשְׁלֹשִׁים", "transliteration": "USHËLOSHYM", "translation": "e trinta" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                { "word": "וַיָּמֹת:", "transliteration": "VAYÅMOT:", "translation": "e morreu." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Toda a duração da vida de Adão foi de novecentos e trinta anos; depois morreu.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיִּהְיוּ", "transliteration": "VAYHËYU", "translation": "E foram" },
+                                                        { "word": "כָּל- יְמֵי", "transliteration": "KÅL-YËMEY", "translation": "todos os dias {de}" },
+                                                        { "word": "אָדָם", "transliteration": "ÅDÅM", "translation": "Adão" },
+                                                        { "word": "אֲשֶׁר- חַי", "transliteration": "ASHER-CHAY", "translation": "{que viveu}" },
+                                                        { "word": "תְּשַׁע", "transliteration": "TËSHA", "translation": "{nove}" },
+                                                        { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                        { "word": "וּשְׁלֹשִׁים", "transliteration": "USHËLOSHYM", "translation": "e trinta" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                        { "word": "וַיָּמֹת:", "transliteration": "VAYÅMOT:", "translation": "e morreu." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.6", 
+                                            "number": 6,
+                                            "text": "Quando Sete completou cento e cinco anos, gerou Enos.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְחִי- שֵׁת", "transliteration": "VAYËCHY-SHET", "translation": "E viveu Sete" },
+                                                { "word": "חָמֵשׁ", "transliteration": "CHÅMESH", "translation": "cinco" },
+                                                { "word": "שָׁנִים", "transliteration": "SHÅNYM", "translation": "anos," },
+                                                { "word": "וּמְאַת", "transliteration": "UMËAT", "translation": "e cento" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{ano}" },
+                                                { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                { "word": "אֶת- אֱנוֹשׁ:", "transliteration": "ET-ENOSH:", "translation": "a Enos." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Quando Sete completou cento e cinco anos, gerou Enos.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיְחִי- שֵׁת", "transliteration": "VAYËCHY-SHET", "translation": "E viveu Sete" },
+                                                        { "word": "חָמֵשׁ", "transliteration": "CHÅMESH", "translation": "cinco" },
+                                                        { "word": "שָׁנִים", "transliteration": "SHÅNYM", "translation": "anos," },
+                                                        { "word": "וּמְאַת", "transliteration": "UMËAT", "translation": "e cento" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{ano}" },
+                                                        { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                        { "word": "אֶת- אֱנוֹשׁ:", "transliteration": "ET-ENOSH:", "translation": "a Enos." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.7", 
+                                            "number": 7,
+                                            "text": "Depois do nascimento de Enos, Sete viveu oitocentos e sete anos, e gerou filhos e filhas.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְחִי- שֵׁת", "transliteration": "VAYËCHY-SHET", "translation": "E viveu Sete," },
+                                                { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                                { "word": "הוֹלִידוֹ", "transliteration": "HOLYDO", "translation": "gerou {lit.: o fazer gerar dele}" },
+                                                { "word": "אֶת- אֱנוֹשׁ", "transliteration": "ET-ENOSH", "translation": "(a) Enos," },
+                                                { "word": "שֶׁבַע", "transliteration": "SHEVA", "translation": "sete" },
+                                                { "word": "שָׁנִים", "transliteration": "SHÅNYM", "translation": "anos," },
+                                                { "word": "וּשְׁמֹנֶה", "transliteration": "USHËMONEH", "translation": "{e oito}" },
+                                                { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit. ano}" },
+                                                { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                { "word": "בָּנִים", "transliteration": "BÅNYM", "translation": "filhos" },
+                                                { "word": "וּבָנוֹת:", "transliteration": "UVÅNOT:", "translation": "e filhas." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Depois do nascimento de Enos, Sete viveu oitocentos e sete anos, e gerou filhos e filhas.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיְחִי- שֵׁת", "transliteration": "VAYËCHY-SHET", "translation": "E viveu Sete," },
+                                                        { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                                        { "word": "הוֹלִידוֹ", "transliteration": "HOLYDO", "translation": "gerou {lit.: o fazer gerar dele}" },
+                                                        { "word": "אֶת- אֱנוֹשׁ", "transliteration": "ET-ENOSH", "translation": "(a) Enos," },
+                                                        { "word": "שֶׁבַע", "transliteration": "SHEVA", "translation": "sete" },
+                                                        { "word": "שָׁנִים", "transliteration": "SHÅNYM", "translation": "anos," },
+                                                        { "word": "וּשְׁמֹנֶה", "transliteration": "USHËMONEH", "translation": "{e oito}" },
+                                                        { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit. ano}" },
+                                                        { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                        { "word": "בָּנִים", "transliteration": "BÅNYM", "translation": "filhos" },
+                                                        { "word": "וּבָנוֹת:", "transliteration": "UVÅNOT:", "translation": "e filhas." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.8", 
+                                            "number": 8,
+                                            "text": "Toda a duração da vida de Sete foi de novecentos e doze anos; depois morreu.",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּהְיוּ", "transliteration": "VAYHËYU", "translation": "E foram" },
+                                                { "word": "כָּל- יְמֵי- שֵׁת", "transliteration": "KÅL-YËMEY-SHET", "translation": "todos os dias de Sete" },
+                                                { "word": "שְׁתֵּים עֶשְׂרֵה", "transliteration": "SHËTEYM ESËREH", "translation": "doze" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit. ano}" },
+                                                { "word": "וּתְשַׁע", "transliteration": "UTËSHA", "translation": "{e nove}" },
+                                                { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit. ano}" },
+                                                { "word": "וַיָּmֹת:", "transliteration": "VAYÅMOT:", "translation": "e morreu." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Toda a duração da vida de Sete foi de novecentos e doze anos; depois morreu.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיִּהְיוּ", "transliteration": "VAYHËYU", "translation": "E foram" },
+                                                        { "word": "כָּל- יְמֵי- שֵׁת", "transliteration": "KÅL-YËMEY-SHET", "translation": "todos os dias de Sete" },
+                                                        { "word": "שְׁתֵּים עֶשְׂרֵה", "transliteration": "SHËTEYM ESËREH", "translation": "doze" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit. ano}" },
+                                                        { "word": "וּתְשַׁע", "transliteration": "UTËSHA", "translation": "{e nove}" },
+                                                        { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit. ano}" },
+                                                        { "word": "וַיָּmֹת:", "transliteration": "VAYÅMOT:", "translation": "e morreu." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.9", 
+                                            "number": 9,
+                                            "text": "Quando Enos completou noventa anos, gerou Cainã.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                { "word": "אֱנוֹשׁ", "transliteration": "ENOSH", "translation": "Enos" },
+                                                { "word": "תִּשְׁעִים", "transliteration": "TISHËYM", "translation": "noventa" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit. ano}" },
+                                                { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                { "word": "אֶת- קֵינָן:", "transliteration": "ET-QEYNÅN:", "translation": "(a) Cainã." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Quando Enos completou noventa anos, gerou Cainã.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                        { "word": "אֱנוֹשׁ", "transliteration": "ENOSH", "translation": "Enos" },
+                                                        { "word": "תִּשְׁעִים", "transliteration": "TISHËYM", "translation": "noventa" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit. ano}" },
+                                                        { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                        { "word": "אֶת- קֵינָן:", "transliteration": "ET-QEYNÅN:", "translation": "(a) Cainã." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.10", 
+                                            "number": 10,
+                                            "text": "Depois do nascimento de Cainã, Enos viveu oitocentos e quinze anos, e gerou filhos e filhas.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                { "word": "אֱנוֹשׁ", "transliteration": "ENOSH", "translation": "Enos," },
+                                                { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                                { "word": "הוֹלִידוֹ", "transliteration": "HOLYDO", "translation": "gerou {lit.: o gerar dele}" },
+                                                { "word": "אֶת- קֵינָן", "transliteration": "ET-QEYNÅN", "translation": "(a) Cainã," },
+                                                { "word": "חֲמֵשׁ עֶשְׂרֵה", "transliteration": "CHAMESH ESËREH", "translation": "quinze" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                { "word": "וּשְׁמֹנֶה", "transliteration": "USHËMONEH", "translation": "{e oito}" },
+                                                { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                { "word": "בָּנִים", "transliteration": "BÅNYM", "translation": "filhos" },
+                                                { "word": "וּבָנוֹת:", "transliteration": "UVÅNOT:", "translation": "e filhas." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Depois do nascimento de Cainã, Enos viveu oitocentos e quinze anos, e gerou filhos e filhas.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                        { "word": "אֱנוֹשׁ", "transliteration": "ENOSH", "translation": "Enos," },
+                                                        { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                                        { "word": "הוֹלִידוֹ", "transliteration": "HOLYDO", "translation": "gerou {lit.: o gerar dele}" },
+                                                        { "word": "אֶת- קֵינָן", "transliteration": "ET-QEYNÅN", "translation": "(a) Cainã," },
+                                                        { "word": "חֲמֵשׁ עֶשְׂרֵה", "transliteration": "CHAMESH ESËREH", "translation": "quinze" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                        { "word": "וּשְׁמֹנֶה", "transliteration": "USHËMONEH", "translation": "{e oito}" },
+                                                        { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                        { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                        { "word": "בָּנִים", "transliteration": "BÅNYM", "translation": "filhos" },
+                                                        { "word": "וּבָנוֹת:", "transliteration": "UVÅNOT:", "translation": "e filhas." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.11", 
+                                            "number": 11,
+                                            "text": "Toda a duração da vida de Enos foi de novecentos e cinco anos; depois morreu.",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּהְיוּ", "transliteration": "VAYHËYU", "translation": "E foram" },
+                                                { "word": "כָּל- יְמֵי", "transliteration": "KÅL-YËMEY", "translation": "todos (os) dias de" },
+                                                { "word": "אֱנוֹשׁ", "transliteration": "ENOSH", "translation": "Enos" },
+                                                { "word": "חָמֵשׁ", "transliteration": "CHÅMESH", "translation": "cinco" },
+                                                { "word": "שָׁנִים", "transliteration": "SHÅNYM", "translation": "anos;" },
+                                                { "word": "וּתְשַׁע", "transliteration": "UTËSHA", "translation": "{e nove}" },
+                                                { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                { "word": "וַיָּמֹת:", "transliteration": "VAYÅMOT:", "translation": "e morreu." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Toda a duração da vida de Enos foi de novecentos e cinco anos; depois morreu.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיִּהְיוּ", "transliteration": "VAYHËYU", "translation": "E foram" },
+                                                        { "word": "כָּל- יְמֵי", "transliteration": "KÅL-YËMEY", "translation": "todos (os) dias de" },
+                                                        { "word": "אֱנוֹשׁ", "transliteration": "ENOSH", "translation": "Enos" },
+                                                        { "word": "חָמֵשׁ", "transliteration": "CHÅMESH", "translation": "cinco" },
+                                                        { "word": "שָׁנִים", "transliteration": "SHÅNYM", "translation": "anos;" },
+                                                        { "word": "וּתְשַׁע", "transliteration": "UTËSHA", "translation": "{e nove}" },
+                                                        { "word": "מֵאוֹת", "transliteration": "MEOT", "translation": "{centos}" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "{anos, lit.: ano}" },
+                                                        { "word": "וַיָּמֹת:", "transliteration": "VAYÅMOT:", "translation": "e morreu." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
+                                        },
+                                        {
+                                            "id": "gen.5.12", 
+                                            "number": 12,
+                                            "text": "Quando Cainã completou setenta anos, gerou Maalaleel.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                { "word": "קֵינָן", "transliteration": "QEYNÅN", "translation": "Cainã" },
+                                                { "word": "שִׁבְעִים", "transliteration": "SHIVËYM", "translation": "setenta" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                { "word": "אֶת- מַהֲלַלְאֵל:", "transliteration": "ET-MAHALALËEL:", "translation": "(a) Maalalel." }
+                                            ],
+                                            "speeches": [
+                                                {
+                                                    "character": "Comum",
+                                                    "text": "Quando Cainã completou setenta anos, gerou Maalaleel.",
+                                                    "text_hebrew": [
+                                                        { "word": "וַיְחִי", "transliteration": "VAYËCHY", "translation": "E viveu" },
+                                                        { "word": "קֵינָן", "transliteration": "QEYNÅN", "translation": "Cainã" },
+                                                        { "word": "שִׁבְעִים", "transliteration": "SHIVËYM", "translation": "setenta" },
+                                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "anos; {lit.: ano}" },
+                                                        { "word": "וַיּוֹלֶד", "transliteration": "VAYOLED", "translation": "e gerou" },
+                                                        { "word": "אֶת- מַהֲלַלְאֵל:", "transliteration": "ET-MAHALALËEL:", "translation": "(a) Maalalel." }
+                                                    ],
+                                                    "color": "default",
+                                                    "emphasis": false
+                                                }
+                                            ],
+                                            "notes_id": null,
+                                            "notes": null,
+                                            "cross-reference": []
                                         }
                                     ]
                                 }
