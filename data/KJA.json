@@ -9331,6 +9331,117 @@
                                     "cross-reference": []
                                 }
                             ]
+                        },
+                        {
+                            "id": "gn.9.title",
+                            "number": 9,
+                            "title": "A Aliança de Deus com Noé",
+                            "notes_id": null,
+                            "note_title": null,
+                            "verses": [
+                                {
+                                    "id": "gn.9.1", 
+                                    "number": 1,
+                                    "text": "Deus abençoou Noé e seus filhos, e determinou-lhes: \"Sede fecundos, multiplicai-vos, enchei a terra.",
+                                    "text_hebrew": [
+                                        { "word": "וַיְבָרֶךְ", "transliteration": "/VAYËVÅREKH/", "translation": "E abençoou" },
+                                        { "word": "אֱלֹהִים", "transliteration": "/ELOHYM/", "translation": "Deus" },
+                                        { "word": "אֶת־נֹחַ", "transliteration": "/ET-NOACH/", "translation": "a Noé" },
+                                        { "word": "וְאֶת־בָּנָיו", "transliteration": "/VËET-BÅNÅYV/", "translation": "e a seus filhos" },
+                                        { "word": "וַיֹּאמֶר", "transliteration": "/VAYOMER/", "translation": "e disse" },
+                                        { "word": "לָהֶם", "transliteration": "/LÅHEM/", "translation": "para eles" },
+                                        { "word": "פְּרוּ", "transliteration": "/PËRU/", "translation": "Frutificai" },
+                                        { "word": "וּרְבוּ", "transliteration": "/URËVU/", "translation": "e multiplicai-vos" },
+                                        { "word": "וּמִלְאוּ", "transliteration": "/UMILËU/", "translation": "e enchei" },
+                                        { "word": "אֶת־הָאָרֶץ׃", "transliteration": "/ET-HÅÅRETS/", "translation": "a terra" }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Deus abençoou Noé e seus filhos, e determinou-lhes: ",
+                                            "text_hebrew": [
+                                                { "word": "וַיְבָרֶךְ", "transliteration": "/VAYËVÅREKH/", "translation": "E abençoou" },
+                                                { "word": "אֱלֹהִים", "transliteration": "/ELOHYM/", "translation": "Deus" },
+                                                { "word": "אֶת־נֹחַ", "transliteration": "/ET-NOACH/", "translation": "a Noé" },
+                                                { "word": "וְאֶת־בָּנָיו", "transliteration": "/VËET-BÅNÅYV/", "translation": "e a seus filhos" },
+                                                { "word": "וַיֹּאמֶר", "transliteration": "/VAYOMER/", "translation": "e disse" },
+                                                { "word": "לָהֶם", "transliteration": "/LÅHEM/", "translation": "para eles" }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "\"Sede fecundos, multiplicai-vos, enchei a terra.",
+                                            "text_hebrew": [
+                                                { "word": "פְּרוּ", "transliteration": "/PËRU/", "translation": "Frutificai" },
+                                                { "word": "וּרְבוּ", "transliteration": "/URËVU/", "translation": "e multiplicai-vos" },
+                                                { "word": "וּמִלְאוּ", "transliteration": "/UMILËU/", "translation": "e enchei" },
+                                                { "word": "אֶת־הָאָרֶץ׃", "transliteration": "/ET-HÅÅRETS/", "translation": "a terra" }
+                                            ],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": 1,
+                                    "notes": "Aos que alegam que Deus deveria destruir o mundo atual e reconstruí-lo com uma humanidade mais pura, amável e justa, fica o exemplo deste primeiro juízo e nova aliança de Deus com o ser humano; momento histórico em que o Senhor, pessoalmente, renova suas bênçãos iniciais oferecidas aos primeiros representantes da humanidade (1.28-30). Contudo, o pecado (o conhecimento e a tendência, agora inata, para o mal) continua fazendo parte do biotipo e a da alma humana, tendo dado origem à violência e, portanto, à necessidade da ingestão da carne como alimento (v.3), mas com certas restrições (v.4); assim como a submissão a um tipo de governo, legislação e justiça dos próprios humanos (v.5-6).",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.9.2", 
+                                    "number": 2,
+                                    "text": "Sede o medo e pavor de todos os animais da terra e de todas as aves do céu, como de tudo o que se move na terra e de todos os peixe do mar: eles são entrengues em vossas mãos.",
+                                    "text_hebrew": [
+                                        { "word": "וּמוֹרַאֲכֶם", "transliteration": "/UMORAAKHEM/", "translation": "E o pavor de vós" },
+                                        { "word": "וְחִתְּכֶם", "transliteration": "/VËCHITËKHEM/", "translation": "e o vosso terror" },
+                                        { "word": "יִהְיֶה", "transliteration": "/YHËYEH/", "translation": "serão" },
+                                        { "word": "עַל", "transliteration": "/AL/", "translation": "sobre" },
+                                        { "word": "כָּל־חַיַּת", "transliteration": "/KÅL-CHAYAT/", "translation": "todo animal da" },
+                                        { "word": "הָאָרֶץ", "transliteration": "/HÅÅRETS/", "translation": "terra" },
+                                        { "word": "וְעַל", "transliteration": "/VËAL/", "translation": "e sobre" },
+                                        { "word": "כָּל־עוֹף", "transliteration": "/KÅL-OF/", "translation": "toda ave" },
+                                        { "word": "הַשָּׁmָיִם", "transliteration": "/HASHÅMÅYM/", "translation": "dos céus;" },
+                                        { "word": "בְּכֹל", "transliteration": "/BËKHOL/", "translation": "tudo" },
+                                        { "word": "אֲשֶׁר", "transliteration": "/ASHER/", "translation": "que" },
+                                        { "word": "תִּרְמֹשׂ", "transliteration": "/TIRËMOS/", "translation": "se move sobre" },
+                                        { "word": "הָאֲדָמָה", "transliteration": "/HÅADÅMÅH/", "translation": "a terra" },
+                                        { "word": "וּבְכָל־דְּגֵי", "transliteration": "/UVËKHÅL-DËGEY/", "translation": "e em todos os peixes" },
+                                        { "word": "הַיָּם", "transliteration": "/HAYÅM/", "translation": "do mar;" },
+                                        { "word": "בְּיֶדְכֶם", "transliteration": "/BËYEDËKHEM/", "translation": "nas vossas mãos" },
+                                        { "word": "נִתָּנוּ׃", "transliteration": "/NITÅNU/", "translation": "eles foram entregues" }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "Sede o medo e pavor de todos os animais da terra e de todas as aves do céu, como de tudo o que se move na terra e de todos os peixe do mar: eles são entrengues em vossas mãos.",
+                                            "text_hebrew": [
+                                                { "word": "וּמוֹרַאֲכֶם", "transliteration": "/UMORAAKHEM/", "translation": "E o pavor de vós" },
+                                                { "word": "וְחִתְּכֶם", "transliteration": "/VËCHITËKHEM/", "translation": "e o vosso terror" },
+                                                { "word": "יִהְיֶה", "transliteration": "/YHËYEH/", "translation": "serão" },
+                                                { "word": "עַל", "transliteration": "/AL/", "translation": "sobre" },
+                                                { "word": "כָּל־חַיַּת", "transliteration": "/KÅL-CHAYAT/", "translation": "todo animal da" },
+                                                { "word": "הָאָרֶץ", "transliteration": "/HÅÅRETS/", "translation": "terra" },
+                                                { "word": "וְעַל", "transliteration": "/VËAL/", "translation": "e sobre" },
+                                                { "word": "כָּל־עוֹף", "transliteration": "/KÅL-OF/", "translation": "toda ave" },
+                                                { "word": "הַשָּׁmָיִם", "transliteration": "/HASHÅMÅYM/", "translation": "dos céus;" },
+                                                { "word": "בְּכֹל", "transliteration": "/BËKHOL/", "translation": "tudo" },
+                                                { "word": "אֲשֶׁר", "transliteration": "/ASHER/", "translation": "que" },
+                                                { "word": "תִּרְמֹשׂ", "transliteration": "/TIRËMOS/", "translation": "se move sobre" },
+                                                { "word": "הָאֲדָמָה", "transliteration": "/HÅADÅMÅH/", "translation": "a terra" },
+                                                { "word": "וּבְכָל־דְּגֵי", "transliteration": "/UVËKHÅL-DËGEY/", "translation": "e em todos os peixes" },
+                                                { "word": "הַיָּם", "transliteration": "/HAYÅM/", "translation": "do mar;" },
+                                                { "word": "בְּיֶדְכֶם", "transliteration": "/BËYEDËKHEM/", "translation": "nas vossas mãos" },
+                                                { "word": "נִתָּנוּ׃", "transliteration": "/NITÅNU/", "translation": "eles foram entregues" }
+                                            ],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": 2,
+                                    "notes": "Mesmo diante de uma terra inóspita a bênção de Deus garante que ao ser humano é dado todo o poder sobre a criação de Deus na terra (v.7; 1.26).",
+                                    "cross-reference": []
+                                }
+                            ]
                         }
                     ]
                 }
