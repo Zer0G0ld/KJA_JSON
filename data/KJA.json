@@ -39109,6 +39109,33 @@
                                     "cross-reference": []
                                 }
                             ]
+                        },
+                        {
+                            "id": "gn.13.title",
+                            "number": 13,
+                            "title": "Abrão e Ló dcidem separar-se",
+                            "notes_id": null,
+                            "note_title": null,
+                            "verses": [
+                                {
+                                    "id": "gn.13.1", 
+                                    "number": 1,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                }
+                            ]
                         }
                     ]
                 }
