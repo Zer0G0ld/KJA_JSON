@@ -38340,6 +38340,162 @@
                                     "notes_id": null,
                                     "notes": null,
                                     "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.12.4", 
+                                    "number": 4,
+                                    "text": "Então partiu Abrão como orientara o Senhor, e Ló o acompanhou. Abrão tinha setenta e cinco anos de idade quando saiu das terras de Harã.",
+                                    "text_hebrew": [
+                                        { "word": "וַיֵּלֶךְ", "transliteration": "VAYELEKH", "translation": "E foi" },
+                                        { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão" },
+                                        { "word": "כַּאֲשֶׁר", "transliteration": "KAASHER", "translation": "como / conforme" },
+                                        { "word": "דִּבֶּר", "transliteration": "DIBER", "translation": "havia falado" },
+                                        { "word": "אֵלָיו", "transliteration": "ELÅYV", "translation": "para ele" },
+                                        { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                        { "word": "וַיֵּלֶךְ", "transliteration": "VAYELEKH", "translation": "e foi" },
+                                        { "word": "אִתּוֹ", "transliteration": "ITO", "translation": "com ele" },
+                                        { "word": "לוֹט", "transliteration": "LOT", "translation": "Ló" },
+                                        { "word": "וְאַבְרָם", "transliteration": "VËAVËRÅM", "translation": "E Abrão [era]" },
+                                        { "word": "בֶּן- חָמֵשׁ", "transliteration": "BEN-CHÅMESH", "translation": "filho de cinco / da idade de cinco" },
+                                        { "word": "שָׁנִים", "transliteration": "SHÅNYM", "translation": "anos" },
+                                        { "word": "וְשִׁבְעִים", "transliteration": "VËSHIVËYM", "translation": "e setenta" },
+                                        { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "ano(s)" },
+                                        { "word": "בְּצֵאתוֹ", "transliteration": "BËTSETO", "translation": "ao sair ele / quando ele saiu" },
+                                        { "word": "מֵחָרָן:", "transliteration": "MECHÅRÅN:", "translation": "de Harã." }
+                                        ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Então partiu Abrão como orientara o Senhor, e Ló o acompanhou. Abrão tinha setenta e cinco anos de idade quando saiu das terras de Harã.",
+                                            "text_hebrew": [
+                                                { "word": "וַיֵּלֶךְ", "transliteration": "VAYELEKH", "translation": "E foi" },
+                                                { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão" },
+                                                { "word": "כַּאֲשֶׁר", "transliteration": "KAASHER", "translation": "como / conforme" },
+                                                { "word": "דִּבֶּר", "transliteration": "DIBER", "translation": "havia falado" },
+                                                { "word": "אֵלָיו", "transliteration": "ELÅYV", "translation": "para ele" },
+                                                { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                                { "word": "וַיֵּלֶךְ", "transliteration": "VAYELEKH", "translation": "e foi" },
+                                                { "word": "אִתּוֹ", "transliteration": "ITO", "translation": "com ele" },
+                                                { "word": "לוֹט", "transliteration": "LOT", "translation": "Ló" },
+                                                { "word": "וְאַבְרָם", "transliteration": "VËAVËRÅM", "translation": "E Abrão [era]" },
+                                                { "word": "בֶּן- חָמֵשׁ", "transliteration": "BEN-CHÅMESH", "translation": "filho de cinco / da idade de cinco" },
+                                                { "word": "שָׁנִים", "transliteration": "SHÅNYM", "translation": "anos" },
+                                                { "word": "וְשִׁבְעִים", "transliteration": "VËSHIVËYM", "translation": "e setenta" },
+                                                { "word": "שָׁנָה", "transliteration": "SHÅNÅH", "translation": "ano(s)" },
+                                                { "word": "בְּצֵאתוֹ", "transliteration": "BËTSETO", "translation": "ao sair ele / quando ele saiu" },
+                                                { "word": "מֵחָרָן:", "transliteration": "MECHÅRÅN:", "translation": "de Harã." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.12.5", 
+                                    "number": 5,
+                                    "text": "Levou consigo sua esposa Sarai, seu sobrinho Ló, todos os bens que haviam conseguido amealhar e todos os escravos comprados em Harã; tomaram o rumo das terras de Canaã e lá chegaram.",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Levou consigo sua esposa Sarai, seu sobrinho Ló, todos os bens que haviam conseguido amealhar e todos os escravos comprados em Harã; tomaram o rumo das terras de Canaã e lá chegaram.",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.12.6", 
+                                    "number": 6,
+                                    "text": "Abrão atravessou toda a terra até o lugar onde ficava uma árvore sagrada chamada Carvalho de Moré, em Siquém. Naquele tempo, os cananeus viviam nessa região.",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Abrão atravessou toda a terra até o lugar onde ficava uma árvore sagrada chamada Carvalho de Moré, em Siquém. Naquele tempo, os cananeus viviam nessa região.",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.12.7", 
+                                    "number": 7,
+                                    "text": "Então o Senhor apareceu a Abrão e lhe prometeu: \"É à tua descendência que darei esta terra!\" E Abrão construiu ali um altar dedicado a Yahweh, porquanto ali o Senhor havia aparecido e falado com ele.",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Então o Senhor apareceu a Abrão e lhe prometeu: ",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "\"É à tua descendência que darei esta terra!\" ",
+                                            "text_hebrew": [],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        },
+                                        {
+                                            "character": "Comum",
+                                            "text": "E Abrão construiu ali um altar dedicado a Yahweh, porquanto ali o Senhor havia aparecido e falado com ele.",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.12.8", 
+                                    "number": 8,
+                                    "text": "Dali prosseguiu Abrão ruma às colinas a leste de Betel, onde armou seu acampamento, tendo Betel a oeste e Ai a leste. Edificou também nesse lugar um altar em sinal de louvor e adoração ao Senhor e invocou o Nome de Deus.",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Dali prosseguiu Abrão ruma às colinas a leste de Betel, onde armou seu acampamento, tendo Betel a oeste e Ai a leste. Edificou também nesse lugar um altar em sinal de louvor e adoração ao Senhor e invocou o Nome de Deus.",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 2,
+                                    "notes": "Betel fica próxima e ao Norte de Jerusalém, e seu nome Bêyth´êl, significa \"Casa de Deus\". Sua importância foi vital na história de fé do povo de Deus, e somente Jerusalém é mencionada mais vezes que Betel no AT (28.10-22; 35.1-8; 1Rs 12.26-29). Foi a cidade onde Jacó posteriormente, teve uma visão (28.1-22), onde Jeroboão erigiu um ídolo, e por causa deste pecado, Deus ordenara a destruição completa de Betal (1Rs 12.28-32; 13.1-5; 2Rs 23.15-17; Am 3.14-15).",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.12.9", 
+                                    "number": 9,
+                                    "text": "Mais tarde, Abrão partiu dali e seguiu em direção ao Neguebe, região sul das terras de Canaã.",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Mais tarde, Abrão partiu dali e seguiu em direção ao Neguebe, região sul das terras de Canaã.",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
                                 }
                             ]
                         }
