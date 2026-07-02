@@ -38734,8 +38734,8 @@
                                             "emphasis": false
                                         }
                                     ],
-                                    "notes_id": null,
-                                    "notes": null,
+                                    "notes_id": 3,
+                                    "notes": "Vários documentos históricos, inclusive um dos rolos do mar Morto, informam que Sarai estava com 65 anos nesta ocasião e continuava muito bonita (v.4; 17.17).",
                                     "cross-reference": []
                                 },
                                 {
@@ -39120,13 +39120,33 @@
                                 {
                                     "id": "gn.13.1", 
                                     "number": 1,
-                                    "text": "",
-                                    "text_hebrew": [],
+                                    "text": "Do Egito, Abrão, com sua mulher e tudo o que possía,subindo em direção ao sul de Canaã. E Ló, seu sobrinho, foi com ele.",
+                                    "text_hebrew": [
+                                        { "word": "וַיַּעַל", "transliteration": "VAYAAL", "translation": "E subiu" },
+                                        { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão" },
+                                        { "word": "מִמִּצְרַיִם", "transliteration": "MIMITSËRAYM", "translation": "do Egito," },
+                                        { "word": "הוּא", "transliteration": "HU", "translation": "ele" },
+                                        { "word": "וְאִשְׁתּוֹ", "transliteration": "VËISHËTO", "translation": "e sua mulher," },
+                                        { "word": "וְכָל- אֲשֶׁר- לוֹ", "transliteration": "VËKHÅL-ASHER-LO", "translation": "e tudo o que ele tinha / pertencia a ele," },
+                                        { "word": "וְלוֹט", "transliteration": "VËLOT", "translation": "e Ló" },
+                                        { "word": "עִמּוֹ", "transliteration": "IMO", "translation": "com ele," },
+                                        { "word": "הַנֶּגְבָּה:", "transliteration": "HANEGËBÅH:", "translation": "em direção ao Neguebe / rumo ao Sul." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
-                                            "text_hebrew": [],
+                                            "text": "Do Egito, Abrão, com sua mulher e tudo o que possía,subindo em direção ao sul de Canaã. E Ló, seu sobrinho, foi com ele.",
+                                            "text_hebrew": [
+                                                { "word": "וַיַּעַל", "transliteration": "VAYAAL", "translation": "E subiu" },
+                                                { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão" },
+                                                { "word": "מִמִּצְרַיִם", "transliteration": "MIMITSËRAYM", "translation": "do Egito," },
+                                                { "word": "הוּא", "transliteration": "HU", "translation": "ele" },
+                                                { "word": "וְאִשְׁתּוֹ", "transliteration": "VËISHËTO", "translation": "e sua mulher," },
+                                                { "word": "וְכָל- אֲשֶׁר- לוֹ", "transliteration": "VËKHÅL-ASHER-LO", "translation": "e tudo o que ele tinha / pertencia a ele," },
+                                                { "word": "וְלוֹט", "transliteration": "VËLOT", "translation": "e Ló" },
+                                                { "word": "עִמּוֹ", "transliteration": "IMO", "translation": "com ele," },
+                                                { "word": "הַנֶּגְבָּה:", "transliteration": "HANEGËBÅH:", "translation": "em direção ao Neguebe / rumo ao Sul." }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         }
@@ -39138,13 +39158,27 @@
                                 {
                                     "id": "gn.13.2", 
                                     "number": 2,
-                                    "text": "",
-                                    "text_hebrew": [],
+                                    "text": "Abrão havia enriquecido muito, era proprietário de muitas cabeças de gado, possuía muita prata e outro também.",
+                                    "text_hebrew": [
+                                        { "word": "וְאַבְרָם", "transliteration": "VËAVËRÅM", "translation": "E Abrão" },
+                                        { "word": "כָּבֵד", "transliteration": "KÅVED", "translation": "[era] rico / pesado" },
+                                        { "word": "מְאֹד", "transliteration": "MËOD", "translation": "demais / muito," },
+                                        { "word": "בַּמִּקְנֶה", "AMIQËNEH", "translation": "em gado / rebanhos," },
+                                        { "word": "בַּכֶּסֶף", "translation": "em prata" },
+                                        { "word": "וּבַזָּהָv", "transliteration": "UVAZÅHÅV:", "translation": "e em ouro." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
-                                            "text_hebrew": [],
+                                            "text": "Abrão havia enriquecido muito, era proprietário de muitas cabeças de gado, possuía muita prata e outro também.",
+                                            "text_hebrew": [
+                                                { "word": "וְאַבְרָם", "transliteration": "VËAVËRÅM", "translation": "E Abrão" },
+                                                { "word": "כָּבֵד", "transliteration": "KÅVED", "translation": "[era] rico / pesado" },
+                                                { "word": "מְאֹד", "transliteration": "MËOD", "translation": "demais / muito," },
+                                                { "word": "בַּמִּקְנֶה", "AMIQËNEH", "translation": "em gado / rebanhos," },
+                                                { "word": "בַּכֶּסֶף", "translation": "em prata" },
+                                                { "word": "וּבַזָּהָv", "transliteration": "UVAZÅHÅV:", "translation": "e em ouro." }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         }
@@ -39156,13 +39190,41 @@
                                 {
                                     "id": "gn.13.3", 
                                     "number": 3,
-                                    "text": "",
-                                    "text_hebrew": [],
+                                    "text": "Ele partiu do Neguebe rumo à cidade de Betel, indo de um lugar a outro, até que chegou a uma região que fica entre Betel e Ai, onde já havia estabelecido seu acampamento, no passado.",
+                                    "text_hebrew": [
+                                        { "word": "וַיֵּלֶךְ", "transliteration": "VAYELEKH", "translation": "E caminhou / prosseguiu" },
+                                        { "word": "לְמַסָּעָיו", "transliteration": "LËMASÅÅYV", "translation": "em suas jornadas / etapas" },
+                                        { "word": "מִנֶּגֶב", "transliteration": "MINEGEV", "translation": "desde o Neguebe" },
+                                        { "word": "וְעַד- בֵּית- אֵל", "transliteration": "VËAD-BEYT-EL", "translation": "até Betel," },
+                                        { "word": "עַד- הַמָּקוֹם", "transliteration": "AD-HAMÅQOM", "translation": "até o lugar" },
+                                        { "word": "אֲשֶׁר- הָיָה", "transliteration": "ASHER-HÅYÅH", "translation": "onde havia estado" },
+                                        { "word": "שָׁם", "transliteration": "SHÅM", "translation": "ali" },
+                                        { "word": "אָהֳלֹה (אָהֳלוֹ)", "transliteration": "ÅHOLOH (ÅHOLO)", "translation": "a sua tenda" },
+                                        { "word": "בַּתְּחִלָּה", "BATËCHILÅH", "translation": "no princípio / no início," },
+                                        { "word": "בֵּין", "BEYN", "translation": "entre" },
+                                        { "word": "בֵּית- אֵל", "BEYT-EL", "translation": "Betel" },
+                                        { "word": "וּבֵין", "UVEYN", "translation": "e" },
+                                        { "word": "הָעָי:", "HÅÅY:", "translation": "Ai." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
-                                            "text_hebrew": [],
+                                            "text": "Ele partiu do Neguebe rumo à cidade de Betel, indo de um lugar a outro, até que chegou a uma região que fica entre Betel e Ai, onde já havia estabelecido seu acampamento, no passado.",
+                                            "text_hebrew": [
+                                                { "word": "וַיֵּלֶךְ", "transliteration": "VAYELEKH", "translation": "E caminhou / prosseguiu" },
+                                                { "word": "לְמַסָּעָיו", "transliteration": "LËMASÅÅYV", "translation": "em suas jornadas / etapas" },
+                                                { "word": "מִנֶּגֶב", "transliteration": "MINEGEV", "translation": "desde o Neguebe" },
+                                                { "word": "וְעַד- בֵּית- אֵל", "transliteration": "VËAD-BEYT-EL", "translation": "até Betel," },
+                                                { "word": "עַד- הַמָּקוֹם", "transliteration": "AD-HAMÅQOM", "translation": "até o lugar" },
+                                                { "word": "אֲשֶׁר- הָיָה", "transliteration": "ASHER-HÅYÅH", "translation": "onde havia estado" },
+                                                { "word": "שָׁם", "transliteration": "SHÅM", "translation": "ali" },
+                                                { "word": "אָהֳלֹה (אָהֳלוֹ)", "transliteration": "ÅHOLOH (ÅHOLO)", "translation": "a sua tenda" },
+                                                { "word": "בַּתְּחִלָּה", "BATËCHILÅH", "translation": "no princípio / no início," },
+                                                { "word": "בֵּין", "BEYN", "translation": "entre" },
+                                                { "word": "בֵּית- אֵל", "BEYT-EL", "translation": "Betel" },
+                                                { "word": "וּבֵין", "UVEYN", "translation": "e" },
+                                                { "word": "הָעָי:", "HÅÅY:", "translation": "Ai." }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         }
@@ -39174,13 +39236,35 @@
                                 {
                                     "id": "gn.13.4", 
                                     "number": 4,
-                                    "text": "",
-                                    "text_hebrew": [],
+                                    "text": "Abrão voltou ao altar que ele mesmo havia edificado e adorou a Deus, invocando o Nome do Senhor.",
+                                    "text_hebrew": [
+                                        { "word": "אֶל- מְקוֹם", "transliteration": "EL-MËQOM", "translation": "Até o lugar de / do" },
+                                        { "word": "הַמִּזְבֵּחַ", "transliteration": "HAMIZËBEACH", "translation": "altar" },
+                                        { "word": "אֲשֶׁר- עָשָׂה", "transliteration": "ASHER-ÅSÅH", "translation": "que havia feito" },
+                                        { "word": "שָׁם", "transliteration": "SHÅM", "translation": "ali" },
+                                        { "word": "בָּרִאשֹׁנָה", "transliteration": "BÅRISHONÅH", "translation": "no princípio / na primeira vez;" },
+                                        { "word": "וַיִּקְרָא", "transliteration": "VAYQËRÅ", "translation": "e invocou / chamou" },
+                                        { "word": "שָׁם", "transliteration": "SHÅM", "translation": "ali" },
+                                        { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão" },
+                                        { "word": "בְּשֵׁם", "transliteration": "BËSHEM", "translation": "pelo nome de / o nome do" },
+                                        { "word": "יְהוָה:", "transliteration": "YHVH:", "translation": "SENHOR." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
-                                            "text_hebrew": [],
+                                            "text": "Abrão voltou ao altar que ele mesmo havia edificado e adorou a Deus, invocando o Nome do Senhor.",
+                                            "text_hebrew": [
+                                                { "word": "אֶל- מְקוֹם", "transliteration": "EL-MËQOM", "translation": "Até o lugar de / do" },
+                                                { "word": "הַמִּזְבֵּחַ", "transliteration": "HAMIZËBEACH", "translation": "altar" },
+                                                { "word": "אֲשֶׁר- עָשָׂה", "transliteration": "ASHER-ÅSÅH", "translation": "que havia feito" },
+                                                { "word": "שָׁם", "transliteration": "SHÅM", "translation": "ali" },
+                                                { "word": "בָּרִאשֹׁנָה", "transliteration": "BÅRISHONÅH", "translation": "no princípio / na primeira vez;" },
+                                                { "word": "וַיִּקְרָא", "transliteration": "VAYQËRÅ", "translation": "e invocou / chamou" },
+                                                { "word": "שָׁם", "transliteration": "SHÅM", "translation": "ali" },
+                                                { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão" },
+                                                { "word": "בְּשֵׁם", "transliteration": "BËSHEM", "translation": "pelo nome de / o nome do" },
+                                                { "word": "יְהוָה:", "transliteration": "YHVH:", "translation": "SENHOR." }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         }
@@ -39192,13 +39276,27 @@
                                 {
                                     "id": "gn.13.5", 
                                     "number": 5,
-                                    "text": "",
-                                    "text_hebrew": [],
+                                    "text": "Ló, que seguia a Abrão, tinha igualmente ovelhas, bois e tendas.",
+                                    "text_hebrew": [
+                                        { "word": "וְגַם- לְלוֹט", "transliteration": "VËGAM-LËLOT", "translation": "E também Ló," },
+                                        { "word": "הַהֹלֵךְ", "transliteration": "HAHOLEKH", "translation": "que ia / caminhava" },
+                                        { "word": "אֶת- אַבְרָם", "transliteration": "ET-AVËRÅM", "translation": "com Abrão," },
+                                        { "word": "הָיָה", "transliteration": "HÅYÅH", "translation": "tinha" },
+                                        { "word": "צֹאן- וּבָקָר", "transliteration": "TSON-UVÅQÅR", "translation": "ovelhas e bois / gado miúdo e graúdo," },
+                                        { "word": "וְאֹהָלִים:", "transliteration": "VËOHÅLYM:", "translation": "e tendas." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
-                                            "text_hebrew": [],
+                                            "text": "Ló, que seguia a Abrão, tinha igualmente ovelhas, bois e tendas.",
+                                            "text_hebrew": [
+                                                { "word": "וְגַם- לְלוֹט", "transliteration": "VËGAM-LËLOT", "translation": "E também Ló," },
+                                                { "word": "הַהֹלֵךְ", "transliteration": "HAHOLEKH", "translation": "que ia / caminhava" },
+                                                { "word": "אֶת- אַבְרָם", "transliteration": "ET-AVËRÅM", "translation": "com Abrão," },
+                                                { "word": "הָיָה", "transliteration": "HÅYÅH", "translation": "tinha" },
+                                                { "word": "צֹאן- וּבָקָר", "transliteration": "TSON-UVÅQÅR", "translation": "ovelhas e bois / gado miúdo e graúdo," },
+                                                { "word": "וְאֹהָלִים:", "transliteration": "VËOHÅLYM:", "translation": "e tendas." }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         }
@@ -39210,13 +39308,39 @@
                                 {
                                     "id": "gn.13.6", 
                                     "number": 6,
-                                    "text": "",
-                                    "text_hebrew": [],
+                                    "text": "A terra, todavia, tornou-se insuficiente para abrigar os dois mora na mesma região, isso porque possuíam tantos bens, servos e animais que a terra não conseguia sustentar a todos.",
+                                    "text_hebrew": [
+                                        { "word": "וְלֹא- נָשָׂא", "transliteration": "VËLO-NÅSÅ", "translation": "E não sustentou / não suportou" },
+                                        { "word": "אֹתָם", "transliteration": "OTÅM", "translation": "a eles" },
+                                        { "word": "הָאָרֶץ", "transliteration": "HÅÅRETS", "translation": "a terra," },
+                                        { "word": "לָשֶׁבET", "transliteration": "LÅSHEVET", "translation": "para habitarem / morarem" },
+                                        { "word": "יַחְדָּו", "transliteration": "YACHËDÅV", "translation": "juntos;" },
+                                        { "word": "כִּי- הָיָה", "transliteration": "KY-HÅYÅH", "translation": "porque era" },
+                                        { "word": "רְכוּשָׁם", "transliteration": "RËKHUSHÅM", "translation": "os bens deles / suas posses" },
+                                        { "word": "רָב", "transliteration": "RÅV", "translation": "muitos / abundantes," },
+                                        { "word": "וְלֹא", "transliteration": "VËLO", "translation": "de modo que não" },
+                                        { "word": "יָכְלוּ", "transliteration": "YÅKHËLU", "translation": "podiam / conseguiam" },
+                                        { "word": "לָשֶׁבET", "transliteration": "LÅSHEVET", "translation": "habitar" },
+                                        { "word": "יַחְדָּו:", "transliteration": "YACHËDÅV:", "translation": "juntos." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
-                                            "text_hebrew": [],
+                                            "text": "A terra, todavia, tornou-se insuficiente para abrigar os dois mora na mesma região, isso porque possuíam tantos bens, servos e animais que a terra não conseguia sustentar a todos.",
+                                            "text_hebrew": [
+                                                { "word": "וְלֹא- נָשָׂא", "transliteration": "VËLO-NÅSÅ", "translation": "E não sustentou / não suportou" },
+                                                { "word": "אֹתָם", "transliteration": "OTÅM", "translation": "a eles" },
+                                                { "word": "הָאָרֶץ", "transliteration": "HÅÅRETS", "translation": "a terra," },
+                                                { "word": "לָשֶׁבET", "transliteration": "LÅSHEVET", "translation": "para habitarem / morarem" },
+                                                { "word": "יַחְדָּו", "transliteration": "YACHËDÅV", "translation": "juntos;" },
+                                                { "word": "כִּי- הָיָה", "transliteration": "KY-HÅYÅH", "translation": "porque era" },
+                                                { "word": "רְכוּשָׁם", "transliteration": "RËKHUSHÅM", "translation": "os bens deles / suas posses" },
+                                                { "word": "רָב", "transliteration": "RÅV", "translation": "muitos / abundantes," },
+                                                { "word": "וְלֹא", "transliteration": "VËLO", "translation": "de modo que não" },
+                                                { "word": "יָכְלוּ", "transliteration": "YÅKHËLU", "translation": "podiam / conseguiam" },
+                                                { "word": "לָשֶׁבET", "transliteration": "LÅSHEVET", "translation": "habitar" },
+                                                { "word": "יַחְדָּו:", "transliteration": "YACHËDÅV:", "translation": "juntos." }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         }
@@ -39228,13 +39352,39 @@
                                 {
                                     "id": "gn.13.7", 
                                     "number": 7,
-                                    "text": "",
-                                    "text_hebrew": [],
+                                    "text": "Por esse motivo, os homens que zelavam dos animais de Abrão brigavam com os que tomavam conta dos animais de Ló. E, nessa época, os cananeus e os ferezeus ainda habitavam essas terras.",
+                                    "text_hebrew": [
+                                        { "word": "וַיְהִי- רִיב", "transliteration": "VAYËHY-RYV", "translation": "E houve contenda / briga" },
+                                        { "word": "בֵּין", "transliteration": "BEYN", "translation": "entre" },
+                                        { "word": "רֹעֵי", "transliteration": "ROEY", "translation": "os pastores do" },
+                                        { "word": "מִקְנֵה- אַבְרָם", "transliteration": "MIQËNEH-AVËRÅM", "translation": "gado de Abrão" },
+                                        { "word": "וּבֵין", "transliteration": "UVEYN", "translation": "e" },
+                                        { "word": "רֹעֵי", "transliteration": "ROEY", "translation": "os pastores do" },
+                                        { "word": "מִקְנֵה- לוֹט", "transliteration": "MIQËNEH-LOT", "translation": "gado de Ló;" },
+                                        { "word": "וְהַכְּנַעֲנִי", "transliteration": "VËHAKËNAANY", "translation": "e os cananeus" },
+                                        { "word": "וְהַפְּרִזִּי", "transliteration": "VËHAPËRIZY", "translation": "e os ferezeus" },
+                                        { "word": "אָז", "transliteration": "ÅZ", "translation": "naquele tempo / então" },
+                                        { "word": "יֹשֵׁב", "transliteration": "YOSHEV", "translation": "habitavam" },
+                                        { "word": "בָּאָרֶץ:", "transliteration": "BÅÅRETS:", "translation": "na terra." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
-                                            "text_hebrew": [],
+                                            "text": "Por esse motivo, os homens que zelavam dos animais de Abrão brigavam com os que tomavam conta dos animais de Ló. E, nessa época, os cananeus e os ferezeus ainda habitavam essas terras.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְהִי- רִיב", "transliteration": "VAYËHY-RYV", "translation": "E houve contenda / briga" },
+                                                { "word": "בֵּין", "transliteration": "BEYN", "translation": "entre" },
+                                                { "word": "רֹעֵי", "transliteration": "ROEY", "translation": "os pastores do" },
+                                                { "word": "מִקְנֵה- אַבְרָם", "transliteration": "MIQËNEH-AVËRÅM", "translation": "gado de Abrão" },
+                                                { "word": "וּבֵין", "transliteration": "UVEYN", "translation": "e" },
+                                                { "word": "רֹעֵי", "transliteration": "ROEY", "translation": "os pastores do" },
+                                                { "word": "מִקְנֵה- לוֹט", "transliteration": "MIQËNEH-LOT", "translation": "gado de Ló;" },
+                                                { "word": "וְהַכְּנַעֲנִי", "transliteration": "VËHAKËNAANY", "translation": "e os cananeus" },
+                                                { "word": "וְהַפְּרִזִּי", "transliteration": "VËHAPËRIZY", "translation": "e os ferezeus" },
+                                                { "word": "אָז", "transliteration": "ÅZ", "translation": "naquele tempo / então" },
+                                                { "word": "יֹשֵׁב", "transliteration": "YOSHEV", "translation": "habitavam" },
+                                                { "word": "בָּאָרֶץ:", "transliteration": "BÅÅRETS:", "translation": "na terra." }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         }
@@ -39246,13 +39396,45 @@
                                 {
                                     "id": "gn.13.8", 
                                     "number": 8,
-                                    "text": "",
-                                    "text_hebrew": [],
+                                    "text": "Então Abrão propõe a Ló: \"Que não haja discórdia entre mim e ti, nem desavenças entre meus pastores e os teus pastores; afinal somos irmãos!",
+                                    "text_hebrew": [
+                                        { "word": "וַיֹּאמֶר", "transliteration": "VAYOMER", "translation": "E disse" },
+                                        { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão" },
+                                        { "word": "אֶל- לוֹט", "transliteration": "EL-LOT", "translation": "a Ló:" },
+                                        { "word": "אַל- נָא", "transliteration": "AL-NÅ", "translation": "Não haja, peço-te / por favor," },
+                                        { "word": "תְהִי", "transliteration": "TËHY", "translation": "[que] ocorra / exista" },
+                                        { "word": "מְרִיבָה", "transliteration": "MËRYVÅH", "translation": "contenda / briga" },
+                                        { "word": "בֵּינִי", "transliteration": "BEYNY", "translation": "entre mim" },
+                                        { "word": "וּבֵינֶיךָ", "transliteration": "UVEYNEYKHA", "translation": "e ti," },
+                                        { "word": "וּבֵין", "transliteration": "UVEYN", "translation": "e entre" },
+                                        { "word": "רֹעַי", "transliteration": "ROAY", "translation": "os meus pastores" },
+                                        { "word": "וּבֵין", "transliteration": "UVEYN", "translation": "e entre" },
+                                        { "word": "רֹעֶיךָ", "transliteration": "ROEYKHA", "translation": "os teus pastores," },
+                                        { "word": "כִּי- אֲנָשִׁים", "transliteration": "KY-ANÅSHYM", "translation": "porque homens" },
+                                        { "word": "אַחִים", "transliteration": "ACHYM", "translation": "irmãos / parentes" },
+                                        { "word": "אֲנָחְנוּ:", "transliteration": "ANÅCHËNU:", "translation": "[somos] nós." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
-                                            "text_hebrew": [],
+                                            "text": "Então Abrão propõe a Ló: \"Que não haja discórdia entre mim e ti, nem desavenças entre meus pastores e os teus pastores; afinal somos irmãos!",
+                                            "text_hebrew": [
+                                                { "word": "וַיֹּאמֶר", "transliteration": "VAYOMER", "translation": "E disse" },
+                                                { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão" },
+                                                { "word": "אֶל- לוֹט", "transliteration": "EL-LOT", "translation": "a Ló:" },
+                                                { "word": "אַל- נָא", "transliteration": "AL-NÅ", "translation": "Não haja, peço-te / por favor," },
+                                                { "word": "תְהִי", "transliteration": "TËHY", "translation": "[que] ocorra / exista" },
+                                                { "word": "מְרִיבָה", "transliteration": "MËRYVÅH", "translation": "contenda / briga" },
+                                                { "word": "בֵּינִי", "transliteration": "BEYNY", "translation": "entre mim" },
+                                                { "word": "וּבֵינֶיךָ", "transliteration": "UVEYNEYKHA", "translation": "e ti," },
+                                                { "word": "וּבֵין", "transliteration": "UVEYN", "translation": "e entre" },
+                                                { "word": "רֹעַי", "transliteration": "ROAY", "translation": "os meus pastores" },
+                                                { "word": "וּבֵין", "transliteration": "UVEYN", "translation": "e entre" },
+                                                { "word": "רֹעֶיךָ", "transliteration": "ROEYKHA", "translation": "os teus pastores," },
+                                                { "word": "כִּי- אֲנָשִׁים", "transliteration": "KY-ANÅSHYM", "translation": "porque homens" },
+                                                { "word": "אַחִים", "transliteration": "ACHYM", "translation": "irmãos / parentes" },
+                                                { "word": "אֲנָחְנוּ:", "transliteration": "ANÅCHËNU:", "translation": "[somos] nós." }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         }
@@ -39264,13 +39446,35 @@
                                 {
                                     "id": "gn.13.9", 
                                     "number": 9,
-                                    "text": "",
-                                    "text_hebrew": [],
+                                    "text": "Vê! Toda a terra não está diante de ti? Peço-te, portanto, que te apartes de mim. Se tomares a esquerda, irei para a direita; se tomares a direita, irei para a esquerda!\"",
+                                    "text_hebrew": [
+                                        { "word": "הֲלֹא", "transliteration": "HALO", "translation": "Acaso não [está]" },
+                                        { "word": "כָל- הָאָרֶץ", "transliteration": "KHÅL-HÅÅRETS", "translation": "toda a terra" },
+                                        { "word": "לְפָנֶיךָ", "transliteration": "LËFÅNEYKHA", "translation": "diante de ti?" },
+                                        { "word": "הִפָּרֶד", "transliteration": "HIPÅRED", "translation": "Separa-te," },
+                                        { "word": "נָא", "transliteration": "NÅ", "translation": "peço-te / por favor," },
+                                        { "word": "מֵעָלָי", "transliteration": "MEÅLÅY", "translation": "de sobre mim / de perto de mim;" },
+                                        { "word": "אִם- הַשְּׂמֹאל", "transliteration": "IM-HASËMOL", "translation": "if [ires para] a esquerda," },
+                                        { "word": "וְאֵימִנָה", "transliteration": "VËEYMINÅH", "translation": "então irei para a direita / seguirei para o sul;" },
+                                        { "word": "וְאִם- הַיָּמִין", "transliteration": "VËIM-HAYÅMYN", "translation": "e se [ires para] a direita," },
+                                        { "word": "וְאַשְׂמְאִילָה:", "transliteration": "VËASËMËYLÅH:", "translation": "então irei para a esquerda / seguirei para o norte." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
-                                            "text_hebrew": [],
+                                            "text": "Vê! Toda a terra não está diante de ti? Peço-te, portanto, que te apartes de mim. Se tomares a esquerda, irei para a direita; se tomares a direita, irei para a esquerda!\"",
+                                            "text_hebrew": [
+                                                { "word": "הֲלֹא", "transliteration": "HALO", "translation": "Acaso não [está]" },
+                                                { "word": "כָל- הָאָרֶץ", "transliteration": "KHÅL-HÅÅRETS", "translation": "toda a terra" },
+                                                { "word": "לְפָנֶיךָ", "transliteration": "LËFÅNEYKHA", "translation": "diante de ti?" },
+                                                { "word": "הִפָּרֶד", "transliteration": "HIPÅRED", "translation": "Separa-te," },
+                                                { "word": "נָא", "transliteration": "NÅ", "translation": "peço-te / por favor," },
+                                                { "word": "מֵעָלָי", "transliteration": "MEÅLÅY", "translation": "de sobre mim / de perto de mim;" },
+                                                { "word": "אִם- הַשְּׂמֹאל", "transliteration": "IM-HASËMOL", "translation": "if [ires para] a esquerda," },
+                                                { "word": "וְאֵימִנָה", "transliteration": "VËEYMINÅH", "translation": "então irei para a direita / seguirei para o sul;" },
+                                                { "word": "וְאִם- הַיָּמִין", "transliteration": "VËIM-HAYÅMYN", "translation": "e se [ires para] a direita," },
+                                                { "word": "וְאַשְׂמְאִילָה:", "transliteration": "VËASËMËYLÅH:", "translation": "então irei para a esquerda / seguirei para o norte." }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         }
@@ -39282,31 +39486,95 @@
                                 {
                                     "id": "gn.13.10", 
                                     "number": 10,
-                                    "text": "",
-                                    "text_hebrew": [],
+                                    "text": "Então Ló ergueu os olhos e observou toda a planície do Jordão, que era toda irrigada, até Zoar; era como o jardim do Senhor, como as terras férteis do Egito. Isso aconteceu antes de o Senhor destruir Sodoma e Gomorra.",
+                                    "text_hebrew": [
+                                        { "word": "וַיִּשָּׂא- לוֹט", "transliteration": "VAYSÅ-LOT", "translation": "E levantou Ló" },
+                                        { "word": "אֶת- עֵינָיו", "transliteration": "ET-EYNÅYV", "translation": "os seus olhos," },
+                                        { "word": "וַיַּרְא", "transliteration": "VAYARË", "translation": "e viu" },
+                                        { "word": "אֶת- כָּל- כִּכַּר", "transliteration": "ET-KÅL-KIKAR", "translation": "toda a planície / vale do" },
+                                        { "word": "הַיַּרְדֵּן", "transliteration": "HAYARËDEN", "translation": "Jordão," },
+                                        { "word": "כִּי", "transliteration": "KY", "translation": "que" },
+                                        { "word": "כֻלָּהּ", "transliteration": "KHULÅH", "translation": "toda ela [era]" },
+                                        { "word": "מַשְׁקֶה", "transliteration": "MASHËQEH", "translation": "bem regada / rica em águas," },
+                                        { "word": "לִפְנֵי", "transliteration": "LIFËNEY", "translation": "antes de" },
+                                        { "word": "שַׁחֵת", "transliteration": "SHACHET", "translation": "destruir" },
+                                        { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                        { "word": "אֶת- סְדֹם", "transliteration": "ET-SËDOM", "translation": "a Sodoma" },
+                                        { "word": "וְאֶת- עֲמֹרָה", "transliteration": "VËET-AMORÅH", "translation": "e a Gomorra," },
+                                        { "word": "כְּגַן- יְהוָה", "transliteration": "KËGAN-YHVH", "translation": "como o jardim do SENHOR," },
+                                        { "word": "כְּאֶרֶץ", "transliteration": "KËERETS", "translation": "como a terra do" },
+                                        { "word": "מִצְרַיִם", "transliteration": "MITSËRAYM", "translation": "Egito," },
+                                        { "word": "בֹּאֲכָה", "transliteration": "BOAKHÅH", "translation": "em direção a / a caminho de" },
+                                        { "word": "צֹעַר:", "transliteration": "TSOAR:", "translation": "Zoar." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
-                                            "text_hebrew": [],
+                                            "text": "Então Ló ergueu os olhos e observou toda a planície do Jordão, que era toda irrigada, até Zoar; era como o jardim do Senhor, como as terras férteis do Egito. Isso aconteceu antes de o Senhor destruir Sodoma e Gomorra.",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּשָּׂא- לוֹט", "transliteration": "VAYSÅ-LOT", "translation": "E levantou Ló" },
+                                                { "word": "אֶת- עֵינָיו", "transliteration": "ET-EYNÅYV", "translation": "os seus olhos," },
+                                                { "word": "וַיַּרְא", "transliteration": "VAYARË", "translation": "e viu" },
+                                                { "word": "אֶת- כָּל- כִּכַּר", "transliteration": "ET-KÅL-KIKAR", "translation": "toda a planície / vale do" },
+                                                { "word": "הַיַּרְדֵּן", "transliteration": "HAYARËDEN", "translation": "Jordão," },
+                                                { "word": "כִּי", "transliteration": "KY", "translation": "que" },
+                                                { "word": "כֻלָּהּ", "transliteration": "KHULÅH", "translation": "toda ela [era]" },
+                                                { "word": "מַשְׁקֶה", "transliteration": "MASHËQEH", "translation": "bem regada / rica em águas," },
+                                                { "word": "לִפְנֵי", "transliteration": "LIFËNEY", "translation": "antes de" },
+                                                { "word": "שַׁחֵת", "transliteration": "SHACHET", "translation": "destruir" },
+                                                { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                                { "word": "אֶת- סְדֹם", "transliteration": "ET-SËDOM", "translation": "a Sodoma" },
+                                                { "word": "וְאֶת- עֲמֹרָה", "transliteration": "VËET-AMORÅH", "translation": "e a Gomorra," },
+                                                { "word": "כְּגַן- יְהוָה", "transliteration": "KËGAN-YHVH", "translation": "como o jardim do SENHOR," },
+                                                { "word": "כְּאֶרֶץ", "transliteration": "KËERETS", "translation": "como a terra do" },
+                                                { "word": "מִצְרַיִם", "transliteration": "MITSËRAYM", "translation": "Egito," },
+                                                { "word": "בֹּאֲכָה", "transliteration": "BOAKHÅH", "translation": "em direção a / a caminho de" },
+                                                { "word": "צֹעַר:", "transliteration": "TSOAR:", "translation": "Zoar." }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         }
                                     ],
                                     "notes_id": 1,
-                                    "notes": "",
+                                    "notes": "Abrão tinha um coração justo e genereso (14.22-24) e entregou a Ló o direito de escolher as terras que desejasse para si, seus familiares e pastores. Ló sabia que Sodoma e Gomorra vivia uma grande população, pagã e ímpia ao extremo; mas considerando que aquela terra parecia reproduzir as condições naturais ideais, algo como o próprio Jardim do Éden (2.10), com farto e constante suprimento de água, Ló optou por correr o risco da convivência com gente perversa, e tomar posse de toda a campina do Jordão até Sodoma. A arqueologia confirma que, antes da enorme catástrofe envolvendo as cidades de Sodoma e Gomorra, a região, hoje seca, a leste e sudeste do mar Morto, fora rica em água potável e progresso cultural (Caps. 18.16 a 19.29).",
                                     "cross-reference": []
                                 },
                                 {
                                     "id": "gn.13.11", 
                                     "number": 11,
-                                    "text": "",
-                                    "text_hebrew": [],
+                                    "text": "Ló esolheu para si todo o vale do Jordão e partiu rumo a leste. Assim, os dois se separaram;",
+                                    "text_hebrew": [
+                                        { "word": "וַיִּבְחַר- לוֹ", "transliteration": "VAYVËCHAR-LO", "translation": "E escolheu para si" },
+                                        { "word": "לוֹט", "transliteration": "LOT", "translation": "Ló" },
+                                        { "word": "אֵת", "transliteration": "ET", "translation": "[marcador de objeto direto]" },
+                                        { "word": "כָּל- כָּכַּר", "transliteration": "KÅL-KIKAR", "translation": "toda a planície / vale do" },
+                                        { "word": "הַיַּרְדֵּן", "transliteration": "HAYARËDEN", "translation": "Jordão;" },
+                                        { "word": "וַיִּסַּע", "transliteration": "VAYSA", "translation": "e partiu / moveu suas tendas" },
+                                        { "word": "לוֹט", "transliteration": "LOT", "translation": "Ló" },
+                                        { "word": "מִקֶּדֶם", "transliteration": "MIQEDEM", "translation": "em direção ao Oriente / rumo ao Leste;" },
+                                        { "word": "וַיִּפָּרְדוּ", "transliteration": "VAYPÅRËDU", "translation": "e separaram-se" },
+                                        { "word": "אִישׁ", "transliteration": "YSH", "translation": "um" },
+                                        { "word": "מֵעַל", "transliteration": "MEAL", "translation": "de perto de / de junto a" },
+                                        { "word": "אָחִיו:", "transliteration": "ÅCHYV:", "translation": "seu irmão / seu parente." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
-                                            "text_hebrew": [],
+                                            "text": "Ló esolheu para si todo o vale do Jordão e partiu rumo a leste. Assim, os dois se separaram;",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּבְחַר- לוֹ", "transliteration": "VAYVËCHAR-LO", "translation": "E escolheu para si" },
+                                                { "word": "לוֹט", "transliteration": "LOT", "translation": "Ló" },
+                                                { "word": "אֵת", "transliteration": "ET", "translation": "[marcador de objeto direto]" },
+                                                { "word": "כָּל- כָּכַּר", "transliteration": "KÅL-KIKAR", "translation": "toda a planície / vale do" },
+                                                { "word": "הַיַּרְדֵּן", "transliteration": "HAYARËDEN", "translation": "Jordão;" },
+                                                { "word": "וַיִּסַּע", "transliteration": "VAYSA", "translation": "e partiu / moveu suas tendas" },
+                                                { "word": "לוֹט", "transliteration": "LOT", "translation": "Ló" },
+                                                { "word": "מִקֶּדֶם", "transliteration": "MIQEDEM", "translation": "em direção ao Oriente / rumo ao Leste;" },
+                                                { "word": "וַיִּפָּרְדוּ", "transliteration": "VAYPÅRËDU", "translation": "e separaram-se" },
+                                                { "word": "אִישׁ", "transliteration": "YSH", "translation": "um" },
+                                                { "word": "מֵעַל", "transliteration": "MEAL", "translation": "de perto de / de junto a" },
+                                                { "word": "אָחִיו:", "transliteration": "ÅCHYV:", "translation": "seu irmão / seu parente." }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         }
@@ -39318,13 +39586,33 @@
                                 {
                                     "id": "gn.13.12", 
                                     "number": 12,
-                                    "text": "",
-                                    "text_hebrew": [],
+                                    "text": "Abrão ficou na terra de Canaã, porém, Ló mudou seu acampamento e todos os seus bens para um lugar próximo a Sodoma, entre as cidades do vale.",
+                                    "text_hebrew": [
+                                        { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão" },
+                                        { "word": "יָשַׁב", "transliteration": "YÅSHAV", "translation": "habitou / estabeleceu-se" },
+                                        { "word": "בְּאֶרֶץ- כְּנָעַן", "transliteration": "BËERETS-KËNÅAN", "translation": "na terra de Canaã;" },
+                                        { "word": "וְלוֹט", "transliteration": "VËLOT", "translation": "e Ló" },
+                                        { "word": "יָשַׁב", "transliteration": "YÅSHAV", "translation": "habitou" },
+                                        { "word": "בְּעָרֵי", "transliteration": "BËÅREY", "translation": "nas cidades de / da" },
+                                        { "word": "הַכִּכָּר", "transliteration": "HAKIKÅR", "translation": "planície / vale," },
+                                        { "word": "וַיֶּאֱהַל", "transliteration": "VAYEEHAL", "translation": "e armou suas tendas / moveu seus acampamentos" },
+                                        { "word": "עַד- סְדֹם:", "transliteration": "AD-SËDOM:", "translation": "até Sodoma." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
-                                            "text_hebrew": [],
+                                            "text": "Abrão ficou na terra de Canaã, porém, Ló mudou seu acampamento e todos os seus bens para um lugar próximo a Sodoma, entre as cidades do vale.",
+                                            "text_hebrew": [
+                                                { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão" },
+                                                { "word": "יָשַׁב", "transliteration": "YÅSHAV", "translation": "habitou / estabeleceu-se" },
+                                                { "word": "בְּאֶרֶץ- כְּנָעַן", "transliteration": "BËERETS-KËNÅAN", "translation": "na terra de Canaã;" },
+                                                { "word": "וְלוֹט", "transliteration": "VËLOT", "translation": "e Ló" },
+                                                { "word": "יָשַׁב", "transliteration": "YÅSHAV", "translation": "habitou" },
+                                                { "word": "בְּעָרֵי", "transliteration": "BËÅREY", "translation": "nas cidades de / da" },
+                                                { "word": "הַכִּכָּר", "transliteration": "HAKIKÅR", "translation": "planície / vale," },
+                                                { "word": "וַיֶּאֱהַל", "transliteration": "VAYEEHAL", "translation": "e armou suas tendas / moveu seus acampamentos" },
+                                                { "word": "עַד- סְדֹם:", "transliteration": "AD-SËDOM:", "translation": "até Sodoma." }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         }
@@ -39336,13 +39624,27 @@
                                 {
                                     "id": "gn.13.13", 
                                     "number": 13,
-                                    "text": "",
-                                    "text_hebrew": [],
+                                    "text": "Ora, as pessoas que viviam em Sodoma eram extremamente malignas e praticavam pecados horríveis contra o Senhor.",
+                                    "text_hebrew": [
+                                        { "word": "וְאַנְשֵׁי", "transliteration": "VËANËSHEY", "translation": "Ora, os homens de / os habitantes de" },
+                                        { "word": "סְדֹם", "transliteration": "SËDOM", "translation": "Sodoma" },
+                                        { "word": "רָעִים", "transliteration": "RÅYM", "translation": "[eram] maus" },
+                                        { "word": "וְחַטָּאִים", "transliteration": "VËCHATÅYM", "translation": "e pecadores" },
+                                        { "word": "לַיהוָה", "transliteration": "LAYHVH", "translation": "contra o SENHOR / perante o SENHOR," },
+                                        { "word": "מְאֹד:", "transliteration": "MËOD:", "translation": "em grande medida / demais." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
-                                            "text_hebrew": [],
+                                            "text": "Ora, as pessoas que viviam em Sodoma eram extremamente malignas e praticavam pecados horríveis contra o Senhor.",
+                                            "text_hebrew": [
+                                                { "word": "וְאַנְשֵׁי", "transliteration": "VËANËSHEY", "translation": "Ora, os homens de / os habitantes de" },
+                                                { "word": "סְדֹם", "transliteration": "SËDOM", "translation": "Sodoma" },
+                                                { "word": "רָעִים", "transliteration": "RÅYM", "translation": "[eram] maus" },
+                                                { "word": "וְחַטָּאִים", "transliteration": "VËCHATÅYM", "translation": "e pecadores" },
+                                                { "word": "לַיהוָה", "transliteration": "LAYHVH", "translation": "contra o SENHOR / perante o SENHOR," },
+                                                { "word": "מְאֹד:", "transliteration": "MËOD:", "translation": "em grande medida / demais." }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         }
@@ -39359,20 +39661,57 @@
                                 {
                                     "id": "gn.13.14", 
                                     "number": 14,
-                                    "text": "",
-                                    "text_hebrew": [],
+                                    "text": "Então, depois que Ló foi embora, prometeu o Senhor Deus a Abrão: \"Ergue teus olhos e observa bem,do lugar em que estás, para o norte e para o sul, para o oriente e para o ocidente.",
+                                    "text_hebrew": [
+                                        { "word": "וַיהוָה", "transliteration": "VAYHVH", "translation": "E o SENHOR" },
+                                        { "word": "אָמַר", "transliteration": "ÅMAR", "translation": "disse" },
+                                        { "word": "אֶל- אַבְרָם", "transliteration": "EL-AVËRÅM", "translation": "a Abrão," },
+                                        { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                        { "word": "הִפָּרֶד- לוֹט", "transliteration": "HIPÅRED-LOT", "translation": "separou-se Ló" },
+                                        { "word": "מֵעִמּוֹ", "transliteration": "MEIMO", "translation": "de perto dele:" },
+                                        { "word": "שָׂא", "transliteration": "SÅ", "translation": "Levanta," },
+                                        { "word": "נָא", "transliteration": "NÅ", "translation": "peço-te / por favor," },
+                                        { "word": "עֵינֶיךָ", "transliteration": "EYNEYKHA", "translation": "os teus olhos" },
+                                        { "word": "וּרְאֵה", "transliteration": "URËEH", "translation": "e olha" },
+                                        { "word": "מִן- הַמָּקוֹם", "transliteration": "MIN-HAMÅQOM", "translation": "desde o lugar" },
+                                        { "word": "אֲשֶׁר- אַתָּה", "transliteration": "ASHER-ATÅH", "translation": "onde tu" },
+                                        { "word": "שָׁם", "transliteration": "SHÅM", "translation": "[estás] ali:" },
+                                        { "word": "צָפֹנָה", "transliteration": "TSÅFONÅH", "translation": "para o Norte," },
+                                        { "word": "וָנֶגְבָּה", "transliteration": "VÅNEGËBÅH", "translation": "e para o Sul," },
+                                        { "word": "וָקֵדְמָה", "transliteration": "VÅQEDËMÅH", "translation": "e para o Leste," },
+                                        { "word": "וָיָmָּה:", "transliteration": "VÅYÅMÅH:", "translation": "e para o Oeste." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
-                                            "text_hebrew": [],
+                                            "text": "Então, depois que Ló foi embora, prometeu o Senhor Deus a Abrão: ",
+                                            "text_hebrew": [
+                                                { "word": "וַיהוָה", "transliteration": "VAYHVH", "translation": "E o SENHOR" },
+                                                { "word": "אָמַר", "transliteration": "ÅMAR", "translation": "disse" },
+                                                { "word": "אֶל- אַבְרָם", "transliteration": "EL-AVËRÅM", "translation": "a Abrão," },
+                                                { "word": "אַחֲרֵי", "transliteration": "ACHAREY", "translation": "depois que" },
+                                                { "word": "הִפָּרֶד- לוֹט", "transliteration": "HIPÅRED-LOT", "translation": "separou-se Ló" },
+                                                { "word": "מֵעִמּוֹ", "transliteration": "MEIMO", "translation": "de perto dele:" }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         },
                                         {
                                             "character": "Deus",
-                                            "text": "",
-                                            "text_hebrew": [],
+                                            "text": "\"Ergue teus olhos e observa bem,do lugar em que estás, para o norte e para o sul, para o oriente e para o ocidente.",
+                                            "text_hebrew": [
+                                                { "word": "שָׂא", "transliteration": "SÅ", "translation": "Levanta," },
+                                                { "word": "נָא", "transliteration": "NÅ", "translation": "peço-te / por favor," },
+                                                { "word": "עֵינֶיךָ", "transliteration": "EYNEYKHA", "translation": "os teus olhos" },
+                                                { "word": "וּרְאֵה", "transliteration": "URËEH", "translation": "e olha" },
+                                                { "word": "מִן- הַמָּקוֹם", "transliteration": "MIN-HAMÅQOM", "translation": "desde o lugar" },
+                                                { "word": "אֲשֶׁר- אַתָּה", "transliteration": "ASHER-ATÅH", "translation": "onde tu" },
+                                                { "word": "שָׁם", "transliteration": "SHÅM", "translation": "[estás] ali:" },
+                                                { "word": "צָפֹנָה", "transliteration": "TSÅFONÅH", "translation": "para o Norte," },
+                                                { "word": "וָנֶגְבָּה", "transliteration": "VÅNEGËBÅH", "translation": "e para o Sul," },
+                                                { "word": "וָקֵדְמָה", "transliteration": "VÅQEDËMÅH", "translation": "e para o Leste," },
+                                                { "word": "וָיָmָּה:", "transliteration": "VÅYÅMÅH:", "translation": "e para o Oeste." }
+                                            ],
                                             "color": "azul",
                                             "emphasis": true
                                         }
@@ -39384,31 +39723,75 @@
                                 {
                                     "id": "gn.13.15", 
                                     "number": 15,
-                                    "text": "",
-                                    "text_hebrew": [],
+                                    "text": "Toda a terra que vês, Eu ta darei, a ti e à tua descendência, para sempre.",
+                                    "text_hebrew": [
+                                        { "word": "כִּי", "transliteration": "KY", "translation": "Porque" },
+                                        { "word": "אֶת- כָּל- הָאָרֶץ", "transliteration": "ET-KÅL-HÅÅRETS", "translation": "toda a terra" },
+                                        { "word": "אֲשֶׁר- אַתָּה", "transliteration": "ASHER-ATÅH", "translation": "que tu" },
+                                        { "word": "רֹאֶה", "transliteration": "ROEH", "translation": "vês," },
+                                        { "word": "לְךָ", "transliteration": "LËKHA", "translation": "a ti" },
+                                        { "word": "אֶתְּנֶנָּה", "transliteration": "ETËNENÅH", "translation": "eu a darei," },
+                                        { "word": "וּלְזַרְעֲךָ", "transliteration": "ULËZARËAKHA", "translation": "e à tua descendência / semente," },
+                                        { "word": "עַד- עוֹלָם:", "transliteration": "AD-OLÅM:", "translation": "para sempre." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Deus",
-                                            "text": "",
-                                            "text_hebrew": [],
+                                            "text": "Toda a terra que vês, Eu ta darei, a ti e à tua descendência, para sempre.",
+                                            "text_hebrew": [
+                                                { "word": "כִּי", "transliteration": "KY", "translation": "Porque" },
+                                                { "word": "אֶת- כָּל- הָאָרֶץ", "transliteration": "ET-KÅL-HÅÅRETS", "translation": "toda a terra" },
+                                                { "word": "אֲשֶׁר- אַתָּה", "transliteration": "ASHER-ATÅH", "translation": "que tu" },
+                                                { "word": "רֹאֶה", "transliteration": "ROEH", "translation": "vês," },
+                                                { "word": "לְךָ", "transliteration": "LËKHA", "translation": "a ti" },
+                                                { "word": "אֶתְּנֶנָּה", "transliteration": "ETËNENÅH", "translation": "eu a darei," },
+                                                { "word": "וּלְזַרְעֲךָ", "transliteration": "ULËZARËAKHA", "translation": "e à tua descendência / semente," },
+                                                { "word": "עַד- עוֹלָם:", "transliteration": "AD-OLÅM:", "translation": "para sempre." }
+                                            ],
                                             "color": "azul",
                                             "emphasis": true
                                         }
                                     ],
                                     "notes_id": 2,
-                                    "notes": "",
+                                    "notes": "Abrão e Ló, nessas passagens, nos proporcionam um excelente estudo de contrastes. Ló cobiçou o melhor para si, ainda que tivesse que compartilhar de um mundo mergulhado no pecado. Abrão ficou com o que Ló deixou, mas logo fica sabendo que isso era plano de Deus; e que por ter olhado para a situação do ponto de vista de Yahweh, o Senhor, seria abençoado com toda a terra da Promessa, aqual lhe pertenceria, bem como a toda sua descendência, e para sempre (22.17; 28.14; 2Cr 1.9; Nm 23.10; Dt 34.1-4).",
                                     "cross-reference": []
                                 },
                                 {
                                     "id": "gn.13.16", 
                                     "number": 16,
-                                    "text": "",
-                                    "text_hebrew": [],
+                                    "text": "Tornarei a tua posteridade como poeira da terra: quem tiver a capacidade de contar os grãos de poeira da terra poderá também contar o número dos teus descendentes!",
+                                    "text_hebrew": [
+                                        { "word": "וְשַׂמְתִּי", "transliteration": "VËSAMËTY", "translation": "E farei / tornarei" },
+                                        { "word": "אֶת- זַרְעֲךָ", "transliteration": "ET-ZARËAKHA", "translation": "a tua descendência" },
+                                        { "word": "כַּעֲפַר", "transliteration": "KAAFAR", "translation": "como o pó de / da" },
+                                        { "word": "הָאָרֶץ", "transliteration": "HÅÅRETS", "translation": "terra;" },
+                                        { "word": "אֲשֶׁר", "transliteration": "ASHER", "translation": "de maneira que de" },
+                                        { "word": "אִם- יוּכַל", "transliteration": "IM-YUKHAL", "translation": "se puder" },
+                                        { "word": "אִישׁ", "transliteration": "YSH", "translation": "um homem / alguém" },
+                                        { "word": "לִמְנוֹת", "transliteration": "LIMËNOT", "translation": "contar" },
+                                        { "word": "אֶת- עֲפַר", "transliteration": "ET-AFAR", "translation": "o pó de / da" },
+                                        { "word": "הָאָרֶץ", "transliteration": "HÅÅRETS", "translation": "terra," },
+                                        { "word": "גַּם- זַרְעֲךָ", "transliteration": "GAM-ZARËAKHA", "translation": "também a tua descendência" },
+                                        { "word": "יִמָּנֶה:", "transliteration": "YMÅNEH:", "translation": "será contada." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Deus",
-                                            "text": "",
-                                            "text_hebrew": [],
+                                            "text": "Tornarei a tua posteridade como poeira da terra: quem tiver a capacidade de contar os grãos de poeira da terra poderá também contar o número dos teus descendentes!",
+                                            "text_hebrew": [
+                                                { "word": "וְשַׂמְתִּי", "transliteration": "VËSAMËTY", "translation": "E farei / tornarei" },
+                                                { "word": "אֶת- זַרְעֲךָ", "transliteration": "ET-ZARËAKHA", "translation": "a tua descendência" },
+                                                { "word": "כַּעֲפַר", "transliteration": "KAAFAR", "translation": "como o pó de / da" },
+                                                { "word": "הָאָרֶץ", "transliteration": "HÅÅRETS", "translation": "terra;" },
+                                                { "word": "אֲשֶׁר", "transliteration": "ASHER", "translation": "de maneira que de" },
+                                                { "word": "אִם- יוּכַל", "transliteration": "IM-YUKHAL", "translation": "se puder" },
+                                                { "word": "אִישׁ", "transliteration": "YSH", "translation": "um homem / alguém" },
+                                                { "word": "לִמְנוֹת", "transliteration": "LIMËNOT", "translation": "contar" },
+                                                { "word": "אֶת- עֲפַר", "transliteration": "ET-AFAR", "translation": "o pó de / da" },
+                                                { "word": "הָאָרֶץ", "transliteration": "HÅÅRETS", "translation": "terra," },
+                                                { "word": "גַּם- זַרְעֲךָ", "transliteration": "GAM-ZARËAKHA", "translation": "também a tua descendência" },
+                                                { "word": "יִמָּנֶה:", "transliteration": "YMÅNEH:", "translation": "será contada." }
+                                            ],
                                             "color": "azul",
                                             "emphasis": true
                                         }
@@ -39420,13 +39803,31 @@
                                 {
                                     "id": "gn.13.17", 
                                     "number": 17,
-                                    "text": "",
-                                    "text_hebrew": [],
+                                    "text": "Levanta-se! Percorres essa terra no seu comprimento e na sua largura, porquanto Eu ta darei!\"",
+                                    "text_hebrew": [
+                                        { "word": "קוּם", "transliteration": "QUM", "translation": "Levanta-te," },
+                                        { "word": "הִתְהַלֵּך", "transliteration": "HITËHALEKH", "translation": "caminha / percorre" },
+                                        { "word": "בָּאָרֶץ", "transliteration": "BÅÅRETS", "translation": "pela terra," },
+                                        { "word": "לְאָרְכָּהּ", "transliteration": "LËÅRËKÅH", "translation": "ao longo de seu comprimento" },
+                                        { "word": "וּלְרָחְבָּהּ", "transliteration": "ULËRÅCHËBÅH", "translation": "e ao largo de sua largura;" },
+                                        { "word": "כִּי", "transliteration": "KY", "translation": "porque" },
+                                        { "word": "לְךָ", "transliteration": "LËKHA", "translation": "a ti" },
+                                        { "word": "אֶתְּנֶנָּה:", "transliteration": "ETËNENÅH:", "translation": "eu a darei." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Deus",
-                                            "text": "",
-                                            "text_hebrew": [],
+                                            "text": "Levanta-se! Percorres essa terra no seu comprimento e na sua largura, porquanto Eu ta darei!\"",
+                                            "text_hebrew": [
+                                                { "word": "קוּם", "transliteration": "QUM", "translation": "Levanta-te," },
+                                                { "word": "הִתְהַלֵּך", "transliteration": "HITËHALEKH", "translation": "caminha / percorre" },
+                                                { "word": "בָּאָרֶץ", "transliteration": "BÅÅRETS", "translation": "pela terra," },
+                                                { "word": "לְאָרְכָּהּ", "transliteration": "LËÅRËKÅH", "translation": "ao longo de seu comprimento" },
+                                                { "word": "וּלְרָחְבָּהּ", "transliteration": "ULËRÅCHËBÅH", "translation": "e ao largo de sua largura;" },
+                                                { "word": "כִּי", "transliteration": "KY", "translation": "porque" },
+                                                { "word": "לְךָ", "transliteration": "LËKHA", "translation": "a ti" },
+                                                { "word": "אֶתְּנֶנָּה:", "transliteration": "ETËNENÅH:", "translation": "eu a darei." }
+                                            ],
                                             "color": "azul",
                                             "emphasis": true
                                         }
@@ -39438,13 +39839,39 @@
                                 {
                                     "id": "gn.13.18", 
                                     "number": 18,
-                                    "text": "",
-                                    "text_hebrew": [],
+                                    "text": "Então Abrão mudou com todas as suas tendas e foi estabelecer-se próximo à região sagrada dos carvalhos de Manre, na cidade de Hebrom, onde construiu um altar dedicado ao Senhor.",
+                                    "text_hebrew": [
+                                        { "word": "וַיֶּאֱהַל", "transliteration": "VAYEEHAL", "translation": "E armou as tendas / E moveu as tendas" },
+                                        { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão," },
+                                        { "word": "וַיָּבֹא", "transliteration": "VAYÅVO", "translation": "e veio" },
+                                        { "word": "וַיֵּשֶׁב", "transliteration": "VAYESHEV", "translation": "e habitou" },
+                                        { "word": "בְּאֵלֹנֵי", "transliteration": "BËELONEY", "translation": "junto aos carvalhais de / terebintos de" },
+                                        { "word": "מַמְרֵא", "transliteration": "MAMËRE", "translation": "Manre," },
+                                        { "word": "אֲשֶׁר", "transliteration": "ASHER", "translation": "que [estão]" },
+                                        { "word": "בְּחֶבְרוֹן", "transliteration": "BËCHEVËRON", "translation": "em Hebrom;" },
+                                        { "word": "וַיִּבֶן- שָׁם", "transliteration": "VAYVEN-SHÅM", "translation": "e edificou ali" },
+                                        { "word": "מִזְבֵּחַ", "transliteration": "MIZËBEACH", "translation": "um altar" },
+                                        { "word": "לַיהוָה:", "transliteration": "LAYHVH:", "translation": "ao SENHOR." },
+                                        { "word": "פ", "transliteration": "F", "translation": "[Fim de seção]" }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
-                                            "text_hebrew": [],
+                                            "text": "Então Abrão mudou com todas as suas tendas e foi estabelecer-se próximo à região sagrada dos carvalhos de Manre, na cidade de Hebrom, onde construiu um altar dedicado ao Senhor.",
+                                            "text_hebrew": [
+                                                { "word": "וַיֶּאֱהַל", "transliteration": "VAYEEHAL", "translation": "E armou as tendas / E moveu as tendas" },
+                                                { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão," },
+                                                { "word": "וַיָּבֹא", "transliteration": "VAYÅVO", "translation": "e veio" },
+                                                { "word": "וַיֵּשֶׁב", "transliteration": "VAYESHEV", "translation": "e habitou" },
+                                                { "word": "בְּאֵלֹנֵי", "transliteration": "BËELONEY", "translation": "junto aos carvalhais de / terebintos de" },
+                                                { "word": "מַמְרֵא", "transliteration": "MAMËRE", "translation": "Manre," },
+                                                { "word": "אֲשֶׁר", "transliteration": "ASHER", "translation": "que [estão]" },
+                                                { "word": "בְּחֶבְרוֹן", "transliteration": "BËCHEVËRON", "translation": "em Hebrom;" },
+                                                { "word": "וַיִּבֶן- שָׁם", "transliteration": "VAYVEN-SHÅM", "translation": "e edificou ali" },
+                                                { "word": "מִזְבֵּחַ", "transliteration": "MIZËBEACH", "translation": "um altar" },
+                                                { "word": "לַיהוָה:", "transliteration": "LAYHVH:", "translation": "ao SENHOR." },
+                                                { "word": "פ", "transliteration": "F", "translation": "[Fim de seção]" }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         }
@@ -39465,12 +39892,12 @@
                                 {
                                     "id": "gn.14.1", 
                                     "number": 1,
-                                    "text": "",
+                                    "text": "Naquele tempo, Anrafel, rei de Sinear; Arioque, rei de Elasar; Quedorlaomer, rei de Elão; e Tidal, rei de Goim,",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "Naquele tempo, Anrafel, rei de Sinear; Arioque, rei de Elasar; Quedorlaomer, rei de Elão; e Tidal, rei de Goim,",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
@@ -39483,12 +39910,12 @@
                                 {
                                     "id": "gn.14.2", 
                                     "number": 2,
-                                    "text": "",
+                                    "text": "Saíram à guerra contra Bera, rei de Sodoma; contra Birsa, rei de Gomorra; contra Sinabe, rei de Admá; contra Semeber, rei de Zeboim; e contra o rei de Belá, que é Zoar.",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "Saíram à guerra contra Bera, rei de Sodoma; contra Birsa, rei de Gomorra; contra Sinabe, rei de Admá; contra Semeber, rei de Zeboim; e contra o rei de Belá, que é Zoar.",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
@@ -39501,30 +39928,30 @@
                                 {
                                     "id": "gn.14.3", 
                                     "number": 3,
-                                    "text": "",
+                                    "text": "Por esses últimos juntaram seus exércitos no vale de Sidim, onde fica o mar do Sal.",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "Por esses últimos juntaram seus exércitos no vale de Sidim, onde fica o mar do Sal.",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
                                         }
                                     ],
                                     "notes_id": 1,
-                                    "notes": "",
+                                    "notes": "O mar Salgado ou mar Morto é ainda hoje a porção de água mais densa da terra; fica a 400 m abaixo do nível médio do mar, com uma concentração de sais de cloreto e de brometo superior a 25%. Está ladeado por montes e cobre parte do que foi, na antiguidade, o \"vale de Sidim\", onde teria ocorrido a batalha nas proximidades das cidades de Sodomo e Gomorra.",
                                     "cross-reference": []
                                 },
                                 {
                                     "id": "gn.14.4", 
                                     "number": 4,
-                                    "text": "",
+                                    "text": "Por doze anos ficaram sujeitos a Quedorlaomer, mas no décimo terceiro ano revoltaram-se.",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "Por doze anos ficaram sujeitos a Quedorlaomer, mas no décimo terceiro ano revoltaram-se.",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
@@ -39537,12 +39964,12 @@
                                 {
                                     "id": "gn.14.5", 
                                     "number": 5,
-                                    "text": "",
+                                    "text": "No décimo quarto ano, Quedorlaomer e os reis que a ele tinham-se aliado derrotaram os refains em Asterote-Carnaim, os zuzins em Hã, os emins em Savé-Quiriataim,",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "No décimo quarto ano, Quedorlaomer e os reis que a ele tinham-se aliado derrotaram os refains em Asterote-Carnaim, os zuzins em Hã, os emins em Savé-Quiriataim,",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
@@ -39555,12 +39982,12 @@
                                 {
                                     "id": "gn.14.6", 
                                     "number": 6,
-                                    "text": "",
+                                    "text": "e os horeus desde os montes de Seir até El-Parã, próximo ao deserto.",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "e os horeus desde os montes de Seir até El-Parã, próximo ao deserto.",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
@@ -39573,12 +40000,12 @@
                                 {
                                     "id": "gn.14.7", 
                                     "number": 7,
-                                    "text": "",
+                                    "text": "Depois, voltaram e foram para En-Mispate, que é Cades, e conquistaram todo o território dos amalequitas e dos amorreus que viviam em Hazazom-Tamar.",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "Depois, voltaram e foram para En-Mispate, que é Cades, e conquistaram todo o território dos amalequitas e dos amorreus que viviam em Hazazom-Tamar.",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
@@ -39591,12 +40018,12 @@
                                 {
                                     "id": "gn.14.8", 
                                     "number": 8,
-                                    "text": "",
+                                    "text": "Então os reis de Sodoma, de Gomorra, de Admá, de Zeboim e de Beta, que é Zoar, marcharam e tomaram posição de combate no vale de Sidim,",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "Então os reis de Sodoma, de Gomorra, de Admá, de Zeboim e de Beta, que é Zoar, marcharam e tomaram posição de combate no vale de Sidim,",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
@@ -39609,12 +40036,12 @@
                                 {
                                     "id": "gn.14.9", 
                                     "number": 9,
-                                    "text": "",
+                                    "text": "contra Quedorlaomer, rei de Elão, contra Tidal, rei de Goim, contra Anrafel, rei de Sinear, contra Arioque, rei de Elasar: quatro reis contra cinco!",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "contra Quedorlaomer, rei de Elão, contra Tidal, rei de Goim, contra Anrafel, rei de Sinear, contra Arioque, rei de Elasar: quatro reis contra cinco!",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
@@ -39627,12 +40054,12 @@
                                 {
                                     "id": "gn.14.10", 
                                     "number": 10,
-                                    "text": "",
+                                    "text": "Ora, o vale de Sidim estava repleto de poços de betume; os reis de Sodoma e Gomorra fugira; alguns dos seus homens caíram nos poços e o restante conseguiu fugir para os montes.",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "Ora, o vale de Sidim estava repleto de poços de betume; os reis de Sodoma e Gomorra fugira; alguns dos seus homens caíram nos poços e o restante conseguiu fugir para os montes.",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
@@ -39645,12 +40072,12 @@
                                 {
                                     "id": "gn.14.11", 
                                     "number": 11,
-                                    "text": "",
+                                    "text": "Tomaram, portanto, todos os bens de Sodoma e de Gomorra e todo o seu mantimento, e se foram.",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "Tomaram, portanto, todos os bens de Sodoma e de Gomorra e todo o seu mantimento, e se foram.",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
@@ -39668,12 +40095,12 @@
                                 {
                                     "id": "gn.14.12", 
                                     "number": 12,
-                                    "text": "",
+                                    "text": "Apossaram-se também de Ló, filho do irmão de Abrão, que morava em Sodoma, e dos seus bens, e partiram",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "Apossaram-se também de Ló, filho do irmão de Abrão, que morava em Sodoma, e dos seus bens, e partiram",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
@@ -39686,19 +40113,19 @@
                                 {
                                     "id": "gn.14.13", 
                                     "number": 13,
-                                    "text": "",
+                                    "text": "Contudo, veio um, que escapara, e deu a notícia a Abrão, o hebreu; este habitava junto aos carvalhais de Manre, o amorreu. Manre e seus irmãos Escol e Aner eram aliados de Abrão.",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "Contudo, veio um, que escapara, e deu a notícia a Abrão, o hebreu; este habitava junto aos carvalhais de Manre, o amorreu. Manre e seus irmãos Escol e Aner eram aliados de Abrão.",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
                                         }
                                     ],
                                     "notes_id": 2,
-                                    "notes": "",
+                                    "notes": "A expressão hebraica ´lbriy, quer dizer, \"aquele que vem de longe\", aparece aqui, pela primeira vez na Bíblia, ainda que em 10.21 haja uma indicação de que os filhos de Sem foram chamados semitas, e Heber, ainda que descendente distante de Sem (11.14-17), tenha dado origem à palavra \"hebreu\" para identificar sua posteridade. Contudo, esse termo étnico, era normalmente usado por não-israelitas com preconceito e menosprezo (39.17).",
                                     "cross-reference": []
                                 },
                                 {
@@ -39713,13 +40140,6 @@
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
-                                        },
-                                        {
-                                            "character": "Deus",
-                                            "text": "",
-                                            "text_hebrew": [],
-                                            "color": "azul",
-                                            "emphasis": true
                                         }
                                     ],
                                     "notes_id": null,
@@ -39729,12 +40149,12 @@
                                 {
                                     "id": "gn.14.15", 
                                     "number": 15,
-                                    "text": "",
+                                    "text": "Atacou-os durante a noite em grupos, e ssim os venceu, perseguindo-os até Hobá, ao norte de Damasco.",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Deus",
-                                            "text": "",
+                                            "text": "Atacou-os durante a noite em grupos, e ssim os venceu, perseguindo-os até Hobá, ao norte de Damasco.",
                                             "text_hebrew": [],
                                             "color": "azul",
                                             "emphasis": true
@@ -39747,12 +40167,12 @@
                                 {
                                     "id": "gn.14.16", 
                                     "number": 16,
-                                    "text": "",
+                                    "text": "Conseguiu recuperar todos os bens e trouxe de volta seu parente Ló com tudo o que possuía, juntamente com as mulheres e todos os demais prisioneiros.",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Deus",
-                                            "text": "",
+                                            "text": "Conseguiu recuperar todos os bens e trouxe de volta seu parente Ló com tudo o que possuía, juntamente com as mulheres e todos os demais prisioneiros.",
                                             "text_hebrew": [],
                                             "color": "azul",
                                             "emphasis": true
@@ -39765,12 +40185,12 @@
                                 {
                                     "id": "gn.14.17", 
                                     "number": 17,
-                                    "text": "",
+                                    "text": "Após voltar Abrão de sua vitória sobre Quedorlaomer e sobre os reis que estavam com ele, saiu-lhe ao encontro o rei de Sodoma, no vale de Savé, que é o vale do Rei.",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Deus",
-                                            "text": "",
+                                            "text": "Após voltar Abrão de sua vitória sobre Quedorlaomer e sobre os reis que estavam com ele, saiu-lhe ao encontro o rei de Sodoma, no vale de Savé, que é o vale do Rei.",
                                             "text_hebrew": [],
                                             "color": "azul",
                                             "emphasis": true
@@ -39788,12 +40208,12 @@
                                 {
                                     "id": "gn.14.18", 
                                     "number": 18,
-                                    "text": "",
+                                    "text": "Então Melquisedeque, rei de Salém e sacerdote do Deus Altíssimo, trouxe pão e vinho",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "Então Melquisedeque, rei de Salém e sacerdote do Deus Altíssimo, trouxe pão e vinho",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
@@ -39806,30 +40226,30 @@
                                 {
                                     "id": "gn.14.19", 
                                     "number": 19,
-                                    "text": "",
+                                    "text": "e abençoou Abrão, dizendo: \"Bendito seja Abrão pelo Deus Altíssimo, que criou os céus e a terra!",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "e abençoou Abrão, dizendo: \"Bendito seja Abrão pelo Deus Altíssimo, que criou os céus e a terra!",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
                                         }
                                     ],
                                     "notes_id": 3,
-                                    "notes": "",
+                                    "notes": "O nome Malkiy-Tsedeq, Melquisedeque significa \"Meu rei é justiça\". Ele é apresentado como rei e sacerdote e mencionado apenas três oportunidades em toda a Bíblia (aqui, no Sl 110 e em Hb caps. 5 a 7). Não há registro de seus antepassados, nem sua descendência, e é ele quem surge trazendo pão e vinho para compartilhar e celebrar com Abraão (Hb 7.1-2), que reconhece na sua pessoa autoridade sacerdotal e lhe confia \"a parte do rei\" (o dízimo) de todos os seus despojos para Deus (1Sm 8.15,17). Salém é uma forma abreviada de \"Jerusalém\" (Sl 76.2) e faz referência à palavra \"shalom\", paz e prosperidade, em hebraico. \"Deus Altíssimo\" (em hebraico: ´Êl lyon) é um dos títulos de mais rara ocorrência na Bíblia, e transmite a ideia que Deus é o ser Supremo e Todo-Poderoso, superior a toda e qualquer suposta divindade no Universo. Um poderoso e especial aviso às populações pagãs (Lc 1.32,35). Toda essa simbologia faz dessa passagem uma prefiguração de Jesus Cristo, o Filho Eterno do Deus Altíssimo e o Messias; nosso \"grande sumo sacerdote\" (Hb 4.14), cujo sacerdócio é, portanto, \"segundo a ordem de Melquisedeque e não de Arão\" (Hb 7.11 em relação ao Sl 110.4).",
                                     "cross-reference": []
                                 },
                                 {
                                     "id": "gn.14.20", 
                                     "number": 20,
-                                    "text": "",
+                                    "text": "Seja louvado o Deus Altíssimo, que entregou teus inimigos nas tuas mãos!\" Então Abrão lhe entregou o dízimo de tudo.",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "Seja louvado o Deus Altíssimo, que entregou teus inimigos nas tuas mãos!\" Então Abrão lhe entregou o dízimo de tudo.",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
@@ -39842,12 +40262,12 @@
                                 {
                                     "id": "gn.14.21", 
                                     "number": 21,
-                                    "text": "",
+                                    "text": "Mas tarde, o rei de Sodoma propôs a Abrão: \"Dá-me as pessoas, e os bens poderão ficar todos contigo!\"",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "Mas tarde, o rei de Sodoma propôs a Abrão: \"Dá-me as pessoas, e os bens poderão ficar todos contigo!\"",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
@@ -39860,12 +40280,12 @@
                                 {
                                     "id": "gn.14.22", 
                                     "number": 22,
-                                    "text": "",
+                                    "text": "Mas Abrão declarou ao rei de Sodoma: \"Ergo minhas mãos em adoração ao Senhor, Deus Altíssimo, Criador dos céus e da terra.",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "Mas Abrão declarou ao rei de Sodoma: \"Ergo minhas mãos em adoração ao Senhor, Deus Altíssimo, Criador dos céus e da terra.",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
@@ -39878,12 +40298,12 @@
                                 {
                                     "id": "gn.14.23", 
                                     "number": 23,
-                                    "text": "",
+                                    "text": "e juro que não ficarei com nada do que é teu, nem um fio de linha ou uma tira de sandália, para que jamais venhas a reclamar: 'Abrão ficou rico à minha custa!'",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "e juro que não ficarei com nada do que é teu, nem um fio de linha ou uma tira de sandália, para que jamais venhas a reclamar: 'Abrão ficou rico à minha custa!'",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
@@ -39896,12 +40316,12 @@
                                 {
                                     "id": "gn.14.24", 
                                     "number": 24,
-                                    "text": "",
+                                    "text": "Nada quero para mim, senão o que os meus servos comeram e a porção pertecente a Aner, Escol e Manre, os quais me acompanharam. Que eles recebam seu devido quinhão!\"",
                                     "text_hebrew": [],
                                     "speeches": [
                                         {
                                             "character": "Comum",
-                                            "text": "",
+                                            "text": "Nada quero para mim, senão o que os meus servos comeram e a porção pertecente a Aner, Escol e Manre, os quais me acompanharam. Que eles recebam seu devido quinhão!\"",
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
