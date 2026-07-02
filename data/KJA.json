@@ -39293,8 +39293,8 @@
                                             "emphasis": false
                                         }
                                     ],
-                                    "notes_id": null,
-                                    "notes": null,
+                                    "notes_id": 1,
+                                    "notes": "",
                                     "cross-reference": []
                                 },
                                 {
@@ -39395,8 +39395,8 @@
                                             "emphasis": true
                                         }
                                     ],
-                                    "notes_id": null,
-                                    "notes": null,
+                                    "notes_id": 2,
+                                    "notes": "",
                                     "cross-reference": []
                                 },
                                 {
@@ -39447,6 +39447,914 @@
                                             "text_hebrew": [],
                                             "color": "default",
                                             "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "gn.14.title",
+                            "number": 14,
+                            "title": "Quatro reis lutam contra cinco",
+                            "notes_id": null,
+                            "note_title": null,
+                            "verses": [
+                                {
+                                    "id": "gn.14.1", 
+                                    "number": 1,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.2", 
+                                    "number": 2,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.3", 
+                                    "number": 3,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 1,
+                                    "notes": "",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.4", 
+                                    "number": 4,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.5", 
+                                    "number": 5,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.6", 
+                                    "number": 6,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.7", 
+                                    "number": 7,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.8", 
+                                    "number": 8,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.9", 
+                                    "number": 9,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.10", 
+                                    "number": 10,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.11", 
+                                    "number": 11,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.subtitle",
+                                    "type": "section_title",
+                                    "title": "Abrão socorre Ló"
+                                },
+                                {
+                                    "id": "gn.14.12", 
+                                    "number": 12,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.13", 
+                                    "number": 13,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 2,
+                                    "notes": "",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.14", 
+                                    "number": 14,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.15", 
+                                    "number": 15,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.16", 
+                                    "number": 16,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.17", 
+                                    "number": 17,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.subtitle",
+                                    "type": "section_title",
+                                    "title": "Mequisedeque abençoa Abrão"
+                                },
+                                {
+                                    "id": "gn.14.18", 
+                                    "number": 18,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.19", 
+                                    "number": 19,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": 3,
+                                    "notes": "",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.20", 
+                                    "number": 20,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.21", 
+                                    "number": 21,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.22", 
+                                    "number": 22,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.23", 
+                                    "number": 23,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.14.24", 
+                                    "number": 24,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "gn.15.title",
+                            "number": 15,
+                            "title": "Abrão e Ló dcidem separar-se",
+                            "notes_id": null,
+                            "note_title": null,
+                            "verses": [
+                                {
+                                    "id": "gn.15.1", 
+                                    "number": 1,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.2", 
+                                    "number": 2,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.3", 
+                                    "number": 3,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.4", 
+                                    "number": 4,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.5", 
+                                    "number": 5,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        },
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.6", 
+                                    "number": 6,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.7", 
+                                    "number": 7,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": 1,
+                                    "notes": "",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.8", 
+                                    "number": 8,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.9", 
+                                    "number": 9,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.10", 
+                                    "number": 10,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.11", 
+                                    "number": 11,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.12", 
+                                    "number": 12,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.13", 
+                                    "number": 13,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.14", 
+                                    "number": 14,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.15", 
+                                    "number": 15,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.16", 
+                                    "number": 16,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.17", 
+                                    "number": 17,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.18", 
+                                    "number": 18,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "default",
+                                            "emphasis": false
+                                        },
+                                        {
+                                            "character": "Deus",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": 2,
+                                    "notes": "",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.19", 
+                                    "number": 19,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": 3,
+                                    "notes": "",
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.20", 
+                                    "number": 20,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "azul",
+                                            "emphasis": true
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.15.21", 
+                                    "number": 21,
+                                    "text": "",
+                                    "text_hebrew": [],
+                                    "speeches": [
+                                        {
+                                            "character": "Deus",
+                                            "text": "",
+                                            "text_hebrew": [],
+                                            "color": "azul",
+                                            "emphasis": true
                                         }
                                     ],
                                     "notes_id": null,
