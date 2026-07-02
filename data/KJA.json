@@ -38397,12 +38397,52 @@
                                     "id": "gn.12.5", 
                                     "number": 5,
                                     "text": "Levou consigo sua esposa Sarai, seu sobrinho Ló, todos os bens que haviam conseguido amealhar e todos os escravos comprados em Harã; tomaram o rumo das terras de Canaã e lá chegaram.",
-                                    "text_hebrew": [],
+                                    "text_hebrew": [
+                                        { "word": "וַיִּקַּח", "transliteration": "VAYQACH", "translation": "E tomou / levou" },
+                                        { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão" },
+                                        { "word": "אֶת- שָׂרַי", "transliteration": "ET-SÅRAY", "translation": "a Sarai," },
+                                        { "word": "אִשְׁתּוֹ", "transliteration": "ISHËTO", "translation": "sua mulher," },
+                                        { "word": "וְאֶת- לוֹט", "transliteration": "VËET-LOT", "translation": "e a Ló," },
+                                        { "word": "בֶּן- אָחִיו", "transliteration": "BEN-ÅCHYV", "translation": "filho de seu irmão," },
+                                        { "word": "וְאֶת- כָּל- רְכוּשָׁם", "transliteration": "VËET-KÅL-RËKHUSHÅM", "translation": "e todos os bens deles" },
+                                        { "word": "אֲשֶׁר", "transliteration": "ASHER", "translation": "que" },
+                                        { "word": "רָכָשׁוּ", "transliteration": "RÅKHÅSHU", "translation": "haviam adquirido," },
+                                        { "word": "וְאֶת- הַנֶּפֶשׁ", "transliteration": "VËET-HANEFESH", "translation": "e as pessoas / almas" },
+                                        { "word": "אֲשֶׁר- עָשׂוּ", "transliteration": "ASHER-ÅSU", "translation": "que haviam ganho / feito" },
+                                        { "word": "בְחָרָן", "transliteration": "VËCHÅRÅN", "translation": "em Harã;" },
+                                        { "word": "וַיֵּצְאוּ", "transliteration": "VAYETSËU", "translation": "e saíram" },
+                                        { "word": "לָלֶכֶת", "transliteration": "LÅLEKHET", "translation": "para ir" },
+                                        { "word": "אַרְצָה", "transliteration": "ARËTSÅH", "translation": "à terra de" },
+                                        { "word": "כְּנַעַן", "transliteration": "KËNAAN", "translation": "Canaã;" },
+                                        { "word": "וַיָּבֹאוּ", "transliteration": "VAYÅVOU", "translation": "e chegaram" },
+                                        { "word": "אַרְצָה", "transliteration": "ARËTSÅH", "translation": "à terra de" },
+                                        { "word": "כְּנָעַן:", "transliteration": "KËNÅAN:", "translation": "Canaã." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
                                             "text": "Levou consigo sua esposa Sarai, seu sobrinho Ló, todos os bens que haviam conseguido amealhar e todos os escravos comprados em Harã; tomaram o rumo das terras de Canaã e lá chegaram.",
-                                            "text_hebrew": [],
+                                            "text_hebrew": [
+                                                { "word": "וַיִּקַּח", "transliteration": "VAYQACH", "translation": "E tomou / levou" },
+                                                { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão" },
+                                                { "word": "אֶת- שָׂרַי", "transliteration": "ET-SÅRAY", "translation": "a Sarai," },
+                                                { "word": "אִשְׁתּוֹ", "transliteration": "ISHËTO", "translation": "sua mulher," },
+                                                { "word": "וְאֶת- לוֹט", "transliteration": "VËET-LOT", "translation": "e a Ló," },
+                                                { "word": "בֶּן- אָחִיו", "transliteration": "BEN-ÅCHYV", "translation": "filho de seu irmão," },
+                                                { "word": "וְאֶת- כָּל- רְכוּשָׁם", "transliteration": "VËET-KÅL-RËKHUSHÅM", "translation": "e todos os bens deles" },
+                                                { "word": "אֲשֶׁר", "transliteration": "ASHER", "translation": "que" },
+                                                { "word": "רָכָשׁוּ", "transliteration": "RÅKHÅSHU", "translation": "haviam adquirido," },
+                                                { "word": "וְאֶת- הַנֶּפֶשׁ", "transliteration": "VËET-HANEFESH", "translation": "e as pessoas / almas" },
+                                                { "word": "אֲשֶׁר- עָשׂוּ", "transliteration": "ASHER-ÅSU", "translation": "que haviam ganho / feito" },
+                                                { "word": "בְחָרָן", "transliteration": "VËCHÅRÅN", "translation": "em Harã;" },
+                                                { "word": "וַיֵּצְאוּ", "transliteration": "VAYETSËU", "translation": "e saíram" },
+                                                { "word": "לָלֶכֶת", "transliteration": "LÅLEKHET", "translation": "para ir" },
+                                                { "word": "אַרְצָה", "transliteration": "ARËTSÅH", "translation": "à terra de" },
+                                                { "word": "כְּנַעַן", "transliteration": "KËNAAN", "translation": "Canaã;" },
+                                                { "word": "וַיָּבֹאוּ", "transliteration": "VAYÅVOU", "translation": "e chegaram" },
+                                                { "word": "אַרְצָה", "transliteration": "ARËTSÅH", "translation": "à terra de" },
+                                                { "word": "כְּנָעַן:", "transliteration": "KËNÅAN:", "translation": "Canaã." }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         }
@@ -38415,12 +38455,38 @@
                                     "id": "gn.12.6", 
                                     "number": 6,
                                     "text": "Abrão atravessou toda a terra até o lugar onde ficava uma árvore sagrada chamada Carvalho de Moré, em Siquém. Naquele tempo, os cananeus viviam nessa região.",
-                                    "text_hebrew": [],
+                                    "text_hebrew": [
+                                        { "word": "וַיַּעֲבֹר", "transliteration": "VAYAAVOR", "translation": "E atravessou / passou" },
+                                        { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão" },
+                                        { "word": "בָּאָרֶץ", "transliteration": "BÅÅRETS", "translation": "pela terra" },
+                                        { "word": "עַד", "transliteration": "AD", "translation": "até" },
+                                        { "word": "מְקוֹם", "transliteration": "MËQOM", "translation": "o lugar de" },
+                                        { "word": "שְׁכֶם", "transliteration": "SHËKHEM", "translation": "Siquém," },
+                                        { "word": "עַד", "transliteration": "AD", "translation": "até" },
+                                        { "word": "אֵלוֹן", "transliteration": "ELON", "translation": "o carvalho / grande árvore de" },
+                                        { "word": "מוֹרֶה", "transliteration": "MOREH", "translation": "Moré;" },
+                                        { "word": "וְהַכְּנַעֲנִי", "transliteration": "VËHAKËNAANY", "translation": "e os cananeus" },
+                                        { "word": "אָז", "transliteration": "ÅZ", "translation": "então / naquela época" },
+                                        { "word": "בָּאָרֶץ:", "transliteration": "BÅÅRETS:", "translation": "[estavam] na terra." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
                                             "text": "Abrão atravessou toda a terra até o lugar onde ficava uma árvore sagrada chamada Carvalho de Moré, em Siquém. Naquele tempo, os cananeus viviam nessa região.",
-                                            "text_hebrew": [],
+                                            "text_hebrew": [
+                                                { "word": "וַיַּעֲבֹר", "transliteration": "VAYAAVOR", "translation": "E atravessou / passou" },
+                                                { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão" },
+                                                { "word": "בָּאָרֶץ", "transliteration": "BÅÅRETS", "translation": "pela terra" },
+                                                { "word": "עַד", "transliteration": "AD", "translation": "até" },
+                                                { "word": "מְקוֹם", "transliteration": "MËQOM", "translation": "o lugar de" },
+                                                { "word": "שְׁכֶם", "transliteration": "SHËKHEM", "translation": "Siquém," },
+                                                { "word": "עַד", "transliteration": "AD", "translation": "até" },
+                                                { "word": "אֵלוֹן", "transliteration": "ELON", "translation": "o carvalho / grande árvore de" },
+                                                { "word": "מוֹרֶה", "transliteration": "MOREH", "translation": "Moré;" },
+                                                { "word": "וְהַכְּנַעֲנִי", "transliteration": "VËHAKËNAANY", "translation": "e os cananeus" },
+                                                { "word": "אָז", "transliteration": "ÅZ", "translation": "então / naquela época" },
+                                                { "word": "בָּאָרֶץ:", "transliteration": "BÅÅRETS:", "translation": "[estavam] na terra." }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         }
@@ -38433,26 +38499,58 @@
                                     "id": "gn.12.7", 
                                     "number": 7,
                                     "text": "Então o Senhor apareceu a Abrão e lhe prometeu: \"É à tua descendência que darei esta terra!\" E Abrão construiu ali um altar dedicado a Yahweh, porquanto ali o Senhor havia aparecido e falado com ele.",
-                                    "text_hebrew": [],
+                                    "text_hebrew": [
+                                        { "word": "וַיֵּרָא", "transliteration": "VAYERÅ", "translation": "E apareceu" },
+                                        { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                        { "word": "אֶל- אַבְרָם", "transliteration": "EL-AVËRÅM", "translation": "a Abrão" },
+                                        { "word": "וַיֹּאמֶר", "transliteration": "VAYOMER", "translation": "e disse:" },
+                                        { "word": "לְזַרְעֲךָ", "transliteration": "LËZARËAKHA", "translation": "À tua descendência / semente" },
+                                        { "word": "אֶתֵּן", "transliteration": "ETEN", "translation": "darei" },
+                                        { "word": "אֶת- הָאָרֶץ", "transliteration": "ET-HÅÅRETS", "translation": "esta" },
+                                        { "word": "הַזֹּאת", "transliteration": "HAZOT", "translation": "terra." },
+                                        { "word": "וַיִּבֶן", "transliteration": "VAYVEN", "translation": "E ele edificou" },
+                                        { "word": "שָׁם", "transliteration": "SHÅM", "translation": "ali" },
+                                        { "word": "מִזְבֵּחַ", "transliteration": "MIZËBEACH", "translation": "um altar" },
+                                        { "word": "לַיהוָה", "transliteration": "LAYHVH", "translation": "ao SENHOR," },
+                                        { "word": "הַנִּרְאֶה", "transliteration": "HANIRËEH", "translation": "que havia aparecido" },
+                                        { "word": "אֵלָיו:", "transliteration": "ELÅYV:", "translation": "a ele." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
                                             "text": "Então o Senhor apareceu a Abrão e lhe prometeu: ",
-                                            "text_hebrew": [],
+                                            "text_hebrew": [
+                                                { "word": "וַיֵּרָא", "transliteration": "VAYERÅ", "translation": "E apareceu" },
+                                                { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                                { "word": "אֶל- אַבְרָם", "transliteration": "EL-AVËRÅM", "translation": "a Abrão" },
+                                                { "word": "וַיֹּאמֶר", "transliteration": "VAYOMER", "translation": "e disse:" }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         },
                                         {
                                             "character": "Deus",
                                             "text": "\"É à tua descendência que darei esta terra!\" ",
-                                            "text_hebrew": [],
+                                            "text_hebrew": [
+                                                { "word": "לְזַרְעֲךָ", "transliteration": "LËZARËAKHA", "translation": "À tua descendência / semente" },
+                                                { "word": "אֶתֵּן", "transliteration": "ETEN", "translation": "darei" },
+                                                { "word": "אֶת- הָאָרֶץ", "transliteration": "ET-HÅÅRETS", "translation": "esta" },
+                                                { "word": "הַזֹּאת", "transliteration": "HAZOT", "translation": "terra." }
+                                            ],
                                             "color": "azul",
                                             "emphasis": true
                                         },
                                         {
                                             "character": "Comum",
                                             "text": "E Abrão construiu ali um altar dedicado a Yahweh, porquanto ali o Senhor havia aparecido e falado com ele.",
-                                            "text_hebrew": [],
+                                            "text_hebrew": [
+                                                { "word": "וַיִּבֶן", "transliteration": "VAYVEN", "translation": "E ele edificou" },
+                                                { "word": "שָׁם", "transliteration": "SHÅM", "translation": "ali" },
+                                                { "word": "מִזְבֵּחַ", "transliteration": "MIZËBEACH", "translation": "um altar" },
+                                                { "word": "לַיהוָה", "transliteration": "LAYHVH", "translation": "ao SENHOR," },
+                                                { "word": "הַנִּרְאֶה", "transliteration": "HANIRËEH", "translation": "que havia aparecido" },
+                                                { "word": "אֵלָיו:", "transliteration": "ELÅYV:", "translation": "a ele." }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         }
@@ -38465,12 +38563,48 @@
                                     "id": "gn.12.8", 
                                     "number": 8,
                                     "text": "Dali prosseguiu Abrão ruma às colinas a leste de Betel, onde armou seu acampamento, tendo Betel a oeste e Ai a leste. Edificou também nesse lugar um altar em sinal de louvor e adoração ao Senhor e invocou o Nome de Deus.",
-                                    "text_hebrew": [],
+                                    "text_hebrew": [
+                                        { "word": "וַיַּעְתֵּק", "transliteration": "VAYAËTEQ", "translation": "E moveu-se / deslocou-se" },
+                                        { "word": "מִשָּׁם", "transliteration": "MISHÅM", "translation": "dali" },
+                                        { "word": "הָהָרָה", "transliteration": "HÅHÅRÅH", "translation": "em direção à região montanhosa / ao monte" },
+                                        { "word": "מִקֶּדֶם", "transliteration": "MIQEDEM", "translation": "ao oriente / a leste" },
+                                        { "word": "לְבֵית- אֵל", "transliteration": "LËVEYT-EL", "translation": "de Betel," },
+                                        { "word": "וַיֵּט", "transliteration": "VAYET", "translation": "e armou" },
+                                        { "word": "אָהֳלֹה", "transliteration": "ÅHOLOH", "translation": "a sua tenda," },
+                                        { "word": "בֵּית- אֵל", "transliteration": "BEYT-EL", "translation": "[ficando] Betel" },
+                                        { "word": "מִיָּם", "transliteration": "MYÅM", "translation": "ao ocidente / do lado do mar (oeste)," },
+                                        { "word": "וְהָעַי", "transliteration": "VËHÅAY", "translation": "e Ai" },
+                                        { "word": "מִקֶּדֶם", "transliteration": "MIQEDEM", "translation": "ao oriente / a leste." },
+                                        { "word": "וַיִּבֶן- שָׁם", "transliteration": "VAYVEN-SHÅM", "translation": "E edificou ali" },
+                                        { "word": "מִזְבֵּחַ", "transliteration": "MIZËBEACH", "translation": "un altar" },
+                                        { "word": "לַיהוָה", "transliteration": "LAYHVH", "translation": "ao SENHOR" },
+                                        { "word": "וַיִּקְרָא", "transliteration": "VAYQËRÅ", "translation": "e invocou" },
+                                        { "word": "בְּשֵׁם", "transliteration": "BËSHEM", "translation": "o nome de / pelo nome do" },
+                                        { "word": "יְהוָה:", "transliteration": "YHVH:", "translation": "SENHOR." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
                                             "text": "Dali prosseguiu Abrão ruma às colinas a leste de Betel, onde armou seu acampamento, tendo Betel a oeste e Ai a leste. Edificou também nesse lugar um altar em sinal de louvor e adoração ao Senhor e invocou o Nome de Deus.",
-                                            "text_hebrew": [],
+                                            "text_hebrew": [
+                                                { "word": "וַיַּעְתֵּק", "transliteration": "VAYAËTEQ", "translation": "E moveu-se / deslocou-se" },
+                                                { "word": "מִשָּׁם", "transliteration": "MISHÅM", "translation": "dali" },
+                                                { "word": "הָהָרָה", "transliteration": "HÅHÅRÅH", "translation": "em direção à região montanhosa / ao monte" },
+                                                { "word": "מִקֶּדֶם", "transliteration": "MIQEDEM", "translation": "ao oriente / a leste" },
+                                                { "word": "לְבֵית- אֵל", "transliteration": "LËVEYT-EL", "translation": "de Betel," },
+                                                { "word": "וַיֵּט", "transliteration": "VAYET", "translation": "e armou" },
+                                                { "word": "אָהֳלֹה", "transliteration": "ÅHOLOH", "translation": "a sua tenda," },
+                                                { "word": "בֵּית- אֵל", "transliteration": "BEYT-EL", "translation": "[ficando] Betel" },
+                                                { "word": "מִיָּם", "transliteration": "MYÅM", "translation": "ao ocidente / do lado do mar (oeste)," },
+                                                { "word": "וְהָעַי", "transliteration": "VËHÅAY", "translation": "e Ai" },
+                                                { "word": "מִקֶּדֶם", "transliteration": "MIQEDEM", "translation": "ao oriente / a leste." },
+                                                { "word": "וַיִּבֶן- שָׁם", "transliteration": "VAYVEN-SHÅM", "translation": "E edificou ali" },
+                                                { "word": "מִזְבֵּחַ", "transliteration": "MIZËBEACH", "translation": "un altar" },
+                                                { "word": "לַיהוָה", "transliteration": "LAYHVH", "translation": "ao SENHOR" },
+                                                { "word": "וַיִּקְרָא", "transliteration": "VAYQËRÅ", "translation": "e invocou" },
+                                                { "word": "בְּשֵׁם", "transliteration": "BËSHEM", "translation": "o nome de / pelo nome do" },
+                                                { "word": "יְהוָה:", "transliteration": "YHVH:", "translation": "SENHOR." }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         }
@@ -38483,12 +38617,489 @@
                                     "id": "gn.12.9", 
                                     "number": 9,
                                     "text": "Mais tarde, Abrão partiu dali e seguiu em direção ao Neguebe, região sul das terras de Canaã.",
-                                    "text_hebrew": [],
+                                    "text_hebrew": [
+                                        { "word": "וַיִּסַּע", "transliteration": "VAYSA", "translation": "E partiu / caminhou" },
+                                        { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão," },
+                                        { "word": "הָלוֹךְ", "transliteration": "HÅLOKH", "translation": "indo / avançando" },
+                                        { "word": "וְנָסוֹעַ", "transliteration": "VËNÅSOA", "translation": "e prosseguindo" },
+                                        { "word": "הַנֶּגְבָּה:", "transliteration": "HANEGËBÅH:", "translation": "em direção ao Neguebe / ao Sul." }
+                                    ],
                                     "speeches": [
                                         {
                                             "character": "Comum",
                                             "text": "Mais tarde, Abrão partiu dali e seguiu em direção ao Neguebe, região sul das terras de Canaã.",
-                                            "text_hebrew": [],
+                                            "text_hebrew": [
+                                                { "word": "וַיִּסַּע", "transliteration": "VAYSA", "translation": "E partiu / caminhou" },
+                                                { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão," },
+                                                { "word": "הָלוֹךְ", "transliteration": "HÅLOKH", "translation": "indo / avançando" },
+                                                { "word": "וְנָסוֹעַ", "transliteration": "VËNÅSOA", "translation": "e prosseguindo" },
+                                                { "word": "הַנֶּגְבָּה:", "transliteration": "HANEGËBÅH:", "translation": "em direção ao Neguebe / ao Sul." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.12.subtitle",
+                                    "type": "section_title",
+                                    "title": "Abrão migra para o Egito"
+                                },
+                                {
+                                    "id": "gn.12.10", 
+                                    "number": 10,
+                                    "text": "Contudo, sobreveio grande escassez e fome sobre as terras de Canaã, e Abrão desceu para o Egito, para ali viver algum tempo, porquanto a falta de alimentos assolava a terra.",
+                                    "text_hebrew": [
+                                        { "word": "וַיְהִי", "transliteration": "VAYËHY", "translation": "E houve / aconteceu" },
+                                        { "word": "רָעָב", "transliteration": "RÅÅV", "translation": "uma fome" },
+                                        { "word": "בָּאָרֶץ", "transliteration": "BÅÅRETS", "translation": "na terra;" },
+                                        { "word": "וַיֵּרֶד", "transliteration": "VAYERED", "translation": "e desceu" },
+                                        { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão" },
+                                        { "word": "מִצְרַיְמָה", "transliteration": "MITSËRAYËMÅH", "translation": "ao Egito," },
+                                        { "word": "לָגוּר", "transliteration": "LÅGUR", "translation": "para habitar / peregrinar" },
+                                        { "word": "שָׁם", "transliteration": "SHÅM", "translation": "ali," },
+                                        { "word": "כִּי- כָבֵד", "transliteration": "KY-KHÅVED", "translation": "porque era severa / pesada" },
+                                        { "word": "הָרָעָב", "transliteration": "HÅRÅÅV", "translation": "a fome" },
+                                        { "word": "בָּאָרֶץ:", "transliteration": "BÅÅRETS:", "translation": "na terra." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Contudo, sobreveio grande escassez e fome sobre as terras de Canaã, e Abrão desceu para o Egito, para ali viver algum tempo, porquanto a falta de alimentos assolava a terra.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְהִי", "transliteration": "VAYËHY", "translation": "E houve / aconteceu" },
+                                                { "word": "רָעָב", "transliteration": "RÅÅV", "translation": "uma fome" },
+                                                { "word": "בָּאָרֶץ", "transliteration": "BÅÅRETS", "translation": "na terra;" },
+                                                { "word": "וַיֵּרֶד", "transliteration": "VAYERED", "translation": "e desceu" },
+                                                { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão" },
+                                                { "word": "מִצְרַיְמָה", "transliteration": "MITSËRAYËMÅH", "translation": "ao Egito," },
+                                                { "word": "לָגוּר", "transliteration": "LÅGUR", "translation": "para habitar / peregrinar" },
+                                                { "word": "שָׁם", "transliteration": "SHÅM", "translation": "ali," },
+                                                { "word": "כִּי- כָבֵד", "transliteration": "KY-KHÅVED", "translation": "porque era severa / pesada" },
+                                                { "word": "הָרָעָב", "transliteration": "HÅRÅÅV", "translation": "a fome" },
+                                                { "word": "בָּאָרֶץ:", "transliteration": "BÅÅRETS:", "translation": "na terra." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.12.11", 
+                                    "number": 11,
+                                    "text": "Quando estavam chegando ao Egito, ocorreu a Abrão propor a Sarai, sua esposa: \"Escuta com atenção! Tu és uma mulher muito bonita;",
+                                    "text_hebrew": [
+                                        { "word": "וַיְהִי", "transliteration": "VAYËHY", "translation": "E aconteceu [que]" },
+                                        { "word": "כַּאֲשֶׁר", "transliteration": "KAASHER", "translation": "quando" },
+                                        { "word": "הִקְרִיב", "transliteration": "HIQËRYV", "translation": "ele estava prestes / aproximava-se" },
+                                        { "word": "לָבוֹא", "transliteration": "LÅVO", "translation": "para entrar" },
+                                        { "word": "מִצְרָיְמָה", "transliteration": "MITSËRÅYËMÅH", "translation": "no Egito," },
+                                        { "word": "וַיֹּאמֶer", "transliteration": "VAYOMER", "translation": "disse" },
+                                        { "word": "אֶל- שָׂרַי", "transliteration": "EL-SÅRAY", "translation": "a Sarai," },
+                                        { "word": "אִשְׁתּוֹ", "transliteration": "ISHËTO", "translation": "sua mulher:" },
+                                        { "word": "הִנֵּה- נָא", "transliteration": "HINEH-NÅ", "translation": "Eis que / Vê bem" },
+                                        { "word": "יָדַעְתִּי", "transliteration": "YÅDAËTY", "translation": "eu sei" },
+                                        { "word": "כִּי", "transliteration": "KY", "translation": "que" },
+                                        { "word": "אִשָּׁה", "transliteration": "ISHÅH", "translation": "[és] uma mulher" },
+                                        { "word": "יְפַת- מַרְאֶה", "transliteration": "YËFAT-MARËEH", "translation": "de bela aparência / formosa à vista" },
+                                        { "word": "אָתְּ:", "transliteration": "ÅTË:", "translation": "tu." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Quando estavam chegando ao Egito, ocorreu a Abrão propor a Sarai, sua esposa: \"Escuta com atenção! Tu és uma mulher muito bonita;",
+                                            "text_hebrew": [
+                                                { "word": "וַיְהִי", "transliteration": "VAYËHY", "translation": "E aconteceu [que]" },
+                                                { "word": "כַּאֲשֶׁר", "transliteration": "KAASHER", "translation": "quando" },
+                                                { "word": "הִקְרִיב", "transliteration": "HIQËRYV", "translation": "ele estava prestes / aproximava-se" },
+                                                { "word": "לָבוֹא", "transliteration": "LÅVO", "translation": "para entrar" },
+                                                { "word": "מִצְרָיְמָה", "transliteration": "MITSËRÅYËMÅH", "translation": "no Egito," },
+                                                { "word": "וַיֹּאמֶer", "transliteration": "VAYOMER", "translation": "disse" },
+                                                { "word": "אֶל- שָׂרַי", "transliteration": "EL-SÅRAY", "translation": "a Sarai," },
+                                                { "word": "אִשְׁתּוֹ", "transliteration": "ISHËTO", "translation": "sua mulher:" },
+                                                { "word": "הִנֵּה- נָא", "transliteration": "HINEH-NÅ", "translation": "Eis que / Vê bem" },
+                                                { "word": "יָדַעְתִּי", "transliteration": "YÅDAËTY", "translation": "eu sei" },
+                                                { "word": "כִּי", "transliteration": "KY", "translation": "que" },
+                                                { "word": "אִשָּׁה", "transliteration": "ISHÅH", "translation": "[és] uma mulher" },
+                                                { "word": "יְפַת- מַרְאֶה", "transliteration": "YËFAT-MARËEH", "translation": "de bela aparência / formosa à vista" },
+                                                { "word": "אָתְּ:", "transliteration": "ÅTË:", "translation": "tu." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.12.12",
+                                    "number": 12,
+                                    "text": "portanto, quando os egípcios contemplarem tua formosura alegarão: 'É mulher dele!' e me matarão, preservando a tua vida.",
+                                    "text_hebrew": [
+                                        { "word": "וְהָיָה", "transliteration": "VËHÅYÅH", "translation": "E acontecerá [que]" },
+                                        { "word": "כִּי- יִרְאוּ", "transliteration": "KY-YRËU", "translation": "quando virem" },
+                                        { "word": "אֹתָךְ", "transliteration": "OTÅKH", "translation": "a ti" },
+                                        { "word": "הַמִּצְרִים", "transliteration": "HAMITSËRYM", "translation": "os egípcios," },
+                                        { "word": "וְאָמְרוּ", "transliteration": "VËÅMËRU", "translation": "dirão:" },
+                                        { "word": "אִשְׁתּוֹ", "transliteration": "ISHËTO", "translation": "Sua mulher" },
+                                        { "word": "זֹאת", "transliteration": "ZOT", "translation": "[é] esta;" },
+                                        { "word": "וְהָרְגוּ", "transliteration": "VËHÅRËGU", "translation": "e matarão" },
+                                        { "word": "אֹתִי", "transliteration": "OTY", "translation": "a mim," },
+                                        { "word": "וְאֹתָךְ", "transliteration": "VËOTÅKH", "translation": "mas a ti" },
+                                        { "word": "יְחַיּוּ:", "transliteration": "YËCHAYU:", "translation": "deixarão viver / pouparão a vida." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "portanto, quando os egípcios contemplarem tua formosura alegarão: 'É mulher dele!' e me matarão, preservando a tua vida.",
+                                            "text_hebrew": [
+                                                { "word": "וְהָיָה", "transliteration": "VËHÅYÅH", "translation": "E acontecerá [que]" },
+                                                { "word": "כִּי- יִרְאוּ", "transliteration": "KY-YRËU", "translation": "quando virem" },
+                                                { "word": "אֹתָךְ", "transliteration": "OTÅKH", "translation": "a ti" },
+                                                { "word": "הַמִּצְרִים", "transliteration": "HAMITSËRYM", "translation": "os egípcios," },
+                                                { "word": "וְאָמְרוּ", "transliteration": "VËÅMËRU", "translation": "dirão:" },
+                                                { "word": "אִשְׁתּוֹ", "transliteration": "ISHËTO", "translation": "Sua mulher" },
+                                                { "word": "זֹאת", "transliteration": "ZOT", "translation": "[é] esta;" },
+                                                { "word": "וְהָרְגוּ", "transliteration": "VËHÅRËGU", "translation": "e matarão" },
+                                                { "word": "אֹתִי", "transliteration": "OTY", "translation": "a mim," },
+                                                { "word": "וְאֹתָךְ", "transliteration": "VËOTÅKH", "translation": "mas a ti" },
+                                                { "word": "יְחַיּוּ:", "transliteration": "YËCHAYU:", "translation": "deixarão viver / pouparão a vida." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.12.13", 
+                                    "number": 13,
+                                    "text": "Sendo assim, suplico-te, dize que és minha irmã, para que me tratem bem por consideração a ti e, por tua causa, conservem também a minha vida!\"",
+                                    "text_hebrew": [
+                                        { "word": "אִמְרִי- נָא", "transliteration": "IMËRY-NÅ", "translation": "Dize, peço-te / por favor dize," },
+                                        { "word": "אֲחֹתִי", "transliteration": "ACHOTY", "translation": "[que és] minha irmã," },
+                                        { "word": "אָתְּ", "transliteration": "ÅTË", "translation": "tu;" },
+                                        { "word": "לְמַעַן", "transliteration": "LËMAAN", "translation": "para que" },
+                                        { "word": "יִיטַב- לִי", "transliteration": "YYTAV-LY", "translation": "tudo corra bem para mim / me tratem bem" },
+                                        { "word": "בַעֲבוּרֵךְ", "transliteration": "VAAVUREKH", "translation": "por tua causa," },
+                                        { "word": "וְחָיְתָה", "transliteration": "VËCHÅYËTÅH", "translation": "e viva / seja poupada" },
+                                        { "word": "נַפְשִׁי", "transliteration": "NAFËSHY", "translation": "a minha alma / minha vida" },
+                                        { "word": "בִּגְלָלֵךְ:", "transliteration": "BIGËLÅLEKH:", "translation": "por amor de ti / graças a ti." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Sendo assim, suplico-te, dize que és minha irmã, para que me tratem bem por consideração a ti e, por tua causa, conservem também a minha vida!\"",
+                                            "text_hebrew": [
+                                                { "word": "אִמְרִי- נָא", "transliteration": "IMËRY-NÅ", "translation": "Dize, peço-te / por favor dize," },
+                                                { "word": "אֲחֹתִי", "transliteration": "ACHOTY", "translation": "[que és] minha irmã," },
+                                                { "word": "אָתְּ", "transliteration": "ÅTË", "translation": "tu;" },
+                                                { "word": "לְמַעַן", "transliteration": "LËMAAN", "translation": "para que" },
+                                                { "word": "יִיטַב- לִי", "transliteration": "YYTAV-LY", "translation": "tudo corra bem para mim / me tratem bem" },
+                                                { "word": "בַעֲבוּרֵךְ", "transliteration": "VAAVUREKH", "translation": "por tua causa," },
+                                                { "word": "וְחָיְתָה", "transliteration": "VËCHÅYËTÅH", "translation": "e viva / seja poupada" },
+                                                { "word": "נַפְשִׁי", "transliteration": "NAFËSHY", "translation": "a minha alma / minha vida" },
+                                                { "word": "בִּגְלָלֵךְ:", "transliteration": "BIGËLÅLEKH:", "translation": "por amor de ti / graças a ti." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.12.14", 
+                                    "number": 14,
+                                    "text": "De fato, quando Abrão chegou ao Egito, os egípcios viram que Sarai era uma mulher muito bela.",
+                                    "text_hebrew": [
+                                        { "word": "וַיְהִי", "transliteration": "VAYËHY", "translation": "E aconteceu [que]" },
+                                        { "word": "כְּבוֹא", "transliteration": "KËVO", "translation": "ao entrar / vindo" },
+                                        { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão" },
+                                        { "word": "מִצְרָיְמָה", "transliteration": "MITSËRÅYËMÅH", "translation": "no Egito," },
+                                        { "word": "וַיִּרְאוּ", "transliteration": "VAYRËU", "translation": "viram" },
+                                        { "word": "הַמִּצְרִים", "transliteration": "HAMITSËRYM", "translation": "los egípcios" },
+                                        { "word": "אֶת- הָאִשָּׁה", "transliteration": "ET-HÅISHÅH", "translation": "a mulher," },
+                                        { "word": "כִּי- יָפָה", "transliteration": "KY-YÅFÅH", "translation": "que [era] formosa / bela" },
+                                        { "word": "הִוא", "transliteration": "HIV", "translation": "ela," },
+                                        { "word": "מְאֹד:", "transliteration": "MËOD:", "translation": "extremamente / muito." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "De fato, quando Abrão chegou ao Egito, os egípcios viram que Sarai era uma mulher muito bela.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְהִי", "transliteration": "VAYËHY", "translation": "E aconteceu [que]" },
+                                                { "word": "כְּבוֹא", "transliteration": "KËVO", "translation": "ao entrar / vindo" },
+                                                { "word": "אַבְרָם", "transliteration": "AVËRÅM", "translation": "Abrão" },
+                                                { "word": "מִצְרָיְמָה", "transliteration": "MITSËRÅYËMÅH", "translation": "no Egito," },
+                                                { "word": "וַיִּרְאוּ", "transliteration": "VAYRËU", "translation": "viram" },
+                                                { "word": "הַמִּצְרִים", "transliteration": "HAMITSËRYM", "translation": "los egípcios" },
+                                                { "word": "אֶת- הָאִשָּׁה", "transliteration": "ET-HÅISHÅH", "translation": "a mulher," },
+                                                { "word": "כִּי- יָפָה", "transliteration": "KY-YÅFÅH", "translation": "que [era] formosa / bela" },
+                                                { "word": "הִוא", "transliteration": "HIV", "translation": "ela," },
+                                                { "word": "מְאֹד:", "transliteration": "MËOD:", "translation": "extremamente / muito." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.12.15", 
+                                    "number": 15,
+                                    "text": "Viram-na os oficiais da corte de Faraó e a elogiaram sobremaneira diante do seu monarca, e Sarai foi levada ao palácio de Faraó.",
+                                    "text_hebrew": [
+                                        { "word": "וַיִּרְאוּ", "transliteration": "VAYRËU", "translation": "E viram" },
+                                        { "word": "אֹתָהּ", "transliteration": "OTÅH", "translation": "a ela" },
+                                        { "word": "שָׂרֵי", "transliteration": "SÅREY", "translation": "os príncipes / oficiais de" },
+                                        { "word": "פַרְעֹה", "transliteration": "FARËOH", "translation": "Faraó," },
+                                        { "word": "וַיְהַלְלוּ", "transliteration": "VAYËHALËLU", "translation": "e elogiaram-na / gabaram-na" },
+                                        { "word": "אֹתָהּ", "transliteration": "OTÅH", "translation": "a ela" },
+                                        { "word": "אֶל- פַּרְעֹה", "transliteration": "EL-PARËOH", "translation": "diante de Faraó;" },
+                                        { "word": "וַתֻּקַּח", "transliteration": "VATAQACH", "translation": "e foi levada / tomada" },
+                                        { "word": "הָאִשָּׁה", "transliteration": "HÅISHÅH", "translation": "a mulher" },
+                                        { "word": "בֵּית", "transliteration": "BEYT", "translation": "para a casa de" },
+                                        { "word": "פַּרְעֹה:", "transliteration": "PARËOH:", "translation": "Faraó." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Viram-na os oficiais da corte de Faraó e a elogiaram sobremaneira diante do seu monarca, e Sarai foi levada ao palácio de Faraó.",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּרְאוּ", "transliteration": "VAYRËU", "translation": "E viram" },
+                                                { "word": "אֹתָהּ", "transliteration": "OTÅH", "translation": "a ela" },
+                                                { "word": "שָׂרֵי", "transliteration": "SÅREY", "translation": "os príncipes / oficiais de" },
+                                                { "word": "פַרְעֹה", "transliteration": "FARËOH", "translation": "Faraó," },
+                                                { "word": "וַיְהַלְלוּ", "transliteration": "VAYËHALËLU", "translation": "e elogiaram-na / gabaram-na" },
+                                                { "word": "אֹתָהּ", "transliteration": "OTÅH", "translation": "a ela" },
+                                                { "word": "אֶל- פַּרְעֹה", "transliteration": "EL-PARËOH", "translation": "diante de Faraó;" },
+                                                { "word": "וַתֻּקַּח", "transliteration": "VATAQACH", "translation": "e foi levada / tomada" },
+                                                { "word": "הָאִשָּׁה", "transliteration": "HÅISHÅH", "translation": "a mulher" },
+                                                { "word": "בֵּית", "transliteration": "BEYT", "translation": "para a casa de" },
+                                                { "word": "פַּרְעֹה:", "transliteration": "PARËOH:", "translation": "Faraó." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.12.16", 
+                                    "number": 16,
+                                    "text": "Este, por causa dela, tratou muito bem a Abrão, que recebeu ovelhas, bois, jumentos e jumentas, servos e servas, e vários camelos.",
+                                    "text_hebrew": [
+                                        { "word": "וּלְאַבְרָם", "transliteration": "ULËAVËRÅM", "translation": "E a Abrão" },
+                                        { "word": "הֵיטִיב", "transliteration": "HEYTYV", "translation": "ele tratou bem / fez bem" },
+                                        { "word": "בַּעֲבוּרָהּ", "transliteration": "BAAVURÅH", "translation": "por causa dela / por amor dela;" },
+                                        { "word": "וַיְהִי- לוֹ", "transliteration": "VAYËHY-LO", "translation": "e ele veio a ter / adquiriu" },
+                                        { "word": "צֹאן- וּבָקָר", "transliteration": "TSON-UVÅQÅR", "translation": "ovelhas e bois / gado miúdo e gado graúdo," },
+                                        { "word": "וַחֲמֹרִים", "transliteration": "VACHAMORYM", "translation": "e jumentos," },
+                                        { "word": "וַעֲבָדִים", "transliteration": "VAAVÅDYM", "translation": "e servos / escravos," },
+                                        { "word": "וּשְׁפָחֹת", "transliteration": "USHËFÅCHOT", "translation": "e servas / escravas," },
+                                        { "word": "וַאֲתֹנֹת", "transliteration": "VAATONOT", "translation": "e jumentas," },
+                                        { "word": "וּגְמַלִּים:", "transliteration": "UGËMALYM:", "translation": "e camelos." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Este, por causa dela, tratou muito bem a Abrão, que recebeu ovelhas, bois, jumentos e jumentas, servos e servas, e vários camelos.",
+                                            "text_hebrew": [
+                                                { "word": "וּלְאַבְרָם", "transliteration": "ULËAVËRÅM", "translation": "E a Abrão" },
+                                                { "word": "הֵיטִיב", "transliteration": "HEYTYV", "translation": "ele tratou bem / fez bem" },
+                                                { "word": "בַּעֲבוּרָהּ", "transliteration": "BAAVURÅH", "translation": "por causa dela / por amor dela;" },
+                                                { "word": "וַיְהִי- לוֹ", "transliteration": "VAYËHY-LO", "translation": "e ele veio a ter / adquiriu" },
+                                                { "word": "צֹאן- וּבָקָר", "transliteration": "TSON-UVÅQÅR", "translation": "ovelhas e bois / gado miúdo e gado graúdo," },
+                                                { "word": "וַחֲמֹרִים", "transliteration": "VACHAMORYM", "translation": "e jumentos," },
+                                                { "word": "וַעֲבָדִים", "transliteration": "VAAVÅDYM", "translation": "e servos / escravos," },
+                                                { "word": "וּשְׁפָחֹת", "transliteration": "USHËFÅCHOT", "translation": "e servas / escravas," },
+                                                { "word": "וַאֲתֹנֹת", "transliteration": "VAATONOT", "translation": "e jumentas," },
+                                                { "word": "וּגְמַלִּים:", "transliteration": "UGËMALYM:", "translation": "e camelos." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.12.17", 
+                                    "number": 17,
+                                    "text": "Contudo, por causa de Sarai, o Senhor Deus castigou Faraó, sua família, e toda a sua corte, com doenças horríveis.",
+                                    "text_hebrew": [
+                                        { "word": "וַיְנַגַּע", "transliteration": "VAYËNAGA", "translation": "E feriu / afligiu" },
+                                        { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                        { "word": "אֶת- פַּרְעֹה", "transliteration": "ET-PARËOH", "translation": "a Faraó" },
+                                        { "word": "נְגָעִים", "transliteration": "NËGÅYM", "translation": "com pragas / feridas" },
+                                        { "word": "גְּדֹלִים", "transliteration": "GËDOLYM", "translation": "grandes," },
+                                        { "word": "וְאֶת- בֵּיתוֹ", "transliteration": "VËET-BEYTO", "translation": "e à sua casa," },
+                                        { "word": "עַל- דְּבַר", "transliteration": "AL-DËVAR", "translation": "por causa de / por motivo de" },
+                                        { "word": "שָׂרַי", "transliteration": "SÅRAY", "translation": "Sarai," },
+                                        { "word": "אֵשֶׁת", "transliteration": "ESHET", "translation": "mulher de" },
+                                        { "word": "אַבְרָם:", "transliteration": "AVËRÅM:", "translation": "Abrão." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Contudo, por causa de Sarai, o Senhor Deus castigou Faraó, sua família, e toda a sua corte, com doenças horríveis.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְנַגַּע", "transliteration": "VAYËNAGA", "translation": "E feriu / afligiu" },
+                                                { "word": "יְהוָה", "transliteration": "YHVH", "translation": "o SENHOR" },
+                                                { "word": "אֶת- פַּרְעֹה", "transliteration": "ET-PARËOH", "translation": "a Faraó" },
+                                                { "word": "נְגָעִים", "transliteration": "NËGÅYM", "translation": "com pragas / feridas" },
+                                                { "word": "גְּדֹלִים", "transliteration": "GËDOLYM", "translation": "grandes," },
+                                                { "word": "וְאֶת- בֵּיתוֹ", "transliteration": "VËET-BEYTO", "translation": "e à sua casa," },
+                                                { "word": "עַל- דְּבַר", "transliteration": "AL-DËVAR", "translation": "por causa de / por motivo de" },
+                                                { "word": "שָׂרַי", "transliteration": "SÅRAY", "translation": "Sarai," },
+                                                { "word": "אֵשֶׁת", "transliteration": "ESHET", "translation": "mulher de" },
+                                                { "word": "אַבְרָם:", "transliteration": "AVËRÅM:", "translation": "Abrão." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.12.18", 
+                                    "number": 18,
+                                    "text": "Por esse motivo,certo dia Faraó ordena que Abrão seja trazido à sua presença e indaga-lhe: \"Que é isto que me fizeste? Porque não me declaraste que ela era tua mulher?",
+                                    "text_hebrew": [
+                                        { "word": "וַיִּקְרָא", "transliteration": "VAYQËRÅ", "translation": "E chamou" },
+                                        { "word": "פַרְעֹה", "transliteration": "FARËOH", "translation": "Faraó" },
+                                        { "word": "לְאַבְרָם", "transliteration": "LËAVËRÅM", "translation": "a Abrão" },
+                                        { "word": "וַיֹּאמֶer", "transliteration": "VAYOMER", "translation": "e disse:" },
+                                        { "word": "מַה- זֹּאת", "transliteration": "MAH-ZOT", "translation": "Que [é] isto [que]" },
+                                        { "word": "עָשִׂיתָ", "transliteration": "ÅSYTÅ", "translation": "fizeste" },
+                                        { "word": "לִּי", "transliteration": "LY", "translation": "a mim?" },
+                                        { "word": "לָמָּה", "transliteration": "LÅMÅH", "translation": "Por que" },
+                                        { "word": "לֹא- הִגַּדְתָּ", "transliteration": "LO-HIGADËTÅ", "translation": "não me declaraste / não me disseste" },
+                                        { "word": "לִּי", "transliteration": "LY", "translation": "a mim" },
+                                        { "word": "כִּי", "transliteration": "KY", "translation": "que" },
+                                        { "word": "אִשְׁתְּךָ", "transliteration": "ISHËTËKHA", "translation": "[ela era] tua mulher?" },
+                                        { "word": "הִוא:", "transliteration": "HIV:", "translation": "ela." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Por esse motivo,certo dia Faraó ordena que Abrão seja trazido à sua presença e indaga-lhe: \"Que é isto que me fizeste? Porque não me declaraste que ela era tua mulher?",
+                                            "text_hebrew": [
+                                                { "word": "וַיִּקְרָא", "transliteration": "VAYQËRÅ", "translation": "E chamou" },
+                                                { "word": "פַרְעֹה", "transliteration": "FARËOH", "translation": "Faraó" },
+                                                { "word": "לְאַבְרָם", "transliteration": "LËAVËRÅM", "translation": "a Abrão" },
+                                                { "word": "וַיֹּאמֶer", "transliteration": "VAYOMER", "translation": "e disse:" },
+                                                { "word": "מַה- זֹּאת", "transliteration": "MAH-ZOT", "translation": "Que [é] isto [que]" },
+                                                { "word": "עָשִׂיתָ", "transliteration": "ÅSYTÅ", "translation": "fizeste" },
+                                                { "word": "לִּי", "transliteration": "LY", "translation": "a mim?" },
+                                                { "word": "לָמָּה", "transliteration": "LÅMÅH", "translation": "Por que" },
+                                                { "word": "לֹא- הִגַּדְתָּ", "transliteration": "LO-HIGADËTÅ", "translation": "não me declaraste / não me disseste" },
+                                                { "word": "לִּי", "transliteration": "LY", "translation": "a mim" },
+                                                { "word": "כִּי", "transliteration": "KY", "translation": "que" },
+                                                { "word": "אִשְׁתְּךָ", "transliteration": "ISHËTËKHA", "translation": "[ela era] tua mulher?" },
+                                                { "word": "הִוא:", "transliteration": "HIV:", "translation": "ela." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.12.19", 
+                                    "number": 19,
+                                    "text": "Por que alegaste: 'Ela é minha irmã!', de modo que eu a tomasse como minha mulher? Agora, portanto, eis a tua mulher de volta: toma-te e vai-te!\"",
+                                    "text_hebrew": [
+                                        { "word": "לָמָה", "transliteration": "LÅMÅH", "translation": "Por que" },
+                                        { "word": "אָמַרְתָּ", "transliteration": "ÅMARËTÅ", "translation": "disseste:" },
+                                        { "word": "אֲחֹתִי", "transliteration": "ACHOTY", "translation": "'[Ela é] minha irmã'," },
+                                        { "word": "הִוא", "transliteration": "HIV", "translation": "ela?" },
+                                        { "word": "וָאֶקַּח", "transliteration": "VÅEQACH", "translation": "De modo que a tomei / e eu a levei" },
+                                        { "word": "אֹתָהּ", "transliteration": "OTÅH", "translation": "a ela" },
+                                        { "word": "לִי", "transliteration": "LY", "translation": "para mim" },
+                                        { "word": "לְאִשָּׁה", "transliteration": "LËISHÅH", "translation": "por mulher." },
+                                        { "word": "וְעַתָּה", "transliteration": "VËATÅH", "translation": "E agora," },
+                                        { "word": "הִנֵּה", "transliteration": "HINEH", "translation": "eis aqui" },
+                                        { "word": "אִשְׁתְּךָ", "transliteration": "ISHËTËKHA", "translation": "tua mulher;" },
+                                        { "word": "קַח", "transliteration": "QACH", "translation": "toma-[a]" },
+                                        { "word": "וָלֵךְ:", "transliteration": "VÅLEKH:", "translation": "e vai-te / retira-te." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Por que alegaste: 'Ela é minha irmã!', de modo que eu a tomasse como minha mulher? Agora, portanto, eis a tua mulher de volta: toma-te e vai-te!\"",
+                                            "text_hebrew": [
+                                                { "word": "לָמָה", "transliteration": "LÅMÅH", "translation": "Por que" },
+                                                { "word": "אָמַרְתָּ", "transliteration": "ÅMARËTÅ", "translation": "disseste:" },
+                                                { "word": "אֲחֹתִי", "transliteration": "ACHOTY", "translation": "'[Ela é] minha irmã'," },
+                                                { "word": "הִוא", "transliteration": "HIV", "translation": "ela?" },
+                                                { "word": "וָאֶקַּח", "transliteration": "VÅEQACH", "translation": "De modo que a tomei / e eu a levei" },
+                                                { "word": "אֹתָהּ", "transliteration": "OTÅH", "translation": "a ela" },
+                                                { "word": "לִי", "transliteration": "LY", "translation": "para mim" },
+                                                { "word": "לְאִשָּׁה", "transliteration": "LËISHÅH", "translation": "por mulher." },
+                                                { "word": "וְעַתָּה", "transliteration": "VËATÅH", "translation": "E agora," },
+                                                { "word": "הִנֵּה", "transliteration": "HINEH", "translation": "eis aqui" },
+                                                { "word": "אִשְׁתְּךָ", "transliteration": "ISHËTËKHA", "translation": "tua mulher;" },
+                                                { "word": "קַח", "transliteration": "QACH", "translation": "toma-[a]" },
+                                                { "word": "וָלֵךְ:", "transliteration": "VÅLEKH:", "translation": "e vai-te / retira-te." }
+                                            ],
+                                            "color": "default",
+                                            "emphasis": false
+                                        }
+                                    ],
+                                    "notes_id": null,
+                                    "notes": null,
+                                    "cross-reference": []
+                                },
+                                {
+                                    "id": "gn.12.20", 
+                                    "number": 20,
+                                    "text": "Em seguida, Faraó deu ordens expressas para que todo o necessário fosse providenciado a fim de que Abrão deixasse imediatamente o Egito, levando consigo sua mulher e tudo o que possuía.",
+                                    "text_hebrew": [
+                                        { "word": "וַיְצַו", "transliteration": "VAYËTSAV", "translation": "E deu ordens / ordenou" },
+                                        { "word": "עָלָיו", "transliteration": "ÅLÅYV", "translation": "a respeito dele" },
+                                        { "word": "פַּרְעֹה", "transliteration": "PARËOH", "translation": "Faraó" },
+                                        { "word": "אֲנָשִׁים", "transliteration": "ANÅSHYM", "translation": "a [seus] homens / guardas;" },
+                                        { "word": "וַיְשַׁלְּחוּ", "transliteration": "VAYËSHALËCHU", "translation": "e eles o despediram / escoltaram para fora" },
+                                        { "word": "אֹתוֹ", "transliteration": "OTO", "translation": "a ele," },
+                                        { "word": "וְאֶת- אִשְׁתּוֹ", "transliteration": "VËET-ISHËTO", "translation": "e à sua mulher," },
+                                        { "word": "וְאֶת- כָּל- אֲשֶׁר- לוֹ:", "transliteration": "VËET-KÅL-ASHER-LO:", "translation": "e com tudo o que ele tinha / pertencia a ele." }
+                                    ],
+                                    "speeches": [
+                                        {
+                                            "character": "Comum",
+                                            "text": "Em seguida, Faraó deu ordens expressas para que todo o necessário fosse providenciado a fim de que Abrão deixasse imediatamente o Egito, levando consigo sua mulher e tudo o que possuía.",
+                                            "text_hebrew": [
+                                                { "word": "וַיְצַו", "transliteration": "VAYËTSAV", "translation": "E deu ordens / ordenou" },
+                                                { "word": "עָלָיו", "transliteration": "ÅLÅYV", "translation": "a respeito dele" },
+                                                { "word": "פַּרְעֹה", "transliteration": "PARËOH", "translation": "Faraó" },
+                                                { "word": "אֲנָשִׁים", "transliteration": "ANÅSHYM", "translation": "a [seus] homens / guardas;" },
+                                                { "word": "וַיְשַׁלְּחוּ", "transliteration": "VAYËSHALËCHU", "translation": "e eles o despediram / escoltaram para fora" },
+                                                { "word": "אֹתוֹ", "transliteration": "OTO", "translation": "a ele," },
+                                                { "word": "וְאֶת- אִשְׁתּוֹ", "transliteration": "VËET-ISHËTO", "translation": "e à sua mulher," },
+                                                { "word": "וְאֶת- כָּל- אֲשֶׁר- לוֹ:", "transliteration": "VËET-KÅL-ASHER-LO:", "translation": "e com tudo o que ele tinha / pertencia a ele." }
+                                            ],
                                             "color": "default",
                                             "emphasis": false
                                         }
